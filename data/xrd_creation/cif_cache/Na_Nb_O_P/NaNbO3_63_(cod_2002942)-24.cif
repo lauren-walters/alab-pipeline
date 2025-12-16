@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_2002942
+loop_
+ _publ_author_name
+  'Darlington, C. N. W.'
+  'Knight, K. S.'
+_publ_section_title
+'High-temperature phases of NaNbO~3~ and NaTaO~3~'
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   24
+_journal_page_last   30
+_journal_paper_doi   10.1107/S010876819800963X
+_journal_volume   55
+_journal_year   1999
+_chemical_formula_moiety   'Na1 Nb1 O3'
+_chemical_formula_sum   'Na Nb O3'
+_space_group_crystal_system   orthorhombic
+_space_group_IT_number   63
+_space_group_name_Hall   '-C 2c 2'
+_space_group_name_H-M_alt   'C m c m'
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   8
+_cell_length_a   7.85758(3)
+_cell_length_b   7.86793(3)
+_cell_length_c   7.8765(3)
+_cell_measurement_temperature   813
+_cell_volume   486.948(19)
+_diffrn_radiation_probe   neutron
+_diffrn_radiation_type   neutron
+_cod_data_source_file   bm0015.cif
+_cod_data_source_block   Nb813
+_cod_depositor_comments
+;
+Changing the space group from 'P 2c 2' to '-C 2c 2' after consulting
+the original publication. All related space group information was
+changed  accordingly.  Antanas Vaitkus,  2017-07-04
+;
+_cod_original_formula_sum   'Na1 Nb1 O3'
+_cod_database_code   2002942
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x,-y,-z
+  4  -x,y,-z+1/2
+  5  -x,-y,-z
+  6  x,y,-z+1/2
+  7  -x,y,z
+  8  x,-y,z+1/2
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y+1/2,z+1/2
+  11  x+1/2,-y+1/2,-z
+  12  -x+1/2,y+1/2,-z+1/2
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y+1/2,-z+1/2
+  15  -x+1/2,y+1/2,z
+  16  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Nb  .25  .25  .0
+  Na1  .0  .0022(14)  .25
+  Na2  .0  .5026(14)  .25
+  O1  .2230(4)  .0  .0
+  O2  .0  .2741(4)  .0203(3)
+  O3  .2710(3)  .2489(7)  .25

@@ -1,0 +1,466 @@
+# generated using pymatgen
+data_4333614
+loop_
+ _publ_author_name
+  'Anton O. Oliynyk'
+  'Yaroslava F. Lomnytska'
+  'Mariya V. Dzevenko'
+  'Stanislav S. Stoyko'
+  'Arthur Mar'
+_publ_contact_author_address
+;
+Department of Chemistry   University of Alberta   Edmonton, AB
+Canada  T6G 2G2
+;
+_publ_contact_author_email   arthur.mar@ualberta.ca
+_publ_contact_author_fax   '(780) 492-8231'
+_publ_contact_author_name   'Dr. Arthur Mar'
+_publ_contact_author_phone   '(780) 492-5592'
+_publ_section_title
+;
+Phase Equilibria in the Mo-Fe-P System at 800 \% C and Structure of
+Ternary Phosphide (Mo1-xFex)3P (0.10 <=x<= 0.15)
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   983
+_journal_page_last   991
+_journal_paper_doi   10.1021/ic302243p
+_journal_volume   52
+_journal_year   2013
+_chemical_formula_structural   'Mo3 P'
+_chemical_formula_sum   'Mo3 P'
+_chemical_formula_weight   318.79
+_chemical_name_common   'molybdenum phosphide (1/3)'
+_chemical_name_systematic   'molybdenum phosphide (1/3)'
+_space_group_IT_number   121
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   'I -4 2'
+_symmetry_space_group_name_H-M   'I -4 2 m'
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   8
+_cell_length_a   9.7925(11)
+_cell_length_b   9.7925(11)
+_cell_length_c   4.8246(6)
+_cell_measurement_reflns_used   2580
+_cell_measurement_temperature   173(2)
+_cell_measurement_theta_max   33.13
+_cell_measurement_theta_min   5.89
+_cell_volume   462.65(9)
+_computing_cell_refinement   'Bruker SAINT 7.06A (Bruker, 2004)'
+_computing_data_collection   'Bruker SMART 5.054 (Bruker, 1999)'
+_computing_data_reduction   'Bruker SAINT 7.06A'
+_computing_molecular_graphics   'ATOMS 5.1 (Dowty, 1999)'
+_computing_publication_material   'Bruker SHELXTL 6.12'
+_computing_structure_refinement   'Bruker SHELXTL 6.12'
+_computing_structure_solution   'Bruker SHELXTL 6.12'
+_diffrn_ambient_temperature   173(2)
+_diffrn_measured_fraction_theta_full   1.000
+_diffrn_measured_fraction_theta_max   1.000
+_diffrn_measurement_device_type   'Bruker D8/SMART APEX II CCD'
+_diffrn_measurement_method   '\w scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0262
+_diffrn_reflns_av_sigmaI/netI   0.0146
+_diffrn_reflns_limit_h_max   14
+_diffrn_reflns_limit_h_min   -14
+_diffrn_reflns_limit_k_max   15
+_diffrn_reflns_limit_k_min   -14
+_diffrn_reflns_limit_l_max   7
+_diffrn_reflns_limit_l_min   -7
+_diffrn_reflns_number   3388
+_diffrn_reflns_theta_full   33.13
+_diffrn_reflns_theta_max   33.13
+_diffrn_reflns_theta_min   2.94
+_diffrn_standards_number   0
+_exptl_absorpt_coefficient_mu   16.272
+_exptl_absorpt_correction_T_max   0.7717
+_exptl_absorpt_correction_T_min   0.6320
+_exptl_absorpt_correction_type   numerical
+_exptl_absorpt_process_details
+'Bruker SHELXTL 6.12 (Sheldrick, 2001)'
+_exptl_crystal_colour   black
+_exptl_crystal_density_diffrn   9.154
+_exptl_crystal_description   prism
+_exptl_crystal_F_000   1128
+_exptl_crystal_size_max   0.06
+_exptl_crystal_size_mid   0.04
+_exptl_crystal_size_min   0.03
+_refine_diff_density_max   0.893
+_refine_diff_density_min   -0.759
+_refine_diff_density_rms   0.227
+_refine_ls_abs_structure_details
+'Flack H D (1983), Acta Cryst. A39, 876-881'
+_refine_ls_abs_structure_Flack   -0.1(2)
+_refine_ls_extinction_coef   0.00095(10)
+_refine_ls_extinction_expression
+Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method   SHELXL
+_refine_ls_goodness_of_fit_ref   1.133
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   24
+_refine_ls_number_reflns   476
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.133
+_refine_ls_R_factor_all   0.0158
+_refine_ls_R_factor_gt   0.0149
+_refine_ls_shift/su_max   0.001
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0126P)^2^+3.2339P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.0308
+_refine_ls_wR_factor_ref   0.0312
+_reflns_number_gt   461
+_reflns_number_total   476
+_reflns_threshold_expression   I>2\s(I)
+_cod_data_source_file   ic302243p_si_002_2.cif
+_cod_data_source_block   Mo3P-lt
+_cod_database_code   4333614
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, -y, z'
+  'y, -x, -z'
+  '-y, x, -z'
+  '-x, y, -z'
+  'x, -y, -z'
+  '-y, -x, z'
+  'y, x, z'
+  'x+1/2, y+1/2, z+1/2'
+  '-x+1/2, -y+1/2, z+1/2'
+  'y+1/2, -x+1/2, -z+1/2'
+  '-y+1/2, x+1/2, -z+1/2'
+  '-x+1/2, y+1/2, -z+1/2'
+  'x+1/2, -y+1/2, -z+1/2'
+  '-y+1/2, -x+1/2, z+1/2'
+  'y+1/2, x+1/2, z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+  Mo1  Mo  0.09256(3)  0.09256(3)  0.26622(10)  0.00317(10)  Uani  1
+  2  d  S
+  Mo2  Mo  0.29874(3)  0.29874(3)  0.26637(10)  0.00323(10)  Uani  1
+  2  d  S
+  Mo3  Mo  0.35500(4)  0.0000  0.5000  0.00292(10)  Uani  1  2  d  S
+  P  P  0.29134(13)  0.0000  0.0000  0.0035(2)  Uani  1  2  d  S
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Mo1  0.00304(12)  0.00304(12)  0.00344(19)  0.00001(12)
+  0.00001(12)  0.00001(13)
+  Mo2  0.00342(12)  0.00342(12)  0.00286(18)  -0.00023(11)
+  -0.00023(11)  0.00007(14)
+  Mo3  0.00296(18)  0.00324(18)  0.00255(17)  -0.00014(19)  0.000
+  0.000
+  P  0.0023(5)  0.0049(5)  0.0031(5)  -0.0004(6)  0.000  0.000
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Mo  Mo  -1.6832  0.6857
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+  P  Mo1  P  107.46(2)  4  .
+  P  Mo1  Mo1  107.096(17)  4  2
+  P  Mo1  Mo1  107.096(17)  .  2
+  P  Mo1  Mo2  53.763(10)  4  10_554
+  P  Mo1  Mo2  53.763(10)  .  10_554
+  Mo1  Mo1  Mo2  121.974(13)  2  10_554
+  P  Mo1  Mo2  106.26(2)  4  10
+  P  Mo1  Mo2  106.26(2)  .  10
+  Mo1  Mo1  Mo2  121.958(14)  2  10
+  Mo2  Mo1  Mo2  116.07(2)  10_554  10
+  P  Mo1  Mo2  72.911(18)  4  .
+  P  Mo1  Mo2  72.911(18)  .  .
+  Mo1  Mo1  Mo2  179.986(16)  2  .
+  Mo2  Mo1  Mo2  58.041(13)  10_554  .
+  Mo2  Mo1  Mo2  58.027(13)  10  .
+  P  Mo1  Mo1  99.976(12)  4  4_556
+  P  Mo1  Mo1  152.559(16)  .  4_556
+  Mo1  Mo1  Mo1  63.709(10)  2  4_556
+  Mo2  Mo1  Mo1  153.610(8)  10_554  4_556
+  Mo2  Mo1  Mo1  64.729(19)  10  4_556
+  Mo2  Mo1  Mo1  116.279(19)  .  4_556
+  P  Mo1  Mo1  152.559(16)  4  3_556
+  P  Mo1  Mo1  99.976(12)  .  3_556
+  Mo1  Mo1  Mo1  63.709(10)  2  3_556
+  Mo2  Mo1  Mo1  153.610(8)  10_554  3_556
+  Mo2  Mo1  Mo1  64.729(19)  10  3_556
+  Mo2  Mo1  Mo1  116.279(19)  .  3_556
+  Mo1  Mo1  Mo1  52.583(19)  4_556  3_556
+  P  Mo1  Mo3  53.634(17)  4  4_556
+  P  Mo1  Mo3  138.68(2)  .  4_556
+  Mo1  Mo1  Mo3  113.507(8)  2  4_556
+  Mo2  Mo1  Mo3  96.500(13)  10_554  4_556
+  Mo2  Mo1  Mo3  57.617(8)  10  4_556
+  Mo2  Mo1  Mo3  66.487(9)  .  4_556
+  Mo1  Mo1  Mo3  60.620(10)  4_556  4_556
+  Mo1  Mo1  Mo3  104.34(2)  3_556  4_556
+  P  Mo1  Mo3  138.68(2)  4  .
+  P  Mo1  Mo3  53.634(17)  .  .
+  Mo1  Mo1  Mo3  113.507(8)  2  .
+  Mo2  Mo1  Mo3  96.500(13)  10_554  .
+  Mo2  Mo1  Mo3  57.617(8)  10  .
+  Mo2  Mo1  Mo3  66.487(9)  .  .
+  Mo1  Mo1  Mo3  104.34(2)  4_556  .
+  Mo1  Mo1  Mo3  60.620(10)  3_556  .
+  Mo3  Mo1  Mo3  112.913(15)  4_556  .
+  P  Mo1  Mo2  50.568(9)  4  11_455
+  P  Mo1  Mo2  145.89(3)  .  11_455
+  Mo1  Mo1  Mo2  65.337(8)  2  11_455
+  Mo2  Mo1  Mo2  100.226(12)  10_554  11_455
+  Mo2  Mo1  Mo2  105.326(11)  10  11_455
+  Mo2  Mo1  Mo2  114.664(8)  .  11_455
+  Mo1  Mo1  Mo2  56.852(14)  4_556  11_455
+  Mo1  Mo1  Mo2  104.891(13)  3_556  11_455
+  Mo3  Mo1  Mo2  55.234(6)  4_556  11_455
+  Mo3  Mo1  Mo2  160.43(2)  .  11_455
+  P  Mo1  Mo2  145.89(3)  4  12_545
+  P  Mo1  Mo2  50.568(9)  .  12_545
+  Mo1  Mo1  Mo2  65.337(8)  2  12_545
+  Mo2  Mo1  Mo2  100.226(12)  10_554  12_545
+  Mo2  Mo1  Mo2  105.326(11)  10  12_545
+  Mo2  Mo1  Mo2  114.664(8)  .  12_545
+  Mo1  Mo1  Mo2  104.891(13)  4_556  12_545
+  Mo1  Mo1  Mo2  56.852(14)  3_556  12_545
+  Mo3  Mo1  Mo2  160.43(2)  4_556  12_545
+  Mo3  Mo1  Mo2  55.234(6)  .  12_545
+  Mo2  Mo1  Mo2  130.280(16)  11_455  12_545
+  P  Mo2  P  111.84(5)  11  10
+  P  Mo2  Mo2  123.93(2)  11  10_554
+  P  Mo2  Mo2  123.93(2)  10  10_554
+  P  Mo2  Mo2  75.554(14)  11  10
+  P  Mo2  Mo2  75.554(13)  10  10
+  Mo2  Mo2  Mo2  121.53(3)  10_554  10
+  P  Mo2  Mo3  56.414(15)  11  11
+  P  Mo2  Mo3  154.76(3)  10  11
+  Mo2  Mo2  Mo3  69.881(9)  10_554  11
+  Mo2  Mo2  Mo3  117.324(12)  10  11
+  P  Mo2  Mo3  154.76(3)  11  10_554
+  P  Mo2  Mo3  56.414(14)  10  10_554
+  Mo2  Mo2  Mo3  69.881(9)  10_554  10_554
+  Mo2  Mo2  Mo3  117.324(12)  10  10_554
+  Mo3  Mo2  Mo3  123.29(2)  11  10_554
+  P  Mo2  Mo1  55.95(2)  11  10
+  P  Mo2  Mo1  55.95(2)  10  10
+  Mo2  Mo2  Mo1  177.26(3)  10_554  10
+  Mo2  Mo2  Mo1  61.207(15)  10  10
+  Mo3  Mo2  Mo1  109.142(11)  11  10
+  Mo3  Mo2  Mo1  109.142(11)  10_554  10
+  P  Mo2  Mo1  103.023(17)  11  10_554
+  P  Mo2  Mo1  103.023(17)  10  10_554
+  Mo2  Mo2  Mo1  61.191(16)  10_554  10_554
+  Mo2  Mo2  Mo1  177.28(3)  10  10_554
+  Mo3  Mo2  Mo1  63.082(11)  11  10_554
+  Mo3  Mo2  Mo1  63.082(11)  10_554  10_554
+  Mo1  Mo2  Mo1  116.07(2)  10  10_554
+  P  Mo2  Mo1  108.43(3)  11  .
+  P  Mo2  Mo1  108.43(3)  10  .
+  Mo2  Mo2  Mo1  60.75(2)  10_554  .
+  Mo2  Mo2  Mo1  60.78(2)  10  .
+  Mo3  Mo2  Mo1  96.759(12)  11  .
+  Mo3  Mo2  Mo1  96.759(12)  10_554  .
+  Mo1  Mo2  Mo1  121.99(2)  10  .
+  Mo1  Mo2  Mo1  121.94(2)  10_554  .
+  P  Mo2  Mo1  52.51(2)  11  11
+  P  Mo2  Mo1  94.73(3)  10  11
+  Mo2  Mo2  Mo1  113.480(19)  10_554  11
+  Mo2  Mo2  Mo1  119.196(18)  10  11
+  Mo3  Mo2  Mo1  60.155(11)  11  11
+  Mo3  Mo2  Mo1  103.696(17)  10_554  11
+  Mo1  Mo2  Mo1  64.086(18)  10  11
+  Mo1  Mo2  Mo1  58.420(18)  10_554  11
+  Mo1  Mo2  Mo1  155.138(8)  .  11
+  P  Mo2  Mo1  94.73(3)  11  12
+  P  Mo2  Mo1  52.51(2)  10  12
+  Mo2  Mo2  Mo1  113.480(19)  10_554  12
+  Mo2  Mo2  Mo1  119.196(18)  10  12
+  Mo3  Mo2  Mo1  103.696(17)  11  12
+  Mo3  Mo2  Mo1  60.155(11)  10_554  12
+  Mo1  Mo2  Mo1  64.086(18)  10  12
+  Mo1  Mo2  Mo1  58.420(18)  10_554  12
+  Mo1  Mo2  Mo1  155.138(8)  .  12
+  Mo1  Mo2  Mo1  49.325(16)  11  12
+  P  Mo2  Mo3  129.97(2)  11  4_556
+  P  Mo2  Mo3  50.45(3)  10  4_556
+  Mo2  Mo2  Mo3  92.946(17)  10_554  4_556
+  Mo2  Mo2  Mo3  55.485(11)  10  4_556
+  Mo3  Mo2  Mo3  154.776(16)  11  4_556
+  Mo3  Mo2  Mo3  62.966(13)  10_554  4_556
+  Mo1  Mo2  Mo3  88.793(14)  10  4_556
+  Mo1  Mo2  Mo3  125.425(10)  10_554  4_556
+  Mo1  Mo2  Mo3  58.169(11)  .  4_556
+  Mo1  Mo2  Mo3  144.983(16)  11  4_556
+  Mo1  Mo2  Mo3  100.050(12)  12  4_556
+  P  Mo3  P  110.41(3)  11  12_545
+  P  Mo3  P  98.208(12)  11  .
+  P  Mo3  P  98.208(12)  12_545  .
+  P  Mo3  P  98.208(12)  11  1_556
+  P  Mo3  P  98.208(12)  12_545  1_556
+  P  Mo3  P  151.02(6)  .  1_556
+  P  Mo3  Mo2  152.495(10)  11  12_545
+  P  Mo3  Mo2  74.227(17)  12_545  12_545
+  P  Mo3  Mo2  54.528(17)  .  12_545
+  P  Mo3  Mo2  108.10(2)  1_556  12_545
+  P  Mo3  Mo2  74.227(17)  11  10
+  P  Mo3  Mo2  152.495(10)  12_545  10
+  P  Mo3  Mo2  108.10(2)  .  10
+  P  Mo3  Mo2  54.528(17)  1_556  10
+  Mo2  Mo3  Mo2  114.77(2)  12_545  10
+  P  Mo3  Mo3  55.203(17)  11  2_655
+  P  Mo3  Mo3  55.203(17)  12_545  2_655
+  P  Mo3  Mo3  104.49(3)  .  2_655
+  P  Mo3  Mo3  104.49(3)  1_556  2_655
+  Mo2  Mo3  Mo3  122.614(11)  12_545  2_655
+  Mo2  Mo3  Mo3  122.614(11)  10  2_655
+  P  Mo3  Mo1  104.177(17)  11  .
+  P  Mo3  Mo1  138.559(16)  12_545  .
+  P  Mo3  Mo1  53.97(3)  .  .
+  P  Mo3  Mo1  98.76(3)  1_556  .
+  Mo2  Mo3  Mo1  64.611(13)  12_545  .
+  Mo2  Mo3  Mo1  59.301(15)  10  .
+  Mo3  Mo3  Mo1  150.620(10)  2_655  .
+  P  Mo3  Mo1  138.559(16)  11  3_556
+  P  Mo3  Mo1  104.177(17)  12_545  3_556
+  P  Mo3  Mo1  98.76(3)  .  3_556
+  P  Mo3  Mo1  53.97(3)  1_556  3_556
+  Mo2  Mo3  Mo1  59.301(15)  12_545  3_556
+  Mo2  Mo3  Mo1  64.611(13)  10  3_556
+  Mo3  Mo3  Mo1  150.620(10)  2_655  3_556
+  Mo1  Mo3  Mo1  58.76(2)  .  3_556
+  P  Mo3  Mo3  50.974(10)  11  11_556
+  P  Mo3  Mo3  96.507(11)  12_545  11_556
+  P  Mo3  Mo3  149.014(17)  .  11_556
+  P  Mo3  Mo3  50.88(2)  1_556  11_556
+  Mo2  Mo3  Mo3  156.438(13)  12_545  11_556
+  Mo2  Mo3  Mo3  64.597(11)  10  11_556
+  Mo3  Mo3  Mo3  63.102(6)  2_655  11_556
+  Mo1  Mo3  Mo3  123.305(8)  .  11_556
+  Mo1  Mo3  Mo3  103.847(12)  3_556  11_556
+  P  Mo3  Mo3  96.507(11)  11  12_546
+  P  Mo3  Mo3  50.974(10)  12_545  12_546
+  P  Mo3  Mo3  149.014(17)  .  12_546
+  P  Mo3  Mo3  50.88(2)  1_556  12_546
+  Mo2  Mo3  Mo3  106.155(11)  12_545  12_546
+  Mo2  Mo3  Mo3  102.088(13)  10  12_546
+  Mo3  Mo3  Mo3  63.102(6)  2_655  12_546
+  Mo1  Mo3  Mo3  145.807(13)  .  12_546
+  Mo1  Mo3  Mo3  87.780(11)  3_556  12_546
+  Mo3  Mo3  Mo3  53.795(12)  11_556  12_546
+  P  Mo3  Mo3  96.507(11)  11  12_545
+  P  Mo3  Mo3  50.974(10)  12_545  12_545
+  P  Mo3  Mo3  50.88(2)  .  12_545
+  P  Mo3  Mo3  149.014(17)  1_556  12_545
+  Mo2  Mo3  Mo3  64.597(10)  12_545  12_545
+  Mo2  Mo3  Mo3  156.438(13)  10  12_545
+  Mo3  Mo3  Mo3  63.103(6)  2_655  12_545
+  Mo1  Mo3  Mo3  103.847(12)  .  12_545
+  Mo1  Mo3  Mo3  123.305(8)  3_556  12_545
+  Mo3  Mo3  Mo3  126.205(11)  11_556  12_545
+  Mo3  Mo3  Mo3  100.448(19)  12_546  12_545
+  Mo2  P  Mo2  137.53(6)  12_545  10_554
+  Mo2  P  Mo3  139.39(4)  12_545  11
+  Mo2  P  Mo3  80.541(17)  10_554  11
+  Mo2  P  Mo3  80.541(17)  12_545  12_545
+  Mo2  P  Mo3  139.39(4)  10_554  12_545
+  Mo3  P  Mo3  69.59(3)  11  12_545
+  Mo2  P  Mo3  69.057(12)  12_545  .
+  Mo2  P  Mo3  122.592(13)  10_554  .
+  Mo3  P  Mo3  78.14(3)  11  .
+  Mo3  P  Mo3  78.14(3)  12_545  .
+  Mo2  P  Mo3  122.592(13)  12_545  1_554
+  Mo2  P  Mo3  69.057(12)  10_554  1_554
+  Mo3  P  Mo3  78.14(3)  11  1_554
+  Mo3  P  Mo3  78.14(3)  12_545  1_554
+  Mo3  P  Mo3  151.02(6)  .  1_554
+  Mo2  P  Mo1  70.29(3)  12_545  3
+  Mo2  P  Mo1  76.93(3)  10_554  3
+  Mo3  P  Mo1  147.735(11)  11  3
+  Mo3  P  Mo1  115.604(11)  12_545  3
+  Mo3  P  Mo1  133.76(4)  .  3
+  Mo3  P  Mo1  72.399(17)  1_554  3
+  Mo2  P  Mo1  76.93(3)  12_545  .
+  Mo2  P  Mo1  70.29(3)  10_554  .
+  Mo3  P  Mo1  115.604(11)  11  .
+  Mo3  P  Mo1  147.735(11)  12_545  .
+  Mo3  P  Mo1  72.399(17)  .  .
+  Mo3  P  Mo1  133.76(4)  1_554  .
+  Mo1  P  Mo1  77.85(4)  3  .
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  Mo1  P  2.5021(10)  4
+  Mo1  P  2.5021(10)  .
+  Mo1  Mo1  2.5636(9)  2
+  Mo1  Mo2  2.8429(7)  10_554
+  Mo1  Mo2  2.8441(7)  10
+  Mo1  Mo2  2.8554(7)  .
+  Mo1  Mo1  2.8938(9)  4_556
+  Mo1  Mo1  2.8938(9)  3_556
+  Mo1  Mo3  2.9493(5)  4_556
+  Mo1  Mo3  2.9493(5)  .
+  Mo1  Mo2  3.0718(5)  11_455
+  Mo1  Mo2  3.0718(5)  12_545
+  Mo2  P  2.4357(6)  11
+  Mo2  P  2.4357(6)  10
+  Mo2  Mo2  2.7644(5)  10_554
+  Mo2  Mo2  2.7644(5)  10
+  Mo2  Mo3  2.7932(4)  11
+  Mo2  Mo3  2.7932(4)  10_554
+  Mo2  Mo1  2.8429(7)  10
+  Mo2  Mo1  2.8441(7)  10_554
+  Mo2  Mo1  3.0718(5)  11
+  Mo2  Mo1  3.0718(6)  12
+  Mo2  Mo3  3.1831(4)  4_556
+  Mo3  P  2.4882(11)  11
+  Mo3  P  2.4882(11)  12_545
+  Mo3  P  2.4915(4)  .
+  Mo3  P  2.4915(4)  1_556
+  Mo3  Mo2  2.7932(4)  12_545
+  Mo3  Mo2  2.7932(4)  10
+  Mo3  Mo3  2.8399(9)  2_655
+  Mo3  Mo1  2.9493(5)  3_556
+  Mo3  Mo3  3.1388(5)  11_556
+  Mo3  Mo3  3.1388(5)  12_546
+  Mo3  Mo3  3.1388(5)  12_545
+  P  Mo2  2.4357(6)  12_545
+  P  Mo2  2.4357(6)  10_554
+  P  Mo3  2.4882(11)  11
+  P  Mo3  2.4882(11)  12_545
+  P  Mo3  2.4915(4)  1_554
+  P  Mo1  2.5021(10)  3

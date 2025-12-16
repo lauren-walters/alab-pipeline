@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_9007527
+loop_
+ _publ_author_name
+  'Tillmanns, E.'
+  'Baur, W. H.'
+_publ_section_title
+;
+On the crystal chemistry of salt hydrates. VII. The crystal structures
+of  pseudo trisodium orthoarsenate dodecahydrate and the isomorphous
+phosphate  and vanadate salts
+;
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   2124
+_journal_page_last   2132
+_journal_paper_doi   10.1107/S0567740871005454
+_journal_volume   27
+_journal_year   1971
+_chemical_formula_structural   Na3PO4(NaOH).167*12H2O
+_chemical_formula_sum   'H15.479 Na6.335 O32.335 P2'
+_space_group_IT_number   165
+_symmetry_space_group_name_Hall   '-P 3 2"c'
+_symmetry_space_group_name_H-M   'P -3 c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   2
+_cell_length_a   11.890
+_cell_length_b   11.890
+_cell_length_c   12.671
+_cell_volume   1551.334
+_database_code_amcsd   0009400
+_exptl_crystal_density_diffrn   1.585
+_cod_original_cell_volume   1551.333
+_cod_original_formula_sum   'Na6.335 O32.335 P2 H15.479'
+_cod_database_code   9007527
+_amcsd_formula_title   Na3PO4(NaOH).167*12H2O
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -y,-x,1/2+z
+  y,-x+y,-z
+  -x,-x+y,1/2-z
+  -x+y,-x,z
+  -x+y,y,1/2+z
+  -x,-y,-z
+  y,x,1/2-z
+  -y,x-y,z
+  x,x-y,1/2+z
+  x-y,x,-z
+  x-y,-y,1/2-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Na1  0.04936  0.03669  0.03668  0.01773  0.00886  0.00251
+  NaA  0.03035  0.03035  0.05824  0.01515  0.00000  0.00000
+  O-HA  0.03035  0.03035  0.05824  0.01515  0.00000  0.00000
+  P  0.01896  0.01896  0.01513  0.01010  0.00000  0.00000
+  O1  0.03921  0.03921  0.02277  0.01896  0.00000  0.00000
+  O2  0.02530  0.02782  0.02782  0.01515  -0.00251  -0.00126
+  Wat3  0.03164  0.03035  0.03668  0.01515  -0.00251  -0.00377
+  Wat4  0.03293  0.04179  0.02660  0.01644  -0.00126  -0.00251
+  Wat5  0.03669  0.03798  0.04051  0.01644  0.00760  0.00000
+  Wat6  0.05570  0.07472  0.10257  0.02659  -0.01771  -0.00502
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Na1  0.34550  -0.01990  0.02590  1.00000  Na  0
+  NaA  0.00000  0.00000  0.00000  0.33500  Na  0
+  O-HA  0.00000  0.00000  0.00000  0.33500  O  0
+  P  0.33333  0.66667  0.71610  1.00000  P  0
+  O1  0.33333  0.66667  0.59670  1.00000  O  0
+  O2  0.46120  0.68100  0.75660  1.00000  O  0
+  Wat3  0.46000  0.21450  0.03920  1.00000  O  2
+  Wat4  -0.00660  0.52510  0.37550  1.00000  O  2
+  Wat5  0.10830  0.32200  0.18690  1.00000  O  2
+  Wat6  0.02090  0.18730  0.90330  1.00000  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-18T11:39:46+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:21:06+03:00
+  "Changed the following '_atom_site_aniso_label' values: 'OHA' -> 'O-HA'"
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009400

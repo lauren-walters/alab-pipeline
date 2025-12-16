@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_1531377
+loop_
+ _publ_author_name
+  'Gout, D.'
+  'Miller, G.J.'
+  'Benbow, E.'
+_publ_section_title
+;
+Structure and bonding consequences in the pseudo-binary system Ln5
+Si3-x  Mx (Ln = La, Ce or Nd; M = Ni or Co)
+;
+_journal_name_full   'Journal of Alloys Compd.'
+_journal_page_first   153
+_journal_page_last   164
+_journal_volume   338
+_journal_year   2002
+_chemical_formula_sum   'La5 Si3'
+_space_group_IT_number   140
+_symmetry_space_group_name_Hall   '-I 4 2c'
+_symmetry_space_group_name_H-M   'I 4/m c m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.976
+_cell_length_b   7.976
+_cell_length_c   14.107
+_cell_volume   897.439
+_citation_journal_id_ASTM   JALCEU
+_cod_data_source_file   Gout_JALCEU_2002_469.cif
+_cod_data_source_block   La5Si3
+_cod_database_code   1531377
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x,z
+  -x,-y,z
+  y,-x,z
+  x,-y,-z+1/2
+  y,x,-z+1/2
+  -x,y,-z+1/2
+  -y,-x,-z+1/2
+  -x,-y,-z
+  y,-x,-z
+  x,y,-z
+  -y,x,-z
+  -x,y,z-1/2
+  -y,-x,z-1/2
+  x,-y,z-1/2
+  y,x,z-1/2
+  x+1/2,y+1/2,z+1/2
+  -y+1/2,x+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  y+1/2,-x+1/2,z+1/2
+  x+1/2,-y+1/2,-z+1
+  y+1/2,x+1/2,-z+1
+  -x+1/2,y+1/2,-z+1
+  -y+1/2,-x+1/2,-z+1
+  -x+1/2,-y+1/2,-z+1/2
+  y+1/2,-x+1/2,-z+1/2
+  x+1/2,y+1/2,-z+1/2
+  -y+1/2,x+1/2,-z+1/2
+  -x+1/2,y+1/2,z
+  -y+1/2,-x+1/2,z
+  x+1/2,-y+1/2,z
+  y+1/2,x+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Si1  Si  0  0  0.25  1  0.0
+  Si2  Si  0.3865  0.8865  0  1  0.0
+  La1  La  0  0  0  1  0.0
+  La2  La  0.1769  0.6769  0.1466  1  0.0

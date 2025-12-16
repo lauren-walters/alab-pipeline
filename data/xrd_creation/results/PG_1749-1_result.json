@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6655381c83fdf76b50aaf1b4",
+  "experiment_name": "PG_1749-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Hf-O-W",
+  "target_formula": "HfWO5",
+  "analysis_timestamp": "2025-12-06T13:30:55.292783",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

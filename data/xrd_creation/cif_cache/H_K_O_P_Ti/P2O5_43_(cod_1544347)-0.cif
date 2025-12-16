@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_1544347
+loop_
+ _publ_author_name
+  'Arbib, E.H.'
+  'Elouadi, B.'
+  'Chaminade, J.P.'
+  'Darriet, J.'
+_publ_section_title
+'New refinement of the crystal structure of o-P2O5'
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   350
+_journal_page_last   353
+_journal_volume   127
+_journal_year   1996
+_chemical_formula_sum   'O5 P2'
+_chemical_name_common   'P2O5 ortho1, Arbib et al., JSSC127, 35'
+_space_group_IT_number   43
+_space_group_name_H-M_alt   'F d d 2'
+_symmetry_space_group_name_Hall   'F 2 -2d'
+_symmetry_space_group_name_H-M   'F d d 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   16.314(2)
+_cell_length_b   8.115(3)
+_cell_length_c   5.265(9)
+_cell_volume   697.0(12)
+_cod_data_source_file   P2O5-O1.cif
+_cod_data_source_block   P2O5-o
+_cod_original_formula_sum   'P2 O5'
+_cod_database_code   1544347
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-x, -y, z'
+  'x+1/4, -y+1/4, z+1/4'
+  '-x+1/4, y+1/4, z+1/4'
+  'x, y+1/2, z+1/2'
+  '-x, -y+1/2, z+1/2'
+  'x+1/4, -y+3/4, z+3/4'
+  '-x+1/4, y+3/4, z+3/4'
+  'x+1/2, y, z+1/2'
+  '-x+1/2, -y, z+1/2'
+  'x+3/4, -y+1/4, z+3/4'
+  '-x+3/4, y+1/4, z+3/4'
+  'x+1/2, y+1/2, z'
+  '-x+1/2, -y+1/2, z'
+  'x+3/4, -y+3/4, z+1/4'
+  '-x+3/4, y+3/4, z+1/4'
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+  P  1.0  0.17477(3)  0.16940(6)  0.000000  Uiso  0.006967  P
+  O1  1.0  0.19398(11)  0.0850(3)  0.2341(4)  Uiso  0.015733  O
+  O2  1.0  0.11341(9)  0.31958(17)  0.0256(4)  Uiso  0.010167  O
+  O3  1.0  0.250000  0.250000  0.8566(5)  Uiso  0.010167  O
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  P  0.00660  0.00610  0.00820  -0.00020  0.00010  -0.00060
+  O1  0.01840  0.01610  0.01270  0.00210  -0.00290  -0.00350
+  O2  0.01060  0.00860  0.01130  0.00320  -0.00030  -0.00350
+  O3  0.00720  0.01240  0.01090  -0.00260  0.00000  0.00000

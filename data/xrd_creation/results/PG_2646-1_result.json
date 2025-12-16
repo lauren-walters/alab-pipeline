@@ -1,0 +1,17 @@
+{
+  "experiment_id": "668c66ece500f9b8dc625cc7",
+  "experiment_name": "PG_2646-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mn-O-Ti",
+  "target_formula": "TiMnO3",
+  "analysis_timestamp": "2025-12-06T15:29:33.251516",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

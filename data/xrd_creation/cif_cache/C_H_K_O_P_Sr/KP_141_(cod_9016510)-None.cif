@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_9016510
+loop_
+ _publ_author_name
+  'Hassel, O.'
+_publ_section_title
+;
+\"Uber die Kristallstruktur des prim\"aren Kaliumphosphats KH~2~PO~4~
+und  isomorpher Salze
+;
+_journal_coden_ASTM   ZEELAI
+_journal_issue   10
+_journal_name_full
+'Zeitschrift f\"ur Elektrochemie und angewandte physikalische Chemie'
+_journal_page_first   523
+_journal_page_last   529
+_journal_paper_doi   10.1002/bbpc.19250311006
+_journal_volume   31
+_journal_year   1925
+_chemical_formula_sum   'K P'
+_chemical_name_systematic   'Potassium dihydrogenphosphate'
+_space_group_IT_number   122
+_symmetry_space_group_name_Hall   'I -4 2bw'
+_symmetry_space_group_name_H-M   'I -4 2 d'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.42
+_cell_length_b   7.42
+_cell_length_c   6.97
+_cell_volume   383.743
+_database_code_amcsd   0017460
+_exptl_crystal_density_diffrn   1.213
+_cod_duplicate_entry   1010576
+_cod_original_formula_sum   'P K'
+_cod_database_code   9016510
+_amcsd_formula_title   'H2 K O4 P'
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,1/2+z
+  1/2-y,-x,3/4+z
+  -y,1/2-x,1/4+z
+  y,-x,-z
+  1/2+y,1/2-x,1/2-z
+  -x,1/2+y,1/4-z
+  1/2-x,+y,3/4-z
+  -x,-y,z
+  1/2-x,1/2-y,1/2+z
+  1/2+y,x,3/4+z
+  +y,1/2+x,1/4+z
+  -y,x,-z
+  1/2-y,1/2+x,1/2-z
+  x,1/2-y,1/4-z
+  1/2+x,-y,3/4-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  P1  0.00000  0.00000  0.00000
+  K1  0.00000  0.00000  0.50000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0017460

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_1010576
+loop_
+ _publ_author_name
+  'Hassel, O.'
+_publ_section_title
+;
+\"Uber die Kristallstruktur des prim\"aren Kaliumphosphats KH~2~PO~4~
+und  isomorpher Salze
+;
+_journal_coden_ASTM   ZEELAI
+_journal_issue   10
+_journal_name_full
+'Zeitschrift f\"ur Elektrochemie und angewandte physikalische Chemie'
+_journal_page_first   523
+_journal_page_last   529
+_journal_paper_doi   10.1002/bbpc.19250311006
+_journal_volume   31
+_journal_year   1925
+_chemical_formula_structural   'K H2 P O4'
+_chemical_formula_sum   'H2 K O4 P'
+_chemical_name_systematic   'Potassium dihydrogenphosphate'
+_space_group_IT_number   122
+_symmetry_cell_setting   tetragonal
+_symmetry_Int_Tables_number   122
+_symmetry_space_group_name_Hall   'I -4 2bw'
+_symmetry_space_group_name_H-M   'I -4 2 d'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.42
+_cell_length_b   7.42
+_cell_length_c   6.97
+_cell_volume   383.7
+_database_code_amcsd   0017460
+_exptl_crystal_density_diffrn   1.213
+_cod_database_code   1010576
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,1/2+y,1/4-z
+  -x,-y,z
+  x,1/2-y,1/4-z
+  -y,x,-z
+  y,1/2+x,1/4+z
+  y,-x,-z
+  -y,1/2-x,1/4+z
+  1/2+x,1/2+y,1/2+z
+  1/2-x,y,3/4-z
+  1/2-x,1/2-y,1/2+z
+  1/2+x,-y,3/4-z
+  1/2-y,1/2+x,1/2-z
+  1/2+y,x,3/4+z
+  1/2+y,1/2-x,1/2-z
+  1/2-y,-x,3/4+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  P1  P5+  4  a  0.  0.  0.  1.  0  d
+  K1  K1+  4  b  0.  0.  0.5  1.  0  d
+  O1  O2-  16  e  -1.  -1.  -1.  1.  0  dum
+  H1  H1+  16  e  -1.  -1.  -1.  0.5  0  dum
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  P5+  5.000
+  K1+  1.000
+  O2-  -2.000
+  H1+  1.000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0017460

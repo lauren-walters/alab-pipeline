@@ -1,0 +1,17 @@
+{
+  "experiment_id": "666c93280cf47fd9cd40aaf2",
+  "experiment_name": "Na_286",
+  "success": false,
+  "error": "No phases found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": [],
+  "chemical_system": "Na-O-P-Ta",
+  "target_formula": "Na3TaP2O9",
+  "analysis_timestamp": "2025-12-06T13:59:13.153177",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_9016204
+loop_
+ _publ_author_name
+  'Fanfani, L.'
+  'Zanazzi, P. F.'
+_publ_section_title   'Dati strutturali sulla tarbuttite'
+_journal_name_full   'Periodico di Mineralogia'
+_journal_page_first   539
+_journal_page_last   545
+_journal_volume   34
+_journal_year   1965
+_chemical_compound_source   'Broken Hill, Rhodesia'
+_chemical_formula_sum   'H O5 P Zn2'
+_chemical_name_mineral   Tarbuttite
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   102.85
+_cell_angle_beta   102.77
+_cell_angle_gamma   86.83
+_cell_formula_units_Z   2
+_cell_length_a   5.499
+_cell_length_b   5.654
+_cell_length_c   6.465
+_cell_volume   191.120
+_database_code_amcsd   0014936
+_exptl_crystal_density_diffrn   4.218
+_cod_original_formula_sum   'Zn2 P O5 H'
+_cod_database_code   9016204
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Zn1  0.38600  0.24800  0.49200  Zn  0
+  Zn2  0.02800  0.73800  0.19000  Zn  0
+  P  0.83800  0.24900  0.27300  P  0
+  O1  0.77300  0.99100  0.14900  O  0
+  O2  0.93700  0.38600  0.12900  O  0
+  O3  0.60200  0.38200  0.33300  O  0
+  O4  0.97300  0.72600  0.50800  O  0
+  O-H  0.36600  0.88500  0.29800  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:56:48+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0014936

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66471f2de84e87556c0988d4",
+  "experiment_name": "NSC_151",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-O-Sc-Si",
+  "target_formula": "Na6.6Sc2.0(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:52:54.142236",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

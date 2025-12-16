@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_8000212
+loop_
+ _publ_author_name
+  'Xu Yan'
+  'Uehara, K.'
+  'Fan Wei'
+  'Chino, N.'
+  'Hikishi, S.'
+  'Mizuno, N.'
+  'Ogura, H.'
+  'Okubo, T.'
+_publ_section_title
+;
+The hydrothermal synthesis and crystal structure of (H2 O) [Ge5 O10]
+and  [(C H3)4 N] [Ge10 O20 O H], two novel porous germanates
+;
+_journal_name_full   'Chemistry Letters'
+_journal_page_first   74
+_journal_page_last   75
+_journal_volume   33
+_journal_year   2004
+_chemical_formula_sum   'Ge5 H2 O11'
+_chemical_name_systematic   '(Ge5 O10) (H2 O)'
+_space_group_IT_number   12
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   100.08
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.3178
+_cell_length_b   14.392
+_cell_length_c   7.7401
+_cell_volume   802.587
+_citation_journal_id_ASTM   CMLTAG
+_cod_data_source_file   XuYan_CMLTAG_2004_1202.cif
+_cod_data_source_block   H2Ge5O11
+_cod_original_cell_volume   802.5875
+_cod_original_formula_sum   'H2 Ge5 O11'
+_cod_database_code   8000212
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z
+  -x,-y,-z
+  x,-y,z
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O5  O-2  0.5  0.5862  0  1  0.0
+  Ge4  Ge+4  -0.0894  0.1986  -0.0256  0.5  0.0
+  O3  O-2  0  0.2835  0.5  1  0.0
+  Ge1  Ge+4  0.2074  0.5  0.1823  1  0.0
+  O7  O-2  0.4364  0.5  0.2844  1  0.0
+  O4  O-2  -0.2591  0.4073  0.312  1  0.0
+  Ge3  Ge+4  0.6383  0.5  0.1746  1  0.0
+  O1  O-2  -0.142  0.2634  0.142  1  0.0
+  O2  O-2  0.171  0.5  -0.047  1  0.0
+  O8  O-2  0.5  0.379  0.5  1  0.0
+  Ge2  Ge+4  -0.0646  0.34253  0.2997  1  0.0
+  O6  O-2  0.1289  0.4011  0.266  1  0.0

@@ -1,0 +1,44 @@
+{
+  "experiment_id": "6675ff71a48e4d40d5e80a18",
+  "experiment_name": "Na_301",
+  "success": true,
+  "error": null,
+  "rwp": 11.04,
+  "rp": 6.88,
+  "rexp": 2.47,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "NaNbO3_57_(cod_9014118)-2",
+      "spacegroup": "P2/b2_1/c2_1/m",
+      "weight_fraction": 0.11219,
+      "weight_fraction_error": 0.00064,
+      "lattice_a_nm": 0.550894,
+      "lattice_b_nm": 0.556614,
+      "lattice_c_nm": 1.55492,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 13.55
+    },
+    {
+      "phase_name": "P2O5_43_(cod_1544347)-0",
+      "spacegroup": "Fdd2",
+      "weight_fraction": 0.03417,
+      "weight_fraction_error": 0.00089,
+      "lattice_a_nm": 0.80339,
+      "lattice_b_nm": 1.62427,
+      "lattice_c_nm": 0.53177,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 23.81
+    }
+  ],
+  "chemical_system": "Na-Nb-O-P",
+  "target_formula": "Na4NbP2O9",
+  "analysis_timestamp": "2025-12-06T14:04:31.678850",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

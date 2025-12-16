@@ -1,0 +1,136 @@
+# generated using pymatgen
+data_9012834
+loop_
+ _publ_author_name
+  'Mullica, D. F.'
+  'Beall, G. W.'
+  'Milligan, W. O.'
+  'Korp, J. D.'
+  'Bernal, I.'
+_publ_section_title
+;
+The crystal structure of cubic In(OH)3 by X-Ray and neutron
+diffraction  methods Locality: synthetic Sample: X-ray sample
+;
+_journal_name_full   'Journal of Inorganic and Nuclear Chemistry'
+_journal_page_first   277
+_journal_page_last   282
+_journal_paper_doi   10.1016/0022-1902(79)80133-5
+_journal_volume   41
+_journal_year   1979
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   'H3 In O3'
+_chemical_name_mineral   Dzhalindite
+_space_group_IT_number   204
+_symmetry_space_group_name_Hall   '-I 2 2 3'
+_symmetry_space_group_name_H-M   'I m -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   7.9743
+_cell_length_b   7.9743
+_cell_length_c   7.9743
+_cell_volume   507.081
+_database_code_amcsd   0013054
+_exptl_crystal_density_diffrn   4.345
+_cod_original_sg_symbol_H-M   'I m 3'
+_cod_original_formula_sum   'In (O3 H3)'
+_cod_database_code   9012834
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,1/2+z
+  z,x,-y
+  1/2+z,1/2+x,1/2-y
+  z,-x,y
+  1/2+z,1/2-x,1/2+y
+  -z,x,y
+  1/2-z,1/2+x,1/2+y
+  -z,-x,-y
+  1/2-z,1/2-x,1/2-y
+  y,-z,-x
+  1/2+y,1/2-z,1/2-x
+  -y,-z,x
+  1/2-y,1/2-z,1/2+x
+  -y,z,-x
+  1/2-y,1/2+z,1/2-x
+  y,z,x
+  1/2+y,1/2+z,1/2+x
+  x,-y,z
+  1/2+x,1/2-y,1/2+z
+  -x,y,z
+  1/2-x,1/2+y,1/2+z
+  x,y,-z
+  1/2+x,1/2+y,1/2-z
+  -x,-y,-z
+  1/2-x,1/2-y,1/2-z
+  -z,-x,y
+  1/2-z,1/2-x,1/2+y
+  -z,x,-y
+  1/2-z,1/2+x,1/2-y
+  z,-x,-y
+  1/2+z,1/2-x,1/2-y
+  z,x,y
+  1/2+z,1/2+x,1/2+y
+  -y,z,x
+  1/2-y,1/2+z,1/2+x
+  y,z,-x
+  1/2+y,1/2+z,1/2-x
+  y,-z,x
+  1/2+y,1/2-z,1/2+x
+  -y,-z,-x
+  1/2-y,1/2-z,1/2-x
+  -x,y,-z
+  1/2-x,1/2+y,1/2-z
+  x,-y,-z
+  1/2+x,1/2-y,1/2-z
+  -x,-y,z
+  1/2-x,1/2-y,1/2+z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  O-H  0.00612  0.01579  0.01353  0.00000  0.00000  0.00000
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  In  0.25000  0.25000  0.25000  0.00709  In  0
+  O-H  0.00000  0.31960  0.17210  ?  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:54:17+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:21:49+03:00
+  "Changed the following '_atom_site_aniso_label' values: 'OH' -> 'O-H'"
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0013054

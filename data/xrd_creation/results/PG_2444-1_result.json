@@ -1,0 +1,31 @@
+{
+  "experiment_id": "667a13cf13800728dad6cef0",
+  "experiment_name": "PG_2444-1",
+  "success": true,
+  "error": null,
+  "rwp": 7.23,
+  "rp": 6.49,
+  "rexp": 3.09,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "SnO2_136_(cod_5000224)-0",
+      "spacegroup": "P4_2/m2_1/n2/m",
+      "weight_fraction": 0.13182,
+      "weight_fraction_error": 0.00028,
+      "lattice_a_nm": 0.4739111,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.3187509,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 9.7
+    }
+  ],
+  "chemical_system": "H-Li-O-Sn",
+  "target_formula": "LiSnH3O4",
+  "analysis_timestamp": "2025-12-06T14:50:45.845763",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_9007856
+loop_
+ _publ_author_name
+  'Krishnan, R.'
+  'Seshadri, T. P.'
+_publ_section_title
+'Structure of dipotassium galactose 1-phosphate pentahydrate'
+_journal_name_full   'Acta Crystallographica, Section C'
+_journal_page_first   2299
+_journal_page_last   2302
+_journal_paper_doi   10.1107/S0108270190000737
+_journal_volume   46
+_journal_year   1990
+_chemical_formula_structural   K2C6H11O9P(H2O)5
+_chemical_formula_sum   'C6 H10 K2 O14 P'
+_space_group_IT_number   4
+_symmetry_space_group_name_Hall   'P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21 1'
+_cell_angle_alpha   90
+_cell_angle_beta   102.02
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   6.228
+_cell_length_b   14.600
+_cell_length_c   8.982
+_cell_volume   798.816
+_database_code_amcsd   0010219
+_exptl_crystal_density_diffrn   1.727
+_cod_original_formula_sum   'K2 P C6 O14 H10'
+_cod_database_code   9007856
+_amcsd_formula_title   K2C6H11O9P(H2O)5
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,1/2+y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  K1  0.15580  0.16542  0.72930  0.03179  K  0
+  K2  0.81420  0.09890  0.29040  0.02926  K  0
+  P1  0.36030  0.38920  0.96740  0.01608  P  0
+  C1  0.56820  0.40930  0.74420  0.01836  C  0
+  C2  0.74450  0.35040  0.69610  0.01862  C  0
+  C3  0.65400  0.29500  0.55280  0.01874  C  0
+  C4  0.51910  0.35410  0.42930  0.01988  C  0
+  C5  0.34600  0.40540  0.49210  0.01862  C  0
+  C6  0.21320  0.46960  0.37600  0.02318  C  0
+  O1  0.41990  0.35530  0.80790  0.01887  O  0
+  O2  0.83690  0.28720  0.81180  0.02672  O  0
+  O3  0.83170  0.25130  0.50000  0.02850  O  0
+  O4  0.66100  0.41670  0.37310  0.02710  O  0
+  O5  0.45130  0.46120  0.61980  0.01976  O  0
+  O6  0.04570  0.51440  0.43310  0.03103  O  0
+  O7  0.21760  0.31370  0.00450  0.02330  O  0
+  O8  0.57810  0.39920  0.08060  0.02343  O  0
+  O9  0.24220  0.48140  0.93640  0.02736  O  0
+  Wat1  0.38080  0.15970  0.16510  0.03711  O  2
+  Wat2  0.57480  0.12670  0.84920  0.04483  O  2
+  Wat3  0.12460  0.03830  0.95610  0.03192  O  2
+  Wat4  0.90960  0.27390  0.19080  0.03939  O  2
+  Wat5  0.27380  0.12360  0.44370  0.04243  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:51:04+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0010219

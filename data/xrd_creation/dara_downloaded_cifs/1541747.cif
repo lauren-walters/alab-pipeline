@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_1541747
+loop_
+ _publ_author_name
+  'Fu, P.Q.'
+_publ_section_title   'The crystal structure of wavellite'
+_journal_name_full   'Ti Chih Ko Hsueh (= Scientia Geologica Sinica)'
+_journal_page_first   116
+_journal_page_last   135
+_journal_volume   2
+_journal_year   1966
+_chemical_formula_sum   'Al3 H15 O17 P2'
+_chemical_name_systematic   'Al3 (P O4)2 (O H)3 (H2 O)6'
+_space_group_IT_number   33
+_symmetry_space_group_name_Hall   'P -2n -2ac'
+_symmetry_space_group_name_H-M   'P c 21 n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.57
+_cell_length_b   17.3
+_cell_length_c   6.98
+_cell_volume   1155.616
+_citation_journal_id_ASTM   TCKHAO
+_cod_data_source_file   Fu_TCKHAO_1966_629.cif
+_cod_data_source_block   H15Al3O17P2
+_cod_original_sg_symbol_Hall   'P 2c -2n (y,z,x)'
+_cod_original_formula_sum   'H15 Al3 O17 P2'
+_cod_database_code   1541747
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z
+  x+1/2,y+1/2,-z+1/2
+  -x+1/2,y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O11  O-2  0.195  0.23  0.358  1  0.0
+  O13  O-2  0.877  0.08  0.17  1  0.0
+  O1  O-2  0.607  0.078  0.14  1  0.0
+  O7  O-2  0.633  0.484  0.32  1  0.0
+  O15  O-2  0.38  0.306  0.148  1  0.0
+  Al2  Al+3  0.75  0.263  0.395  1  0.0
+  O4  O-2  0.574  0.204  -0.025  1  0.0
+  Al3  Al+3  0.25  0.23  0.105  1  0.0
+  Al1  Al+3  0.25  0.495  0.355  1  0.0
+  O10  O-2  0.805  0.263  0.141  1  0.0
+  P2  P+5  0.557  0.417  0.395  1  0.0
+  O2  O-2  0.378  0.143  0.145  1  0.0
+  O17  O-2  0.882  0.35  0.405  1  0.0
+  O5  O-2  0.617  0.348  0.324  1  0.0
+  O9  O-2  0.195  0.495  0.102  1  0.0
+  O3  O-2  0.576  0.2  0.337  1  0.0
+  O8  O-2  0.412  0.426  0.32  1  0.0
+  O16  O-2  0.105  0.301  0.11  1  0.0
+  O14  O-2  0.117  0.141  0.047  1  0.0
+  P1  P+5  0.524  0.16  0.145  1  0.0
+  O12  O-2  0.14  0.429  0.39  1  0.0
+  O6  O-2  0.576  0.413  0.6  1  0.0

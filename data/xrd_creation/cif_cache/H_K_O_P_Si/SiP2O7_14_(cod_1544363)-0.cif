@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_1544363
+loop_
+ _publ_author_name
+  'Leinenweber, K.'
+  'Stearns, L.A.'
+  'Nite, J.M.'
+  'Nemeth, P.'
+  'Groy, T.L.'
+_publ_section_title
+;
+Structure of a new form of silicon phosphate (SiP2O7) synthesized at
+high  pressures and temperatures
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   190
+_journal_page_last   221
+_journal_volume   225
+_journal_year   2012
+_chemical_formula_sum   'O7 P2 Si'
+_chemical_name_common   'SiP2O7 HP phase'
+_space_group_IT_number   14
+_space_group_name_H-M_alt   'P 1 21/c 1'
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   103.805(2)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   4.3042(7)
+_cell_length_b   7.1505(12)
+_cell_length_c   6.2987(11)
+_cell_volume   188.26(5)
+_cod_data_source_file   SiP2O7-HP.cif
+_cod_data_source_block   SiP2O7-HP
+_cod_original_formula_sum   'Si P2 O7'
+_cod_database_code   1544363
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-x, -y, -z'
+  '-x, y+1/2, -z+1/2'
+  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+  P  1.0  0.88708(13)  0.61169(8)  0.18287(9)  Uiso  0.004512  P
+  Si  1.0  0.500000  0.500000  0.500000  Uiso  0.004907  Si
+  O1  1.0  0.6495(4)  0.4887(2)  0.2626(4)  Uiso  0.006186  O
+  O2  1.0  0.7359(4)  0.7930(2)  0.0911(2)  Uiso  0.006797  O
+  O3  1.0  0.1901(4)  0.6434(2)  0.3610(2)  Uiso  0.006009  O
+  O4  1.0  0.000000  0.500000  0.000000  Uiso  0.007216  O
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  P  0.00490  0.00470  0.00420  0.00049  0.00161  0.00010
+  Si  0.00470  0.00520  0.00490  -0.00020  0.00130  0.00030
+  O1  0.00660  0.00630  0.00620  -0.00100  0.00260  -0.00100
+  O2  0.00720  0.00530  0.00770  0.00170  0.00140  0.00050
+  O3  0.00480  0.00620  0.00640  0.00080  0.00010  0.00000
+  O4  0.00800  0.00810  0.00640  0.00080  0.00340  -0.00160

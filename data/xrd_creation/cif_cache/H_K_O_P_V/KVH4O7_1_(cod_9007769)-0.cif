@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_9007769
+loop_
+ _publ_author_name
+  'Lapshin, A. E.'
+  'Smolin, Y. I.'
+  'Shepelev, Y. F.'
+  'Schwendt, P.'
+  'Gyepesova, D.'
+_publ_section_title
+;
+Structure of dipotassium aquadioxotetraperoxodivanadate(V) trihydrate
+Sample: T = 153 K
+;
+_journal_name_full   'Acta Crystallographica, Section C'
+_journal_page_first   738
+_journal_page_last   741
+_journal_paper_doi   10.1107/S0108270189009303
+_journal_volume   46
+_journal_year   1990
+_chemical_formula_structural   K2V2O2(O2)4(H2O).3H2O
+_chemical_formula_sum   'H4 K O7 V'
+_space_group_IT_number   1
+_symmetry_space_group_name_Hall   'P 1'
+_symmetry_space_group_name_H-M   'P 1'
+_cell_angle_alpha   107.18
+_cell_angle_beta   95.50
+_cell_angle_gamma   116.20
+_cell_length_a   6.501
+_cell_length_b   7.882
+_cell_length_c   7.501
+_cell_formula_units_Z   2
+_cell_volume   317.797
+_database_code_amcsd   0010129
+_diffrn_ambient_temperature   153
+_exptl_crystal_density_diffrn   2.153
+_cod_original_formula_sum   'V K O7 H4'
+_cod_database_code   9007769
+_amcsd_formula_title   K2V2O2(O2)4(H2O).3H2O
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  V1  0.40720  0.87580  0.75910  0.01064
+  V2  0.24820  0.57490  0.96300  0.01254
+  K1  0.00000  0.00000  0.00000  0.02242
+  K2  0.62840  0.44360  0.56190  0.02305
+  O1  0.27090  0.96750  0.66350  0.02280
+  O2  0.40330  0.95780  0.01880  0.01773
+  O3  0.62940  0.08670  0.98660  0.02026
+  O4  0.44270  0.69500  0.54560  0.02153
+  O5  0.65650  0.89680  0.64020  0.02153
+  O6  0.12880  0.60600  0.73340  0.01773
+  O7  0.00160  0.62440  0.88350  0.02026
+  O8  0.53610  0.65870  0.89240  0.01646
+  O9  0.56880  0.69940  0.09850  0.02026
+  O10  0.13460  0.33530  0.90290  0.03040
+  O11  0.19270  0.65790  0.22450  0.02153
+  O12  0.70970  0.12730  0.41710  0.02533
+  O13  0.73860  0.47670  0.21440  0.02406
+  O14  0.15470  0.14960  0.39950  0.05446
+  H1  0.28000  0.64000  0.32000  0.02153
+  H2  0.05000  0.60000  0.23000  0.02153
+  H3  0.70000  0.04000  0.51000  0.02533
+  H4  0.64000  0.13000  0.33000  0.02533
+  H5  0.66000  0.33000  0.11000  0.02406
+  H6  0.65000  0.52000  0.18000  0.02406
+  H7  0.15000  0.23000  0.41000  0.05446
+  H8  0.09000  0.02000  0.34000  0.05446
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0010129

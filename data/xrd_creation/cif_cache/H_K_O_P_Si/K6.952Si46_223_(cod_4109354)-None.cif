@@ -1,0 +1,828 @@
+# generated using pymatgen
+data_4109354
+loop_
+ _publ_author_name
+  'Bodo B\"ohme'
+  'Arnold Guloy'
+  'Zhongjia Tang'
+  'Walter Schnelle'
+  'Ulrich Burkhardt'
+  'Michael Baitinger'
+  'Yuri Grin'
+_publ_section_title
+'Oxidation of M4Si4 (M = Na, K) to Clathrates by HCl or H2O'
+_journal_name_full   'Journal of the American Chemical Society'
+_journal_page_first   5348
+_journal_page_last   5349
+_journal_paper_doi   10.1021/ja0705691
+_journal_volume   129
+_journal_year   2007
+_chemical_formula_sum   'K6.95 Si46'
+_chemical_formula_weight   1564.04
+_chemical_name_common   'K8-x Si46'
+_chemical_name_systematic   ?
+_space_group_IT_number   223
+_symmetry_cell_setting   cubic
+_symmetry_space_group_name_Hall   '-P 4n 2 3'
+_symmetry_space_group_name_H-M   'P m -3 n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   1
+_cell_length_a   10.278(1)
+_cell_length_b   10.278(1)
+_cell_length_c   10.278(1)
+_cell_volume   1085.74(18)
+_computing_cell_refinement   WinCSD
+_computing_data_reduction   WinCSD
+_computing_publication_material   'WinCSD (Akselrud et al, 1993)'
+_computing_structure_refinement   WinCSD
+_computing_structure_solution   WinCSD
+_diffrn_radiation_probe   x-ray
+_diffrn_reflns_theta_max   60.1
+_exptl_absorpt_coefficient_mu   17.92
+_exptl_crystal_density_diffrn   2.3916(1)
+_exptl_crystal_F_000   776.1
+_pd_calc_method   'Rietveld Refinement'
+_pd_phase_name   K8-xSi46
+_pd_proc_2theta_range_max   138
+_pd_proc_ls_profile_function   pseudo-Voit
+_pd_proc_ls_prof_R_factor   0.2047
+_pd_proc_ls_prof_wR_factor   0.0000
+_pd_spec_mounting   'packed powder pellet'
+_pd_spec_size_axial   25
+_pd_spec_size_equat   25
+_pd_spec_size_thick   1
+_refine_ls_matrix_type   fullcycle
+_refine_ls_number_parameters   15
+_refine_ls_number_reflns   0
+_refine_ls_structure_factor_coef   Inet
+_refine_ls_weighting_details   1/[Y~i~+\s(Y~i~)]
+_refine_ls_weighting_scheme   calc
+_reflns_number_total   165
+_cod_data_source_file   ja0705691si20070201_043039.cif
+_cod_data_source_block   clathrateK
+_cod_original_cell_volume   1085.7(3)
+_cod_database_code   4109354
+_refine_ls_r_factor_i   0.0818
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  z,x,y
+  y,z,x
+  x,y,-z
+  z,x,-y
+  y,z,-x
+  -x,y,z
+  -z,x,y
+  -y,z,x
+  -x,y,-z
+  -z,x,-y
+  -y,z,-x
+  1/2+y,1/2+x,1/2+z
+  1/2+x,1/2+z,1/2+y
+  1/2+z,1/2+y,1/2+x
+  1/2+y,1/2+x,1/2-z
+  1/2+x,1/2+z,1/2-y
+  1/2+z,1/2+y,1/2-x
+  1/2+y,1/2-x,1/2+z
+  1/2+x,1/2-z,1/2+y
+  1/2+z,1/2-y,1/2+x
+  1/2+y,1/2-x,1/2-z
+  1/2+x,1/2-z,1/2-y
+  1/2+z,1/2-y,1/2-x
+  -x,-y,-z
+  -z,-x,-y
+  -y,-z,-x
+  -x,-y,z
+  -z,-x,y
+  -y,-z,x
+  x,-y,-z
+  z,-x,-y
+  y,-z,-x
+  x,-y,z
+  z,-x,y
+  y,-z,x
+  -1/2-y,-1/2-x,-1/2-z
+  -1/2-x,-1/2-z,-1/2-y
+  -1/2-z,-1/2-y,-1/2-x
+  -1/2-y,-1/2-x,-1/2+z
+  -1/2-x,-1/2-z,-1/2+y
+  -1/2-z,-1/2-y,-1/2+x
+  -1/2-y,-1/2+x,-1/2-z
+  -1/2-x,-1/2+z,-1/2-y
+  -1/2-z,-1/2+y,-1/2-x
+  -1/2-y,-1/2+x,-1/2+z
+  -1/2-x,-1/2+z,-1/2+y
+  -1/2-z,-1/2+y,-1/2+x
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  K1  0.050(5)  0.050(5)  0.050(5)  0  0  0
+  K2  0.042(6)  0.042(4)  0.042(4)  0  0  0
+  Si1  0.050(8)  0.055(5)  0.055(5)  0  0  0
+  Si2  0.058(2)  0.058(2)  0.058(2)  0.010(3)  0.010(3)  0.010(3)
+  Si3  0.041(4)  0.056(4)  0.047(4)  0  0  0.009(3)
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+ _atom_site_type_symbol
+ _atom_site_occupancy
+  K1  0  0  0  Uani  0.050(3)  2  K  0.803(13)
+  K2  0.25  0.5  0  Uani  0.042(3)  6  K  0.891(7)
+  Si1  0.25  0  0.5  Uani  0.053(4)  6  Si  1.
+  Si2  0.1842(3)  0.1842(3)  0.1842(3)  Uani  0.0578(12)  16  Si  1.
+  Si3  0  0.3061(4)  0.1180(4)  Uani  0.048(2)  24  Si  1.
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_number_in_cell
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  K  K  6.95  0.365  1.066  International_Tables_Vol_IV_Table_2.3.1
+  Si  Si  46.00  0.244  0.330
+  International_Tables_Vol_IV_Table_2.3.1
+loop_
+ _diffrn_radiation_wavelength
+ _diffrn_radiation_wavelength_wt
+ _diffrn_radiation_type
+  0.000000  1.000  CuK\a~1~
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  Si2  K1  Si2  70.53(8)  .  4_555  no
+  Si2  K1  Si2  70.53(8)  .  7_555  no
+  Si2  K1  Si2  109.47(8)  .  10_555  no
+  Si2  K1  Si2  180.00(8)  .  25_555  no
+  Si2  K1  Si2  109.47(8)  .  28_555  no
+  Si2  K1  Si2  109.47(8)  .  31_555  no
+  Si2  K1  Si2  70.53(8)  .  34_555  no
+  Si2  K1  Si3  41.72(8)  .  .  no
+  Si2  K1  Si3  41.72(8)  .  2_555  no
+  Si2  K1  Si3  41.72(8)  .  3_555  no
+  Si2  K1  Si3  70.67(8)  .  4_555  no
+  Si2  K1  Si3  109.33(8)  .  5_555  no
+  Si2  K1  Si3  70.67(8)  .  8_555  no
+  Si2  K1  Si3  109.33(8)  .  9_555  no
+  Si2  K1  Si3  138.28(8)  .  11_555  no
+  Si2  K1  Si3  138.28(8)  .  25_555  no
+  Si2  K1  Si3  138.28(8)  .  27_555  no
+  Si2  K1  Si3  109.33(8)  .  28_555  no
+  Si2  K1  Si3  70.67(8)  .  33_555  no
+  Si2  K1  Si2  109.47(8)  4_555  7_555  no
+  Si2  K1  Si2  70.53(8)  4_555  10_555  no
+  Si2  K1  Si2  109.47(8)  4_555  25_555  no
+  Si2  K1  Si2  180.00(8)  4_555  28_555  no
+  Si2  K1  Si2  70.53(8)  4_555  31_555  no
+  Si2  K1  Si2  109.47(8)  4_555  34_555  no
+  Si2  K1  Si3  70.67(8)  4_555  .  no
+  Si2  K1  Si3  109.33(8)  4_555  2_555  no
+  Si2  K1  Si3  41.72(8)  4_555  3_555  no
+  Si2  K1  Si3  41.72(8)  4_555  4_555  no
+  Si2  K1  Si3  41.72(8)  4_555  5_555  no
+  Si2  K1  Si3  138.28(8)  4_555  8_555  no
+  Si2  K1  Si3  109.33(8)  4_555  9_555  no
+  Si2  K1  Si3  70.67(8)  4_555  11_555  no
+  Si2  K1  Si3  109.33(8)  4_555  25_555  no
+  Si2  K1  Si3  138.28(8)  4_555  27_555  no
+  Si2  K1  Si3  138.28(8)  4_555  28_555  no
+  Si2  K1  Si3  70.67(8)  4_555  33_555  no
+  Si2  K1  Si2  70.53(8)  7_555  10_555  no
+  Si2  K1  Si2  109.47(8)  7_555  25_555  no
+  Si2  K1  Si2  70.53(8)  7_555  28_555  no
+  Si2  K1  Si2  180.00(8)  7_555  31_555  no
+  Si2  K1  Si2  109.47(8)  7_555  34_555  no
+  Si2  K1  Si3  41.72(8)  7_555  .  no
+  Si2  K1  Si3  70.67(8)  7_555  2_555  no
+  Si2  K1  Si3  109.33(8)  7_555  3_555  no
+  Si2  K1  Si3  70.67(8)  7_555  4_555  no
+  Si2  K1  Si3  138.28(8)  7_555  5_555  no
+  Si2  K1  Si3  41.72(8)  7_555  8_555  no
+  Si2  K1  Si3  41.72(8)  7_555  9_555  no
+  Si2  K1  Si3  109.33(8)  7_555  11_555  no
+  Si2  K1  Si3  138.28(8)  7_555  25_555  no
+  Si2  K1  Si3  70.67(8)  7_555  27_555  no
+  Si2  K1  Si3  109.33(8)  7_555  28_555  no
+  Si2  K1  Si3  138.28(8)  7_555  33_555  no
+  Si2  K1  Si2  70.53(8)  10_555  25_555  no
+  Si2  K1  Si2  109.47(8)  10_555  28_555  no
+  Si2  K1  Si2  109.47(8)  10_555  31_555  no
+  Si2  K1  Si2  180.00(8)  10_555  34_555  no
+  Si2  K1  Si3  70.67(8)  10_555  .  no
+  Si2  K1  Si3  138.28(8)  10_555  2_555  no
+  Si2  K1  Si3  109.33(8)  10_555  3_555  no
+  Si2  K1  Si3  41.72(8)  10_555  4_555  no
+  Si2  K1  Si3  70.67(8)  10_555  5_555  no
+  Si2  K1  Si3  109.33(8)  10_555  8_555  no
+  Si2  K1  Si3  41.72(8)  10_555  9_555  no
+  Si2  K1  Si3  41.72(8)  10_555  11_555  no
+  Si2  K1  Si3  109.33(8)  10_555  25_555  no
+  Si2  K1  Si3  70.67(8)  10_555  27_555  no
+  Si2  K1  Si3  138.28(8)  10_555  28_555  no
+  Si2  K1  Si3  138.28(8)  10_555  33_555  no
+  Si2  K1  Si2  70.53(8)  25_555  28_555  no
+  Si2  K1  Si2  70.53(8)  25_555  31_555  no
+  Si2  K1  Si2  109.47(8)  25_555  34_555  no
+  Si2  K1  Si3  138.28(8)  25_555  .  no
+  Si2  K1  Si3  138.28(8)  25_555  2_555  no
+  Si2  K1  Si3  138.28(8)  25_555  3_555  no
+  Si2  K1  Si3  109.33(8)  25_555  4_555  no
+  Si2  K1  Si3  70.67(8)  25_555  5_555  no
+  Si2  K1  Si3  109.33(8)  25_555  8_555  no
+  Si2  K1  Si3  70.67(8)  25_555  9_555  no
+  Si2  K1  Si3  41.72(8)  25_555  11_555  no
+  Si2  K1  Si3  41.72(8)  25_555  25_555  no
+  Si2  K1  Si3  41.72(8)  25_555  27_555  no
+  Si2  K1  Si3  70.67(8)  25_555  28_555  no
+  Si2  K1  Si3  109.33(8)  25_555  33_555  no
+  Si2  K1  Si2  109.47(8)  28_555  31_555  no
+  Si2  K1  Si2  70.53(8)  28_555  34_555  no
+  Si2  K1  Si3  109.33(8)  28_555  .  no
+  Si2  K1  Si3  70.67(8)  28_555  2_555  no
+  Si2  K1  Si3  138.28(8)  28_555  3_555  no
+  Si2  K1  Si3  138.28(8)  28_555  4_555  no
+  Si2  K1  Si3  138.28(8)  28_555  5_555  no
+  Si2  K1  Si3  41.72(8)  28_555  8_555  no
+  Si2  K1  Si3  70.67(8)  28_555  9_555  no
+  Si2  K1  Si3  109.33(8)  28_555  11_555  no
+  Si2  K1  Si3  70.67(8)  28_555  25_555  no
+  Si2  K1  Si3  41.72(8)  28_555  27_555  no
+  Si2  K1  Si3  41.72(8)  28_555  28_555  no
+  Si2  K1  Si3  109.33(8)  28_555  33_555  no
+  Si2  K1  Si2  70.53(8)  31_555  34_555  no
+  Si2  K1  Si3  138.28(8)  31_555  .  no
+  Si2  K1  Si3  109.33(8)  31_555  2_555  no
+  Si2  K1  Si3  70.67(8)  31_555  3_555  no
+  Si2  K1  Si3  109.33(8)  31_555  4_555  no
+  Si2  K1  Si3  41.72(8)  31_555  5_555  no
+  Si2  K1  Si3  138.28(8)  31_555  8_555  no
+  Si2  K1  Si3  138.28(8)  31_555  9_555  no
+  Si2  K1  Si3  70.67(8)  31_555  11_555  no
+  Si2  K1  Si3  41.72(8)  31_555  25_555  no
+  Si2  K1  Si3  109.33(8)  31_555  27_555  no
+  Si2  K1  Si3  70.67(8)  31_555  28_555  no
+  Si2  K1  Si3  41.72(8)  31_555  33_555  no
+  Si2  K1  Si3  109.33(8)  34_555  .  no
+  Si2  K1  Si3  41.72(8)  34_555  2_555  no
+  Si2  K1  Si3  70.67(8)  34_555  3_555  no
+  Si2  K1  Si3  138.28(8)  34_555  4_555  no
+  Si2  K1  Si3  109.33(8)  34_555  5_555  no
+  Si2  K1  Si3  70.67(8)  34_555  8_555  no
+  Si2  K1  Si3  138.28(8)  34_555  9_555  no
+  Si2  K1  Si3  138.28(8)  34_555  11_555  no
+  Si2  K1  Si3  70.67(8)  34_555  25_555  no
+  Si2  K1  Si3  109.33(8)  34_555  27_555  no
+  Si2  K1  Si3  41.72(8)  34_555  28_555  no
+  Si2  K1  Si3  41.72(8)  34_555  33_555  no
+  Si3  K1  Si3  70.39(7)  .  2_555  no
+  Si3  K1  Si3  70.39(7)  .  3_555  no
+  Si3  K1  Si3  42.17(7)  .  4_555  no
+  Si3  K1  Si3  109.61(7)  .  5_555  no
+  Si3  K1  Si3  70.39(7)  .  8_555  no
+  Si3  K1  Si3  70.39(7)  .  9_555  no
+  Si3  K1  Si3  109.61(7)  .  11_555  no
+  Si3  K1  Si3  179.98(7)  .  25_555  no
+  Si3  K1  Si3  109.61(7)  .  27_555  no
+  Si3  K1  Si3  137.83(7)  .  28_555  no
+  Si3  K1  Si3  109.61(7)  .  33_555  no
+  Si3  K1  Si3  70.39(7)  2_555  3_555  no
+  Si3  K1  Si3  109.61(7)  2_555  4_555  no
+  Si3  K1  Si3  137.83(7)  2_555  5_555  no
+  Si3  K1  Si3  42.16(7)  2_555  8_555  no
+  Si3  K1  Si3  109.61(7)  2_555  9_555  no
+  Si3  K1  Si3  180.00(7)  2_555  11_555  no
+  Si3  K1  Si3  109.61(7)  2_555  25_555  no
+  Si3  K1  Si3  109.61(7)  2_555  27_555  no
+  Si3  K1  Si3  70.39(7)  2_555  28_555  no
+  Si3  K1  Si3  70.39(7)  2_555  33_555  no
+  Si3  K1  Si3  70.39(7)  3_555  4_555  no
+  Si3  K1  Si3  70.39(7)  3_555  5_555  no
+  Si3  K1  Si3  109.61(7)  3_555  8_555  no
+  Si3  K1  Si3  137.83(7)  3_555  9_555  no
+  Si3  K1  Si3  109.61(7)  3_555  11_555  no
+  Si3  K1  Si3  109.61(7)  3_555  25_555  no
+  Si3  K1  Si3  179.98(7)  3_555  27_555  no
+  Si3  K1  Si3  109.61(7)  3_555  28_555  no
+  Si3  K1  Si3  42.17(7)  3_555  33_555  no
+  Si3  K1  Si3  70.39(7)  4_555  5_555  no
+  Si3  K1  Si3  109.61(7)  4_555  8_555  no
+  Si3  K1  Si3  70.39(7)  4_555  9_555  no
+  Si3  K1  Si3  70.39(7)  4_555  11_555  no
+  Si3  K1  Si3  137.84(7)  4_555  25_555  no
+  Si3  K1  Si3  109.61(7)  4_555  27_555  no
+  Si3  K1  Si3  180.00(7)  4_555  28_555  no
+  Si3  K1  Si3  109.61(7)  4_555  33_555  no
+  Si3  K1  Si3  180.00(7)  5_555  8_555  no
+  Si3  K1  Si3  109.61(7)  5_555  9_555  no
+  Si3  K1  Si3  42.16(7)  5_555  11_555  no
+  Si3  K1  Si3  70.39(7)  5_555  25_555  no
+  Si3  K1  Si3  109.61(7)  5_555  27_555  no
+  Si3  K1  Si3  109.61(7)  5_555  28_555  no
+  Si3  K1  Si3  70.39(7)  5_555  33_555  no
+  Si3  K1  Si3  70.39(7)  8_555  9_555  no
+  Si3  K1  Si3  137.84(7)  8_555  11_555  no
+  Si3  K1  Si3  109.61(7)  8_555  25_555  no
+  Si3  K1  Si3  70.39(7)  8_555  27_555  no
+  Si3  K1  Si3  70.39(7)  8_555  28_555  no
+  Si3  K1  Si3  109.61(7)  8_555  33_555  no
+  Si3  K1  Si3  70.39(7)  9_555  11_555  no
+  Si3  K1  Si3  109.61(7)  9_555  25_555  no
+  Si3  K1  Si3  42.16(7)  9_555  27_555  no
+  Si3  K1  Si3  109.61(7)  9_555  28_555  no
+  Si3  K1  Si3  180.00(7)  9_555  33_555  no
+  Si3  K1  Si3  70.39(7)  11_555  25_555  no
+  Si3  K1  Si3  70.39(7)  11_555  27_555  no
+  Si3  K1  Si3  109.61(7)  11_555  28_555  no
+  Si3  K1  Si3  109.61(7)  11_555  33_555  no
+  Si3  K1  Si3  70.39(7)  25_555  27_555  no
+  Si3  K1  Si3  42.16(7)  25_555  28_555  no
+  Si3  K1  Si3  70.39(7)  25_555  33_555  no
+  Si3  K1  Si3  70.39(7)  27_555  28_555  no
+  Si3  K1  Si3  137.84(7)  27_555  33_555  no
+  Si3  K1  Si3  70.39(7)  28_555  33_555  no
+  Si3  K2  Si3  40.90(7)  .  4_555  no
+  Si3  K2  Si3  161.70(7)  .  14_554  no
+  Si3  K2  Si3  123.24(7)  .  17_555  no
+  Si3  K2  Si3  123.24(7)  .  20_554  no
+  Si3  K2  Si3  98.44(7)  .  23_555  no
+  Si3  K2  Si3  84.48(7)  .  25_565  no
+  Si3  K2  Si3  70.10(7)  .  28_565  no
+  Si3  K2  Si1  96.74  .  2_555  no
+  Si3  K2  Si1  39.59  .  3_555  no
+  Si3  K2  Si1  73.95  .  6_555  no
+  Si3  K2  Si1  158.37  .  13_554  no
+  Si3  K2  Si2  37.56(7)  .  .  no
+  Si3  K2  Si2  63.50(7)  .  4_555  no
+  Si3  K2  Si2  122.03(7)  .  31_565  no
+  Si3  K2  Si2  100.59(7)  .  34_565  no
+  Si3  K2  Si2  63.22(7)  .  37_666  no
+  Si3  K2  Si2  98.25(7)  .  40_665  no
+  Si3  K2  Si2  96.82(7)  .  43_666  no
+  Si3  K2  Si2  135.48(7)  .  46_665  no
+  Si3  K2  Si3  62.57(7)  .  3_555  no
+  Si3  K2  Si3  132.51(7)  .  33_565  no
+  Si3  K2  Si3  63.05(7)  .  37_666  no
+  Si3  K2  Si3  103.78(7)  .  40_665  no
+  Si3  K2  K2  42.24  .  7_555  no
+  Si3  K2  K2  137.76  .  7_655  no
+  Si3  K2  Si3  123.24(7)  4_555  14_554  no
+  Si3  K2  Si3  161.70(7)  4_555  17_555  no
+  Si3  K2  Si3  98.44(7)  4_555  20_554  no
+  Si3  K2  Si3  123.24(7)  4_555  23_555  no
+  Si3  K2  Si3  70.10(7)  4_555  25_565  no
+  Si3  K2  Si3  84.48(7)  4_555  28_565  no
+  Si3  K2  Si1  96.74  4_555  2_555  no
+  Si3  K2  Si1  73.95  4_555  3_555  no
+  Si3  K2  Si1  39.59  4_555  6_555  no
+  Si3  K2  Si1  158.37  4_555  13_554  no
+  Si3  K2  Si2  63.50(7)  4_555  .  no
+  Si3  K2  Si2  37.56(7)  4_555  4_555  no
+  Si3  K2  Si2  100.59(7)  4_555  31_565  no
+  Si3  K2  Si2  122.03(7)  4_555  34_565  no
+  Si3  K2  Si2  98.25(7)  4_555  37_666  no
+  Si3  K2  Si2  63.22(7)  4_555  40_665  no
+  Si3  K2  Si2  135.48(7)  4_555  43_666  no
+  Si3  K2  Si2  96.82(7)  4_555  46_665  no
+  Si3  K2  Si3  62.57(7)  4_555  3_555  no
+  Si3  K2  Si3  132.51(7)  4_555  33_565  no
+  Si3  K2  Si3  103.78(7)  4_555  37_666  no
+  Si3  K2  Si3  63.05(7)  4_555  40_665  no
+  Si3  K2  K2  42.24  4_555  7_555  no
+  Si3  K2  K2  137.76  4_555  7_655  no
+  Si3  K2  Si3  70.10(7)  14_554  17_555  no
+  Si3  K2  Si3  40.90(7)  14_554  20_554  no
+  Si3  K2  Si3  84.48(7)  14_554  23_555  no
+  Si3  K2  Si3  98.44(7)  14_554  25_565  no
+  Si3  K2  Si3  123.24(7)  14_554  28_565  no
+  Si3  K2  Si1  73.95  14_554  2_555  no
+  Si3  K2  Si1  158.37  14_554  3_555  no
+  Si3  K2  Si1  96.74  14_554  6_555  no
+  Si3  K2  Si1  39.59  14_554  13_554  no
+  Si3  K2  Si2  135.48(7)  14_554  .  no
+  Si3  K2  Si2  98.25(7)  14_554  4_555  no
+  Si3  K2  Si2  63.22(7)  14_554  31_565  no
+  Si3  K2  Si2  96.82(7)  14_554  34_565  no
+  Si3  K2  Si2  122.03(7)  14_554  37_666  no
+  Si3  K2  Si2  63.50(7)  14_554  40_665  no
+  Si3  K2  Si2  100.59(7)  14_554  43_666  no
+  Si3  K2  Si2  37.56(7)  14_554  46_665  no
+  Si3  K2  Si3  103.78(7)  14_554  3_555  no
+  Si3  K2  Si3  63.05(7)  14_554  33_565  no
+  Si3  K2  Si3  132.51(7)  14_554  37_666  no
+  Si3  K2  Si3  62.57(7)  14_554  40_665  no
+  Si3  K2  K2  137.76  14_554  7_555  no
+  Si3  K2  K2  42.24  14_554  7_655  no
+  Si3  K2  Si3  84.48(7)  17_555  20_554  no
+  Si3  K2  Si3  40.90(7)  17_555  23_555  no
+  Si3  K2  Si3  123.24(7)  17_555  25_565  no
+  Si3  K2  Si3  98.44(7)  17_555  28_565  no
+  Si3  K2  Si1  73.95  17_555  2_555  no
+  Si3  K2  Si1  96.74  17_555  3_555  no
+  Si3  K2  Si1  158.37  17_555  6_555  no
+  Si3  K2  Si1  39.59  17_555  13_554  no
+  Si3  K2  Si2  98.25(7)  17_555  .  no
+  Si3  K2  Si2  135.48(7)  17_555  4_555  no
+  Si3  K2  Si2  96.82(7)  17_555  31_565  no
+  Si3  K2  Si2  63.22(7)  17_555  34_565  no
+  Si3  K2  Si2  63.50(7)  17_555  37_666  no
+  Si3  K2  Si2  122.03(7)  17_555  40_665  no
+  Si3  K2  Si2  37.56(7)  17_555  43_666  no
+  Si3  K2  Si2  100.59(7)  17_555  46_665  no
+  Si3  K2  Si3  103.78(7)  17_555  3_555  no
+  Si3  K2  Si3  63.05(7)  17_555  33_565  no
+  Si3  K2  Si3  62.57(7)  17_555  37_666  no
+  Si3  K2  Si3  132.51(7)  17_555  40_665  no
+  Si3  K2  K2  137.76  17_555  7_555  no
+  Si3  K2  K2  42.24  17_555  7_655  no
+  Si3  K2  Si3  70.10(7)  20_554  23_555  no
+  Si3  K2  Si3  123.24(7)  20_554  25_565  no
+  Si3  K2  Si3  161.70(7)  20_554  28_565  no
+  Si3  K2  Si1  39.59  20_554  2_555  no
+  Si3  K2  Si1  158.37  20_554  3_555  no
+  Si3  K2  Si1  96.74  20_554  6_555  no
+  Si3  K2  Si1  73.95  20_554  13_554  no
+  Si3  K2  Si2  96.82(7)  20_554  .  no
+  Si3  K2  Si2  63.22(7)  20_554  4_555  no
+  Si3  K2  Si2  98.25(7)  20_554  31_565  no
+  Si3  K2  Si2  135.48(7)  20_554  34_565  no
+  Si3  K2  Si2  100.59(7)  20_554  37_666  no
+  Si3  K2  Si2  37.56(7)  20_554  40_665  no
+  Si3  K2  Si2  122.03(7)  20_554  43_666  no
+  Si3  K2  Si2  63.50(7)  20_554  46_665  no
+  Si3  K2  Si3  63.05(7)  20_554  3_555  no
+  Si3  K2  Si3  103.78(7)  20_554  33_565  no
+  Si3  K2  Si3  132.51(7)  20_554  37_666  no
+  Si3  K2  Si3  62.57(7)  20_554  40_665  no
+  Si3  K2  K2  137.76  20_554  7_555  no
+  Si3  K2  K2  42.24  20_554  7_655  no
+  Si3  K2  Si3  161.70(7)  23_555  25_565  no
+  Si3  K2  Si3  123.24(7)  23_555  28_565  no
+  Si3  K2  Si1  39.59  23_555  2_555  no
+  Si3  K2  Si1  96.74  23_555  3_555  no
+  Si3  K2  Si1  158.37  23_555  6_555  no
+  Si3  K2  Si1  73.95  23_555  13_554  no
+  Si3  K2  Si2  63.22(7)  23_555  .  no
+  Si3  K2  Si2  96.82(7)  23_555  4_555  no
+  Si3  K2  Si2  135.48(7)  23_555  31_565  no
+  Si3  K2  Si2  98.25(7)  23_555  34_565  no
+  Si3  K2  Si2  37.56(7)  23_555  37_666  no
+  Si3  K2  Si2  100.59(7)  23_555  40_665  no
+  Si3  K2  Si2  63.50(7)  23_555  43_666  no
+  Si3  K2  Si2  122.03(7)  23_555  46_665  no
+  Si3  K2  Si3  63.05(7)  23_555  3_555  no
+  Si3  K2  Si3  103.78(7)  23_555  33_565  no
+  Si3  K2  Si3  62.57(7)  23_555  37_666  no
+  Si3  K2  Si3  132.51(7)  23_555  40_665  no
+  Si3  K2  K2  137.76  23_555  7_555  no
+  Si3  K2  K2  42.24  23_555  7_655  no
+  Si3  K2  Si3  40.90(7)  25_565  28_565  no
+  Si3  K2  Si1  158.37  25_565  2_555  no
+  Si3  K2  Si1  73.95  25_565  3_555  no
+  Si3  K2  Si1  39.59  25_565  6_555  no
+  Si3  K2  Si1  96.74  25_565  13_554  no
+  Si3  K2  Si2  122.03(7)  25_565  .  no
+  Si3  K2  Si2  100.59(7)  25_565  4_555  no
+  Si3  K2  Si2  37.56(7)  25_565  31_565  no
+  Si3  K2  Si2  63.50(7)  25_565  34_565  no
+  Si3  K2  Si2  135.48(7)  25_565  37_666  no
+  Si3  K2  Si2  96.82(7)  25_565  40_665  no
+  Si3  K2  Si2  98.25(7)  25_565  43_666  no
+  Si3  K2  Si2  63.22(7)  25_565  46_665  no
+  Si3  K2  Si3  132.51(7)  25_565  3_555  no
+  Si3  K2  Si3  62.57(7)  25_565  33_565  no
+  Si3  K2  Si3  103.78(7)  25_565  37_666  no
+  Si3  K2  Si3  63.05(7)  25_565  40_665  no
+  Si3  K2  K2  42.24  25_565  7_555  no
+  Si3  K2  K2  137.76  25_565  7_655  no
+  Si3  K2  Si1  158.37  28_565  2_555  no
+  Si3  K2  Si1  39.59  28_565  3_555  no
+  Si3  K2  Si1  73.95  28_565  6_555  no
+  Si3  K2  Si1  96.74  28_565  13_554  no
+  Si3  K2  Si2  100.59(7)  28_565  .  no
+  Si3  K2  Si2  122.03(7)  28_565  4_555  no
+  Si3  K2  Si2  63.50(7)  28_565  31_565  no
+  Si3  K2  Si2  37.56(7)  28_565  34_565  no
+  Si3  K2  Si2  96.82(7)  28_565  37_666  no
+  Si3  K2  Si2  135.48(7)  28_565  40_665  no
+  Si3  K2  Si2  63.22(7)  28_565  43_666  no
+  Si3  K2  Si2  98.25(7)  28_565  46_665  no
+  Si3  K2  Si3  132.51(7)  28_565  3_555  no
+  Si3  K2  Si3  62.57(7)  28_565  33_565  no
+  Si3  K2  Si3  63.05(7)  28_565  37_666  no
+  Si3  K2  Si3  103.78(7)  28_565  40_665  no
+  Si3  K2  K2  42.24  28_565  7_555  no
+  Si3  K2  K2  137.76  28_565  7_655  no
+  Si1  K2  Si1  120.00  2_555  3_555  no
+  Si1  K2  Si1  120.00  2_555  6_555  no
+  Si1  K2  Si1  90.00  2_555  13_554  no
+  Si1  K2  Si2  61.58  2_555  .  no
+  Si1  K2  Si2  61.58  2_555  4_555  no
+  Si1  K2  Si2  136.59  2_555  31_565  no
+  Si1  K2  Si2  136.59  2_555  34_565  no
+  Si1  K2  Si2  61.58  2_555  37_666  no
+  Si1  K2  Si2  61.58  2_555  40_665  no
+  Si1  K2  Si2  103.02  2_555  43_666  no
+  Si1  K2  Si2  103.02  2_555  46_665  no
+  Si1  K2  Si3  36.65  2_555  3_555  no
+  Si1  K2  Si3  126.65  2_555  33_565  no
+  Si1  K2  Si3  95.89  2_555  37_666  no
+  Si1  K2  Si3  95.89  2_555  40_665  no
+  Si1  K2  K2  135.00  2_555  7_555  no
+  Si1  K2  K2  45.00  2_555  7_655  no
+  Si1  K2  Si1  90.00  3_555  6_555  no
+  Si1  K2  Si1  120.00  3_555  13_554  no
+  Si1  K2  Si2  61.58  3_555  .  no
+  Si1  K2  Si2  103.02  3_555  4_555  no
+  Si1  K2  Si2  103.02  3_555  31_565  no
+  Si1  K2  Si2  61.58  3_555  34_565  no
+  Si1  K2  Si2  61.58  3_555  37_666  no
+  Si1  K2  Si2  136.59  3_555  40_665  no
+  Si1  K2  Si2  61.58  3_555  43_666  no
+  Si1  K2  Si2  136.59  3_555  46_665  no
+  Si1  K2  Si3  95.89  3_555  3_555  no
+  Si1  K2  Si3  95.89  3_555  33_565  no
+  Si1  K2  Si3  36.65  3_555  37_666  no
+  Si1  K2  Si3  126.65  3_555  40_665  no
+  Si1  K2  K2  45.00  3_555  7_555  no
+  Si1  K2  K2  135.00  3_555  7_655  no
+  Si1  K2  Si1  120.00  6_555  13_554  no
+  Si1  K2  Si2  103.02  6_555  .  no
+  Si1  K2  Si2  61.58  6_555  4_555  no
+  Si1  K2  Si2  61.58  6_555  31_565  no
+  Si1  K2  Si2  103.02  6_555  34_565  no
+  Si1  K2  Si2  136.59  6_555  37_666  no
+  Si1  K2  Si2  61.58  6_555  40_665  no
+  Si1  K2  Si2  136.59  6_555  43_666  no
+  Si1  K2  Si2  61.58  6_555  46_665  no
+  Si1  K2  Si3  95.89  6_555  3_555  no
+  Si1  K2  Si3  95.89  6_555  33_565  no
+  Si1  K2  Si3  126.65  6_555  37_666  no
+  Si1  K2  Si3  36.65  6_555  40_665  no
+  Si1  K2  K2  45.00  6_555  7_555  no
+  Si1  K2  K2  135.00  6_555  7_655  no
+  Si1  K2  Si2  136.59  13_554  .  no
+  Si1  K2  Si2  136.59  13_554  4_555  no
+  Si1  K2  Si2  61.58  13_554  31_565  no
+  Si1  K2  Si2  61.58  13_554  34_565  no
+  Si1  K2  Si2  103.02  13_554  37_666  no
+  Si1  K2  Si2  103.02  13_554  40_665  no
+  Si1  K2  Si2  61.58  13_554  43_666  no
+  Si1  K2  Si2  61.58  13_554  46_665  no
+  Si1  K2  Si3  126.65  13_554  3_555  no
+  Si1  K2  Si3  36.65  13_554  33_565  no
+  Si1  K2  Si3  95.89  13_554  37_666  no
+  Si1  K2  Si3  95.89  13_554  40_665  no
+  Si1  K2  K2  135.00  13_554  7_555  no
+  Si1  K2  K2  45.00  13_554  7_655  no
+  Si2  K2  Si2  59.44(7)  .  4_555  no
+  Si2  K2  Si2  159.59(7)  .  31_565  no
+  Si2  K2  Si2  116.46(7)  .  34_565  no
+  Si2  K2  Si2  35.75(7)  .  37_666  no
+  Si2  K2  Si2  91.80(7)  .  40_665  no
+  Si2  K2  Si2  91.80(7)  .  43_666  no
+  Si2  K2  Si2  150.97(7)  .  46_665  no
+  Si2  K2  Si3  35.37(7)  .  3_555  no
+  Si2  K2  Si3  150.10(7)  .  33_565  no
+  Si2  K2  Si3  58.92(7)  .  37_666  no
+  Si2  K2  Si3  117.70(7)  .  40_665  no
+  Si2  K2  K2  79.79  .  7_555  no
+  Si2  K2  K2  100.21  .  7_655  no
+  Si2  K2  Si2  116.46(7)  4_555  31_565  no
+  Si2  K2  Si2  159.59(7)  4_555  34_565  no
+  Si2  K2  Si2  91.80(7)  4_555  37_666  no
+  Si2  K2  Si2  35.75(7)  4_555  40_665  no
+  Si2  K2  Si2  150.97(7)  4_555  43_666  no
+  Si2  K2  Si2  91.80(7)  4_555  46_665  no
+  Si2  K2  Si3  35.37(7)  4_555  3_555  no
+  Si2  K2  Si3  150.10(7)  4_555  33_565  no
+  Si2  K2  Si3  117.70(7)  4_555  37_666  no
+  Si2  K2  Si3  58.92(7)  4_555  40_665  no
+  Si2  K2  K2  79.79  4_555  7_555  no
+  Si2  K2  K2  100.21  4_555  7_655  no
+  Si2  K2  Si2  59.44(7)  31_565  34_565  no
+  Si2  K2  Si2  150.97(7)  31_565  37_666  no
+  Si2  K2  Si2  91.80(7)  31_565  40_665  no
+  Si2  K2  Si2  91.80(7)  31_565  43_666  no
+  Si2  K2  Si2  35.75(7)  31_565  46_665  no
+  Si2  K2  Si3  150.10(7)  31_565  3_555  no
+  Si2  K2  Si3  35.37(7)  31_565  33_565  no
+  Si2  K2  Si3  117.70(7)  31_565  37_666  no
+  Si2  K2  Si3  58.92(7)  31_565  40_665  no
+  Si2  K2  K2  79.79  31_565  7_555  no
+  Si2  K2  K2  100.21  31_565  7_655  no
+  Si2  K2  Si2  91.80(7)  34_565  37_666  no
+  Si2  K2  Si2  150.97(7)  34_565  40_665  no
+  Si2  K2  Si2  35.75(7)  34_565  43_666  no
+  Si2  K2  Si2  91.80(7)  34_565  46_665  no
+  Si2  K2  Si3  150.10(7)  34_565  3_555  no
+  Si2  K2  Si3  35.37(7)  34_565  33_565  no
+  Si2  K2  Si3  58.92(7)  34_565  37_666  no
+  Si2  K2  Si3  117.70(7)  34_565  40_665  no
+  Si2  K2  K2  79.79  34_565  7_555  no
+  Si2  K2  K2  100.21  34_565  7_655  no
+  Si2  K2  Si2  116.46(7)  37_666  40_665  no
+  Si2  K2  Si2  59.44(7)  37_666  43_666  no
+  Si2  K2  Si2  159.59(7)  37_666  46_665  no
+  Si2  K2  Si3  58.92(7)  37_666  3_555  no
+  Si2  K2  Si3  117.70(7)  37_666  33_565  no
+  Si2  K2  Si3  35.37(7)  37_666  37_666  no
+  Si2  K2  Si3  150.10(7)  37_666  40_665  no
+  Si2  K2  K2  100.21  37_666  7_555  no
+  Si2  K2  K2  79.79  37_666  7_655  no
+  Si2  K2  Si2  159.59(7)  40_665  43_666  no
+  Si2  K2  Si2  59.44(7)  40_665  46_665  no
+  Si2  K2  Si3  58.92(7)  40_665  3_555  no
+  Si2  K2  Si3  117.70(7)  40_665  33_565  no
+  Si2  K2  Si3  150.10(7)  40_665  37_666  no
+  Si2  K2  Si3  35.37(7)  40_665  40_665  no
+  Si2  K2  K2  100.21  40_665  7_555  no
+  Si2  K2  K2  79.79  40_665  7_655  no
+  Si2  K2  Si2  116.46(7)  43_666  46_665  no
+  Si2  K2  Si3  117.70(7)  43_666  3_555  no
+  Si2  K2  Si3  58.92(7)  43_666  33_565  no
+  Si2  K2  Si3  35.37(7)  43_666  37_666  no
+  Si2  K2  Si3  150.10(7)  43_666  40_665  no
+  Si2  K2  K2  100.21  43_666  7_555  no
+  Si2  K2  K2  79.79  43_666  7_655  no
+  Si2  K2  Si3  117.70(7)  46_665  3_555  no
+  Si2  K2  Si3  58.92(7)  46_665  33_565  no
+  Si2  K2  Si3  150.10(7)  46_665  37_666  no
+  Si2  K2  Si3  35.37(7)  46_665  40_665  no
+  Si2  K2  K2  100.21  46_665  7_555  no
+  Si2  K2  K2  79.79  46_665  7_655  no
+  Si3  K2  Si3  163.30(6)  3_555  33_565  no
+  Si3  K2  Si3  91.21(6)  3_555  37_666  no
+  Si3  K2  Si3  91.21(6)  3_555  40_665  no
+  Si3  K2  K2  98.35  3_555  7_555  no
+  Si3  K2  K2  81.65  3_555  7_655  no
+  Si3  K2  Si3  91.21(6)  33_565  37_666  no
+  Si3  K2  Si3  91.21(6)  33_565  40_665  no
+  Si3  K2  K2  98.35  33_565  7_555  no
+  Si3  K2  K2  81.65  33_565  7_655  no
+  Si3  K2  Si3  163.30(6)  37_666  40_665  no
+  Si3  K2  K2  81.65  37_666  7_555  no
+  Si3  K2  K2  98.35  37_666  7_655  no
+  Si3  K2  K2  81.65  40_665  7_555  no
+  Si3  K2  K2  98.35  40_665  7_655  no
+  K2  K2  K2  180.00  7_555  7_655  no
+  Si3  Si1  Si3  111.51(10)  2_555  5_556  no
+  Si3  Si1  Si3  108.46(10)  2_555  39_666  no
+  Si3  Si1  Si3  108.46(10)  2_555  45_656  no
+  Si3  Si1  K2  66.55  2_555  2_555  no
+  Si3  Si1  K2  79.24  2_555  3_555  no
+  Si3  Si1  K2  169.24  2_555  6_556  no
+  Si3  Si1  K2  66.55  2_555  13_445  no
+  Si3  Si1  Si3  108.46(10)  5_556  39_666  no
+  Si3  Si1  Si3  108.46(10)  5_556  45_656  no
+  Si3  Si1  K2  66.55  5_556  2_555  no
+  Si3  Si1  K2  169.24  5_556  3_555  no
+  Si3  Si1  K2  79.24  5_556  6_556  no
+  Si3  Si1  K2  66.55  5_556  13_445  no
+  Si3  Si1  Si3  111.51(10)  39_666  45_656  no
+  Si3  Si1  K2  79.24  39_666  2_555  no
+  Si3  Si1  K2  66.55  39_666  3_555  no
+  Si3  Si1  K2  66.55  39_666  6_556  no
+  Si3  Si1  K2  169.24  39_666  13_445  no
+  Si3  Si1  K2  169.24  45_656  2_555  no
+  Si3  Si1  K2  66.55  45_656  3_555  no
+  Si3  Si1  K2  66.55  45_656  6_556  no
+  Si3  Si1  K2  79.24  45_656  13_445  no
+  K2  Si1  K2  120.00  2_555  3_555  no
+  K2  Si1  K2  120.00  2_555  6_556  no
+  K2  Si1  K2  90.00  2_555  13_445  no
+  K2  Si1  K2  90.00  3_555  6_556  no
+  K2  Si1  K2  120.00  3_555  13_445  no
+  K2  Si1  K2  120.00  6_556  13_445  no
+  Si2  Si2  Si3  108.8(2)  37_666  .  no
+  Si2  Si2  Si3  108.8(2)  37_666  2_555  no
+  Si2  Si2  Si3  108.8(2)  37_666  3_555  no
+  Si2  Si2  K1  179.98(15)  37_666  .  no
+  Si2  Si2  K2  72.13(11)  37_666  .  no
+  Si2  Si2  K2  72.13(11)  37_666  2_555  no
+  Si2  Si2  K2  72.13(11)  37_666  3_555  no
+  Si3  Si2  Si3  110.2(2)  .  2_555  no
+  Si3  Si2  Si3  110.2(2)  .  3_555  no
+  Si3  Si2  K1  71.24(11)  .  .  no
+  Si3  Si2  K2  63.24(10)  .  .  no
+  Si3  Si2  K2  75.78(11)  .  2_555  no
+  Si3  Si2  K2  172.80(14)  .  3_555  no
+  Si3  Si2  Si3  110.2(2)  2_555  3_555  no
+  Si3  Si2  K1  71.24(11)  2_555  .  no
+  Si3  Si2  K2  172.80(14)  2_555  .  no
+  Si3  Si2  K2  63.24(10)  2_555  2_555  no
+  Si3  Si2  K2  75.78(11)  2_555  3_555  no
+  Si3  Si2  K1  71.24(11)  3_555  .  no
+  Si3  Si2  K2  75.78(11)  3_555  .  no
+  Si3  Si2  K2  172.80(14)  3_555  2_555  no
+  Si3  Si2  K2  63.24(10)  3_555  3_555  no
+  K1  Si2  K2  107.87(8)  .  .  no
+  K1  Si2  K2  107.87(8)  .  2_555  no
+  K1  Si2  K2  107.87(8)  .  3_555  no
+  K2  Si2  K2  111.02(8)  .  2_555  no
+  K2  Si2  K2  111.02(8)  .  3_555  no
+  K2  Si2  K2  111.02(8)  2_555  3_555  no
+  Si2  Si3  Si2  106.0(2)  .  7_555  no
+  Si2  Si3  Si1  105.99(14)  .  3_555  no
+  Si2  Si3  Si3  106.7(2)  .  4_555  no
+  Si2  Si3  K1  67.04(11)  .  .  no
+  Si2  Si3  K2  79.19(11)  .  .  no
+  Si2  Si3  K2  174.45(15)  .  7_555  no
+  Si2  Si3  K2  68.85(10)  .  2_555  no
+  Si2  Si3  Si1  105.99(14)  7_555  3_555  no
+  Si2  Si3  Si3  106.7(2)  7_555  4_555  no
+  Si2  Si3  K1  67.04(11)  7_555  .  no
+  Si2  Si3  K2  174.45(15)  7_555  .  no
+  Si2  Si3  K2  79.19(11)  7_555  7_555  no
+  Si2  Si3  K2  68.85(10)  7_555  2_555  no
+  Si1  Si3  Si3  124.24(15)  3_555  4_555  no
+  Si1  Si3  K1  166.84(12)  3_555  .  no
+  Si1  Si3  K2  73.85(8)  3_555  .  no
+  Si1  Si3  K2  73.85(8)  3_555  7_555  no
+  Si1  Si3  K2  64.11(7)  3_555  2_555  no
+  Si3  Si3  K1  68.92(10)  4_555  .  no
+  Si3  Si3  K2  69.55(10)  4_555  .  no
+  Si3  Si3  K2  69.55(10)  4_555  7_555  no
+  Si3  Si3  K2  171.65(14)  4_555  2_555  no
+  K1  Si3  K2  114.21(9)  .  .  no
+  K1  Si3  K2  114.21(9)  .  7_555  no
+  K1  Si3  K2  102.73(8)  .  2_555  no
+  K2  Si3  K2  95.52(8)  .  7_555  no
+  K2  Si3  K2  115.41(8)  .  2_555  no
+  K2  Si3  K2  115.41(8)  7_555  2_555  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  K1  Si2  3.279(3)  .  yes
+  K1  Si2  3.279(3)  4_555  yes
+  K1  Si2  3.279(3)  7_555  yes
+  K1  Si2  3.279(3)  10_555  yes
+  K1  Si2  3.279(3)  25_555  yes
+  K1  Si2  3.279(3)  28_555  yes
+  K1  Si2  3.279(3)  31_555  yes
+  K1  Si2  3.279(3)  34_555  yes
+  K1  Si3  3.372(4)  .  yes
+  K1  Si3  3.372(4)  2_555  yes
+  K1  Si3  3.372(4)  3_555  yes
+  K1  Si3  3.372(4)  4_555  yes
+  K1  Si3  3.372(4)  5_555  yes
+  K1  Si3  3.372(4)  8_555  yes
+  K1  Si3  3.372(4)  9_555  yes
+  K1  Si3  3.372(4)  11_555  yes
+  K1  Si3  3.372(4)  25_555  yes
+  K1  Si3  3.372(4)  27_555  yes
+  K1  Si3  3.372(4)  28_555  yes
+  K1  Si3  3.372(4)  33_555  yes
+  K2  Si3  3.471(3)  .  yes
+  K2  Si3  3.471(3)  4_555  yes
+  K2  Si3  3.471(3)  14_554  yes
+  K2  Si3  3.471(3)  17_555  yes
+  K2  Si3  3.471(3)  20_554  yes
+  K2  Si3  3.471(3)  23_555  yes
+  K2  Si3  3.471(3)  25_565  yes
+  K2  Si3  3.471(3)  28_565  yes
+  K2  Si1  3.634  2_555  yes
+  K2  Si1  3.634  3_555  yes
+  K2  Si1  3.634  6_555  yes
+  K2  Si1  3.634  13_554  yes
+  K2  Si2  3.818(3)  .  yes
+  K2  Si2  3.818(3)  4_555  yes
+  K2  Si2  3.818(3)  31_565  yes
+  K2  Si2  3.818(3)  34_565  yes
+  K2  Si2  3.818(3)  37_666  yes
+  K2  Si2  3.818(3)  40_665  yes
+  K2  Si2  3.818(3)  43_666  yes
+  K2  Si2  3.818(3)  46_665  yes
+  K2  Si3  3.968(4)  3_555  yes
+  K2  Si3  3.968(4)  33_565  yes
+  K2  Si3  3.968(4)  37_666  yes
+  K2  Si3  3.968(4)  40_665  yes
+  K2  K2  5.139  7_555  yes
+  K2  K2  5.139  7_655  yes
+  Si1  Si3  2.411(4)  2_555  yes
+  Si1  Si3  2.411(4)  5_556  yes
+  Si1  Si3  2.411(4)  39_666  yes
+  Si1  Si3  2.411(4)  45_656  yes
+  Si2  Si2  2.344(5)  37_666  yes
+  Si2  Si3  2.370(4)  .  yes
+  Si2  Si3  2.370(4)  2_555  yes
+  Si2  Si3  2.370(4)  3_555  yes
+  Si3  Si3  2.426(5)  4_555  yes

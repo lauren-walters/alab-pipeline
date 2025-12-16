@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_1535394
+loop_
+ _publ_author_name
+  'Thauern, H.'
+  'Glaum, R.'
+_publ_section_title
+;
+Synthesis, Crystal Structure Determination and Vibrational Spectra of
+Indium(II) Indium(III) Oxidephosphate, (In2)4+(In3+)2 O2 (P O4)2
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first   2463
+_journal_page_last   2467
+_journal_volume   630
+_journal_year   2004
+_chemical_formula_sum   'In2 O5 P'
+_chemical_name_systematic   'In2 O (P O4)'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   107.72
+_cell_angle_beta   109.21
+_cell_angle_gamma   95.76
+_cell_formula_units_Z   2
+_cell_length_a   5.22
+_cell_length_b   6.322
+_cell_length_c   6.789
+_cell_volume   196.459
+_citation_journal_id_ASTM   ZAACAB
+_cod_data_source_file   Thauern_ZAACAB_2004_1495.cif
+_cod_data_source_block   In2O5P1
+_cod_original_cell_volume   196.4595
+_cod_original_formula_sum   'In2 O5 P1'
+_cod_database_code   1535394
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0.0558  -0.0645  0.2233  1  0.0
+  O5  O-2  0.2441  0.5148  -0.0357  1  0.0
+  In2  In+3  0.16654  0.63122  0.27065  1  0.0
+  O2  O-2  -0.0799  0.2669  0.4366  1  0.0
+  P1  P+5  0.16609  0.18008  0.39506  1  0.0
+  O3  O-2  0.292  0.3259  0.2886  1  0.0
+  O1  O-2  0.3994  0.1936  0.6106  1  0.0
+  In1  In+2  0.5663  0.78847  0.0107  1  0.0

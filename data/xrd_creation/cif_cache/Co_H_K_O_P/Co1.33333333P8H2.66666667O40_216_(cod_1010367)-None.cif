@@ -1,0 +1,160 @@
+# generated using pymatgen
+data_1010367
+loop_
+ _publ_author_name
+  'Ferrari, A'
+  'Colla, C'
+_publ_section_title
+;
+Ricerche sui sali dei cationi esaidrati.- I. Ipofosfiti esaidrati di
+metalli bivalenti
+;
+_journal_coden_ASTM   GCITA9
+_journal_name_full   'Gazzetta Chimica Italiana'
+_journal_page_first   294
+_journal_page_last   301
+_journal_volume   67
+_journal_year   1937
+_chemical_formula_structural   'Co (H2 P O2)2 (H2 O)6'
+_chemical_formula_sum   'Co H16 O10 P2'
+_chemical_name_systematic
+'Cobalt dihydrogenphosphate(I) hexahydrate'
+_space_group_IT_number   216
+_symmetry_cell_setting   cubic
+_symmetry_Int_Tables_number   216
+_symmetry_space_group_name_Hall   'F -4 2 3'
+_symmetry_space_group_name_H-M   'F -4 3 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   10.22
+_cell_length_b   10.22
+_cell_length_c   10.22
+_cell_volume   1067.5
+_exptl_crystal_density_meas   1.81
+_cod_original_formula_sum   'H16 Co O10 P2'
+_cod_database_code   1010367
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  y,z,x
+  z,x,y
+  x,z,y
+  y,x,z
+  z,y,x
+  x,-y,-z
+  y,-z,-x
+  z,-x,-y
+  x,-z,-y
+  y,-x,-z
+  z,-y,-x
+  -x,y,-z
+  -y,z,-x
+  -z,x,-y
+  -x,z,-y
+  -y,x,-z
+  -z,y,-x
+  -x,-y,z
+  -y,-z,x
+  -z,-x,y
+  -x,-z,y
+  -y,-x,z
+  -z,-y,x
+  x,1/2+y,1/2+z
+  1/2+x,y,1/2+z
+  1/2+x,1/2+y,z
+  y,1/2+z,1/2+x
+  1/2+y,z,1/2+x
+  1/2+y,1/2+z,x
+  z,1/2+x,1/2+y
+  1/2+z,x,1/2+y
+  1/2+z,1/2+x,y
+  x,1/2+z,1/2+y
+  1/2+x,z,1/2+y
+  1/2+x,1/2+z,y
+  y,1/2+x,1/2+z
+  1/2+y,x,1/2+z
+  1/2+y,1/2+x,z
+  z,1/2+y,1/2+x
+  1/2+z,y,1/2+x
+  1/2+z,1/2+y,x
+  x,1/2-y,1/2-z
+  1/2+x,-y,1/2-z
+  1/2+x,1/2-y,-z
+  y,1/2-z,1/2-x
+  1/2+y,-z,1/2-x
+  1/2+y,1/2-z,-x
+  z,1/2-x,1/2-y
+  1/2+z,-x,1/2-y
+  1/2+z,1/2-x,-y
+  x,1/2-z,1/2-y
+  1/2+x,-z,1/2-y
+  1/2+x,1/2-z,-y
+  y,1/2-x,1/2-z
+  1/2+y,-x,1/2-z
+  1/2+y,1/2-x,-z
+  z,1/2-y,1/2-x
+  1/2+z,-y,1/2-x
+  1/2+z,1/2-y,-x
+  -x,1/2+y,1/2-z
+  1/2-x,y,1/2-z
+  1/2-x,1/2+y,-z
+  -y,1/2+z,1/2-x
+  1/2-y,z,1/2-x
+  1/2-y,1/2+z,-x
+  -z,1/2+x,1/2-y
+  1/2-z,x,1/2-y
+  1/2-z,1/2+x,-y
+  -x,1/2+z,1/2-y
+  1/2-x,z,1/2-y
+  1/2-x,1/2+z,-y
+  -y,1/2+x,1/2-z
+  1/2-y,x,1/2-z
+  1/2-y,1/2+x,-z
+  -z,1/2+y,1/2-x
+  1/2-z,y,1/2-x
+  1/2-z,1/2+y,-x
+  -x,1/2-y,1/2+z
+  1/2-x,-y,1/2+z
+  1/2-x,1/2-y,z
+  -y,1/2-z,1/2+x
+  1/2-y,-z,1/2+x
+  1/2-y,1/2-z,x
+  -z,1/2-x,1/2+y
+  1/2-z,-x,1/2+y
+  1/2-z,1/2-x,y
+  -x,1/2-z,1/2+y
+  1/2-x,-z,1/2+y
+  1/2-x,1/2-z,y
+  -y,1/2-x,1/2+z
+  1/2-y,-x,1/2+z
+  1/2-y,1/2-x,z
+  -z,1/2-y,1/2+x
+  1/2-z,-y,1/2+x
+  1/2-z,1/2-y,x
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Co1  Co2+  4  a  0.  0.  0.  1.  0  d
+  P1  P1+  16  e  0.29  0.29  0.29  0.5  2  d
+  O1  O2-  16  e  0.19  0.19  0.19  0.5  0  d
+  O2  O2-  16  e  0.39  0.39  0.39  0.5  0  d
+  O3  O2-  24  f  0.21  0.  0.  1.  2  d
+  H1  H1+  16  e  -1.  -1.  -1.  1.  0  dum
+  H2  H1+  48  h  -1.  -1.  -1.  1.  0  dum
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Co2+  2.000
+  P1+  1.000
+  O2-  -2.000
+  H1+  1.000

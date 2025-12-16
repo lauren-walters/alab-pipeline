@@ -1,0 +1,263 @@
+# generated using pymatgen
+data_9009785
+loop_
+ _publ_author_name
+  'Dihlstrom, K.'
+  'Westgren, A.'
+_publ_section_title
+;
+Uber den bau des sogenannten antimontetroxyds  und der damit
+isomorphen verbindung BiTa2O6F  Note: x(O) chosen to match reported
+bond lengths
+;
+_journal_name_full
+'Zeitschrift fur Anorganische und Allgemeine Chemie'
+_journal_page_first   153
+_journal_page_last   160
+_journal_volume   235
+_journal_year   1937
+_chemical_formula_sum   'H O7 Sb3'
+_chemical_name_mineral   Stibiconite
+_space_group_IT_number   227
+_symmetry_space_group_name_Hall   '-F 4vw 2vw 3'
+_symmetry_space_group_name_H-M   'F d -3 m :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   10.28
+_cell_length_b   10.28
+_cell_length_c   10.28
+_cell_volume   1086.374
+_database_code_amcsd   0015746
+_exptl_crystal_density_diffrn   5.848
+_cod_original_sg_symbol_H-M   'F d 3 m'
+_cod_original_formula_sum   'Sb3 O7 H'
+_cod_database_code   9009785
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2+y,1/2+z
+  1/2+x,y,1/2+z
+  1/2+x,1/2+y,z
+  3/4+z,1/2-x,1/4+y
+  3/4+z,-x,3/4+y
+  1/4+z,1/2-x,3/4+y
+  1/4+z,-x,1/4+y
+  3/4-y,1/2+z,1/4-x
+  3/4-y,+z,3/4-x
+  1/4-y,1/2+z,3/4-x
+  1/4-y,+z,1/4-x
+  3/4+x,1/2-y,1/4+z
+  3/4+x,-y,3/4+z
+  1/4+x,1/2-y,3/4+z
+  1/4+x,-y,1/4+z
+  3/4-z,1/2+x,1/4-y
+  3/4-z,+x,3/4-y
+  1/4-z,1/2+x,3/4-y
+  1/4-z,+x,1/4-y
+  3/4+y,1/2-z,1/4+x
+  3/4+y,-z,3/4+x
+  1/4+y,1/2-z,3/4+x
+  1/4+y,-z,1/4+x
+  3/4-x,1/2+y,1/4-z
+  3/4-x,+y,3/4-z
+  1/4-x,1/2+y,3/4-z
+  1/4-x,+y,1/4-z
+  1/2+x,3/4-z,1/4-y
+  1/2+x,1/4-z,3/4-y
+  +x,3/4-z,3/4-y
+  +x,1/4-z,1/4-y
+  1/2-z,3/4+y,1/4+x
+  1/2-z,1/4+y,3/4+x
+  -z,3/4+y,3/4+x
+  -z,1/4+y,1/4+x
+  1/2+y,3/4-x,1/4-z
+  1/2+y,1/4-x,3/4-z
+  +y,3/4-x,3/4-z
+  +y,1/4-x,1/4-z
+  1/2-x,3/4+z,1/4+y
+  1/2-x,1/4+z,3/4+y
+  -x,3/4+z,3/4+y
+  -x,1/4+z,1/4+y
+  1/2+z,3/4-y,1/4-x
+  1/2+z,1/4-y,3/4-x
+  +z,3/4-y,3/4-x
+  +z,1/4-y,1/4-x
+  1/2-y,3/4+x,1/4+z
+  1/2-y,1/4+x,3/4+z
+  -y,3/4+x,3/4+z
+  -y,1/4+x,1/4+z
+  x,1/2+z,1/2+y
+  x,+z,+y
+  1/2+x,1/2+z,+y
+  1/2+x,+z,1/2+y
+  -z,1/2-y,1/2-x
+  -z,-y,-x
+  1/2-z,1/2-y,-x
+  1/2-z,-y,1/2-x
+  y,1/2+x,1/2+z
+  y,+x,+z
+  1/2+y,1/2+x,+z
+  1/2+y,+x,1/2+z
+  -x,1/2-z,1/2-y
+  -x,-z,-y
+  1/2-x,1/2-z,-y
+  1/2-x,-z,1/2-y
+  z,1/2+y,1/2+x
+  z,+y,+x
+  1/2+z,1/2+y,+x
+  1/2+z,+y,1/2+x
+  -y,1/2-x,1/2-z
+  -y,-x,-z
+  1/2-y,1/2-x,-z
+  1/2-y,-x,1/2-z
+  3/4+z,1/4+x,1/2-y
+  3/4+z,3/4+x,-y
+  1/4+z,1/4+x,-y
+  1/4+z,3/4+x,1/2-y
+  3/4-y,1/4-z,1/2+x
+  3/4-y,3/4-z,+x
+  1/4-y,1/4-z,+x
+  1/4-y,3/4-z,1/2+x
+  3/4+x,1/4+y,1/2-z
+  3/4+x,3/4+y,-z
+  1/4+x,1/4+y,-z
+  1/4+x,3/4+y,1/2-z
+  3/4-z,1/4-x,1/2+y
+  3/4-z,3/4-x,+y
+  1/4-z,1/4-x,+y
+  1/4-z,3/4-x,1/2+y
+  3/4+y,1/4+z,1/2-x
+  3/4+y,3/4+z,-x
+  1/4+y,1/4+z,-x
+  1/4+y,3/4+z,1/2-x
+  3/4-x,1/4-y,1/2+z
+  3/4-x,3/4-y,+z
+  1/4-x,1/4-y,+z
+  1/4-x,3/4-y,1/2+z
+  -z,3/4+x,3/4+y
+  -z,1/4+x,1/4+y
+  1/2-z,3/4+x,1/4+y
+  1/2-z,1/4+x,3/4+y
+  y,3/4-z,3/4-x
+  y,1/4-z,1/4-x
+  1/2+y,3/4-z,1/4-x
+  1/2+y,1/4-z,3/4-x
+  -x,3/4+y,3/4+z
+  -x,1/4+y,1/4+z
+  1/2-x,3/4+y,1/4+z
+  1/2-x,1/4+y,3/4+z
+  z,3/4-x,3/4-y
+  z,1/4-x,1/4-y
+  1/2+z,3/4-x,1/4-y
+  1/2+z,1/4-x,3/4-y
+  -y,3/4+z,3/4+x
+  -y,1/4+z,1/4+x
+  1/2-y,3/4+z,1/4+x
+  1/2-y,1/4+z,3/4+x
+  x,3/4-y,3/4-z
+  x,1/4-y,1/4-z
+  1/2+x,3/4-y,1/4-z
+  1/2+x,1/4-y,3/4-z
+  1/4-x,1/2+z,3/4-y
+  1/4-x,+z,1/4-y
+  3/4-x,1/2+z,1/4-y
+  3/4-x,+z,3/4-y
+  1/4+z,1/2-y,3/4+x
+  1/4+z,-y,1/4+x
+  3/4+z,1/2-y,1/4+x
+  3/4+z,-y,3/4+x
+  1/4-y,1/2+x,3/4-z
+  1/4-y,+x,1/4-z
+  3/4-y,1/2+x,1/4-z
+  3/4-y,+x,3/4-z
+  1/4+x,1/2-z,3/4+y
+  1/4+x,-z,1/4+y
+  3/4+x,1/2-z,1/4+y
+  3/4+x,-z,3/4+y
+  1/4-z,1/2+y,3/4-x
+  1/4-z,+y,1/4-x
+  3/4-z,1/2+y,1/4-x
+  3/4-z,+y,3/4-x
+  1/4+y,1/2-x,3/4+z
+  1/4+y,-x,1/4+z
+  3/4+y,1/2-x,1/4+z
+  3/4+y,-x,3/4+z
+  3/4-x,3/4-z,y
+  3/4-x,1/4-z,1/2+y
+  1/4-x,3/4-z,1/2+y
+  1/4-x,1/4-z,y
+  3/4+z,3/4+y,-x
+  3/4+z,1/4+y,1/2-x
+  1/4+z,3/4+y,1/2-x
+  1/4+z,1/4+y,-x
+  3/4-y,3/4-x,z
+  3/4-y,1/4-x,1/2+z
+  1/4-y,3/4-x,1/2+z
+  1/4-y,1/4-x,z
+  3/4+x,3/4+z,-y
+  3/4+x,1/4+z,1/2-y
+  1/4+x,3/4+z,1/2-y
+  1/4+x,1/4+z,-y
+  3/4-z,3/4-y,x
+  3/4-z,1/4-y,1/2+x
+  1/4-z,3/4-y,1/2+x
+  1/4-z,1/4-y,x
+  3/4+y,3/4+x,-z
+  3/4+y,1/4+x,1/2-z
+  1/4+y,3/4+x,1/2-z
+  1/4+y,1/4+x,-z
+  -z,-x,-y
+  -z,1/2-x,1/2-y
+  1/2-z,-x,1/2-y
+  1/2-z,1/2-x,-y
+  y,z,x
+  y,1/2+z,1/2+x
+  1/2+y,z,1/2+x
+  1/2+y,1/2+z,x
+  -x,-y,-z
+  -x,1/2-y,1/2-z
+  1/2-x,-y,1/2-z
+  1/2-x,1/2-y,-z
+  z,x,y
+  z,1/2+x,1/2+y
+  1/2+z,x,1/2+y
+  1/2+z,1/2+x,y
+  -y,-z,-x
+  -y,1/2-z,1/2-x
+  1/2-y,-z,1/2-x
+  1/2-y,1/2-z,-x
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Sb1  0.00000  0.00000  0.00000  0.50000  Sb  0
+  Sb2  0.50000  0.50000  0.50000  1.00000  Sb  0
+  O  0.41500  0.12500  0.12500  1.00000  O  0
+  O-H  0.12500  0.12500  0.12500  1.00000  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:52:09+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0015746

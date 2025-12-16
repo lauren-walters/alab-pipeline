@@ -1,0 +1,239 @@
+# generated using pymatgen
+data_4323794
+loop_
+ _publ_author_name
+  'Gregory F. Nieckarz'
+  'T. J. R. Weakley'
+  'Warren K. Miller'
+  'Brian E. Miller'
+  'David K. Lyon'
+  'David R. Tyler'
+_publ_contact_author
+;
+David R. Tyler     Department of Chemistry     University of Oregon
+Eugene, OR 97403
+;
+_publ_contact_author_email   dtyler@oregon.uoregon.edu
+_publ_contact_author_fax   541-346-4643
+_publ_contact_author_phone   541-346-4649
+_publ_section_title
+;
+Generation of 19-Electron Adducts in Aqueous Solution Using the
+Water-Soluble (HOCH2)2PCH2CH2P(CH2OH)2 Ligand
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   1721
+_journal_page_last   1724
+_journal_paper_doi   10.1021/ic951071f
+_journal_volume   35
+_journal_year   1996
+_chemical_formula_moiety   'C6 H16 O4 P2'
+_chemical_formula_sum   'C6 H16 O4 P2'
+_chemical_formula_weight   214.14
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_Int_Tables_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_audit_creation_date   'Mon Nov  6 13:20:57 1995'
+_audit_creation_method   'from TEXRAY.INF file'
+_cell_angle_alpha   99.714(10)
+_cell_angle_beta   98.310(10)
+_cell_angle_gamma   108.957(10)
+_cell_formula_units_Z   1
+_cell_length_a   5.1088(7)
+_cell_length_b   6.2415(8)
+_cell_length_c   8.880(1)
+_cell_measurement_reflns_used   25
+_cell_measurement_temperature   294.2
+_cell_measurement_theta_max   13.0
+_cell_measurement_theta_min   12.0
+_cell_volume   257.85(6)
+_computing_cell_refinement   'Enraf-Nonius CAD4 software v.5'
+_computing_data_collection   'Enraf-Nonius CAD4 software v.5'
+_computing_data_reduction   'TEXSAN v.5.0'
+_computing_publication_material   'TEXSAN v.5.0'
+_computing_structure_refinement   'TEXSAN v.5.0'
+_computing_structure_solution   'TEXSAN v.5.0'
+_diffrn_ambient_temperature   294.2
+_diffrn_measurement_device   CAD4
+_diffrn_measurement_method   'omega/2-theta scans'
+_diffrn_orient_matrix_UB_11   -0.02617
+_diffrn_orient_matrix_UB_12   -0.13024
+_diffrn_orient_matrix_UB_13   0.05505
+_diffrn_orient_matrix_UB_21   -0.05934
+_diffrn_orient_matrix_UB_22   -0.11456
+_diffrn_orient_matrix_UB_23   -0.10314
+_diffrn_orient_matrix_UB_31   0.20170
+_diffrn_orient_matrix_UB_32   0.01487
+_diffrn_orient_matrix_UB_33   0.00307
+_diffrn_radiation_detector   counter
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'X-ray tube'
+_diffrn_radiation_type   MoKalpha
+_diffrn_radiation_wavelength   0.7107
+_diffrn_reflns_av_R_equivalents   1.24
+_diffrn_reflns_limit_h_max   6
+_diffrn_reflns_limit_h_min   0
+_diffrn_reflns_limit_k_max   6
+_diffrn_reflns_limit_k_min   -7
+_diffrn_reflns_limit_l_max   10
+_diffrn_reflns_limit_l_min   -10
+_diffrn_reflns_number   1011
+_diffrn_reflns_theta_max   25.0
+_diffrn_reflns_theta_min   1.5
+_diffrn_standards_decay_%   -0.60
+_diffrn_standards_interval_count   60
+_diffrn_standards_number   3
+_exptl_absorpt_coefficient_mu   0.390
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour   colorless
+_exptl_crystal_density_diffrn   1.379
+_exptl_crystal_density_meas   0.000
+_exptl_crystal_description   plate
+_exptl_crystal_F_000   114.00
+_exptl_crystal_size_max   0.500
+_exptl_crystal_size_mid   0.250
+_exptl_crystal_size_min   0.100
+_refine_diff_density_max   -0.27
+_refine_diff_density_min   0.38
+_refine_ls_extinction_coef   0.00000
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_obs   3.354
+_refine_ls_hydrogen_treatment   refall
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   87
+_refine_ls_number_reflns   785
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_obs   0.0502
+_refine_ls_shift/esd_max   0.0021
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_scheme   sigma
+_refine_ls_wR_factor_obs   0.0633
+_reflns_number_observed   785
+_reflns_number_total   1011
+_reflns_observed_criterion   1.50
+_cod_data_source_file   ic951071f_1.cif
+_cod_data_source_block   C6H16O4P2
+_cod_original_cell_volume   257.8(2)
+_cod_original_sg_symbol_H-M   'P -1'
+_cod_original_formula_sum   'C6 H16 O4 P2'
+_cod_database_code   4323794
+loop_
+ _symmetry_equiv_pos_as_xyz
+  '+x,   +y,   +z'
+  '-x,   -y,   -z'
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  P()  0.0419(7)  0.0425(7)  0.0386(6)  0.0216(5)  0.0036(4)
+  0.0037(4)
+  O(1)  0.099(3)  0.045(2)  0.052(2)  0.037(2)  -0.013(2)  -0.002(2)
+  O(2)  0.084(3)  0.052(2)  0.043(2)  0.040(2)  -0.005(2)  0.007(2)
+  C(1)  0.060(3)  0.039(3)  0.044(3)  0.018(2)  0.006(2)  0.007(2)
+  C(2)  0.069(3)  0.052(3)  0.040(3)  0.030(3)  0.013(2)  0.007(2)
+  C(3)  0.042(3)  0.041(2)  0.037(2)  0.014(2)  0.006(2)  0.000(2)
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_calc_flag
+ _atom_site_calc_attached_atom
+  P()  0.4753(3)  0.6809(2)  0.3278(1)  0.0406(3)  Uij  ?  ?
+  O(1)  0.1441(9)  0.2386(6)  0.1786(4)  0.067(1)  Uij  ?  ?
+  O(2)  0.1245(8)  0.7974(6)  0.1135(4)  0.059(1)  Uij  ?  ?
+  C(1)  0.151(1)  0.4256(8)  0.2962(6)  0.049(1)  Uij  ?  ?
+  C(2)  0.397(1)  0.7818(9)  0.1502(5)  0.052(2)  Uij  ?  ?
+  C(3)  0.3886(10)  0.8772(7)  0.4754(5)  0.042(1)  Uij  ?  ?
+  H(1)  0.10(1)  0.270(9)  0.100(6)  0.06(2)  Uij  ?  ?
+  H(2)  0.15(1)  0.930(9)  0.160(6)  0.06(2)  Uij  ?  ?
+  H(3)  0.128(10)  0.378(8)  0.389(6)  0.06(1)  Uij  ?  ?
+  H(4)  0.00(1)  0.474(8)  0.269(5)  0.06(1)  Uij  ?  ?
+  H(5)  0.410(9)  0.682(7)  0.067(5)  0.05(1)  Uij  ?  ?
+  H(6)  0.54(1)  0.937(9)  0.158(5)  0.06(1)  Uij  ?  ?
+  H(7)  0.219(10)  0.892(7)  0.435(5)  0.05(1)  Uij  ?  ?
+  H(8)  0.38(1)  0.814(8)  0.573(6)  0.08(2)  Uij  ?  ?
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+ _atom_type_number_in_cell
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  0  6  0.002  0.002  'International Tables'
+  H  0  16  0.000  0.000  'International Tables'
+  O  0  4  0.008  0.006  'International Tables'
+  P  0  2  0.090  0.095  'International Tables'
+loop_
+ _diffrn_standard_refln_index_h
+ _diffrn_standard_refln_index_k
+ _diffrn_standard_refln_index_l
+  ?  ?  ?
+  ?  ?  ?
+  ?  ?  ?
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  C1  P  C2  99.5(2)  ?  ?  ?  yes
+  C1  P  C3  97.6(2)  ?  ?  ?  yes
+  C2  P  C3  102.1(2)  ?  ?  ?  yes
+  C1  O1  H1  104(3)  ?  ?  ?  yes
+  C2  O2  H2  101(3)  ?  ?  ?  yes
+  P  C1  O1  112.0(4)  ?  ?  ?  yes
+  P  C1  H3  111(2)  ?  ?  ?  yes
+  P  C1  H4  106(2)  ?  ?  ?  yes
+  O1  C1  H3  110(2)  ?  ?  ?  yes
+  O1  C1  H4  111(2)  ?  ?  ?  yes
+  H3  C1  H4  105(4)  ?  ?  ?  yes
+  P  C2  O2  116.3(3)  ?  ?  ?  yes
+  P  C2  H5  108(2)  ?  ?  ?  yes
+  P  C2  H6  109(2)  ?  ?  ?  yes
+  O2  C2  H5  106(2)  ?  ?  ?  yes
+  O2  C2  H6  107(2)  ?  ?  ?  yes
+  H5  C2  H6  108(3)  ?  ?  ?  yes
+  P  C3  C3  113.0(4)  ?  ?  ?  yes
+  P  C3  H7  109(2)  ?  ?  ?  yes
+  P  C3  H8  108(2)  ?  ?  ?  yes
+  C3  C3  H7  106(2)  ?  ?  ?  yes
+  C3  C3  H8  106(2)  ?  ?  ?  yes
+  H7  C3  H8  112(3)  ?  ?  ?  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  P  C1  1.834(5)  ?  ?  yes
+  P  C2  1.833(5)  ?  ?  yes
+  P  C3  1.842(4)  ?  ?  yes
+  O1  C1  1.416(5)  ?  ?  yes
+  O1  H1  0.78(5)  ?  ?  yes
+  O2  C2  1.421(6)  ?  ?  yes
+  O2  H2  0.82(5)  ?  ?  yes
+  C1  H3  0.93(5)  ?  ?  yes
+  C1  H4  0.91(5)  ?  ?  yes
+  C2  H5  0.91(4)  ?  ?  yes
+  C2  H6  0.99(5)  ?  ?  yes
+  C3  C3  1.528(8)  ?  ?  yes
+  C3  H7  0.93(5)  ?  ?  yes
+  C3  H8  1.01(5)  ?  ?  yes
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  9939556

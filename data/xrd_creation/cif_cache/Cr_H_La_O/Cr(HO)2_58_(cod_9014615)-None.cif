@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_9014615
+loop_
+ _publ_author_name
+  'Jahn, S.'
+  'Wunder, B.'
+  'Koch-Muller M'
+  'Tarrieu, L.'
+  'Pohle, M.'
+  'Watenphul, A.'
+  'Taran, M. N.'
+_publ_section_title
+;
+Pressure-induced hydrogen bond symmetrisation in guyanaite, B-CrOOH:
+evidence from spectroscopy and ab initio simulations  Sample: Run
+;
+_journal_name_full   'European Journal of Mineralogy'
+_journal_page_first   839
+_journal_page_last   850
+_journal_paper_doi   10.1127/0935-1221/2012/0024-2228
+_journal_volume   24
+_journal_year   2012
+_chemical_compound_source
+'synthetic at 4.0 GPa and 600 deg C for 24 hours'
+_chemical_formula_sum   'Cr H2 O2'
+_chemical_name_mineral   Guyanaite
+_space_group_IT_number   58
+_symmetry_space_group_name_Hall   '-P 2 2n'
+_symmetry_space_group_name_H-M   'P n n m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   4.8691
+_cell_length_b   4.3184
+_cell_length_c   2.9594
+_cell_formula_units_Z   2
+_cell_volume   62.226
+_database_code_amcsd   0019393
+_exptl_crystal_density_diffrn   4.590
+_cod_original_formula_sum   'Cr O2 H2'
+_cod_database_code   9014615
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2+y,1/2-z
+  1/2-x,1/2+y,1/2+z
+  1/2+x,1/2-y,1/2-z
+  x,y,-z
+  -x,-y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Cr  0.00000  0.00000  0.00000
+  O  0.35300  0.24300  0.00000
+  H  0.52190  0.04150  0.00000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0019393

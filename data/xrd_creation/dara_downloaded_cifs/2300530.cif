@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_2300530
+loop_
+ _publ_author_name
+  'Thomas, J.O.'
+  'Ersson, N.O.'
+  'Andersson, Y.'
+_publ_section_title
+;
+An X-Ray film powder profile refinement of the crystal structure of
+Ta5  P3
+;
+_journal_name_full   'Journal of Applied Crystallography'
+_journal_page_first   605
+_journal_page_last   607
+_journal_volume   13
+_journal_year   1980
+_chemical_formula_sum   'P3 Ta5'
+_chemical_name_systematic   'Ta5 P3'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   25.321
+_cell_length_b   3.4013
+_cell_length_c   11.4614
+_cell_volume   987.105
+_citation_journal_id_ASTM   JACGAR
+_cod_data_source_file   Thomas_JACGAR_1980_561.cif
+_cod_data_source_block   P3Ta5
+_cod_original_cell_volume   987.1052
+_cod_database_code   2300530
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x,y+1/2,-z
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x-1/2,y-1/2,z-1/2
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P5  P  0.357  0.25  0.1688  1  0.0
+  P1  P  0.0482  0.25  0.768  1  0.0
+  P6  P  0.4261  0.25  0.9066  1  0.0
+  P2  P  0.0937  0.25  0.036  1  0.0
+  Ta10  Ta  0.4996  0.25  0.107  1  0.0
+  Ta2  Ta  0.1255  0.25  0.2873  1  0.0
+  Ta6  Ta  0.3239  0.25  0.9505  1  0.0
+  Ta8  Ta  0.4546  0.25  0.6933  1  0.0
+  Ta3  Ta  0.137  0.25  0.8454  1  0.0
+  Ta7  Ta  0.3492  0.25  0.5568  1  0.0
+  Ta5  Ta  0.2614  0.25  0.3502  1  0.0
+  Ta1  Ta  0.1011  0.25  0.5714  1  0.0
+  P4  P  0.3075  0.25  0.7218  1  0.0
+  Ta9  Ta  0.463  0.25  0.4157  1  0.0
+  Ta4  Ta  0.2239  0.25  0.6244  1  0.0
+  P3  P  0.2158  0.25  0.9912  1  0.0

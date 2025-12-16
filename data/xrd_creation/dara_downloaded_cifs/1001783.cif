@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_1001783
+loop_
+ _publ_author_name
+  'Dormann, J.'
+  'Gasperin, M.'
+  'Poullen, J. F.'
+_publ_section_title
+;
+Etude structurale de la sequence d'oxydation de la vivianite
+Fe3(PO4)2*8(H2O)
+;
+_journal_name_full   'Bulletin de Mineralogie'
+_journal_page_first   147
+_journal_page_last   160
+_journal_volume   105
+_journal_year   1982
+_chemical_compound_source   'from Kamysch-Burun, USSR'
+_chemical_formula_structural   'Fe3 (P O4)2 (H2 O)8'
+_chemical_formula_sum   'Fe3 H16 O16 P2'
+_chemical_name_mineral   Metavivianite
+_chemical_name_systematic   'Triiron bis(phosphate(V)) octahydrate'
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_Int_Tables_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   95.04(1)
+_cell_angle_beta   96.94(1)
+_cell_angle_gamma   107.72(1)
+_cell_formula_units_Z   1
+_cell_length_a   7.84(1)
+_cell_length_b   9.11(1)
+_cell_length_c   4.67(1)
+_cell_volume   312.6
+_exptl_crystal_density_meas   2.69
+_refine_ls_R_factor_all   0.133
+_cod_original_formula_sum   'H16 Fe3 O16 P2'
+_cod_database_code   1001783
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Fe1  Fe2+  1  a  0.  0.  0.  1.  0  d
+  Fe2  Fe2+  2  i  0.3708(5)  0.5921(4)  0.4908(7)  1.  0  d
+  P1  P5+  2  i  0.6906(8)  0.6717(7)  0.0456(12)  1.  0  d
+  O1  O2-  2  i  0.2449(24)  0.4449(21)  0.1257(39)  1.  0  d
+  O2  O2-  2  i  0.4521(25)  0.2831(19)  0.1439(36)  1.  0  d
+  O3  O2-  2  i  0.8490(25)  0.8192(21)  0.1651(39)  1.  0  d
+  O4  O2-  2  i  0.9169(27)  0.1356(23)  0.2658(43)  1.  2  d
+  O5  O2-  2  i  0.3736(27)  0.7891(23)  0.2952(42)  1.  2  d
+  O6  O2-  2  i  0.2094(23)  0.0039(20)  0.2992(37)  1.  2  d
+  O7  O2-  2  i  0.6135(21)  0.6050(18)  0.3098(34)  1.  0  d
+  O8  O2-  2  i  0.8525(27)  0.4076(23)  0.3337(43)  1.  2  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Fe2+  2.000
+  P5+  5.000
+  O2-  -2.000
+  H1+  1.000
+_database_code_amcsd   0012078

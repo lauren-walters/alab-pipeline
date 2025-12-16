@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_1542153
+loop_
+ _publ_author_name
+  'Nord, A.G.'
+_publ_section_title
+'The structure of cobalt(II) tetrametaphosphate, Co2 P4 O12'
+_journal_name_full   'Crystal Structure Communications'
+_journal_page_first   1467
+_journal_page_last   1474
+_journal_volume   11
+_journal_year   1982
+_chemical_formula_sum   'Co2 O12 P4'
+_chemical_name_systematic   'Co2 (P4 O12)'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   118.72
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   11.809
+_cell_length_b   8.297
+_cell_length_c   9.923
+_cell_volume   852.641
+_citation_journal_id_ASTM   CSCMCS
+_cod_data_source_file   Nord_CSCMCS_1982_1388.cif
+_cod_data_source_block   Co2O12P4
+_cod_original_cell_volume   852.6409
+_cod_database_code   1542153
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0.143  0.36  0.06  1  0.0
+  O3  O-2  0.075  0.614  0.158  1  0.0
+  O6  O-2  0.038  0.122  -0.093  1  0.0
+  O5  O-2  -0.053  0.243  0.083  1  0.0
+  P1  P+5  0.006  0.263  -0.025  1  0.0
+  O2  O-2  0.297  0.579  0.18  1  0.0
+  Co1  Co+2  0  0.055  0.25  1  0.0
+  P2  P+5  0.196  0.498  0.199  1  0.0
+  O1  O-2  0.227  0.422  0.343  1  0.0
+  Co2  Co+2  0.25  0.25  0.5  1  0.0

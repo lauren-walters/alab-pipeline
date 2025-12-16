@@ -1,0 +1,31 @@
+{
+  "experiment_id": "66471f2ae84e87556c098850",
+  "experiment_name": "NSC_139",
+  "success": true,
+  "error": null,
+  "rwp": 10.85,
+  "rp": 7.61,
+  "rexp": 2.42,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "NbPO5_85_(cod_1517722)-24",
+      "spacegroup": "P4/n",
+      "weight_fraction": 0.2838,
+      "weight_fraction_error": 0.0021,
+      "lattice_a_nm": 0.639203,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.4106,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 20.08
+    }
+  ],
+  "chemical_system": "Na-Nb-O-P",
+  "target_formula": "Na0.55Nb2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:42:28.625989",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,57 @@
+{
+  "experiment_id": "6671cb6bd3e1f98cc04482ab",
+  "experiment_name": "Na_292",
+  "success": true,
+  "error": null,
+  "rwp": 20.71,
+  "rp": 12.35,
+  "rexp": 2.79,
+  "num_phases": 3,
+  "phases": [
+    {
+      "phase_name": "La2O3_194_(cod_2002286)-None",
+      "spacegroup": "P6_3/m2/m2/c",
+      "weight_fraction": 0.04238,
+      "weight_fraction_error": 0.00052,
+      "lattice_a_nm": 0.393875,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.613168,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 19.42
+    },
+    {
+      "phase_name": "Na3La(PO4)2_29_(cod_4345164)-0",
+      "spacegroup": "Pca2_1",
+      "weight_fraction": 0.0163,
+      "weight_fraction_error": 0.001,
+      "lattice_a_nm": 1.40876,
+      "lattice_b_nm": 0.53528,
+      "lattice_c_nm": 1.87194,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 10.45
+    },
+    {
+      "phase_name": "P2O5_43_(cod_1544347)-0",
+      "spacegroup": "Fdd2",
+      "weight_fraction": 0.0277,
+      "weight_fraction_error": 0.0017,
+      "lattice_a_nm": 0.81961,
+      "lattice_b_nm": 1.64771,
+      "lattice_c_nm": 0.52889,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 21.56
+    }
+  ],
+  "chemical_system": "La-Na-O-P",
+  "target_formula": "Na5LaP2O9",
+  "analysis_timestamp": "2025-12-06T14:00:25.055788",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

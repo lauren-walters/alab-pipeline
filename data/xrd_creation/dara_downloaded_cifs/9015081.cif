@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_9015081
+loop_
+ _publ_author_name
+  'Burns, D. M.'
+  'Iball, J.'
+_publ_section_title
+;
+The crystal and molecular structure of fluorene  Note: Positions of
+hydrogen atoms were not given
+;
+_journal_name_full   'Proceedings of the Royal Society of London A'
+_journal_page_first   200
+_journal_page_last   214
+_journal_paper_doi   10.1098/rspa.1955.0004
+_journal_volume   227
+_journal_year   1955
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   'C13 H10'
+_chemical_name_mineral   Kratochvilite
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2c 2n'
+_symmetry_space_group_name_H-M   'P n a m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   8.49
+_cell_length_b   5.721
+_cell_length_c   18.97
+_cell_formula_units_Z   4
+_cell_volume   921.397
+_database_code_amcsd   0018397
+_exptl_crystal_density_diffrn   1.126
+_cod_depositor_comments
+;
+2024-06-04 Formula fixed to account for H atoms
+miguel
+;
+_cod_original_formula_sum   C13
+_cod_database_code   9015081
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  1/2-x,1/2+y,1/2+z
+  1/2+x,1/2-y,1/2-z
+  1/2+x,1/2-y,z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_attached_hydrogens
+  C1  0.64200  0.56600  0.21100  0
+  C2  0.57300  0.72400  0.16300  1
+  C3  0.59300  0.67600  0.09100  1
+  C4  0.67900  0.48400  0.06800  1
+  C5  0.75000  0.33500  0.11400  1
+  C6  0.73300  0.37300  0.18900  0
+  C7  0.79600  0.25000  0.25000  2
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0018397

@@ -1,0 +1,162 @@
+# generated using pymatgen
+data_1545655
+loop_
+ _publ_author_name
+  'Y. Piffard'
+  'A. Lachgar'
+  'M. Tournoux'
+_publ_section_title
+'Structure cristalline du phosphatoantimonate K3Sb3P2O14'
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   253
+_journal_page_last   256
+_journal_paper_doi   10.1016/0022-4596(85)90242-7
+_journal_volume   58
+_journal_year   1985
+_chemical_formula_moiety   'O14 P2 Sb3, 3(K)'
+_chemical_formula_sum   'K3 O14 P2 Sb3'
+_chemical_formula_weight   768.514
+_space_group_IT_number   166
+_symmetry_cell_setting   trigonal
+_symmetry_Int_Tables_number   166
+_symmetry_space_group_name_Hall   '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   120.
+_cell_formula_units_Z   3
+_cell_length_a   7.147(1)
+_cell_length_b   7.147(1)
+_cell_length_c   30.936(6)
+_cell_volume   1368.5(4)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   5.35
+_exptl_crystal_density_diffrn   2.798
+_exptl_crystal_F_000   1056
+_refine_ls_number_parameters   31
+_refine_ls_number_reflns   701
+_refine_ls_R_factor_gt   0.033
+_refine_ls_wR_factor_gt   0.042
+_cod_data_source_file   JSSC-1985-58-253-256.cif
+_cod_data_source_block   K3Sb3P2O14
+_cod_original_cell_volume   1368.5(5)
+_cod_original_sg_symbol_H-M   'R -3 m'
+_cod_database_code   1545655
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  y,x,-z
+  5  -x,-x+y,-z
+  6  x-y,-y,-z
+  7  -x,-y,-z
+  8  y,-x+y,-z
+  9  x-y,x,-z
+  10  -y,-x,z
+  11  x,x-y,z
+  12  -x+y,y,z
+  13  1/3+x,2/3+y,2/3+z
+  14  1/3-y,2/3+x-y,2/3+z
+  15  1/3-x+y,2/3-x,2/3+z
+  16  1/3+y,2/3+x,2/3-z
+  17  1/3-x,2/3-x+y,2/3-z
+  18  1/3+x-y,2/3-y,2/3-z
+  19  1/3-x,2/3-y,2/3-z
+  20  1/3+y,2/3-x+y,2/3-z
+  21  1/3+x-y,2/3+x,2/3-z
+  22  1/3-y,2/3-x,2/3+z
+  23  1/3+x,2/3+x-y,2/3+z
+  24  1/3-x+y,2/3+y,2/3+z
+  25  2/3+x,1/3+y,1/3+z
+  26  2/3-y,1/3+x-y,1/3+z
+  27  2/3-x+y,1/3-x,1/3+z
+  28  2/3+y,1/3+x,1/3-z
+  29  2/3-x,1/3-x+y,1/3-z
+  30  2/3+x-y,1/3-y,1/3-z
+  31  2/3-x,1/3-y,1/3-z
+  32  2/3+y,1/3-x+y,1/3-z
+  33  2/3+x-y,1/3+x,1/3-z
+  34  2/3-y,1/3-x,1/3+z
+  35  2/3+x,1/3+x-y,1/3+z
+  36  2/3-x+y,1/3+y,1/3+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Sb  Sb  Uiso  0.50000  0.00000  0.00000  1.000  0.0072(1)  .  .  .
+  .
+  P  P  Uiso  0.00000  0.00000  0.25309(9)  1.000  0.0101(4)  .  .
+  .  .
+  O1  O  Uiso  0.4641(4)  -0.4641(4)  0.31740(10)  1.000  0.0125(6)
+  .  .  .  .
+  O2  O  Uiso  0.5488(4)  -0.5488(4)  0.06210(10)  1.000  0.0136(6)
+  .  .  .  .
+  O3  O  Uiso  0.00000  0.00000  0.2050(3)  1.000  0.0190(13)  .  .
+  .  .
+  K1  K  Uiso  0.00000  0.00000  0.43590(10)  0.799(2)  0.0362(8)  .
+  .  .  .
+  K2  K  Uiso  0.00000  0.00000  0.0522(4)  0.701(2)  0.070(3)  .  .
+  .  .
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O2  Sb  O2  180.00  2_545  .  5_665  yes
+  O1  Sb  O2  92.77(14)  13_554  .  2_545  yes
+  O1  Sb  O2  92.77(14)  15_654  .  2_545  yes
+  O1  Sb  O2  87.23(14)  28_545  .  2_545  yes
+  O1  Sb  O2  87.23(14)  30_445  .  2_545  yes
+  O1  Sb  O2  87.23(14)  13_554  .  5_665  yes
+  O1  Sb  O2  87.23(14)  15_654  .  5_665  yes
+  O1  Sb  O2  92.77(14)  28_545  .  5_665  yes
+  O1  Sb  O2  92.77(14)  30_445  .  5_665  yes
+  O1  Sb  O1  92.27(14)  13_554  .  15_654  yes
+  O1  Sb  O1  180.00  13_554  .  28_545  yes
+  O1  Sb  O1  87.73(14)  13_554  .  30_445  yes
+  O1  Sb  O1  87.73(14)  15_654  .  28_545  yes
+  O1  Sb  O1  180.00  15_654  .  30_445  yes
+  O1  Sb  O1  92.27(14)  28_545  .  30_445  yes
+  O2  P  O3  111.03(15)  28_545  .  .  yes
+  O2  P  O3  111.04(15)  29_565  .  .  yes
+  O2  P  O3  111.04(15)  30_345  .  .  yes
+  O2  P  O2  107.85(19)  28_545  .  29_565  yes
+  O2  P  O2  107.85(19)  28_545  .  30_345  yes
+  O2  P  O2  107.88(19)  29_565  .  30_345  yes
+  Sb  O1  Sb  133.56(17)  25_445  .  26_545  yes
+  Sb  O2  P  128.5(2)  3_655  .  28_545  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Sb  O2  2.014(3)  .  2_545  yes
+  Sb  O2  2.014(3)  .  5_665  yes
+  Sb  O1  1.944(3)  .  13_554  yes
+  Sb  O1  1.945(4)  .  15_654  yes
+  Sb  O1  1.944(3)  .  28_545  yes
+  Sb  O1  1.945(4)  .  30_445  yes
+  P  O3  1.488(10)  .  .  yes
+  P  O2  1.564(3)  .  28_545  yes
+  P  O2  1.563(4)  .  29_565  yes
+  P  O2  1.563(4)  .  30_345  yes

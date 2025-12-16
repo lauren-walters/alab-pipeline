@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66db38a44efa8b4b4dfcfbc0",
+  "experiment_name": "PG_1121-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Cu-H-La-O",
+  "target_formula": "LaCuH3O4",
+  "analysis_timestamp": "2025-12-06T15:11:53.926796",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

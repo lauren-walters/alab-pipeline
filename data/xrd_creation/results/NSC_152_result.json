@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66478817c93ffe3bc3e810c8",
+  "experiment_name": "NSC_152",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-Nb-O-Si",
+  "target_formula": "Na3.85Nb2.0(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:53:55.435687",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

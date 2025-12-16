@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_2300253
+loop_
+ _publ_author_name
+  'Fortes, A. D.'
+  'Wood, I. G.'
+  'Vo\<cadlo, L.'
+  'Knight, K. S.'
+  'Marshall, W. G.'
+  'Tucker, M. G.'
+  'Fernandez-Alonso, F.'
+_publ_section_title
+;
+Phase behaviour and thermoelastic properties of perdeuterated ammonia
+hydrate and ice polymorphs from 0 to 2GPa
+;
+_journal_issue   5
+_journal_name_full   'Journal of Applied Crystallography'
+_journal_page_first   846
+_journal_page_last   866
+_journal_paper_doi   10.1107/S0021889809027897
+_journal_volume   42
+_journal_year   2009
+_chemical_formula_sum   ?
+_chemical_formula_weight   ?
+_space_group_IT_number   52
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2ab 2n'
+_symmetry_space_group_name_H-M   'P n c n'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   12.5626(11)
+_cell_length_b   6.6513(3)
+_cell_length_c   6.3788(3)
+_cell_volume   533.00(6)
+_pd_block_id   2009-09-03T13:32|45470_81B_phase4|dom||
+_pd_phase_name   'ADH IV'
+_cod_data_source_file   ks5224.cif
+_cod_data_source_block   45470_81B_phase_4
+_cod_original_cell_volume   533.00(4)
+_cod_database_code   2300253
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  -x+1/2,+y+1/2,+z+1/2
+  3  +x,-y,+z+1/2
+  4  -x+1/2,-y+1/2,+z
+  -1  -x,-y,-z
+  -2  +x+1/2,-y+1/2,-z+1/2
+  -3  -x,+y,-z+1/2
+  -4  +x+1/2,+y+1/2,-z
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+ _atom_site_calc_flag
+  .  dummy  0.0  0.0  0.0  0.025  Uiso  .  dum
+loop_
+ _atom_type.symbol
+  .
+loop_
+ _pd_block_diffractogram_id
+  2009-09-03T13:32|45470_81B_H_01|dom|pearl
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2025-01-23T17:32:11+02:00
+;
+Explicitly marked the 'dummy' atom site as a dummy site to avoid
+misidentifying it as a deuterium atom site. Set the
+'_chemical_formula_sum'  and '_chemical_formula_weight' data item
+values to unknown.  For a full discussion, see
+https://projects.ibt.lt/repositories/issues/1555.
+;
+

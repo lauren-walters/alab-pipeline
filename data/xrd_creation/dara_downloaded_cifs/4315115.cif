@@ -1,0 +1,139 @@
+# generated using pymatgen
+data_4315115
+loop_
+ _publ_author_name
+  "Santiago Garc\'ia-Granda"
+  'Sergei A. Khainakov'
+  'Aranzazu Espina'
+  "Jos\'e R. Garc\'ia"
+  "Germ\'an R. Castro"
+  'Jo\~ao Rocha'
+  "Lu\'is Mafra"
+_publ_section_title
+;
+Revisiting the Thermal Decomposition of Layered \g-Titanium Phosphate
+and  Structural Elucidation of Its Intermediate Phases
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   2630
+_journal_page_last   2638
+_journal_paper_doi   10.1021/ic901254j
+_journal_volume   49
+_journal_year   2010
+_chemical_formula_moiety   'O8 P2 Ti, H2 O'
+_chemical_formula_sum   'H2 O9 P2 Ti'
+_chemical_formula_weight   255.83
+_chemical_name_systematic   ?
+_space_group_IT_number   4
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   4
+_symmetry_space_group_name_Hall   'P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21 1'
+_audit_creation_date   2008-10-26
+_audit_creation_method   'Materials Studio'
+_cell_angle_alpha   90.0000
+_cell_angle_beta   102.4100
+_cell_angle_gamma   90.0000
+_cell_formula_units_Z   4
+_cell_length_a   5.0360
+_cell_length_b   6.2640
+_cell_length_c   23.6700
+_cell_volume   729.236
+_cod_data_source_file   ic901254j_si_004.cif
+_cod_data_source_block   GTIP-1H2O
+_cod_original_cell_volume   729.24
+_cod_database_code   4315115
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+  Ti1  Ti  0.80100  0.70600  0.06660  0.00240  Uiso  1.00
+  Ti2  Ti  0.80400  0.70200  0.56790  0.00240  Uiso  1.00
+  P3  P  0.78300  0.20800  0.02960  0.01840  Uiso  1.00
+  P4  P  0.62800  0.31500  -0.15260  0.01840  Uiso  1.00
+  P5  P  0.22400  0.70400  0.46980  0.01840  Uiso  1.00
+  P6  P  0.62400  0.31600  0.35000  0.01840  Uiso  1.00
+  O7  O  0.79200  0.02000  0.07000  0.00100  Uiso  1.00
+  O8  O  0.51300  0.23300  -0.01070  0.00100  Uiso  1.00
+  O9  O  0.81400  0.40300  0.06800  0.00100  Uiso  1.00
+  O10  O  0.98300  0.20400  -0.00930  0.00100  Uiso  1.00
+  O11  O  0.37200  0.23700  -0.13750  0.00100  Uiso  1.00
+  O12  O  0.86100  0.17300  -0.12520  0.00100  Uiso  1.00
+  O13  O  0.34100  0.78000  0.21550  0.12000  Uiso  1.00
+  O14  O  0.32300  0.05600  0.14650  0.04000  Uiso  1.00
+  O15  O  0.19800  0.51600  0.42890  0.01200  Uiso  1.00
+  O16  O  0.50800  0.21100  0.48790  0.01200  Uiso  1.00
+  O17  O  0.81100  0.42800  0.55290  0.01200  Uiso  1.00
+  O18  O  0.97800  0.18000  0.49270  0.01200  Uiso  1.00
+  O19  O  0.48300  0.16300  0.38670  0.01200  Uiso  1.00
+  O20  O  0.93100  0.24900  0.35510  0.01200  Uiso  1.00
+  O21  O  0.29500  0.05100  0.63590  0.10000  Uiso  1.00
+  O22  O  0.47800  0.30700  0.28520  0.06000  Uiso  1.00
+  O23  O  0.10641  0.84754  0.32567  0.08100  Uiso  1.00
+  O24  O  1.13556  0.86080  0.80931  0.09000  Uiso  1.00
+  H25  H  -0.03032  0.76907  0.29659  0.00000  Uiso  1.00
+  H26  H  0.28201  0.79596  0.31829  0.00000  Uiso  1.00
+  H27  H  0.94536  0.81066  0.79661  0.00000  Uiso  1.00
+  H28  H  1.24131  0.75756  0.79130  0.00000  Uiso  1.00
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  Ti1  O9  1.899  .
+  Ti1  O7  1.969  1_565
+  Ti1  O8  1.839  2_655
+  Ti1  O10  1.912  2_755
+  Ti1  O11  2.059  2_655
+  Ti1  O12  1.962  2_755
+  Ti2  O17  1.755  .
+  Ti2  O15  1.968  2_656
+  Ti2  O16  1.823  2_656
+  Ti2  O18  1.990  2_756
+  Ti2  O19  1.993  2_656
+  Ti2  O20  2.036  2_756
+  P3  O7  1.512  .
+  P3  O8  1.492  .
+  P3  O9  1.510  .
+  P3  O10  1.504  .
+  P4  O11  1.492  .
+  P4  O12  1.504  .
+  P4  O13  1.546  2_645
+  P4  O14  1.531  2_655
+  P5  O15  1.512  .
+  P5  O16  1.498  2_656
+  P5  O17  1.499  2_656
+  P5  O18  1.494  2_656
+  P6  O19  1.563  .
+  P6  O20  1.581  .
+  P6  O22  1.553  .
+  P6  O21  1.545  2_656
+  O7  Ti1  1.969  1_545
+  O8  Ti1  1.839  2_645
+  O10  Ti1  1.912  2_745
+  O11  Ti1  2.059  2_645
+  O12  Ti1  1.962  2_745
+  O13  P4  1.546  2_655
+  O14  P4  1.531  2_645
+  O15  Ti2  1.968  2_646
+  O16  Ti2  1.823  2_646
+  O16  P5  1.498  2_646
+  O17  P5  1.499  2_646
+  O18  Ti2  1.990  2_746
+  O18  P5  1.494  2_646
+  O19  Ti2  1.993  2_646
+  O20  Ti2  2.036  2_746
+  O21  P6  1.545  2_646
+  O23  H25  0.993  .
+  O23  H26  0.992  .
+  O24  H27  0.991  .
+  O24  H28  0.990  .

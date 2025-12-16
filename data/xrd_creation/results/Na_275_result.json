@@ -1,0 +1,17 @@
+{
+  "experiment_id": "666a55ecf632d8df6c42aacc",
+  "experiment_name": "Na_275",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mn-Na-O-P",
+  "target_formula": "Na4MnP2O9",
+  "analysis_timestamp": "2025-12-06T13:51:30.883122",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

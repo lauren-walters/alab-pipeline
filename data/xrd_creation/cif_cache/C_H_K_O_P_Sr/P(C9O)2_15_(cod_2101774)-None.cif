@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_2101774
+loop_
+ _publ_author_name
+  'Marsh, R. E.'
+_publ_section_title   'The perils of <i>Cc</i> revisited'
+_journal_issue   2
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   317
+_journal_page_last   322
+_journal_paper_doi   10.1107/S010876819601381X
+_journal_volume   53
+_journal_year   1997
+_chemical_formula_moiety   'C18 H39 O2 P'
+_chemical_formula_sum   'C18 H39 O2 P'
+_space_group_IT_number   15
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_audit_creation_method   CSD-QUEST3D-V5
+_cell_angle_alpha   90
+_cell_angle_beta   113.7(2)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   52.70(10)
+_cell_length_b   4.810(10)
+_cell_length_c   8.86(2)
+_cell_volume   2056(8)
+_cod_data_source_file   an0533.cif
+_cod_data_source_block   CSD_CIF_MIF_NONPIN01
+_cod_depositor_comments
+;
+Added moiety chemical formula from Marsh (1997) paper. The summary
+chemical formula is calculated from moiety formula using 'AdHocParser'
+(svn://www.crystallography.net/cod-
+tools/trunk/Formulae/AdHocParser.yp,   revision 1441.)   Removing 10
+atoms which were symmetric equivalents of the atoms from   the
+asymmetric unit.   Andrius Merkys   2013-11-06
+;
+_cod_original_sg_symbol_H-M   'C 2/c'
+_cod_database_code   2101774
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,1/2-z
+  1/2+x,1/2+y,z
+  1/2-x,1/2+y,1/2-z
+  -x,-y,-z
+  x,-y,-1/2+z
+  -1/2-x,-1/2-y,-z
+  -1/2+x,-1/2-y,-1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+  P1  .0  .2769  .25  P
+  C1  -.0282  .0652  .2447  C
+  C2  -.0537  .2364  .2269  C
+  C3  -.0770  .0556  .2292  C
+  C4  -.1021  .2321  .2181  C
+  C5  -.1258  .0541  .2217  C
+  C6  -.1503  .2332  .2120  C
+  C7  -.1742  .0550  .2108  C
+  C8  -.1986  .2415  .2074  C
+  C9  -.2228  .0510  .2048  C
+  O1  .0113  .4531  .4080  O
+loop_
+ _atom_type_symbol
+  C
+  O
+  P

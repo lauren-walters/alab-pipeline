@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_4344498
+loop_
+ _publ_author_name
+  'Ortiz-Avila, C.Y.'
+  'Squattrito, P.J.'
+  'Shieh, M.'
+  'Clearfield, A.'
+_publ_section_title
+'Synthesis and chracterization of a new series of zinc phosphites'
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   2608
+_journal_page_last   2615
+_journal_volume   28
+_journal_year   1989
+_chemical_formula_sum   'H4 Na2 O12 P4 Zn3'
+_chemical_name_systematic   'Zn3 Na2 (H P O3)4'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.331
+_cell_length_b   12.243
+_cell_length_c   12.669
+_cell_volume   1292.193
+_citation_journal_id_ASTM   INOCAJ
+_cod_data_source_file   Ortiz-Avila_INOCAJ_1989_986.cif
+_cod_data_source_block   H4Na2O12P4Zn3
+_cod_database_code   4344498
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x,y+1/2,-z
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x-1/2,y-1/2,z-1/2
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Zn1  Zn+2  0.9227  0.25  0.5665  1  0.0
+  P3  P+3  0.1201  0.0773  0.6914  1  0.0
+  O5  O-2  0.4778  0.3539  0.4508  1  0.0
+  O7  O-2  0.133  0.3524  0.2907  1  0.0
+  O2  O-2  0.083  0.25  0.455  1  0.0
+  Zn2  Zn+2  0.5867  0.4303  0.33775  1  0.0
+  P2  P+3  0.0605  0.25  0.3363  1  0.0
+  O3  O-2  0.709  0.25  0.522  1  0.0
+  Na1  Na+1  0.7715  -0.0357  0.5679  1  0.0
+  O1  O-2  0.9661  0.1121  0.6379  1  0.0
+  O6  O-2  0.7806  0.5047  0.3819  1  0.0
+  P1  P+3  0.5327  0.25  0.5062  1  0.0
+  O4  O-2  0.4093  0.5282  0.2987  1  0.0

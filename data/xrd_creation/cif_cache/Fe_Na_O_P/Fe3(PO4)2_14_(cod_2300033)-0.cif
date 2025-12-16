@@ -1,0 +1,190 @@
+# generated using pymatgen
+data_2300033
+loop_
+ _publ_author_name
+  'Henry, Paul F.'
+  'Weller, Mark T.'
+  'Wilson, Chick C.'
+_publ_section_title
+;
+Determination of the cation distribution in Fe~2~Ni(PO~4~)~2~ using
+isotopic substitution and powder neutron diffraction
+;
+_journal_issue   6
+_journal_name_full   'Journal of Applied Crystallography'
+_journal_page_first   1361
+_journal_page_last   1367
+_journal_paper_doi   10.1107/S0021889803017515
+_journal_volume   36
+_journal_year   2003
+_chemical_formula_sum   'Fe3 O8 P2'
+_chemical_formula_weight   357.48
+_chemical_name_systematic   ?
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90.0
+_cell_angle_beta   99.348(3)
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   8.8828(3)
+_cell_length_b   11.1738(3)
+_cell_length_c   6.14402(18)
+_cell_volume   601.72(3)
+_cod_data_source_file   he0320.cif
+_cod_data_source_block   Fe3(PO4)2_phase_1
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+'/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (48 times). Automatic
+conversion script Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (48 times).
+'_geom_angle_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (27 times). Automatic
+conversion script Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana
+;
+_cod_original_cell_volume   601.72443
+_cod_original_sg_symbol_H-M   'P 21/c'
+_cod_database_code   2300033
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  -x,+y+1/2,-z+1/2
+  -1  -x,-y,-z
+  -2  +x,-y+1/2,+z+1/2
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  FE1  0.028(6)  0.019(5)  0.049(7)  0.003(5)  -0.010(5)  -0.001(5)
+  FE2  0.051(8)  0.030(6)  0.058(8)  0.019(5)  0.008(6)  -0.009(6)
+  FE3  0.037(6)  0.030(6)  0.048(7)  0.000(6)  0.000(5)  0.004(6)
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+ _atom_site_type_symbol
+  FE1  0.9276(9)  0.1168(6)  0.8692(12)  0.03344  Uani  1.0  FE
+  FE2  0.7235(9)  0.0811(6)  0.3308(14)  0.0464  Uani  1.0  FE
+  FE3  0.3631(8)  0.1939(7)  0.1221(13)  0.03901  Uani  1.0  FE
+  P4  0.0946(15)  0.1360(11)  0.389(2)  0.037(3)  Uiso  1.0  P
+  P5  0.6047(16)  0.0889(11)  0.803(3)  0.037(3)  Uiso  1.0  P
+  O6  0.076(3)  0.065(2)  0.174(3)  0.021(3)  Uiso  1.0  O
+  O7  0.481(2)  0.1806(19)  0.826(4)  0.021(3)  Uiso  1.0  O
+  O8  0.9463(19)  0.2035(19)  0.396(4)  0.021(3)  Uiso  1.0  O
+  O9  0.698(2)  0.122(2)  0.625(3)  0.021(3)  Uiso  1.0  O
+  O10  0.226(2)  0.2233(17)  0.381(4)  0.021(3)  Uiso  1.0  O
+  O11  0.720(2)  0.090(2)  0.017(3)  0.021(3)  Uiso  1.0  O
+  O12  0.131(3)  0.0600(19)  0.598(3)  0.021(3)  Uiso  1.0  O
+  O13  0.530(3)  -0.0337(14)  0.760(4)  0.021(3)  Uiso  1.0  O
+loop_
+ _atom_type_symbol
+  FE
+  P
+  O
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O6  FE1  O8  -1_656  -2_566  175.0(9)  n
+  O9  FE2  O11  1_555  1_555  161.4(11)  n
+  O9  FE2  O12  1_555  -1_656  98.5(10)  n
+  O11  FE2  O12  1_555  -1_656  99.5(10)  n
+  O7  FE3  O10  -2_565  -2_565  109.1(9)  n
+  O7  FE3  O13  -2_565  -1_656  102.5(9)  n
+  O10  FE3  O13  -2_565  -1_656  147.4(9)  n
+  O6  P4  O8  1_555  1_455  108.0(15)  n
+  O6  P4  O10  1_555  1_555  106.0(16)  n
+  O6  P4  O12  1_555  1_555  114.7(15)  n
+  O8  P4  O10  1_455  1_555  110.6(14)  n
+  O8  P4  O12  1_455  1_555  108.6(16)  n
+  O10  P4  O12  1_555  1_555  108.9(15)  n
+  O7  P5  O9  1_555  1_555  112.8(16)  n
+  O7  P5  O11  1_555  1_556  107.9(16)  n
+  O7  P5  O13  1_555  1_555  108.7(15)  n
+  O9  P5  O11  1_555  1_556  104.5(16)  n
+  O9  P5  O13  1_555  1_555  111.4(16)  n
+  O11  P5  O13  1_556  1_555  111.5(17)  n
+  FE1  O6  P4  -1_656  1_555  128.4(15)  n
+  FE3  O7  P5  -2_566  1_555  135.0(16)  n
+  FE1  O8  P4  -2_565  1_655  123.4(14)  n
+  FE2  O9  P5  1_555  1_555  141.5(16)  n
+  FE3  O10  P4  -2_566  1_555  130.7(16)  n
+  FE2  O11  P5  1_555  1_554  139.6(17)  n
+  FE2  O12  P4  -1_656  1_555  130.7(15)  n
+  FE3  O13  P5  -1_656  1_555  123.2(15)  n
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  FE1  P5  .  1_555  2.848(17)  n
+  FE1  O6  .  1_656  2.19(2)  n
+  FE1  O6  .  -1_656  2.05(2)  n
+  FE1  O8  .  -2_566  2.02(2)  n
+  FE1  O9  .  1_555  2.33(2)  n
+  FE1  O11  .  1_556  2.21(3)  n
+  FE2  O8  .  1_555  2.39(2)  n
+  FE2  O9  .  1_555  1.91(2)  n
+  FE2  O11  .  1_555  1.93(2)  n
+  FE2  O12  .  -1_656  2.04(2)  n
+  FE2  O13  .  -1_656  2.29(2)  n
+  FE3  O7  .  1_554  2.25(2)  n
+  FE3  O7  .  -2_565  2.05(2)  n
+  FE3  O10  .  1_555  2.18(2)  n
+  FE3  O10  .  -2_565  1.99(2)  n
+  FE3  O13  .  -1_656  2.10(2)  n
+  P4  O6  .  1_555  1.526(2)  n
+  P4  O8  .  1_455  1.525(2)  n
+  P4  O10  .  1_555  1.525(2)  n
+  P4  O12  .  1_555  1.526(2)  n
+  P5  FE1  .  1_555  2.848(17)  n
+  P5  O7  .  1_555  1.525(2)  n
+  P5  O9  .  1_555  1.525(2)  n
+  P5  O11  .  1_556  1.525(2)  n
+  P5  O13  .  1_555  1.525(2)  n
+  O6  FE1  .  1_454  2.19(2)  n
+  O6  FE1  .  -1_656  2.05(2)  n
+  O6  P4  .  1_555  1.526(2)  n
+  O7  FE3  .  1_556  2.25(2)  n
+  O7  FE3  .  -2_566  2.05(2)  n
+  O7  P5  .  1_555  1.525(2)  n
+  O8  FE1  .  -2_565  2.02(2)  n
+  O8  FE2  .  1_555  2.39(2)  n
+  O8  P4  .  1_655  1.525(2)  n
+  O9  FE1  .  1_555  2.33(2)  n
+  O9  FE2  .  1_555  1.91(2)  n
+  O9  P5  .  1_555  1.525(2)  n
+  O10  FE3  .  1_555  2.18(2)  n
+  O10  FE3  .  -2_566  1.99(2)  n
+  O10  P4  .  1_555  1.525(2)  n
+  O11  FE1  .  1_554  2.21(3)  n
+  O11  FE2  .  1_555  1.93(2)  n
+  O11  P5  .  1_554  1.525(2)  n
+  O12  FE2  .  -1_656  2.04(2)  n
+  O12  P4  .  1_555  1.526(2)  n
+  O13  FE2  .  -1_656  2.29(2)  n
+  O13  FE3  .  -1_656  2.10(2)  n
+  O13  P5  .  1_555  1.525(2)  n

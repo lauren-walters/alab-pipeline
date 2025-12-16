@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6688b572b0418e7b36dd3b6c",
+  "experiment_name": "PG_2734-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "H-Mn-N-O-P",
+  "target_formula": "Mn3PH6NO8",
+  "analysis_timestamp": "2025-12-06T15:31:43.543367",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

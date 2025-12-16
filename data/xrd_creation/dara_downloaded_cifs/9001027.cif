@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_9001027
+loop_
+ _publ_author_name
+  'Takagi, S.'
+  'Mathew, M.'
+  'Brown, W. E.'
+_publ_section_title
+'Crystal structures of bobierrite and synthetic Mg3(PO4)2.8H2O'
+_journal_name_full   'American Mineralogist'
+_journal_page_first   1229
+_journal_page_last   1233
+_journal_volume   71
+_journal_year   1986
+_chemical_formula_sum   'H16 Mg3 O16 P2'
+_chemical_name_mineral   Baricite
+_space_group_IT_number   12
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   105.09
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   10.034
+_cell_length_b   13.407
+_cell_length_c   4.657
+_cell_volume   604.884
+_database_code_amcsd   0001049
+_exptl_crystal_density_diffrn   2.146
+_cod_original_formula_sum   'Mg3 P2 O16'
+_cod_database_code   9001027
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,z
+  x,-y,z
+  1/2+x,1/2-y,z
+  -x,y,-z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+  1/2-x,1/2-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Mg1  0.00720  0.01010  0.00660  0.00000  0.00120  0.00000
+  Mg2  0.01010  0.00920  0.00840  0.00000  0.00300  0.00000
+  P  0.00780  0.01040  0.00710  0.00000  0.00260  0.00000
+  O1  0.00900  0.01730  0.00950  0.00000  0.00310  0.00000
+  O2  0.01130  0.01290  0.00860  0.00000  0.00260  0.00000
+  O3  0.01240  0.01250  0.01110  0.00050  0.00410  0.00080
+  OW1  0.01400  0.01960  0.01350  0.00070  0.00370  -0.00240
+  OW2  0.02500  0.01670  0.01470  0.00200  0.00420  0.00110
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Mg1  0.00000  0.00000  0.00000  Mg  0
+  Mg2  0.00000  0.39054  0.00000  Mg  0
+  P  0.31452  0.00000  0.38430  P  0
+  O1  0.15750  0.00000  0.37090  O  0
+  O2  0.39470  0.00000  0.71440  O  0
+  O3  0.34550  0.09560  0.23030  O  0
+  OW1  0.40130  0.38660  0.19160  O  2
+  OW2  0.10100  0.27870  0.28020  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:46:58+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2  'Saulius Gra\<zulis'  2023-05-11T14:36:00+03:00
+;
+Increasing attached hydrogen counts so that the calculated formula
+matches the formula in the publication title. Updating the summary
+formula. Adding the Wikidata link.
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0001049
+  2  Wikidata  Q808228

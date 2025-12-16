@@ -1,0 +1,134 @@
+# generated using pymatgen
+data_2104156
+loop_
+ _publ_author_name
+  'Maley, Iain J.'
+  'Brown, Daniel H.'
+  'Ibberson, Richard M.'
+  'Pulham, Colin R.'
+_publ_section_title
+'Solid-state structures of the covalent hydrides germane and stannane'
+_journal_issue   3
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   312
+_journal_page_last   317
+_journal_paper_doi   10.1107/S0108768108010379
+_journal_volume   64
+_journal_year   2008
+_chemical_formula_moiety   'D4  Sn'
+_chemical_formula_sum   'D4 Sn'
+_chemical_formula_weight   126.75
+_chemical_melting_point   123
+_chemical_name_common   stannane
+_chemical_name_systematic   perdeuterostannane
+_space_group_IT_number   15
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90.0
+_cell_angle_beta   119.2882(10)
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   8.87431(14)
+_cell_length_b   4.54743(7)
+_cell_length_c   8.75705(12)
+_cell_measurement_temperature   5
+_cell_volume   308.219(9)
+_computing_cell_refinement   'TOPAS-Academic (Coehlo)'
+_computing_data_collection   'ISIS instrument control program (ICP)'
+_computing_data_reduction   'Standard HRPD normalisation routines'
+_computing_structure_refinement   TOPAS
+_diffrn_measurement_device_type   HRPD
+_diffrn_radiation_probe   neutron
+_diffrn_radiation_type   'time-of-flight neutron'
+_diffrn_radiation_wavelength   1.24-5.36
+_exptl_crystal_density_diffrn   2.731
+_refine_diff_density_max   0.149
+_refine_diff_density_min   -0.104
+_refine_ls_goodness_of_fit_all   2.03
+_refine_ls_hydrogen_treatment   refall
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   35
+_refine_ls_number_restraints   0
+_refine_ls_shift/su_max   0.02
+_refine_ls_shift/su_mean   0.00
+_refine_ls_weighting_scheme   sigma
+_cod_data_source_file   ws5063.cif
+_cod_data_source_block   SnD4_5K
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+'/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (4 times).
+'_geom_angle_publ_flag' value 'N' changed to 'n' according to
+'/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (6 times). Automatic
+conversion script Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (4 times).
+'_geom_angle_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (6 times). Automatic
+conversion script Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana
+;
+_cod_original_cell_volume   308.220(10)
+_cod_original_sg_symbol_Hall   '-C 2yc'
+_cod_original_sg_symbol_H-M   C2/c
+_cod_original_formula_sum   'D4  Sn'
+_cod_database_code   2104156
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  -x,+y,-z+1/2
+  -1  -x,-y,-z
+  -2  +x,-y,+z+1/2
+  101  +x+1/2,+y+1/2,+z
+  102  -x+1/2,+y+1/2,-z+1/2
+  -101  -x+1/2,-y+1/2,-z
+  -102  +x+1/2,-y+1/2,+z+1/2
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+  Sn  Sn  0.5  0.4258(5)  0.25  0.0049(8)  Uiso  1.0
+  D  D1  0.3237(3)  0.6461(4)  0.1965(4)  0.0302(8)  Uiso  1.0
+  D  D2  0.5351(3)  0.2142(5)  0.4235(3)  0.0276(8)  Uiso  1.0
+loop_
+ _atom_type_symbol
+ _atom_type_scat_source
+  Sn  International_Tables_Vol_C
+  D  International_Tables_Vol_C
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  D1  Sn  D1  1_555  2_655  108.7(2)  n
+  D1  Sn  D2  1_555  1_555  108.63(14)  n
+  D1  Sn  D2  1_555  2_655  110.07(11)  n
+  D1  Sn  D2  2_655  1_555  110.07(11)  n
+  D1  Sn  D2  2_655  2_655  108.63(14)  n
+  D2  Sn  D2  1_555  2_655  110.7(2)  n
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Sn  D1  1_555  1.719(3)  n
+  Sn  D1  2_655  1.719(3)  n
+  Sn  D2  1_555  1.693(3)  n
+  Sn  D2  2_655  1.693(3)  n

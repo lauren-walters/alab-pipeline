@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66a804b499ef16f8ce5c5ff1",
+  "experiment_name": "PG_0921-1",
+  "success": true,
+  "error": null,
+  "rwp": 18.87,
+  "rp": 11.35,
+  "rexp": 1.93,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "Co3.592O7.184_10_(cod_1529156)-None",
+      "spacegroup": "P12/m1",
+      "weight_fraction": 0.0,
+      "weight_fraction_error": 3968.0,
+      "lattice_a_nm": 0.24404,
+      "lattice_b_nm": 0.0,
+      "lattice_c_nm": 1.1178,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 95.285,
+      "lattice_gamma_deg": null,
+      "r_phase": 13.89
+    },
+    {
+      "phase_name": "Co3O4_227_(cod_9005896)-0",
+      "spacegroup": "F4_1/d-32/m",
+      "weight_fraction": 0.0233,
+      "weight_fraction_error": 0.0021,
+      "lattice_a_nm": 0.80352,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 8.98
+    }
+  ],
+  "chemical_system": "Co-H-La-O",
+  "target_formula": "La3Co3H9O13",
+  "analysis_timestamp": "2025-12-06T15:03:20.162400",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

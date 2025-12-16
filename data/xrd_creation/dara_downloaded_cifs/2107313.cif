@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_2107313
+loop_
+ _publ_author_name
+  'Schroeder, L.W.'
+  'Prince, E.'
+_publ_section_title
+'Hydrogen-bonded dimers in tin(II) hydrogen phosphate'
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   3309
+_journal_page_last   3311
+_journal_volume   32
+_journal_year   1976
+_chemical_formula_sum   'H O4 P Sn'
+_chemical_name_systematic   'Sn (H P O4)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   98.76
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.608
+_cell_length_b   13.603
+_cell_length_c   5.823
+_cell_volume   360.743
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Schroeder_ACBCAR_1976_947.cif
+_cod_data_source_block   H1O4P1Sn1
+_cod_original_cell_volume   360.7431
+_cod_original_formula_sum   'H1 O4 P1 Sn1'
+_cod_database_code   2107313
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  H1  H+1  0.412  0.4861  0.2021  1  0.0
+  O3  O-2  0.6828  0.0913  0.3763  1  0.0
+  O4  O-2  0.8042  0.2181  0.6989  1  0.0
+  O2  O-2  0.4807  0.0822  0.7565  1  0.0
+  P1  P+5  0.5714  0.1511  0.564  1  0.0
+  Sn1  Sn+2  0.0511  0.1575  0.1093  1  0.0
+  O1  O-2  0.3027  0.2129  0.4566  1  0.0

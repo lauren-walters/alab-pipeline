@@ -1,0 +1,77 @@
+# generated using pymatgen
+data_9010966
+loop_
+ _publ_author_name
+  'Mori, H.'
+  'Ito, T.'
+_publ_section_title   'The structure of vivianite and symplesite'
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   1
+_journal_page_last   6
+_journal_paper_doi   10.1107/S0365110X5000001X
+_journal_volume   3
+_journal_year   1950
+_chemical_compound_source   'Ashio, Japan'
+_chemical_formula_sum   'Fe3 H16 O16 P2'
+_chemical_name_mineral   Vivianite
+_space_group_IT_number   12
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   104.50
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   10.08
+_cell_length_b   13.43
+_cell_length_c   4.70
+_cell_volume   615.993
+_database_code_amcsd   0009138
+_exptl_crystal_density_diffrn   2.704
+_cod_original_formula_sum   'Fe3 P2 O16 H16'
+_cod_database_code   9010966
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,z
+  x,-y,z
+  1/2+x,1/2-y,z
+  -x,y,-z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+  1/2-x,1/2-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  FeI  0.00000  0.00000  0.00000  Fe  0
+  FeII  0.00000  0.39000  0.00000  Fe  0
+  P  0.31500  0.00000  0.41000  P  0
+  OI  0.15500  0.00000  0.35000  O  0
+  OII  0.40000  0.00000  0.75000  O  0
+  OIII  0.36500  0.10000  0.24500  O  0
+  WatI  0.08500  0.11000  0.82000  O  2
+  WatII  0.40000  0.22000  0.75000  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-23T09:20:28+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009138

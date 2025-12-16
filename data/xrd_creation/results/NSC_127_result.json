@@ -1,0 +1,17 @@
+{
+  "experiment_id": "65fab02c2d682ecd7d7d0f85",
+  "experiment_name": "NSC_127",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-Nb-O-P-Zr",
+  "target_formula": "Na0.55Zr1.5Nb0.5(PO4)4.0",
+  "analysis_timestamp": "2025-12-06T17:16:16.192835",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_2101880
+loop_
+ _publ_author_name
+  "Sa\~n\'e, J."
+  'Ruis, J.'
+  'Calvet, T.'
+  'Cuevas-Diarte, M. A.'
+_publ_section_title
+;
+Chiral Molecular Alloys: Patterson-Search Structure Determination of
+<small>L</small>-Carvone and <small>DL</small>-Carvone from X-ray
+Powder Diffraction Data at 218 K
+;
+_journal_issue   4
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   702
+_journal_page_last   707
+_journal_paper_doi   10.1107/S0108768197002905
+_journal_volume   53
+_journal_year   1997
+_chemical_formula_sum   'C10 H14 O'
+_chemical_formula_weight   150.01
+_space_group_crystal_system   orthorhombic
+_space_group_IT_number   62
+_space_group_name_Hall   '-P 2n 2ac'
+_space_group_name_H-M_alt   'P c m n'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   6.9744(3)
+_cell_length_b   6.8094(6)
+_cell_length_c   20.038(7)
+_cell_measurement_reflns_used   79
+_cell_volume   951.6(3)
+_diffrn_radiation_type   CuK\a
+_diffrn_radiation_wavelength   1.5418
+_exptl_absorpt_coefficient_mu   0.51
+_exptl_crystal_density_diffrn   1.040
+_cod_data_source_file   na0078.cif
+_cod_data_source_block   na0078b
+_cod_original_cell_volume   951.6(4)
+_cod_original_formula_sum   'C10 H14 O1'
+_cod_database_code   2101880
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x+1/2,-y+1/2,z+1/2
+  3  x+1/2,-y,-z+1/2
+  4  -x,y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,y,z+1/2
+  8  x,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C1  .0077  .2302  .2035  0.5
+  C2  .0018  .4225  .2356  0.5
+  C3  .0296  .4341  .3103  0.5
+  C4  -.0641  .2531  .3440  0.5
+  C5  .0251  .0654  .3147  0.5
+  C6  .0205  .0692  .2400  0.5
+  C7  .0047  .2228  .1275  0.5
+  C8  -.0469  .2561  .4192  0.5
+  C9  -.1873  .1822  .4562  0.5
+  C10  .1280  .3263  .4481  0.5
+  O1  -.0057  .5614  .2026  0.5

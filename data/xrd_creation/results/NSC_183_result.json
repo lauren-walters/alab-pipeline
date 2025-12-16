@@ -1,0 +1,17 @@
+{
+  "experiment_id": "664d998c98c3293cdbc711cc",
+  "experiment_name": "NSC_183",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Ga-Na-O-P",
+  "target_formula": "Na3.3Ga2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:12:22.688645",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

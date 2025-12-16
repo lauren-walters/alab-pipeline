@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_4344307
+loop_
+ _publ_author_name
+  'Jordan, T.H.'
+  'Schroeder, L.W.'
+  'Dickens, B.'
+  'Brown, W.E.'
+_publ_section_title
+;
+Crystal Structure of Stannous Hydroxide Phosphate, a Reaction Product
+of  Stannous Fluoride and Apatite
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   1810
+_journal_page_last   1814
+_journal_volume   15
+_journal_year   1976
+_chemical_formula_sum   'H O5 P Sn2'
+_chemical_name_systematic   'Sn2 (O H) P O4'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   103.96
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.176
+_cell_length_b   7.051
+_cell_length_c   10.453
+_cell_volume   513.279
+_citation_journal_id_ASTM   INOCAJ
+_cod_data_source_file   Jordan_INOCAJ_1976_1956.cif
+_cod_data_source_block   H1O5P1Sn2
+_cod_original_cell_volume   513.2792
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum   'H1 O5 P1 Sn2'
+_cod_database_code   4344307
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P+5  0.0514  0.1098  0.2954  1  0.0
+  O2  O-2  0.3005  0.495  0.2567  1  0.0
+  O4  O-2  0.5925  0.4706  0.1678  1  0.0
+  Sn2  Sn+2  0.25131  0.00344  0.04892  1  0.0
+  O5  O-2  0.5358  0.0812  0.1501  1  0.0
+  Sn1  Sn+2  0.87501  0.5255  0.13901  1  0.0
+  O1  O-2  0.1499  0.2225  0.4176  1  0.0
+  O3  O-2  0.9433  0.2436  0.1871  1  0.0

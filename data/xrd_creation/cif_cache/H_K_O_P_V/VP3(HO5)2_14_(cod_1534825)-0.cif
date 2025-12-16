@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_1534825
+loop_
+ _publ_author_name
+  'Lyakhov, A.S.'
+  'Palkina, K.K.'
+  'Lyutsko, V.A.'
+  'Maximova, S.I.'
+  'Chibiskova, N.T.'
+_publ_section_title
+'Crystal structure of vanadium(III) dihydrotriphosphate VH2P3O10'
+_journal_name_full
+'Izvestiya Akademii Nauk SSSR, Neorganicheskie Materialy'
+_journal_page_first   1064
+_journal_page_last   1068
+_journal_volume   26
+_journal_year   1990
+_chemical_formula_sum   'H2 O10 P3 V'
+_chemical_name_systematic   'V H2 P3 O10'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   102.82
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.378
+_cell_length_b   8.786
+_cell_length_c   11.702
+_cell_volume   739.651
+_citation_journal_id_ASTM   IVNMAW
+_cod_data_source_file   Lyakhov_IVNMAW_1990_1004.cif
+_cod_data_source_block   H2O10P3V1
+_cod_original_cell_volume   739.6506
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum   'H2 O10 P3 V1'
+_cod_database_code   1534825
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O9  O-2  0.191  0.4211  0.3948  1  0.0
+  P2  P+5  0.64585  0.39815  0.29292  1  0.0
+  P1  P+5  0.27893  0.39723  0.13347  1  0.0
+  P3  P+5  0.73339  0.12229  0.02059  1  0.0
+  O5  O-2  0.2698  0.2319  0.1638  1  0.0
+  H2  H+1  0.841  0.296  0.094  1  0.0
+  O10  O-2  0.8671  0.26  0.0371  1  0.0
+  O4  O-2  0.3719  -0.0053  0.3395  1  0.0
+  O7  O-2  0.6149  0.2335  0.3153  1  0.0
+  O8  O-2  0.8174  0.4341  0.2502  1  0.0
+  O2  O-2  0.794  0.076  0.5053  1  0.0
+  O3  O-2  0.6455  0.4861  0.4101  1  0.0
+  O6  O-2  0.5703  0.1499  0.075  1  0.0
+  O1  O-2  0.4742  0.467  0.2035  1  0.0
+  V1  V+3  0.46202  0.07496  0.20629  1  0.0
+  H1  H+1  0.725  0.135  0.473  1  0.0

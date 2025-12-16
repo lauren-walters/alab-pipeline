@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6688a601c69f10c6d7bf5700",
+  "experiment_name": "PG_2649-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mn-O-W",
+  "target_formula": "MnWO4",
+  "analysis_timestamp": "2025-12-06T15:30:35.898687",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

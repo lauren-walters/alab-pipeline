@@ -1,0 +1,96 @@
+# generated using pymatgen
+data_9012238
+loop_
+ _publ_author_name
+  'Fayos, J.'
+_publ_section_title
+;
+Possible 3D carbon structures as progressive intermediates in graphite
+to diamond phase transition  Note: mathematical model, phase:
+diam_cr44_ch
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   278
+_journal_page_last   285
+_journal_paper_doi   10.1006/jssc.1999.8448
+_journal_volume   148
+_journal_year   1999
+_chemical_formula_sum   C
+_chemical_name_mineral   Diamond
+_space_group_IT_number   206
+_symmetry_space_group_name_Hall   '-I 2b 2c 3'
+_symmetry_space_group_name_H-M   'I a -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   4.591
+_cell_length_b   4.591
+_cell_length_c   4.591
+_cell_formula_units_Z   16
+_cell_volume   96.766
+_database_code_amcsd   0013986
+_exptl_crystal_density_diffrn   3.298
+_cod_original_sg_symbol_H-M   'I a 3'
+_cod_struct_determination_method   theoretical
+_cod_database_code   9012238
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,1/2+z
+  1/2+z,x,1/2-y
+  +z,1/2+x,-y
+  1/2+z,-x,y
+  +z,1/2-x,1/2+y
+  -z,x,1/2+y
+  1/2-z,1/2+x,+y
+  -z,-x,-y
+  1/2-z,1/2-x,1/2-y
+  1/2+y,1/2-z,-x
+  +y,-z,1/2-x
+  -y,1/2-z,x
+  1/2-y,-z,1/2+x
+  1/2-y,z,-x
+  -y,1/2+z,1/2-x
+  y,z,x
+  1/2+y,1/2+z,1/2+x
+  x,1/2-y,1/2+z
+  1/2+x,-y,+z
+  -x,y,1/2+z
+  1/2-x,1/2+y,+z
+  x,1/2+y,-z
+  1/2+x,+y,1/2-z
+  -x,-y,-z
+  1/2-x,1/2-y,1/2-z
+  1/2-z,-x,1/2+y
+  -z,1/2-x,+y
+  1/2-z,x,-y
+  -z,1/2+x,1/2-y
+  z,-x,1/2-y
+  1/2+z,1/2-x,-y
+  z,x,y
+  1/2+z,1/2+x,1/2+y
+  1/2-y,1/2+z,x
+  -y,+z,1/2+x
+  y,1/2+z,-x
+  1/2+y,+z,1/2-x
+  1/2+y,-z,x
+  +y,1/2-z,1/2+x
+  -y,-z,-x
+  1/2-y,1/2-z,1/2-x
+  -x,1/2+y,1/2-z
+  1/2-x,+y,-z
+  x,-y,1/2-z
+  1/2+x,1/2-y,-z
+  -x,1/2-y,z
+  1/2-x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  C  0.16250  0.16250  0.16250
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0013986

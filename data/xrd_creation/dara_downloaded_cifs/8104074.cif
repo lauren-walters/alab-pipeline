@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_8104074
+loop_
+ _publ_author_name
+  'Olbertz, A.'
+  'Stachel, D.'
+  'Fuess, H.'
+  'Svoboda, I.'
+_publ_section_title
+'Crystal structure of cobalt ultraphosphate, Co P4 O11'
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   374
+_journal_page_last   375
+_journal_volume   208
+_journal_year   1993
+_chemical_formula_sum   'Co O11 P4'
+_chemical_name_systematic   'Co (P4 O11)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   110.07
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.32
+_cell_length_b   22.263
+_cell_length_c   7.408
+_cell_volume   824.117
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Olbertz_ZEKRDZ_1993_1586.cif
+_cod_data_source_block   Co1O11P4
+_cod_original_cell_volume   824.1166
+_cod_original_formula_sum   'Co1 O11 P4'
+_cod_database_code   8104074
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O5  O-2  0.9288  0.57597  0.3588  1  0.0
+  Co1  Co+2  0.00388  0.38594  0.36999  1  0.0
+  O1  O-2  0.2226  0.45524  0.3147  1  0.0
+  O7  O-2  0.085  0.6552  -0.0941  1  0.0
+  O8  O-2  0.4626  0.7331  -0.0006  1  0.0
+  O4  O-2  0.4464  0.53725  0.2022  1  0.0
+  P2  P+5  0.6942  0.57204  0.18699  1  0.0
+  O9  O-2  0.2565  0.6927  0.2373  1  0.0
+  P4  P+5  0.398  0.80408  -0.03149  1  0.0
+  P3  P+5  0.3231  0.67828  0.05457  1  0.0
+  O3  O-2  0.7687  0.54505  0.0188  1  0.0
+  P1  P+5  0.4031  0.46517  0.20806  1  0.0
+  O10  O-2  0.1921  0.81717  0.0529  1  0.0
+  O11  O-2  0.653  0.8361  0.0188  1  0.0
+  O6  O-2  0.5737  0.63583  0.1159  1  0.0
+  O2  O-2  0.6621  0.43518  0.25  1  0.0

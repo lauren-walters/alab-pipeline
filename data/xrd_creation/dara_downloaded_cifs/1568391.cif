@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_1568391
+loop_
+ _publ_author_name
+  'Radevych, Danylo'
+  'Gajdardziska-Josifovska, Marija'
+  'Weinert, Michael'
+_publ_section_title
+'Two-dimensional crystal phases of graphene monoxide'
+_journal_issue   5
+_journal_name_full   'Physical Review B'
+_journal_paper_doi   10.1103/PhysRevB.107.054104
+_journal_volume   107
+_journal_year   2023
+_chemical_formula_sum   'C4 O4'
+_chemical_formula_weight   56.02
+_chemical_name_common   'alpha graphene monoxide (alpha-GmO)'
+_space_group_IT_number   65
+_space_group_name_Hall   '-C 2 2'
+_space_group_name_H-M_alt   'C m m m'
+_space_group.reference_setting   '065:-C 2 2'
+_space_group.transform_Pp_abc   a,b,c;0,0,0
+_symmetry_Int_Tables_number   65
+_symmetry_space_group_name_H-M   'C m m m'
+_audit_creation_method   FINDSYM
+_cell_angle_alpha   90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma   90.0000000000
+_cell_formula_units_Z   2
+_cell_length_a   5.6708679700
+_cell_length_b   2.6395930400
+_cell_length_c   25.0000000000
+_cell_volume   374.220
+_journal_article_reference   054104
+_cod_data_source_file   alpha-gmo.cif
+_cod_data_source_block   findsym-output
+_cod_depositor_comments
+'C4 O4 represents the number of atoms in the centered rectangular cell.'
+_cod_original_cell_volume   374.2195906093
+_cod_original_sg_symbol_H-M   'C 2/m 2/m 2/m'
+_cod_struct_determination_method   theoretical
+_cod_database_code   1568391
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  x,-y,-z
+  3  -x,y,-z
+  4  -x,-y,z
+  5  -x,-y,-z
+  6  -x,y,z
+  7  x,-y,z
+  8  x,y,-z
+  9  x+1/2,y+1/2,z
+  10  x+1/2,-y+1/2,-z
+  11  -x+1/2,y+1/2,-z
+  12  -x+1/2,-y+1/2,z
+  13  -x+1/2,-y+1/2,-z
+  14  -x+1/2,y+1/2,z
+  15  x+1/2,-y+1/2,z
+  16  x+1/2,y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_fract_symmform
+  O1  O  4  k  0.00000  0.00000  0.04178  1.00000  0,0,Dz
+  C1  C  4  g  0.17385  0.00000  0.00000  1.00000  Dx,0,0

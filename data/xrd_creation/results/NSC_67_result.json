@@ -1,0 +1,70 @@
+{
+  "experiment_id": "64b5e9e228bed35759251424",
+  "experiment_name": "NSC_67",
+  "success": true,
+  "error": null,
+  "rwp": 8.49,
+  "rp": 5.61,
+  "rexp": 2.97,
+  "num_phases": 4,
+  "phases": [
+    {
+      "phase_name": "Na2PO11_14_(cod_9007516)-None",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.0178,
+      "weight_fraction_error": 0.0012,
+      "lattice_a_nm": 0.92645,
+      "lattice_b_nm": 1.09773,
+      "lattice_c_nm": 1.31734,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 128.888,
+      "lattice_gamma_deg": null,
+      "r_phase": 11.74
+    },
+    {
+      "phase_name": "P_2_(cod_9013110)-0",
+      "spacegroup": "P-1",
+      "weight_fraction": 0.01366,
+      "weight_fraction_error": 0.00067,
+      "lattice_a_nm": 0.54935,
+      "lattice_b_nm": 1.07753,
+      "lattice_c_nm": 1.09136,
+      "lattice_alpha_deg": 94.641,
+      "lattice_beta_deg": 100.824,
+      "lattice_gamma_deg": 100.797,
+      "r_phase": 11.63
+    },
+    {
+      "phase_name": "P2O5_43_(cod_1544347)-0",
+      "spacegroup": "Fdd2",
+      "weight_fraction": 0.01211,
+      "weight_fraction_error": 0.00045,
+      "lattice_a_nm": 0.80339,
+      "lattice_b_nm": 1.6196,
+      "lattice_c_nm": 0.52197,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 21.23
+    },
+    {
+      "phase_name": "P_64_(cod_4307698)-20",
+      "spacegroup": "C2/m2/c2_1/a",
+      "weight_fraction": 0.011,
+      "weight_fraction_error": 0.00035,
+      "lattice_a_nm": 0.33496,
+      "lattice_b_nm": 1.03914,
+      "lattice_c_nm": 0.44216,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 18.6
+    }
+  ],
+  "chemical_system": "Mg-Na-O-P",
+  "target_formula": "Na5.5Mg2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T16:14:02.521619",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

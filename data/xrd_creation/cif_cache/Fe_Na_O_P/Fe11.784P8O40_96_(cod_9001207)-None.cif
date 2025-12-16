@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_9001207
+loop_
+ _publ_author_name
+  'Vencato, I.'
+  'Mattievich, E.'
+  'Mascarenhas, Y. P.'
+_publ_section_title
+'Crystal structure of synthetic lipscombite: A redetermination'
+_journal_name_full   'American Mineralogist'
+_journal_page_first   456
+_journal_page_last   460
+_journal_volume   74
+_journal_year   1989
+_chemical_formula_sum   'Fe1.473 H O5 P'
+_chemical_name_mineral   Lipscombite
+_space_group_IT_number   96
+_symmetry_space_group_name_Hall   'P 4nw 2abw'
+_symmetry_space_group_name_H-M   'P 43 21 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   7.310
+_cell_length_b   7.310
+_cell_length_c   13.212
+_cell_volume   705.998
+_database_code_amcsd   0001230
+_exptl_crystal_density_diffrn   3.655
+_cod_original_formula_sum   'Fe1.473 P O5 H'
+_cod_database_code   9001207
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  y,x,-z
+  1/2-y,1/2+x,3/4+z
+  1/2-x,1/2+y,3/4-z
+  -x,-y,1/2+z
+  -y,-x,1/2-z
+  1/2+y,1/2-x,1/4+z
+  1/2+x,1/2-y,1/4-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Fe1  0.04600  0.04600  0.01600  -0.02600  -0.00200  0.00200
+  Fe2  0.03100  0.03100  0.03800  -0.01700  -0.02700  0.02700
+  Fe3  0.00060  0.00800  0.03000  0.00000  0.00000  0.00000
+  P  0.02100  0.00700  0.01700  0.00300  0.00500  0.01000
+  O1  0.02800  0.02100  0.03400  0.00700  0.01000  -0.01200
+  O2  0.02900  0.01400  0.03700  -0.00500  0.00900  -0.00200
+  O3  0.04600  0.03600  0.04800  0.00000  -0.00600  0.00100
+  O4  0.02800  0.02900  0.03200  -0.00400  -0.01500  0.00200
+  O-H  0.01500  0.01500  0.01000  -0.00200  0.00400  0.00500
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Fe1  0.36800  0.36800  0.00000  0.78200  Fe  0
+  Fe2  0.13800  0.13800  0.50000  0.16400  Fe  0
+  Fe3  0.14890  0.38210  0.24580  1.00000  Fe  0
+  P  0.25700  0.00000  0.12400  1.00000  P  0
+  O1  0.38600  0.01120  0.05300  1.00000  O  0
+  O2  0.13400  0.12900  0.18400  1.00000  O  0
+  O3  0.13800  -0.13200  0.06200  1.00000  O  0
+  O4  0.37200  -0.11300  0.19300  1.00000  O  0
+  O-H  0.01200  0.23500  0.37300  1.00000  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:47:10+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:19:58+03:00
+  "Changed the following '_atom_site_aniso_label' values: 'OH' -> 'O-H'"
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0001230

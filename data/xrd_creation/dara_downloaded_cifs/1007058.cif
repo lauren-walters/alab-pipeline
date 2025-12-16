@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_1007058
+loop_
+ _publ_author_name
+  'Masse, R'
+  'Durif, A'
+  'Guitel, J C'
+  'Tordjman, I'
+_publ_section_title
+;
+Structure cristalline du monophosphate lacunaire K Ti~2~ (P O~4~)~3~.
+Monophosphates lacunaires Nb Ge (P O~4~)~3~ et M(V) Ti (P O~4~)~3~
+pour M(V) = Sb, Nb, Ta
+;
+_journal_coden_ASTM   BUFCAE
+_journal_name_full
+;
+Bulletin de la Societe Francaise de Mineralogie et de Cristallographie
+(72,1949-100,1977)
+;
+_journal_page_first   47
+_journal_page_last   55
+_journal_volume   95
+_journal_year   1972
+_chemical_formula_structural   'K Ti2 (P O4)3'
+_chemical_formula_sum   'K O12 P3 Ti2'
+_chemical_name_systematic   'Potassium dititanium phosphate'
+_space_group_IT_number   198
+_symmetry_cell_setting   cubic
+_symmetry_Int_Tables_number   198
+_symmetry_space_group_name_Hall   'P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P 21 3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.770(6)
+_cell_length_b   9.770(6)
+_cell_length_c   9.770(6)
+_cell_volume   932.6
+_exptl_crystal_density_meas   2.99(5)
+_refine_ls_R_factor_all   0.1
+_cod_database_code   1007058
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  y,z,x
+  z,x,y
+  1/2+x,1/2-y,-z
+  1/2+y,1/2-z,-x
+  1/2+z,1/2-x,-y
+  -x,1/2+y,1/2-z
+  -y,1/2+z,1/2-x
+  -z,1/2+x,1/2-y
+  1/2-x,-y,1/2+z
+  1/2-y,-z,1/2+x
+  1/2-z,-x,1/2+y
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Ti1  Ti4+  4  a  0.5865(3)  0.5865(3)  0.5865(3)  1.  0  d
+  Ti2  Ti4+  4  a  0.8624(3)  0.8624(3)  0.8624(3)  1.  0  d
+  K1  K1+  4  a  0.2818(6)  0.2818(6)  0.2818(6)  0.80(3)  0  d
+  K2  K1+  4  a  0.0730(23)  0.0730(23)  0.0730(23)  0.20(3)  0  d
+  P1  P5+  12  b  0.6266(4)  0.4543(4)  0.2720(4)  1.  0  d
+  O1  O2-  12  b  0.648(1)  0.499(1)  0.421(1)  1.  0  d
+  O2  O2-  12  b  0.763(1)  0.476(1)  0.196(1)  1.  0  d
+  O3  O2-  12  b  0.582(1)  0.304(1)  0.264(1)  1.  0  d
+  O4  O2-  12  b  0.515(1)  0.541(1)  0.203(1)  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Ti4+  4.000
+  K1+  1.000
+  P5+  5.000
+  O2-  -2.000

@@ -1,0 +1,191 @@
+# generated using pymatgen
+data_4308609
+loop_
+ _publ_author_name
+  'Robert E. Dinnebier'
+  'Sander van Smaalen'
+  'Falk Olbrich'
+  'Stefan Carlson'
+_publ_contact_author
+;
+Robert Dinnebier     Max-Planck f\"ur Festk\"orperforschung
+Heisenbergstrasse 1     D-70569 Stuttgart     Deutschland
+;
+_publ_contact_author_email   r.dinnebier@fkf.mpg.de
+_publ_contact_author_fax   '049 711 689-1503'
+_publ_contact_author_phone   '049 711 689-1500'
+_publ_section_title
+'Effect of Crystal Packing on the Structures of Polymeric Metallocenes'
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   964
+_journal_page_last   968
+_journal_paper_doi   10.1021/ic049214y
+_journal_volume   44
+_journal_year   2005
+_chemical_formula_sum   'C5 H5 K'
+_chemical_formula_weight   104.20
+_chemical_name_systematic   ?
+_space_group_IT_number   114
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   'P -4 2n'
+_symmetry_space_group_name_H-M   'P -4 21 c'
+_audit_author_name   R.E.D.
+_audit_creation_date   2004-10-01T08:47
+_audit_creation_method   'from EXP file using GSAS2CIF'
+_audit_update_record
+'2004-10-01T08:47  Initial CIF as created by GSAS2CIF'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   8
+_cell_length_a   10.0070(4)
+_cell_length_b   10.007
+_cell_length_c   10.50284(22)
+_cell_volume   1051.75(5)
+_computing_structure_refinement   GSAS
+_diffrn_radiation_polarisn_ratio   0.0
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_wavelength   0.431329
+_exptl_absorpt_correction_T_max   1.00000
+_exptl_absorpt_correction_T_min   1.00000
+_exptl_absorpt_process_details
+;
+GSAS Absorption/surface roughness correction: function number 0  No
+correction is applied.
+;
+_pd_block_id   2004-10-01T08:47|147R|R.E.D.|Mar345
+_pd_calc_method   'Rietveld Refinement'
+_pd_instr_location   ?
+_pd_meas_2theta_range_inc   0.01375
+_pd_meas_2theta_range_max   19.69119
+_pd_meas_2theta_range_min   2.9
+_pd_phase_name   KCP
+_pd_proc_2theta_range_inc   0.01375
+_pd_proc_2theta_range_max   19.69119
+_pd_proc_2theta_range_min   2.9
+_pd_proc_info_datetime   2004-10-01T08:47:25
+_pd_proc_info_excluded_regions   ?
+_pd_proc_ls_background_function
+;
+GSAS Background function number 1 with  1 terms.  Shifted Chebyshev
+function of 1st kind       1:    0.00000
+;
+_pd_proc_ls_peak_cutoff   0.00200
+_pd_proc_ls_profile_function
+;
+CW Profile function number 2 with  18 terms  Profile coefficients for
+Simpson's rule integration of pseudovoigt function  C.J. Howard
+(1982). J. Appl. Cryst.,15,615-620.  P. Thompson, D.E. Cox & J.B.
+Hastings (1987). J. Appl. Cryst.,20,79-83.  Peak tails are ignored
+where the intensity is below 0.0020 times the peak    Aniso.
+broadening axis   0.0   0.0   1.0
+;
+_pd_proc_ls_prof_R_factor   0.0066
+_pd_proc_ls_prof_wR_expected   0.0215
+_pd_proc_ls_prof_wR_factor   0.0098
+_pd_spec_mounting   ?
+_refine_ls_goodness_of_fit_all   0.46
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   17
+_refine_ls_number_restraints   0
+_refine_ls_R_Fsqd_factor   0.24008
+_refine_ls_shift/su_max   0.03
+_refine_ls_shift/su_mean   0.01
+_reflns_d_resolution_high   1.264
+_reflns_d_resolution_low   7.245
+_reflns_limit_h_max   8
+_reflns_limit_h_min   0
+_reflns_limit_k_max   5
+_reflns_limit_k_min   0
+_reflns_limit_l_max   8
+_reflns_limit_l_min   0
+_reflns_number_total   174
+_cod_data_source_file   ic049214ysi20050103_035455.cif
+_cod_data_source_block   147R_publ
+_cod_original_cell_volume   1051.75(8)
+_cod_database_code   4308609
+_cod_database_fobs_code   4308609
+_gsas_exptl_extinct_corr_t_min   1.00000
+_gsas_exptl_extinct_corr_t_max   1.00000
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  +y,-x,-z
+  3  -x,-y,+z
+  4  -y,+x,-z
+  5  -x+1/2,+y+1/2,-z+1/2
+  6  +y+1/2,+x+1/2,+z+1/2
+  7  +x+1/2,-y+1/2,-z+1/2
+  8  -y+1/2,-x+1/2,+z+1/2
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_33
+  K  0.159(8)  -0.015(5)  0.040(7)  0.096(7)  -0.001(7)  -0.0250(23)
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  K  K  0.7869(4)  0.1373(4)  0.8759(5)  1.0  Uani  0.07661  8
+  C  C1  0.8075(10)  0.1798(19)  0.5939(10)  1.0  Uiso  0.0077(29)
+  8
+  C  C2  0.7716(15)  0.3098(12)  0.6360(14)  1.0  Uiso  0.0077(29)
+  8
+  C  C3  0.6348(16)  0.3070(13)  0.6720(8)  1.0  Uiso  0.0077(29)  8
+  C  C4  0.5863(9)  0.1753(19)  0.6522(15)  1.0  Uiso  0.0077(29)  8
+  C  C5  0.6930(21)  0.0967(6)  0.6039(13)  1.0  Uiso  0.0077(29)  8
+  H  H1  0.9022(16)  0.1503(34)  0.5611(14)  1.0  Uiso  0.01  8
+  H  H2  0.8350(27)  0.3933(21)  0.6398(24)  1.0  Uiso  0.01  8
+  H  H3  0.5794(30)  0.3881(23)  0.7072(9)  1.0  Uiso  0.01  8
+  H  H4  0.4886(13)  0.1419(35)  0.6701(24)  1.0  Uiso  0.01  8
+  H  H5  0.688(4)  -0.0050(7)  0.5798(21)  1.0  Uiso  0.01  8
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_Cromer_Mann_a1
+ _atom_type_scat_Cromer_Mann_a2
+ _atom_type_scat_Cromer_Mann_a3
+ _atom_type_scat_Cromer_Mann_a4
+ _atom_type_scat_Cromer_Mann_b1
+ _atom_type_scat_Cromer_Mann_b2
+ _atom_type_scat_Cromer_Mann_b3
+ _atom_type_scat_Cromer_Mann_b4
+ _atom_type_scat_Cromer_Mann_c
+ _atom_type_scat_source
+  K  8.0  0.000  0.000  8.21860  12.7949  7.43980  0.77480  1.05190
+  213.187  0.86590  41.6841  1.42280  International_Tables_Vol_C
+  C  40.0  0.000  0.000  2.31000  20.8439  1.02000  10.2075  1.58860
+  0.56870  0.86500  51.6512  0.21560  International_Tables_Vol_C
+  H  40.0  0.000  0.000  0.49300  10.5109  0.32291  26.1257  0.14019
+  3.14236  0.04081  57.7997  0.00304  International_Tables_Vol_C
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  ?  ?  ?  ?  ?  ?  ?  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  ?  ?  ?  ?  ?  ?

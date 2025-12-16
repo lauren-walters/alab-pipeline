@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_1532241
+loop_
+ _publ_author_name
+  'Shepelev, Yu.F.'
+  'Petrova, M.A.'
+  'Novikova, A.S.'
+  'Lapshin, A.E.'
+_publ_section_title
+;
+Crystal structures of Na2 Zn P2 O7, K2 Zn P2 O7 and Li K Zn P2 O7
+phases  in the (M2 O) - (Zn O) - (P2 O5) glass-forming system (M = Li,
+Na and K)
+;
+_journal_name_full   'Glass Physics and Chemistry'
+_journal_page_first   317
+_journal_page_last   321
+_journal_volume   28
+_journal_year   2002
+_chemical_formula_sum   'Na2 O7 P2 Zn'
+_chemical_name_systematic   'Na2 (Zn P2 O7)'
+_space_group_IT_number   136
+_symmetry_space_group_name_Hall   '-P 4n 2n'
+_symmetry_space_group_name_H-M   'P 42/m n m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.687
+_cell_length_b   7.687
+_cell_length_c   10.275
+_cell_volume   607.149
+_citation_journal_id_ASTM   GPHCEE
+_cod_data_source_file   Shepelev_GPHCEE_2002_1136.cif
+_cod_data_source_block   Na2O7P2Zn1
+_cod_original_cell_volume   607.1494
+_cod_original_formula_sum   'Na2 O7 P2 Zn1'
+_cod_database_code   1532241
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/2,x+1/2,z+1/2
+  -x,-y,z
+  y+1/2,-x+1/2,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  y,x,-z
+  -x+1/2,y+1/2,-z+1/2
+  -y,-x,-z
+  -x,-y,-z
+  y-1/2,-x-1/2,-z-1/2
+  x,y,-z
+  -y-1/2,x-1/2,-z-1/2
+  -x-1/2,y-1/2,z-1/2
+  -y,-x,z
+  x-1/2,-y-1/2,z-1/2
+  y,x,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P+5  0.1371  0.1371  0.2857  1  0.0
+  O2  O-2  0.1379  0.1379  0.1418  1  0.0
+  Na2  Na+1  0.8524  0.1476  0  1  0.0
+  Zn1  Zn+2  0.5  0  0.25  1  0.0
+  Na1  Na+1  0.8002  0.1998  0.5  1  0.0
+  O3  O-2  0.3028  0.0829  0.3515  1  0.0
+  O1  O-2  0  0  0.3444  1  0.0

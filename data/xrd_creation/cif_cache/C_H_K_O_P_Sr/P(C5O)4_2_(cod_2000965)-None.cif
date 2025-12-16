@@ -1,0 +1,108 @@
+# generated using pymatgen
+data_2000965
+loop_
+ _publ_author_name
+  'Steel, P. J.'
+  'Battiste, M. A.'
+  'Campbell, C. R.'
+_publ_section_title
+'Structures of three 1-[(diphenylphosphinoyl)methyl]cyclohexanols'
+_journal_issue   4
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   690
+_journal_page_last   693
+_journal_paper_doi   10.1107/S0108270191010430
+_journal_volume   48
+_journal_year   1992
+_chemical_formula_sum   'C20 H25 O4 P'
+_chemical_formula_weight   360.4
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   75.09(5)
+_cell_angle_beta   81.25(4)
+_cell_angle_gamma   83.86(5)
+_cell_formula_units_Z   2
+_cell_length_a   5.836(3)
+_cell_length_b   11.837(8)
+_cell_length_c   13.242(7)
+_cell_volume   871.5(9)
+_diffrn_radiation_type   Mo
+_diffrn_radiation_wavelength   0.7107
+_exptl_absorpt_coefficient_mu   0.17
+_exptl_crystal_density_diffrn   1.37
+_exptl_crystal_F_000   384
+_cod_data_source_file   ab0234.cif
+_cod_data_source_block   ab0234c
+_cod_original_cell_volume   871.5
+_cod_original_formula_sum   'C20 H25 O4 P1'
+_cod_database_code   2000965
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  C(1)  .2803(4)  .7301(2)  .1411(2)  .0200(10)
+  O(1)  .5208(3)  .6964(2)  .10940(10)  .0240(10)
+  C(2)  .1239(4)  .6594(2)  .1009(2)  .0220(10)
+  O(2)  .1795(3)  .5382(2)  .14130(10)  .0280(10)
+  C(3)  .1145(4)  .6930(2)  -.0187(2)  .0240(10)
+  O(3)  -.0789(3)  .6362(2)  -.0373(2)  .0310(10)
+  C(31)  .3242(4)  .6467(3)  -.0823(2)  .0280(10)
+  C(4)  .0685(5)  .8257(2)  -.0562(2)  .0290(10)
+  C(5)  .2451(5)  .8918(2)  -.0241(2)  .0290(10)
+  C(6)  .2320(4)  .8615(2)  .0957(2)  .0250(10)
+  C(10)  .2315(4)  .6983(2)  .2623(2)  .0180(10)
+  P  .40630(10)  .76660(10)  .32780(10)  .0180(10)
+  O(10)  .6540(3)  .7708(2)  .27720(10)  .0240(10)
+  C(11)  .3752(4)  .6841(2)  .4635(2)  .0190(10)
+  C(12)  .1927(6)  .6181(4)  .5102(2)  .060(2)
+  C(13)  .1801(6)  .5555(4)  .6144(2)  .0590(10)
+  C(14)  .3496(5)  .5584(2)  .6732(2)  .0280(10)
+  C(15)  .5299(6)  .6250(3)  .6285(3)  .0590(10)
+  C(16)  .5437(6)  .6877(3)  .5244(3)  .0560(10)
+  C(21)  .2782(4)  .9117(2)  .3305(2)  .0210(10)
+  C(22)  .0495(5)  .9345(3)  .3675(3)  .060(2)
+  C(23)  -.0388(6)  1.0472(3)  .3697(3)  .0550(10)
+  C(24)  .0975(5)  1.1382(3)  .3342(2)  .0360(10)
+  C(25)  .3245(7)  1.1170(3)  .2964(3)  .064(2)
+  C(26)  .4157(6)  1.0049(3)  .2941(3)  .0450(10)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  C(1)  O(1)  1.447(3)
+  C(1)  C(2)  1.535(4)
+  C(1)  C(6)  1.529(3)
+  C(1)  C(10)  1.540(3)
+  C(2)  O(2)  1.417(3)
+  C(2)  C(3)  1.539(3)
+  C(3)  C(31)  1.513(4)
+  C(3)  C(4)  1.528(4)
+  C(4)  C(5)  1.527(4)
+  C(5)  C(6)  1.525(3)
+  C(10)  P  1.804(3)
+  P  O(10)  1.498(2)
+  P  C(11)  1.804(2)
+  P  C(21)  1.806(3)
+  C(11)  C(12)  1.362(4)
+  C(11)  C(16)  1.374(5)
+  C(12)  C(13)  1.384(4)
+  C(13)  C(14)  1.357(5)
+  C(14)  C(15)  1.352(4)
+  C(15)  C(16)  1.382(4)
+  C(21)  C(22)  1.373(4)
+  C(21)  C(26)  1.375(4)
+  C(22)  C(23)  1.384(5)
+  C(23)  C(24)  1.350(5)
+  C(24)  C(25)  1.364(5)
+  C(25)  C(26)  1.381(5)

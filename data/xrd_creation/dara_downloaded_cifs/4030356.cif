@@ -1,0 +1,278 @@
+# generated using pymatgen
+data_4030356
+loop_
+ _publ_author_name
+  'Ijjaali, M.'
+  'Venturini, G.'
+  'Gerardin, R.'
+  'Malaman, B.'
+  'Gleitzer, C.'
+_publ_section_title
+;
+Synthesis, structure and physical properties of a mixed-valence iron
+diphosphate Fe3(P2O7)2 ; first example of trigonal prismatic Fe2+ with
+O2- ligands
+;
+_journal_name_full
+'European Journal of Solid State and Inorganic Chemistry'
+_journal_page_first   983
+_journal_page_last   998
+_journal_volume   28
+_journal_year   1991
+_chemical_formula_sum   'Fe3 O14 P4'
+_chemical_formula_weight   515.43
+_space_group_IT_number   62
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   62
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.9500(7)
+_cell_length_b   12.235(2)
+_cell_length_c   10.174(1)
+_cell_volume   1114.1(2)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   AgK\a
+_diffrn_radiation_wavelength   0.55
+_exptl_absorpt_coefficient_mu   2.186
+_exptl_crystal_density_diffrn   3.073
+_exptl_crystal_F_000   1000
+_refine_ls_number_parameters   46
+_refine_ls_number_reflns   538
+_refine_ls_R_factor_gt   0.034
+_refine_ls_wR_factor_gt   0.036
+_cod_data_source_file   EJSSIC-1991-28-983-998.cif
+_cod_data_source_block   Fe3(P2O7)2
+_cod_database_code   4030356
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  1/2-x,-y,1/2+z
+  3  1/2+x,1/2-y,1/2-z
+  4  -x,1/2+y,-z
+  5  -x,-y,-z
+  6  1/2+x,y,1/2-z
+  7  1/2-x,1/2+y,1/2+z
+  8  x,1/2-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Fe1  Fe  Uiso  0.2539(2)  0.25000  0.1191(2)  1.000  0.0075(3)
+  Fe2  Fe  Uiso  0.24950(10)  0.01100(10)  0.1211(2)  1.000
+  0.0058(3)
+  P1  P  Uiso  0.9136(2)  0.1327(2)  0.1192(2)  1.000  0.0049(4)
+  P2  P  Uiso  0.9275(2)  0.1269(2)  0.6353(2)  1.000  0.0060(4)
+  O1  O  Uiso  0.3707(9)  0.25000  0.4376(7)  1.000  0.0060(15)
+  O2  O  Uiso  0.4522(10)  0.25000  0.8189(8)  1.000  0.0146(19)
+  O3  O  Uiso  0.5791(6)  0.4220(5)  0.8914(6)  1.000  0.0143(11)
+  O4  O  Uiso  0.3483(7)  0.0706(5)  0.7551(6)  1.000  0.0162(13)
+  O5  O  Uiso  0.0823(5)  0.1317(4)  0.1285(5)  1.000  0.0086(10)
+  O6  O  Uiso  0.8353(6)  0.1310(5)  0.5104(5)  1.000  0.0096(11)
+  O7  O  Uiso  0.3415(6)  0.1259(5)  0.2449(5)  1.000  0.0089(11)
+  O8  O  Uiso  0.3517(6)  0.0500(4)  0.4723(6)  1.000  0.0084(10)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Fe  Fe  0.2870  0.5290
+  'S.Brennan & P.L.Cowan (1992).Rev.Sci.Instr.,63,650'
+  O  O  0.0055  0.0035
+  'S.Brennan & P.L.Cowan (1992).Rev.Sci.Instr.,63,650'
+  P  P  0.0646  0.0562
+  'S.Brennan & P.L.Cowan (1992).Rev.Sci.Instr.,63,650'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  Fe2  Fe1  O5  45.96(13)  .  .  yes
+  Fe2  Fe1  O7  44.74(16)  .  .  yes
+  Fe2  Fe1  O6  134.76(18)  .  3_455  yes
+  Fe2  Fe1  O6  46.68(16)  .  6_455  yes
+  Fe2  Fe1  Fe2  178.26(8)  .  8_555  yes
+  Fe2  Fe1  O5  132.45(15)  .  8_555  yes
+  Fe2  Fe1  O7  135.39(17)  .  8_555  yes
+  O5  Fe1  O7  75.7(2)  .  .  yes
+  O5  Fe1  O6  139.3(2)  .  3_455  yes
+  O5  Fe1  O6  78.8(2)  .  6_455  yes
+  Fe2  Fe1  O5  132.45(15)  8_555  .  yes
+  O5  Fe1  O5  86.49(19)  .  8_555  yes
+  O5  Fe1  O7  136.6(2)  .  8_555  yes
+  O6  Fe1  O7  138.1(2)  3_455  .  yes
+  O6  Fe1  O7  75.8(2)  6_455  .  yes
+  Fe2  Fe1  O7  135.39(17)  8_555  .  yes
+  O5  Fe1  O7  136.6(2)  8_555  .  yes
+  O7  Fe1  O7  90.7(2)  .  8_555  yes
+  O6  Fe1  O6  88.1(2)  3_455  6_455  yes
+  Fe2  Fe1  O6  46.68(16)  8_555  3_455  yes
+  O5  Fe1  O6  78.8(2)  8_555  3_455  yes
+  O6  Fe1  O7  75.8(2)  3_455  8_555  yes
+  Fe2  Fe1  O6  134.76(18)  8_555  6_455  yes
+  O5  Fe1  O6  139.3(2)  8_555  6_455  yes
+  O6  Fe1  O7  138.1(2)  6_455  8_555  yes
+  Fe2  Fe1  O5  45.96(13)  8_555  8_555  yes
+  Fe2  Fe1  O7  44.74(16)  8_555  8_555  yes
+  O5  Fe1  O7  75.7(2)  8_555  8_555  yes
+  Fe1  Fe2  O5  46.21(13)  .  .  yes
+  Fe1  Fe2  O7  46.87(16)  .  .  yes
+  Fe1  Fe2  O4  122.4(2)  .  2_554  yes
+  Fe1  Fe2  O8  112.98(17)  .  2_554  yes
+  Fe1  Fe2  O3  124.47(19)  .  4_646  yes
+  Fe1  Fe2  O6  45.69(16)  .  6_455  yes
+  O5  Fe2  O7  77.5(2)  .  .  yes
+  O4  Fe2  O5  90.9(2)  2_554  .  yes
+  O5  Fe2  O8  88.0(2)  .  2_554  yes
+  O3  Fe2  O5  170.6(2)  4_646  .  yes
+  O5  Fe2  O6  78.2(2)  .  6_455  yes
+  O4  Fe2  O7  96.0(3)  2_554  .  yes
+  O7  Fe2  O8  159.8(2)  .  2_554  yes
+  O3  Fe2  O7  96.3(2)  4_646  .  yes
+  O6  Fe2  O7  76.7(2)  6_455  .  yes
+  O4  Fe2  O8  98.3(3)  2_554  2_554  yes
+  O3  Fe2  O4  96.9(3)  4_646  2_554  yes
+  O4  Fe2  O6  167.9(3)  2_554  6_455  yes
+  O3  Fe2  O8  96.1(3)  4_646  2_554  yes
+  O6  Fe2  O8  86.7(2)  6_455  2_554  yes
+  O3  Fe2  O6  93.6(2)  4_646  6_455  yes
+  O1  P1  O5  105.7(4)  3_555  1_655  yes
+  O5  P1  O7  111.4(3)  1_655  6_555  yes
+  O5  P1  O8  114.0(3)  1_655  6_555  yes
+  O1  P1  O7  106.0(4)  3_555  6_555  yes
+  O1  P1  O8  107.3(3)  3_555  6_555  yes
+  O7  P1  O8  111.9(3)  6_555  6_555  yes
+  O2  P2  O6  106.8(4)  3_556  .  yes
+  O3  P2  O6  110.6(3)  3_556  .  yes
+  O4  P2  O6  112.6(3)  6_556  .  yes
+  O2  P2  O3  107.7(4)  3_556  3_556  yes
+  O2  P2  O4  106.5(4)  3_556  6_556  yes
+  O3  P2  O4  112.3(4)  3_556  6_556  yes
+  P1  O1  P1  128.4(5)  3_455  6_455  yes
+  P2  O2  P2  142.2(6)  3_456  6_456  yes
+  Fe2  O3  P2  161.7(4)  4_656  3_456  yes
+  Fe2  O4  P2  175.9(4)  2_555  6_456  yes
+  Fe1  O5  Fe2  87.83(17)  .  .  yes
+  Fe1  O5  P1  135.8(3)  .  1_455  yes
+  Fe2  O5  P1  135.5(3)  .  1_455  yes
+  Fe1  O6  P2  137.7(4)  3_555  .  yes
+  Fe2  O6  P2  134.4(4)  6_555  .  yes
+  Fe1  O6  Fe2  87.6(2)  3_555  6_555  yes
+  Fe1  O7  Fe2  88.4(2)  .  .  yes
+  Fe1  O7  P1  131.2(4)  .  6_455  yes
+  Fe2  O7  P1  139.4(4)  .  6_455  yes
+  Fe2  O8  P1  159.9(4)  2_555  6_455  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Fe1  Fe2  2.9245(13)  .  yes
+  Fe1  O5  2.113(5)  .  yes
+  Fe1  O7  2.135(6)  .  yes
+  Fe1  O6  2.094(6)  3_455  yes
+  Fe1  O6  2.094(6)  6_455  yes
+  Fe1  Fe2  2.9245(13)  8_555  yes
+  Fe1  O5  2.113(5)  8_555  yes
+  Fe1  O7  2.135(6)  8_555  yes
+  Fe2  O5  2.104(5)  .  yes
+  Fe2  O7  2.059(6)  .  yes
+  Fe2  O4  1.903(6)  2_554  yes
+  Fe2  O8  1.916(6)  2_554  yes
+  Fe2  O3  1.886(6)  4_646  yes
+  Fe2  O6  2.130(6)  6_455  yes
+  P1  O5  1.513(5)  1_655  yes
+  P1  O1  1.594(4)  3_555  yes
+  P1  O7  1.528(6)  6_555  yes
+  P1  O8  1.482(6)  6_555  yes
+  P2  O6  1.516(6)  .  yes
+  P2  O2  1.592(4)  3_556  yes
+  P2  O3  1.508(6)  3_556  yes
+  P2  O4  1.490(6)  6_556  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O5  Fe1  Fe2  O7  -119.1(3)  .  .  .  no
+  O5  Fe1  Fe2  O4  -54.3(3)  .  .  2_554  no
+  O5  Fe1  Fe2  O8  62.7(3)  .  .  2_554  no
+  O5  Fe1  Fe2  O3  178.3(3)  .  .  4_646  no
+  O5  Fe1  Fe2  O6  122.6(3)  .  .  6_455  no
+  O7  Fe1  Fe2  O5  119.1(3)  .  .  .  no
+  O7  Fe1  Fe2  O4  64.8(3)  .  .  2_554  no
+  O7  Fe1  Fe2  O8  -178.2(3)  .  .  2_554  no
+  O7  Fe1  Fe2  O3  -62.6(3)  .  .  4_646  no
+  O7  Fe1  Fe2  O6  -118.2(3)  .  .  6_455  no
+  O6  Fe1  Fe2  O5  -121.7(3)  3_455  .  .  no
+  O6  Fe1  Fe2  O7  119.2(3)  3_455  .  .  no
+  O6  Fe1  Fe2  O5  -122.6(3)  6_455  .  .  no
+  O6  Fe1  Fe2  O7  118.2(3)  6_455  .  .  no
+  O5  Fe1  Fe2  O5  0.7(3)  8_555  .  .  no
+  O5  Fe1  Fe2  O7  -118.5(3)  8_555  .  .  no
+  O7  Fe1  Fe2  O5  117.4(3)  8_555  .  .  no
+  O7  Fe1  Fe2  O7  -1.8(3)  8_555  .  .  no
+  Fe2  Fe1  O5  P1  -170.2(6)  .  .  1_455  no
+  O7  Fe1  O5  Fe2  -39.4(2)  .  .  .  no
+  O7  Fe1  O5  P1  150.4(5)  .  .  1_455  no
+  O6  Fe1  O5  Fe2  112.2(3)  3_455  .  .  no
+  O6  Fe1  O5  Fe2  38.7(2)  6_455  .  .  no
+  Fe2  Fe1  O5  Fe2  -179.04(13)  8_555  .  .  no
+  O5  Fe1  O5  Fe2  -179.5(2)  8_555  .  .  no
+  O7  Fe1  O5  Fe2  -114.7(3)  8_555  .  .  no
+  Fe2  Fe1  O7  P1  -170.2(5)  .  .  6_455  no
+  O5  Fe1  O7  Fe2  40.39(19)  .  .  .  no
+  O5  Fe1  O7  P1  -129.8(4)  .  .  6_455  no
+  O6  Fe1  O7  Fe2  -112.0(3)  3_455  .  .  no
+  O6  Fe1  O7  Fe2  -41.4(2)  6_455  .  .  no
+  Fe2  Fe1  O7  Fe2  177.54(12)  8_555  .  .  no
+  O5  Fe1  O7  Fe2  109.2(3)  8_555  .  .  no
+  O7  Fe1  O7  Fe2  178.8(2)  8_555  .  .  no
+  O5  Fe1  O6  Fe2  -38.12(19)  .  6_455  .  no
+  O7  Fe1  O6  Fe2  39.76(19)  .  6_455  .  no
+  Fe1  Fe2  O5  P1  170.3(6)  .  .  1_455  no
+  O7  Fe2  O5  Fe1  40.8(2)  .  .  .  no
+  O7  Fe2  O5  P1  -149.0(5)  .  .  1_455  no
+  O4  Fe2  O5  Fe1  136.7(2)  2_554  .  .  no
+  O4  Fe2  O5  P1  -53.1(5)  2_554  .  1_455  no
+  O8  Fe2  O5  Fe1  -125.1(2)  2_554  .  .  no
+  O8  Fe2  O5  P1  45.2(5)  2_554  .  1_455  no
+  O6  Fe2  O5  Fe1  -38.0(2)  6_455  .  .  no
+  O6  Fe2  O5  P1  132.3(5)  6_455  .  1_455  no
+  Fe1  Fe2  O7  P1  168.6(6)  .  .  6_455  no
+  O5  Fe2  O7  Fe1  -40.23(19)  .  .  .  no
+  O5  Fe2  O7  P1  128.4(5)  .  .  6_455  no
+  O4  Fe2  O7  Fe1  -129.8(2)  2_554  .  .  no
+  O4  Fe2  O7  P1  38.8(5)  2_554  .  6_455  no
+  O8  Fe2  O7  Fe1  4.9(8)  2_554  .  .  no
+  O8  Fe2  O7  P1  173.5(5)  2_554  .  6_455  no
+  O3  Fe2  O7  Fe1  132.6(2)  4_646  .  .  no
+  O3  Fe2  O7  P1  -58.8(5)  4_646  .  6_455  no
+  O6  Fe2  O7  Fe1  40.4(2)  6_455  .  .  no
+  O6  Fe2  O7  P1  -151.0(5)  6_455  .  6_455  no
+  O5  Fe2  O6  Fe1  38.40(19)  .  6_455  .  no
+  O5  Fe2  O6  P2  -146.7(5)  .  6_455  6_455  no
+  O7  Fe2  O6  Fe1  -41.4(2)  .  6_455  .  no
+  O7  Fe2  O6  P2  133.6(5)  .  6_455  6_455  no
+  O3  P2  O6  Fe2  62.5(5)  3_556  .  6_555  no
+  O4  P2  O6  Fe2  -64.0(5)  6_556  .  6_555  no

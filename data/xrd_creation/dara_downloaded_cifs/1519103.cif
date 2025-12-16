@@ -1,0 +1,216 @@
+# generated using pymatgen
+data_1519103
+loop_
+ _publ_author_name
+  'N. Stock'
+  'G. Ferey'
+  'A.K. Cheetham'
+_publ_section_title
+;
+Hydrothermal synthesis and characterization of a chromium(II)
+pyrophosphate, Na2CrP2O7.0.5H2O
+;
+_journal_name_full   'Solid State Sciences'
+_journal_page_first   307
+_journal_page_last   312
+_journal_volume   2
+_journal_year   2000
+_chemical_formula_sum   'Cr H Na2 O7.5 P2'
+_chemical_formula_weight   280.93
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   100.284(1)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.7033(2)
+_cell_length_b   10.0798(2)
+_cell_length_c   8.6667(2)
+_cell_volume   662.14(3)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_exptl_absorpt_coefficient_mu   2.341
+_exptl_crystal_density_diffrn   2.818
+_exptl_crystal_F_000   548
+_refine_ls_goodness_of_fit_ref   1.078
+_refine_ls_number_parameters   116
+_refine_ls_number_reflns   1496
+_refine_ls_R_factor_gt   0.0327
+_refine_ls_wR_factor_gt   0.0785
+_cod_data_source_file   SSS-2000-2-307-312.cif
+_cod_data_source_block   Na2CrP2
+_cod_original_sg_symbol_H-M   'P 21/n'
+_cod_original_formula_sum   'H Cr Na2 O7.5 P2'
+_cod_database_code   1519103
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  1/2-x,1/2+y,1/2-z
+  3  -x,-y,-z
+  4  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Cr1  0.0140(10)  0.0460(10)  0.0080(10)  0.0020(10)  0.0010(10)
+  0.0140(10)
+  P1  0.0100(10)  0.0140(10)  0.0110(10)  0.0000(10)  0.0000(10)
+  -0.0010(10)
+  P2  0.0090(10)  0.0210(10)  0.0120(10)  -0.0010(10)  0.0000(10)
+  0.0000(10)
+  O1  0.0210(10)  0.0260(10)  0.0100(10)  0.0010(10)  0.0000(10)
+  0.0090(10)
+  O2  0.0130(10)  0.0170(10)  0.0170(10)  0.0010(10)  0.0040(10)
+  0.0010(10)
+  O3  0.0150(10)  0.0250(10)  0.0130(10)  0.0040(10)  0.0000(10)
+  0.0070(10)
+  O4  0.0180(10)  0.0190(10)  0.0250(10)  0.0000(10)  0.0090(10)
+  -0.0040(10)
+  O5  0.0230(10)  0.0410(10)  0.0130(10)  0.0050(10)  0.0030(10)
+  0.0170(10)
+  O6  0.0140(10)  0.0260(10)  0.0140(10)  0.0010(10)  0.0010(10)
+  0.0010(10)
+  O7  0.0180(10)  0.0350(10)  0.0250(10)  -0.0010(10)  0.0060(10)
+  0.0090(10)
+  O8  0.098(4)  0.100(5)  0.134(6)  -0.006(4)  0.079(4)  -0.035(4)
+  Na1  0.0190(10)  0.0230(10)  0.0200(10)  0.0040(10)  0.0070(10)
+  0.0040(10)
+  Na2  0.0240(10)  0.0320(10)  0.0770(10)  -0.0020(10)  -0.0160(10)
+  0.0020(10)
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Cr1  Cr  Uani  0.20110(10)  0.77000(10)  0.55860(10)  1.000
+  0.0228(6)  .  .  .  .
+  P1  P  Uani  0.08030(10)  0.85210(10)  0.19970(10)  1.000
+  0.0119(6)  .  .  .  .
+  P2  P  Uani  -0.18300(10)  0.86920(10)  0.39670(10)  1.000
+  0.0142(6)  .  .  .  .
+  O1  O  Uani  0.1862(3)  0.7608(2)  0.3226(2)  1.000  0.0193(6)  .
+  .  .  .
+  O2  O  Uani  -0.0539(2)  0.9359(2)  0.2876(2)  1.000  0.0155(6)  .
+  .  .  .
+  O3  O  Uani  0.4646(2)  0.7327(2)  0.5757(2)  1.000  0.0180(6)  .
+  .  .  .
+  O4  O  Uani  0.1871(3)  0.9560(2)  0.1364(2)  1.000  0.0200(6)  .
+  .  .  .
+  O5  O  Uani  0.2132(3)  0.7361(2)  0.7919(2)  1.000  0.0257(6)  .
+  .  .  .
+  O6  O  Uani  -0.0626(2)  0.8081(2)  0.5371(2)  1.000  0.0182(6)  .
+  .  .  .
+  O7  O  Uani  -0.2941(3)  0.9816(2)  0.4401(2)  1.000  0.0257(6)  .
+  .  .  .
+  O8  O  Uani  0.50000  0.00000  0.00000  1.000  0.104(3)  .  .  .
+  .
+  Na1  Na  Uani  -0.03660(10)  0.84490(10)  0.81860(10)  1.000
+  0.0202(6)  .  .  .  .
+  Na2  Na  Uani  0.4284(2)  1.0411(2)  0.3139(2)  1.000  0.0474(6)
+  .  .  .  .
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  Cr1  O3  86.64(9)  .  .  .  yes
+  O1  Cr1  O5  167.71(10)  .  .  .  yes
+  O1  Cr1  O6  92.31(9)  .  .  .  yes
+  O3  Cr1  O5  91.62(9)  .  .  .  yes
+  O3  Cr1  O6  178.91(8)  .  .  .  yes
+  O5  Cr1  O6  89.46(9)  .  .  .  yes
+  O1  P1  O2  106.93(11)  .  .  .  yes
+  O1  P1  O4  114.66(13)  .  .  .  yes
+  O1  P1  O3  108.95(12)  .  .  4_464  yes
+  O2  P1  O4  104.21(12)  .  .  .  yes
+  O2  P1  O3  106.27(10)  .  .  4_464  yes
+  O3  P1  O4  115.06(11)  4_464  .  .  yes
+  O2  P2  O6  106.38(10)  .  .  .  yes
+  O2  P2  O7  105.45(12)  .  .  .  yes
+  O2  P2  O5  104.47(11)  .  .  4_464  yes
+  O6  P2  O7  113.37(11)  .  .  .  yes
+  O5  P2  O6  111.96(12)  4_464  .  .  yes
+  O5  P2  O7  114.24(13)  4_464  .  .  yes
+  Cr1  O1  P1  126.99(13)  .  .  .  yes
+  P1  O2  P2  124.11(13)  .  .  .  yes
+  Cr1  O3  P1  126.92(11)  .  .  4_565  yes
+  Cr1  O5  P2  129.31(13)  .  .  4_565  yes
+  Cr1  O6  P2  127.08(11)  .  .  .  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Cr1  O1  2.0301(19)  .  .  yes
+  Cr1  O3  2.0436(18)  .  .  yes
+  Cr1  O5  2.0363(19)  .  .  yes
+  Cr1  O6  2.0429(18)  .  .  yes
+  P1  O1  1.529(2)  .  .  yes
+  P1  O2  1.6260(19)  .  .  yes
+  P1  O4  1.495(2)  .  .  yes
+  P1  O3  1.529(2)  .  4_464  yes
+  P2  O2  1.6343(19)  .  .  yes
+  P2  O6  1.5222(19)  .  .  yes
+  P2  O7  1.508(2)  .  .  yes
+  P2  O5  1.527(2)  .  4_464  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O3  Cr1  O1  P1  -138.39(17)  .  .  .  .  no
+  O6  Cr1  O1  P1  41.34(17)  .  .  .  .  no
+  O1  Cr1  O3  P1  -143.16(15)  .  .  .  4_565  no
+  O5  Cr1  O3  P1  24.66(16)  .  .  .  4_565  no
+  O3  Cr1  O5  P2  -39.49(18)  .  .  .  4_565  no
+  O6  Cr1  O5  P2  140.56(17)  .  .  .  4_565  no
+  O1  Cr1  O6  P2  -24.05(16)  .  .  .  .  no
+  O5  Cr1  O6  P2  168.12(15)  .  .  .  .  no
+  O2  P1  O1  Cr1  -12.98(19)  .  .  .  .  no
+  O4  P1  O1  Cr1  101.99(17)  .  .  .  .  no
+  O3  P1  O1  Cr1  -127.44(15)  4_464  .  .  .  no
+  O1  P1  O2  P2  -49.93(16)  .  .  .  .  no
+  O4  P1  O2  P2  -171.72(13)  .  .  .  .  no
+  O3  P1  O2  P2  66.34(15)  4_464  .  .  .  no
+  O1  P1  O3  Cr1  101.00(16)  .  .  4_464  4_464  no
+  O2  P1  O3  Cr1  -13.89(18)  .  .  4_464  4_464  no
+  O4  P1  O3  Cr1  -128.65(15)  .  .  4_464  4_464  no
+  O6  P2  O2  P1  64.54(16)  .  .  .  .  no
+  O7  P2  O2  P1  -174.78(13)  .  .  .  .  no
+  O5  P2  O2  P1  -54.04(16)  4_464  .  .  .  no
+  O2  P2  O6  Cr1  -15.41(18)  .  .  .  .  no
+  O7  P2  O6  Cr1  -130.84(15)  .  .  .  .  no
+  O5  P2  O6  Cr1  98.14(16)  4_464  .  .  .  no
+  O2  P2  O5  Cr1  -9.4(2)  .  .  4_464  4_464  no
+  O6  P2  O5  Cr1  -124.10(15)  .  .  4_464  4_464  no
+  O7  P2  O5  Cr1  105.32(18)  .  .  4_464  4_464  no

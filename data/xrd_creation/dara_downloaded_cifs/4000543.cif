@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_4000543
+loop_
+ _publ_author_name
+  'Chernaya, Victoria V.'
+  'Mitiaev, Alexander S.'
+  'Chizhov, Pavel S.'
+  'Dikarev, Evgeny V.'
+  'Shpanchenko, Roman V.'
+  'Antipov, Evgeny V.'
+  'Korolenko, Mikhail V.'
+  'Fabritchnyi, Pavel B.'
+_publ_section_title
+'Synthesis and Investigation of Tin(II) Pyrophosphate Sn~2~P~2~O~7~'
+_journal_coden_ASTM   CMATEX
+_journal_issue   2
+_journal_name_full   'Chemistry of Materials'
+_journal_page_first   284
+_journal_page_last   290
+_journal_paper_doi   10.1021/cm048463h
+_journal_volume   17
+_journal_year   2005
+_chemical_formula_moiety   'Sn2 P2 O7'
+_chemical_formula_structural   'Sn2 [P2 O7]'
+_chemical_formula_sum   'O7 P2 Sn2'
+_chemical_formula_weight   411.32
+_chemical_melting_point   870
+_chemical_name_common   'Tin(II) pyrophosphate'
+_chemical_name_systematic   'Tin(II) pyrophosphate'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90.0
+_cell_angle_beta   106.0340(32)
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   2
+_cell_length_a   7.1765(4)
+_cell_length_b   9.2874(6)
+_cell_length_c   5.2968(4)
+_cell_measurement_temperature   773
+_cell_volume   339.30(5)
+_cod_original_sg_symbol_H-M   'P 21/n'
+_cod_database_code   4000543
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  -x+1/2,+y+1/2,-z+1/2
+  -1  -x,-y,-z
+  -2  +x+1/2,-y+1/2,+z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  Sn1  Sn  0.1539(8)  0.6215(5)  0.7945(10)  1.0  Uiso  0.025  4
+  P  P  0.9083(29)  0.1125(20)  0.7757(34)  1.0  Uiso  0.025  4
+  O1  O  0.0  0.0  0.0  1.0  Uiso  0.025  2
+  O2  O  0.737(5)  0.0311(30)  0.650(6)  1.0  Uiso  0.025  4
+  O3  O  0.824(5)  0.1834(29)  0.965(6)  1.0  Uiso  0.025  4
+  O4  O  0.064(5)  0.1621(33)  0.699(6)  1.0  Uiso  0.025  4
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2021-10-23T06:45:00+03:00
+  'Updated bibliographic information.'

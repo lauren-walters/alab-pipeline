@@ -1,0 +1,136 @@
+# generated using pymatgen
+data_9000031
+loop_
+ _publ_author_name
+  'Ramsdell, L. S.'
+_publ_section_title   'The crystal structure of alpha-SiC, type V'
+_journal_name_full   'American Mineralogist'
+_journal_page_first   205
+_journal_page_last   205
+_journal_volume   31
+_journal_year   1946
+_chemical_formula_sum   'C17 Si17'
+_chemical_name_common   SiC-V
+_space_group_IT_number   160
+_symmetry_space_group_name_Hall   'R 3 -2"'
+_symmetry_space_group_name_H-M   'R 3 m :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   3
+_cell_length_a   3.073
+_cell_length_b   3.073
+_cell_length_c   128.15
+_cell_volume   1048.032
+_database_code_amcsd   0000034
+_exptl_crystal_density_diffrn   3.240
+_cod_original_cell_volume   1048.031
+_cod_original_sg_symbol_H-M   'R 3 m'
+_cod_original_formula_sum   'Si17 C17'
+_cod_database_code   9000031
+_amcsd_formula_title   SiC-V
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  2/3+x,1/3+y,1/3+z
+  1/3+x,2/3+y,2/3+z
+  x,x-y,z
+  2/3+x,1/3+x-y,1/3+z
+  1/3+x,2/3+x-y,2/3+z
+  -y,-x,z
+  2/3-y,1/3-x,1/3+z
+  1/3-y,2/3-x,2/3+z
+  -x+y,y,z
+  2/3-x+y,1/3+y,1/3+z
+  1/3-x+y,2/3+y,2/3+z
+  -y,x-y,z
+  2/3-y,1/3+x-y,1/3+z
+  1/3-y,2/3+x-y,2/3+z
+  -x+y,-x,z
+  2/3-x+y,1/3-x,1/3+z
+  1/3-x+y,2/3-x,2/3+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Si1  0.00000  0.00000  0.00000
+  Si2  0.00000  0.00000  0.03900
+  Si3  0.00000  0.00000  0.11800
+  Si4  0.00000  0.00000  0.15700
+  Si5  0.00000  0.00000  0.23500
+  Si6  0.00000  0.00000  0.27500
+  Si7  0.00000  0.00000  0.35300
+  Si8  0.00000  0.00000  0.41200
+  Si9  0.00000  0.00000  0.47100
+  Si10  0.00000  0.00000  0.52900
+  Si11  0.00000  0.00000  0.58800
+  Si12  0.00000  0.00000  0.64700
+  Si13  0.00000  0.00000  0.72500
+  Si14  0.00000  0.00000  0.76500
+  Si15  0.00000  0.00000  0.84300
+  Si16  0.00000  0.00000  0.88200
+  Si17  0.00000  0.00000  0.96100
+  C1  0.00000  0.00000  0.01500
+  C2  0.00000  0.00000  0.05400
+  C3  0.00000  0.00000  0.13200
+  C4  0.00000  0.00000  0.17200
+  C5  0.00000  0.00000  0.25000
+  C6  0.00000  0.00000  0.28900
+  C7  0.00000  0.00000  0.36800
+  C8  0.00000  0.00000  0.42600
+  C9  0.00000  0.00000  0.48500
+  C10  0.00000  0.00000  0.54400
+  C11  0.00000  0.00000  0.60300
+  C12  0.00000  0.00000  0.66200
+  C13  0.00000  0.00000  0.74000
+  C14  0.00000  0.00000  0.77900
+  C15  0.00000  0.00000  0.85800
+  C16  0.00000  0.00000  0.89700
+  C17  0.00000  0.00000  0.97500
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_atom_labels 10224
+2024-08-07 11:09:31Z saulius
+;
+  2024-08-07T19:38:00+03:00
+;
+Changed the following '_atom_site_label' values: the first duplicated
+label 'Si'  converted to 'Si1' duplicated label 'Si' at index 1
+converted to 'Si2' duplicated label 'Si' at index 2 converted to 'Si3'
+duplicated label 'Si' at index 3 converted to 'Si4' duplicated label
+'Si' at index 4 converted to 'Si5' duplicated label 'Si' at index 5
+converted to 'Si6' duplicated label 'Si' at index 6 converted to 'Si7'
+duplicated label 'Si' at index 7 converted to 'Si8' duplicated label
+'Si' at index 8 converted to 'Si9' duplicated label 'Si' at index 9
+converted to 'Si10' duplicated label 'Si' at index 10 converted to
+'Si11' duplicated label 'Si' at index 11 converted to 'Si12'
+duplicated label 'Si' at index 12 converted to 'Si13' duplicated label
+'Si' at index 13 converted to 'Si14' duplicated label 'Si' at index 14
+converted to 'Si15' duplicated label 'Si' at index 15 converted to
+'Si16' duplicated label 'Si' at index 16 converted to 'Si17' the first
+duplicated label 'C'  converted to 'C1' duplicated label 'C' at index
+18 converted to 'C2' duplicated label 'C' at index 19 converted to
+'C3' duplicated label 'C' at index 20 converted to 'C4' duplicated
+label 'C' at index 21 converted to 'C5' duplicated label 'C' at index
+22 converted to 'C6' duplicated label 'C' at index 23 converted to
+'C7' duplicated label 'C' at index 24 converted to 'C8' duplicated
+label 'C' at index 25 converted to 'C9' duplicated label 'C' at index
+26 converted to 'C10' duplicated label 'C' at index 27 converted to
+'C11' duplicated label 'C' at index 28 converted to 'C12' duplicated
+label 'C' at index 29 converted to 'C13' duplicated label 'C' at index
+30 converted to 'C14' duplicated label 'C' at index 31 converted to
+'C15' duplicated label 'C' at index 32 converted to 'C16' duplicated
+label 'C' at index 33 converted to 'C17'
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0000034

@@ -1,0 +1,223 @@
+# generated using pymatgen
+data_4001804
+loop_
+ _publ_author_name
+  'Barpanda, Prabeer'
+  'Liu, Guandong'
+  'Ling, Chris D.'
+  'Tamaru, Mao'
+  'Avdeev, Maxim'
+  'Chung, Sai-Cheong'
+  'Yamada, Yuki'
+  'Yamada, Atsuo'
+_publ_section_title
+'Na2FeP2O7: A Safe Cathode for Rechargeable Sodium-ion Batteries'
+_journal_issue   17
+_journal_name_full   'Chemistry of Materials'
+_journal_page_first   3480
+_journal_paper_doi   10.1021/cm401657c
+_journal_volume   25
+_journal_year   2013
+_chemical_formula_sum   'Fe Na O4 P'
+_chemical_formula_weight   173.81
+_chemical_name_systematic   ?
+_space_group_IT_number   62
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   8.9903(8)
+_cell_length_b   6.8681(6)
+_cell_length_c   5.0441(5)
+_cell_volume   311.45(5)
+_pd_block_id   2013-07-11T18:29|NAFEP2O7_phase2|Chris_Ling||
+_pd_phase_name   na2fep2o7.exp
+_cod_data_source_file   cm401657c_si_003.cif
+_cod_data_source_block   NAFEP2O7_phase_2
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 from 2011-04-26 (53 times).
+'_geom_angle_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 from 2011-04-26 (67 times). Automatic
+conversion script Id: cif_fix_values 1891 2012-01-12 08:04:46Z andrius
+;
+_cod_original_cell_volume   311.456(32)
+_cod_database_code   4001804
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  -x+1/2,+y+1/2,+z+1/2
+  3  +x,-y+1/2,+z
+  4  -x+1/2,-y,+z+1/2
+  -1  -x,-y,-z
+  -2  +x+1/2,-y+1/2,-z+1/2
+  -3  -x,+y+1/2,-z
+  -4  +x+1/2,+y,-z+1/2
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  Fe  Fe1  0.5  0.5  0.5  1.0  Uiso  0.025  4
+  P  P1  0.3242  0.25  0.0357  1.0  Uiso  0.025  4
+  Na  Na1  0.6504  0.25  -0.0296  1.0  Uiso  0.025  4
+  O-  O1  0.3786  0.4317  0.1819  1.0  Uiso  0.025  8
+  O-  O2  0.3838  0.25  0.75  1.0  Uiso  0.025  4
+  O-  O3  0.1516  0.25  0.05  1.0  Uiso  0.025  4
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+  P  4.0
+  Fe  4.0
+  Na  4.0
+  O-  16.0
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  Fe1  O1  180.0  1_555  -1_666  n
+  Na1  P1  Na1  115.061(4)  1_555  -2_464  n
+  Na1  P1  Na1  128.5040(26)  1_555  -2_465  n
+  Na1  P1  O1  74.6988(22)  1_555  1_555  n
+  Na1  P1  O1  74.6988(22)  1_555  3_555  n
+  Na1  P1  O2  63.1958(16)  1_555  1_554  n
+  Na1  P1  O3  176.2532(5)  1_555  1_555  n
+  Na1  P1  Na1  116.435(7)  -2_464  -2_465  n
+  Na1  P1  O1  125.3132(31)  -2_565  1_555  n
+  Na1  P1  O1  125.3132(31)  -2_565  3_555  n
+  Na1  P1  O2  51.866(6)  -2_565  1_554  n
+  Na1  P1  O3  61.192(4)  -2_565  1_555  n
+  Na1  P1  O1  76.201(4)  -2_566  1_555  n
+  Na1  P1  O1  76.201(4)  -2_566  3_555  n
+  Na1  P1  O2  168.3003(9)  -2_566  1_554  n
+  Na1  P1  O3  55.2430(31)  -2_566  1_555  n
+  O1  P1  O1  109.320(6)  1_555  3_555  n
+  O1  P1  O2  109.902(4)  1_555  1_554  n
+  O1  P1  O3  107.2754(20)  1_555  1_555  n
+  O1  P1  O2  109.902(4)  3_555  1_554  n
+  O1  P1  O3  107.2754(20)  3_555  1_555  n
+  O2  P1  O3  113.0573(21)  1_554  1_555  n
+  P1  Na1  P1  127.8780(25)  1_555  -2_655  n
+  P1  Na1  P1  115.687(4)  1_555  -2_656  n
+  P1  Na1  O1  85.7366(9)  1_555  -1_665  n
+  P1  Na1  O1  85.7366(9)  1_555  -3_655  n
+  P1  Na1  O2  31.292(4)  1_555  1_554  n
+  P1  Na1  O2  158.4932(23)  1_555  -2_666  n
+  P1  Na1  O3  96.6438(8)  1_555  -2_665  n
+  P1  Na1  O3  83.8472(9)  1_555  -2_666  n
+  P1  Na1  P1  116.435(7)  -2_655  -2_656  n
+  P1  Na1  O1  77.1365(26)  -2_665  -1_665  n
+  P1  Na1  O1  77.1365(26)  -2_665  -3_655  n
+  P1  Na1  O2  96.586(6)  -2_665  1_554  n
+  P1  Na1  O2  30.61520(20)  -2_665  -2_666  n
+  P1  Na1  O3  31.2342(33)  -2_665  -2_665  n
+  P1  Na1  O3  148.2748(34)  -2_665  -2_666  n
+  P1  Na1  O1  109.7863(23)  -2_666  -1_665  n
+  P1  Na1  O1  109.7863(23)  -2_666  -3_655  n
+  P1  Na1  O2  146.9790(5)  -2_666  1_554  n
+  P1  Na1  O2  85.820(7)  -2_666  -2_666  n
+  P1  Na1  O3  147.6689(34)  -2_666  -2_665  n
+  P1  Na1  O3  31.8401(34)  -2_666  -2_666  n
+  O1  Na1  O1  139.280(5)  -1_665  -3_655  n
+  O1  Na1  O2  76.1100(16)  -1_665  1_554  n
+  O1  Na1  O2  86.8220(21)  -1_665  -2_666  n
+  O1  Na1  O3  70.7922(24)  -1_665  -2_665  n
+  O1  Na1  O3  109.2659(24)  -1_665  -2_666  n
+  O1  Na1  O2  76.1100(16)  -3_655  1_554  n
+  O1  Na1  O2  86.8220(21)  -3_655  -2_666  n
+  O1  Na1  O3  70.7922(24)  -3_655  -2_665  n
+  O1  Na1  O3  109.2659(24)  -3_655  -2_666  n
+  O2  Na1  O2  127.201(6)  1_554  -2_666  n
+  O2  Na1  O3  65.3520(29)  1_554  -2_665  n
+  O2  Na1  O3  115.1390(29)  1_554  -2_666  n
+  O2  Na1  O3  61.8494(31)  -2_666  -2_665  n
+  O2  Na1  O3  117.6596(32)  -2_666  -2_666  n
+  O3  Na1  O3  180.0  -2_665  -2_666  n
+  Fe1  O1  P1  138.9260(16)  1_555  1_555  n
+  Fe1  O1  Na1  96.063(4)  1_555  -1_665  n
+  P1  O1  Na1  124.765(5)  1_555  -1_665  n
+  P1  O2  Na1  85.512(5)  1_556  1_556  n
+  P1  O2  Na1  97.519(6)  1_556  -2_465  n
+  Na1  O2  Na1  176.96820(20)  1_556  -2_465  n
+  P1  O3  Na1  87.5741(4)  1_555  -2_464  n
+  P1  O3  Na1  92.91700(30)  1_555  -2_465  n
+  Na1  O3  Na1  180.0  -2_464  -2_465  n
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Fe1  Na1  3.45148(22)  1_555  n
+  Fe1  Na1  3.22590(20)  1_556  n
+  Fe1  Na1  3.22590(20)  -1_665  n
+  Fe1  Na1  3.45148(22)  -1_666  n
+  Fe1  O1  1.99645(14)  1_555  n
+  Fe1  O1  1.99645(14)  -1_666  n
+  Fe1  O2  2.37270(13)  1_555  n
+  Fe1  O2  2.37270(13)  -1_666  n
+  Fe1  O3  2.20666(14)  2_555  n
+  Fe1  O3  2.20666(14)  -2_555  n
+  P1  Na1  2.95109(25)  1_555  n
+  P1  Na1  3.44175(30)  -1_655  n
+  P1  Na1  3.44175(30)  -1_665  n
+  P1  Na1  2.99307(23)  -2_454  n
+  P1  Na1  2.94076(22)  -2_455  n
+  P1  O1  1.52982(10)  1_555  n
+  P1  O1  1.52982(10)  3_555  n
+  P1  O2  1.53750(14)  1_554  n
+  P1  O3  1.55341(13)  1_555  n
+  Na1  Fe1  3.22590(20)  1_554  n
+  Na1  Fe1  3.45148(22)  1_555  n
+  Na1  Fe1  3.22590(20)  3_554  n
+  Na1  Fe1  3.45148(22)  3_555  n
+  Na1  P1  2.95109(25)  1_555  n
+  Na1  P1  3.44175(30)  -1_655  n
+  Na1  P1  3.44175(30)  -1_665  n
+  Na1  P1  2.99307(23)  -2_554  n
+  Na1  P1  2.94076(22)  -2_555  n
+  Na1  O1  2.94389(18)  1_555  n
+  Na1  O1  2.94389(18)  3_555  n
+  Na1  O1  2.33178(18)  -1_665  n
+  Na1  O1  2.97361(17)  -2_555  n
+  Na1  O1  2.33178(18)  -3_645  n
+  Na1  O1  2.97361(17)  -4_555  n
+  Na1  O2  2.64210(19)  1_554  n
+  Na1  O2  2.37466(17)  -2_555  n
+  Na1  O3  2.62499(26)  -2_554  n
+  Na1  O3  2.41919(24)  -2_555  n
+  O1  Fe1  1.99645(14)  1_555  n
+  O1  P1  1.52982(10)  1_555  n
+  O1  Na1  2.94389(18)  1_555  n
+  O1  Na1  2.33178(18)  -1_665  n
+  O1  Na1  2.97361(17)  -2_455  n
+  O2  Fe1  2.37270(13)  1_555  n
+  O2  Fe1  2.37270(13)  3_555  n
+  O2  P1  1.53750(14)  1_556  n
+  O2  Na1  2.64210(19)  1_556  n
+  O2  Na1  2.37466(17)  -2_455  n
+  O3  Fe1  2.20666(14)  2_544  n
+  O3  Fe1  2.20666(14)  4_564  n
+  O3  P1  1.55341(13)  1_555  n
+  O3  Na1  2.62499(26)  -2_454  n
+  O3  Na1  2.41919(24)  -2_455  n
+loop_
+ _pd_block_diffractogram_id
+  2013-07-11T18:29|NAFEP2O7_H_01|Chris_Ling|PD@AS

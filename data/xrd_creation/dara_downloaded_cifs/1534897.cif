@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_1534897
+loop_
+ _publ_author_name
+  'Mahmoudkhani, A.H.'
+  'Langer, V.'
+_publ_section_title
+;
+Two-dimensional inorganic networks in the crystal structures of
+calcium  and strontium phosphite monohydrates
+;
+_journal_name_full
+'Phosphorus, Sulfur, Silicon and Related Elements'
+_journal_page_first   83
+_journal_page_last   94
+_journal_volume   176
+_journal_year   2001
+_chemical_formula_sum   'H3 O4 P Sr'
+_chemical_name_systematic   'Sr (H P O3) (H2 O)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   108.459
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.5906
+_cell_length_b   7.0502
+_cell_length_c   8.2156
+_cell_volume   417.040
+_citation_journal_id_ASTM   PSSLEC
+_cod_data_source_file   Mahmoudkhani_PSSLEC_2001_127.cif
+_cod_data_source_block   H3O4P1Sr1
+_cod_original_cell_volume   417.0396
+_cod_original_formula_sum   'H3 O4 P1 Sr1'
+_cod_database_code   1534897
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.3224  1.0032  0.6288  1  0.0
+  O4  O-2  0.2328  0.9172  0.3108  1  0.0
+  H2  H+1  0.968  0.882  0.19  1  0.0
+  Sr1  Sr+2  0.62544  0.85721  0.84461  1  0.0
+  H1  H+1  0.835  0.969  0.198  1  0.0
+  P1  P+3  0.27446  0.84607  0.49354  1  0.0
+  O1  O-2  0.4275  0.6951  0.5429  1  0.0
+  O2  O-2  0.8558  0.8784  0.1498  1  0.0
+  H3  H+1  0.119  0.769  0.505  1  0.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139047007

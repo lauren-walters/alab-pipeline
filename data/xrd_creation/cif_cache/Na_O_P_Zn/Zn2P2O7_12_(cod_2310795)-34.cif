@@ -1,0 +1,393 @@
+# generated using pymatgen
+data_2310795
+loop_
+ _publ_author_name
+  'St\"oger, Berthold'
+  'Weil, Matthias'
+  'Du\<sek, Michal'
+_publ_section_title
+;
+The \a &#x2194; \b phase transitions of Zn2P2O7 revisited: existence
+of  an additional intermediate phase with an incommensurately
+modulated  structure.
+;
+_journal_coden_ASTM   ACSBDA
+_journal_issue   3
+_journal_name_full
+;
+Acta Crystallographica, Section B: Structural Science, Crystal
+Engineering  and Materials
+;
+_journal_page_first   539
+_journal_page_last   554
+_journal_paper_doi   10.1107/S205252061401049X
+_journal_volume   70
+_journal_year   2014
+_chemical_formula_sum   'O7 P2 Zn2'
+_chemical_formula_weight   304.7
+_chemical_name_common   'zinc pyrophosphate'
+_chemical_name_systematic   'zinc(II) diphosphate(V)'
+_space_group_IT_number   12
+_space_group_ssg_name   C2/m(\a0\g)0s
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   105.335(3)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   6.5998(4)
+_cell_length_b   8.2845(5)
+_cell_length_c   4.5300(3)
+_cell_measurement_reflns_used   3836
+_cell_measurement_temperature   500
+_cell_measurement_theta_max   45.3
+_cell_measurement_theta_min   4.0
+_cell_modulation_dimension   1
+_cell_volume   238.86(3)
+_computing_cell_refinement   'SAINT-Plus (Bruker, 2012)'
+_computing_data_collection   'APEX2 (Bruker, 2012)'
+_computing_data_reduction   'SAINT-Plus (Bruker, 2012)'
+_computing_molecular_graphics   'ATOMS (Dowty, 2006)'
+_computing_structure_refinement
+"JANA2006 (Pet\<r\'i\<cek, et al., 2006)"
+_computing_structure_solution   'by isomorphous structure methods'
+_diffrn_ambient_temperature   500
+_diffrn_measured_fraction_theta_full   1
+_diffrn_measured_fraction_theta_max   1
+_diffrn_measurement_device   'four-cycle diffractometer'
+_diffrn_measurement_device_type   'Bruker KAPPA APEX II CCD'
+_diffrn_measurement_method   '\w and \f scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_source   'X-ray tube'
+_diffrn_radiation_type   'Mo K\a'
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0248
+_diffrn_reflns_av_unetI/netI   0.0296
+_diffrn_reflns_limit_h_max   12
+_diffrn_reflns_limit_h_min   -13
+_diffrn_reflns_limit_index_m_1_max   1
+_diffrn_reflns_limit_index_m_1_min   -1
+_diffrn_reflns_limit_k_max   16
+_diffrn_reflns_limit_k_min   -16
+_diffrn_reflns_limit_l_max   9
+_diffrn_reflns_limit_l_min   -5
+_diffrn_reflns_number   8052
+_diffrn_reflns_theta_full   45.37
+_diffrn_reflns_theta_max   45.37
+_diffrn_reflns_theta_min   3.47
+_exptl_absorpt_coefficient_mu   10.69
+_exptl_absorpt_correction_T_max   0.60
+_exptl_absorpt_correction_T_min   0.025
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   SADABS
+_exptl_crystal_colour   'translucent colourless'
+_exptl_crystal_density_diffrn   4.2351
+_exptl_crystal_description   rod
+_exptl_crystal_F_000   292
+_exptl_crystal_size_max   0.42
+_exptl_crystal_size_mid   0.30
+_exptl_crystal_size_min   0.06
+_refine_diff_density_max   1.04
+_refine_diff_density_min   -1.13
+_refine_ls_extinction_coef   2750(110)
+_refine_ls_extinction_method
+'B-C type 1 Gaussian isotropic (Becker & Coppens, 1974)'
+_refine_ls_goodness_of_fit_gt   2.18
+_refine_ls_goodness_of_fit_ref   1.50
+_refine_ls_number_constraints   1
+_refine_ls_number_parameters   98
+_refine_ls_number_reflns   2969
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_all   0.0653
+_refine_ls_R_factor_gt   0.0295
+_refine_ls_shift/su_max   0.0199
+_refine_ls_shift/su_mean   0.0034
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   w=1/(\s^2^(F)+0.0001F^2^)
+_refine_ls_weighting_scheme   sigma
+_refine_ls_wR_factor_gt   0.0445
+_refine_ls_wR_factor_ref   0.0467
+_reflns_number_gt   1331
+_reflns_number_total   2969
+_reflns_threshold_expression   I>3\s(I)
+_cod_data_source_file   xk5017sup1.cif
+_cod_data_source_block   alpha2_zn2p2o7_500
+_cod_database_code   2310795
+_publcif_datablock.id   {03a808b6-1ffd-41e5-9f37-11d932d00315}
+_publcif_info_exptl_table_max_cols   5
+_publcif_info_exptl_table_use_headnotes   n
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  x+0.5,y+0.5,z
+  4  -x+0.5,y+0.5,-z
+  5  -x,-y,-z
+  6  x,-y,z
+  7  -x+0.5,-y+0.5,-z
+  8  x+0.5,-y+0.5,z
+loop_
+ _space_group_symop_ssg_id
+ _space_group_symop_ssg_operation_algebraic
+  1  x1,x2,x3,x4
+  2  -x1,x2,-x3,-x4+1/2
+  3  -x1,-x2,-x3,-x4
+  4  x1,-x2,x3,x4+1/2
+  5  x1+1/2,x2+1/2,x3,x4
+  6  -x1+1/2,x2+1/2,-x3,-x4+1/2
+  7  -x1+1/2,-x2+1/2,-x3,-x4
+  8  x1+1/2,-x2+1/2,x3,x4+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_site_symmetry_multiplicity
+ _atom_site_occupancy
+ _atom_site_calc_flag
+  Zn  Zn  0.5  0.18988(3)  1  Uani  0.02339(5)  4  1  d
+  P  P  0.78921(3)  0  0.59064(5)  Uani  0.01022(6)  4  1  d
+  O1  O  0.62136(11)  0  0.28655(16)  Uani  0.01244(14)  4  1  d
+  O2  O  1  -0.072(5)  0.5  Uani  0.013(6)  4  0.027(4)  d
+  O2'  O  1  -0.0304(7)  0.5  Uani  0.037(2)  4  0.473(4)  d
+  O3  O  0.78098(12)  -0.15170(8)  0.77509(15)  Uani  0.02105(15)  8
+  1  d
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_type_symbol
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Zn  Zn  0.02790(9)  0.00998(6)  0.02228(9)  0  -0.01094(6)  0
+  P  P  0.00840(8)  0.01341(10)  0.00826(9)  0  0.00114(6)  0
+  O1  O  0.0124(2)  0.0138(2)  0.0092(2)  0  -0.00059(17)  0
+  O2  O  0.007(7)  0.002(8)  0.024(11)  0  -0.008(7)  0
+  O2'  O  0.0111(6)  0.056(6)  0.0486(14)  0  0.0155(8)  0
+  O3  O  0.0313(3)  0.0131(2)  0.0157(2)  0.00649(19)  0.0007(2)
+  0.00333(17)
+loop_
+ _atom_site_displace_Fourier_atom_site_label
+ _atom_site_displace_Fourier_axis
+ _atom_site_displace_Fourier_wave_vector_seq_id
+ _atom_site_displace_Fourier_param_cos
+ _atom_site_displace_Fourier_param_sin
+  P  x  1  0  0
+  P  y  1  -0.00097(6)  -0.00153(6)
+  P  z  1  0  0
+  O1  x  1  0  0
+  O1  y  1  -0.00030(15)  0.00117(15)
+  O1  z  1  0  0
+  O3  x  1  0.00171(16)  -0.00358(16)
+  O3  y  1  -0.00011(12)  -0.00080(10)
+  O3  z  1  0.0004(2)  0.0004(2)
+loop_
+ _atom_site_Fourier_wave_vector_seq_id
+ _jana_atom_site_fourier_wave_vector_q1_coeff
+  1  1
+loop_
+ _atom_site_occ_special_func_atom_site_label
+ _atom_site_occ_special_func_crenel_c
+ _atom_site_occ_special_func_crenel_w
+  Zn  0.75  1
+  O2  0.25  0.5
+loop_
+ _atom_site_U_Fourier_atom_site_label
+ _atom_site_U_Fourier_tens_elem
+ _atom_site_U_Fourier_wave_vector_seq_id
+ _atom_site_U_Fourier_param_cos
+ _atom_site_U_Fourier_param_sin
+  P  U11  1  0  0
+  P  U22  1  0  0
+  P  U33  1  0  0
+  P  U12  1  0.00088(14)  -0.00095(14)
+  P  U13  1  0  0
+  P  U23  1  -0.00051(15)  0.00028(15)
+  O1  U11  1  0  0
+  O1  U22  1  0  0
+  O1  U33  1  0  0
+  O1  U12  1  -0.0007(4)  -0.0003(4)
+  O1  U13  1  0  0
+  O1  U23  1  0.0006(4)  0.0005(4)
+  O2'  U11  1  0  -0.004(2)
+  O2'  U22  1  0  -0.011(3)
+  O2'  U33  1  0  -0.002(4)
+  O2'  U12  1  -0.0022(16)  0
+  O2'  U13  1  0  0.002(3)
+  O2'  U23  1  -0.009(2)  0
+  O3  U11  1  0.0067(5)  -0.0014(5)
+  O3  U22  1  -0.0003(4)  -0.0003(4)
+  O3  U33  1  -0.0001(5)  -0.0006(5)
+  O3  U12  1  0.0014(4)  -0.0004(4)
+  O3  U13  1  -0.0020(4)  0.0001(4)
+  O3  U23  1  -0.0002(3)  0.0002(4)
+loop_
+ _atom_type_symbol
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  0.0106  0.0060
+  'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+  P  0.1023  0.0942
+  'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+  Zn  0.2839  1.4301
+  'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+loop_
+ _cell_wave_vector_seq_id
+ _cell_wave_vector_x
+ _cell_wave_vector_y
+ _cell_wave_vector_z
+  1  0.3239(14)  0.000000  0.3966(9)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_ssg_symmetry_1
+ _geom_angle_site_ssg_symmetry_3
+ _geom_angle_av
+ _geom_angle_min
+ _geom_angle_max
+  O1  Zn  O1  1_5565  2_6565  80.55(4)  80.30(4)  80.80(4)
+  O1  Zn  O3  1_5565  5_4555  157.11(5)  156.01(6)  157.89(6)
+  O1  Zn  O3  1_5565  6_6575  94.09(4)  93.67(4)  94.45(4)
+  O1  Zn  O3  2_6565  5_4555  94.08(4)  93.64(4)  94.45(4)
+  O1  Zn  O3  2_6565  6_6575  157.13(5)  156.06(6)  157.93(6)
+  O3  Zn  O3  5_4555  6_6575  98.84(5)  98.58(5)  99.11(5)
+  O1  P  O2  .  .  103.61(12)  103.42(13)  103.70(12)
+  O1  P  O2  .  3_7565  103.61(12)  103.42(13)  103.70(12)
+  O1  P  O2'  .  .  104.25(4)  104.13(4)  104.36(3)
+  O1  P  O2'  .  3_7565  104.25(4)  104.13(4)  104.36(3)
+  O1  P  O3  .  .  112.00(6)  111.95(6)  112.05(6)
+  O1  P  O3  .  4_5555  112.00(6)  111.95(6)  112.05(6)
+  O2  P  O2'  .  .  11.8(14)  11.8(14)  11.9(14)
+  O2  P  O2'  .  3_7565  30.3(14)  30.2(14)  30.3(14)
+  O2  P  O3  .  .  90.5(12)  89.6(12)  91.0(12)
+  O2  P  O3  .  4_5555  125.1(11)  124.6(11)  126.0(11)
+  O2  P  O2'  3_7565  .  30.3(14)  30.2(14)  30.3(14)
+  O2  P  O2'  3_7565  3_7565  11.8(14)  11.8(14)  11.9(14)
+  O2  P  O3  3_7565  .  125.1(11)  124.6(11)  126.0(11)
+  O2  P  O3  3_7565  4_5555  90.5(12)  89.6(12)  91.0(12)
+  O2'  P  O2'  .  3_7565  18.4(3)  18.4(3)  18.4(3)
+  O2'  P  O3  .  .  100.02(19)  98.56(19)  101.49(19)
+  O2'  P  O3  .  4_5555  116.07(19)  114.62(19)  117.53(19)
+  O2'  P  O3  3_7565  .  116.07(19)  114.62(19)  117.53(19)
+  O2'  P  O3  3_7565  4_5555  100.03(19)  98.56(19)  101.49(19)
+  O3  P  O3  .  4_5555  111.77(7)  111.76(7)  111.77(7)
+  Zn  O1  Zn  1_5545  3_6565  99.45(3)  99.43(3)  99.46(3)
+  Zn  O1  P  1_5545  .  129.66(7)  129.08(7)  130.25(7)
+  Zn  O1  P  3_6565  .  129.66(7)  129.08(7)  130.25(7)
+  P  O2  P  .  2_7565  139(3)  138(3)  139(3)
+  P  O2  O2'  .  .  69.3(14)  68.8(14)  69.5(14)
+  P  O2  O2'  .  3_7565  69.3(14)  68.8(14)  69.5(14)
+  P  O2  O2'  2_7565  .  69.3(14)  68.8(14)  69.5(14)
+  P  O2  O2'  2_7565  3_7565  69.3(14)  68.8(14)  69.5(14)
+  O2'  O2  O2'  .  3_7565  0.0(5)  0.0(5)  0.0(5)
+  P  O2'  P  .  2_7565  161.6(4)  160.5(4)  162.6(4)
+  P  O2'  O2  .  .  98.9(2)  98.7(2)  99.4(2)
+  P  O2'  O2  .  3_7565  80.5(2)  80.2(2)  80.9(2)
+  P  O2'  O2'  .  3_7565  80.8(2)  80.2(2)  81.3(2)
+  P  O2'  O2  2_7565  .  98.9(2)  98.7(2)  99.4(2)
+  P  O2'  O2  2_7565  3_7565  80.5(2)  80.2(2)  81.0(2)
+  P  O2'  O2'  2_7565  3_7565  80.8(2)  80.2(2)  81.3(2)
+  O2  O2'  O2'  .  3_7565  180.0(5)  180.0(5)  180.0(5)
+  O2  O2'  O2'  3_7565  3_7565  0.0(5)  0.0(5)  0.0(5)
+  Zn  O3  P  5_5455  .  133.74(8)  132.27(8)  135.25(8)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_ssg_symmetry_2
+ _geom_bond_distance_av
+ _geom_bond_distance_min
+ _geom_bond_distance_max
+  Zn  O1  1_5565  2.0619(11)  2.0542(11)  2.0692(11)
+  Zn  O1  2_6565  2.0618(11)  2.0542(11)  2.0692(11)
+  Zn  O3  5_4555  2.0178(12)  2.0087(12)  2.0265(12)
+  Zn  O3  6_6575  2.0176(12)  2.0080(12)  2.0265(12)
+  P  O1  .  1.5224(7)  1.5223(7)  1.5224(7)
+  P  O2  .  1.659(15)  1.657(15)  1.663(15)
+  P  O2  3_7565  1.659(15)  1.657(15)  1.663(15)
+  P  O2'  .  1.5716(10)  1.5692(10)  1.5740(11)
+  P  O2'  3_7565  1.5715(10)  1.5692(10)  1.5740(11)
+  P  O3  .  1.5182(13)  1.5158(13)  1.5204(13)
+  P  O3  4_5555  1.5182(13)  1.5158(13)  1.5204(13)
+  O2  O2'  .  0.34(4)  0.34(4)  0.34(4)
+  O2  O2'  3_7565  0.85(4)  0.85(4)  0.85(4)
+  O2'  O2'  3_7565  0.504(8)  0.504(8)  0.504(8)
+loop_
+ _jana_atom_site_adp_c_label
+ _jana_atom_site_adp_c_type_symbol
+ _jana_atom_site_adp_c_111
+ _jana_atom_site_adp_c_112
+ _jana_atom_site_adp_c_113
+ _jana_atom_site_adp_c_122
+ _jana_atom_site_adp_c_123
+ _jana_atom_site_adp_c_133
+ _jana_atom_site_adp_c_222
+ _jana_atom_site_adp_c_223
+ _jana_atom_site_adp_c_233
+ _jana_atom_site_adp_c_333
+  Zn  Zn  0  0.00054(5)  0  0  -0.00086(5)  0  0.00013(4)  0
+  0.00169(10)  0
+loop_
+ _jana_atom_site_displace_legendre_atom_site_label
+ _jana_atom_site_displace_legendre_axis
+ _jana_atom_site_displace_legendre_param_order
+ _jana_atom_site_displace_legendre_param_coeff
+  Zn  x  1  0.00197(8)
+  Zn  y  1  0
+  Zn  z  1  -0.00104(13)
+  Zn  x  2  0
+  Zn  y  2  -0.00008(5)
+  Zn  z  2  0
+loop_
+ _jana_atom_site_adp_c_fourier_atom_site_label
+ _jana_atom_site_adp_c_fourier_tens_elem
+ _jana_atom_site_adp_c_fourier_wave_vector_seq_id
+ _jana_atom_site_adp_c_fourier_param_cos
+ _jana_atom_site_adp_c_fourier_param_sin
+  Zn  C111  1  0  -0.0109(4)
+  Zn  C112  1  0.00046(14)  0
+  Zn  C113  1  0  0.0058(4)
+  Zn  C122  1  0  -0.00133(10)
+  Zn  C123  1  0.00008(16)  0
+  Zn  C133  1  0  -0.0039(6)
+  Zn  C222  1  0.00059(12)  0
+  Zn  C223  1  0  0.00158(16)
+  Zn  C233  1  0.0006(3)  0
+  Zn  C333  1  0  0.0179(12)
+loop_
+ _publcif_info_tables.block_id
+ _publcif_info_tables.reference_item
+  {3b5a43c5-61ff-4eef-a2e7-e89ce3050306}
+  '_publcif_info_datablock.publ_exptl'
+loop_
+ _publcif_info_cif.paper_type
+  CB
+loop_
+ _publcif_info_datablock.id
+ _publcif_info_datablock.publ_exptl
+ _publcif_info_datablock.publ_geom
+ _publcif_info_datablock.structure
+  {3b5a43c5-61ff-4eef-a2e7-e89ce3050306}  y  y  y
+  {f7c065a0-e23e-4215-8952-c4c1d3b810c6}  n  y  y
+  {a5faa5ee-248d-48fa-adfc-6deb80494962}  n  y  y
+  {06cb029b-65e6-487a-90a1-fa4bea604b65}  n  y  y
+  {b8747ae3-5204-484f-adec-5f516a392993}  n  y  y
+  {15c60753-a958-4497-97c8-a1f6b78d4a68}  n  y  y
+  {d06200ea-65bd-43dc-a379-278839bc3f40}  n  y  y
+  {9af13820-294b-4caf-b3ab-8b7098c72c25}  n  y  y
+  {03a808b6-1ffd-41e5-9f37-11d932d00315}  n  y  y
+loop_
+ _publcif_info_exptl_table_extra_item
+  sin_theta_over_lambda_max
+loop_
+ _publcif_info_exptl_table_header_item
+  Datablock_name

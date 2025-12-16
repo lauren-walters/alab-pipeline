@@ -1,0 +1,94 @@
+# generated using pymatgen
+data_9011571
+loop_
+ _publ_author_name
+  'Michel, F. M.'
+  'Ehm, L.'
+  'Antao, S. M.'
+  'Lee, P. L.'
+  'Chupas, P. J.'
+  'Liu, G.'
+  'Strongin, D. R.'
+  'Schoonen, M. A. A.'
+  'Phillips, B. L.'
+  'Parise, J. B.'
+_publ_section_title
+;
+The structure of ferrihydrite, a nanocrystalline material  Sample:
+Fhyd6
+;
+_journal_name_full   Science
+_journal_page_first   1726
+_journal_page_last   1729
+_journal_paper_doi   10.1126/science.1142525
+_journal_volume   316
+_journal_year   2007
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   'Fe4.93 H O8'
+_chemical_name_mineral   Ferrihydrite
+_space_group_IT_number   186
+_symmetry_space_group_name_Hall   'P 6c -2c'
+_symmetry_space_group_name_H-M   'P 63 m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   2
+_cell_length_a   5.928
+_cell_length_b   5.928
+_cell_length_c   9.126
+_cell_volume   277.733
+_database_code_amcsd   0015439
+_exptl_crystal_density_diffrn   4.835
+_cod_original_formula_sum   'Fe4.93 (O8 H)'
+_cod_database_code   9011571
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-x+y,1/2+z
+  x-y,x,1/2+z
+  -y,-x,z
+  -y,x-y,z
+  x-y,-y,1/2+z
+  -x,-y,1/2+z
+  x,x-y,z
+  -x+y,-x,z
+  y,x,1/2+z
+  y,-x+y,1/2+z
+  -x+y,y,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Fe1  0.16950  0.83040  0.63650  1.00000  0.01100  Fe  0
+  Fe2  0.33333  0.66667  0.33790  0.97000  0.01100  Fe  0
+  Fe3  0.33333  0.66667  0.95950  0.96000  0.01100  Fe  0
+  O-H1  0.00000  0.00000  0.04460  1.00000  0.00700  O  1
+  O2  0.33333  0.66667  0.76340  1.00000  0.00700  O  0
+  O3  0.16970  0.83020  0.24670  1.00000  0.00700  O  0
+  O4  0.52270  0.47730  0.97960  1.00000  0.00700  O  0
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:53:19+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0015439

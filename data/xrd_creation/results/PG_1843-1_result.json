@@ -1,0 +1,31 @@
+{
+  "experiment_id": "667a13c713800728dad6cd64",
+  "experiment_name": "PG_1843-1",
+  "success": true,
+  "error": null,
+  "rwp": 3.32,
+  "rp": 2.99,
+  "rexp": 2.78,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "In2O3_206_(cod_2310009)-0",
+      "spacegroup": "I2_1/a-3",
+      "weight_fraction": 0.1408,
+      "weight_fraction_error": 0.00033,
+      "lattice_a_nm": 1.012154,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 2.83
+    }
+  ],
+  "chemical_system": "In-O-Si",
+  "target_formula": "In2Si2O7",
+  "analysis_timestamp": "2025-12-06T14:13:04.225355",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

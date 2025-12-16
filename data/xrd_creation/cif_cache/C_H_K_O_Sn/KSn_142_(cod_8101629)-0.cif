@@ -1,0 +1,116 @@
+# generated using pymatgen
+data_8101629
+loop_
+ _publ_author_name
+  'Baitinger, M.'
+  'von Schnering, H. G.'
+  'Grin, Yu.'
+  'Kniep, R.'
+_publ_section_title
+;
+Redetermination of the crystal structure of tetrasodium tetrahedro-
+tetrastannide, Na~4~Sn~4~ and tetrapotassium tetrahedro-tetrastannide,
+K~4~Sn~4~
+;
+_journal_issue   4
+_journal_name_full
+'Zeitschrift f\"ur Kristallographie - New Crystal Structures'
+_journal_page_first   453
+_journal_page_last   454
+_journal_volume   214
+_journal_year   1999
+_chemical_formula_structural   'K4 Sn4'
+_chemical_formula_sum   'K4 Sn4'
+_chemical_formula_weight   5049.28
+_chemical_name_common   'potassium stannide'
+_space_group_IT_number   142
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   '-I 4bd 2c'
+_symmetry_space_group_name_H-M   'I 41/a c d :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   11.409(1)
+_cell_length_b   11.409(1)
+_cell_length_c   18.649(2)
+_cell_volume   2427.5(7)
+_diffrn_ambient_environment   air
+_diffrn_ambient_temperature   295
+_exptl_crystal_density_diffrn   3.4482(6)
+_refine_ls_R_factor_obs   0.0360
+_refine_ls_wR_factor_obs   0.0360
+_cod_depositor_comments
+;
+Changing the _atom_site_occupancy data item value from '.' to '1'  for
+all fully occupied atom sites.  Antanas Vaitkus,  2017-02-10
+;
+_cod_original_sg_symbol_H-M   'I 41/a c d'
+_cod_database_code   8101629
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  3/4-y,1/4+x,3/4+z
+  1/2-x,-y,1/2+z
+  3/4+y,3/4-x,1/4+z
+  -x,y,1/2+z
+  1/4+y,1/4+x,1/4+z
+  1/2+x,-y,z
+  1/4-y,3/4-x,3/4+z
+  -x,-y,-z
+  -3/4+y,-1/4-x,-3/4-z
+  -1/2+x,y,-1/2-z
+  -3/4-y,-3/4+x,-1/4-z
+  x,-y,-1/2-z
+  -1/4-y,-1/4-x,-1/4-z
+  -1/2-x,y,-z
+  -1/4+y,-3/4+x,-3/4-z
+  1/2+x,1/2+y,1/2+z
+  5/4-y,3/4+x,5/4+z
+  1-x,1/2-y,1+z
+  5/4+y,5/4-x,3/4+z
+  1/2-x,1/2+y,1+z
+  3/4+y,3/4+x,3/4+z
+  1+x,1/2-y,1/2+z
+  3/4-y,5/4-x,5/4+z
+  1/2-x,1/2-y,1/2-z
+  -1/4+y,1/4-x,-1/4-z
+  x,1/2+y,-z
+  -1/4-y,-1/4+x,1/4-z
+  1/2+x,1/2-y,-z
+  1/4-y,1/4-x,1/4-z
+  -x,1/2+y,1/2-z
+  1/4+y,-1/4+x,-1/4-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  K1  0.0297(14)  0.0360(15)  0.0346(14)  0  0  -0.0052(13)
+  K2  0.0372(10)  0.0372(10)  0.0367(15)  0.0022(13)  -0.0009(9)
+  0.0009(9)
+  Sn  0.0266(3)  0.0276(3)  0.0261(3)  -0.0002(3)  -0.0061(2)
+  0.0084(3)
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_type_symbol
+ _atom_site_occupancy
+  K1  0.8621(3)  0  0.25  Uani  0.0334(8)  16  e  K  1
+  K2  0.3784(2)  0.6284(2)  0.125  Uani  0.0370(7)  16  f  K  1
+  Sn  0.06468(6)  0.13783(6)  0.93072(3)  Uani  0.0267(2)  32  g  Sn
+  1
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139206659

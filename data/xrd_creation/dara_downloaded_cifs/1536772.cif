@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_1536772
+loop_
+ _publ_author_name
+  'Klokova, N.E.'
+  'Maksimov, B.A.'
+  'Tamazyan, R.A.'
+_publ_section_title
+'X-ray study of a paraphase of Na4 Ti P2 O9 crystals at 743 K'
+_journal_name_full   Kristallografiya
+_journal_page_first   56
+_journal_page_last   60
+_journal_volume   38
+_journal_year   1993
+_chemical_formula_sum   'Na4 O9 P2 Ti'
+_chemical_name_systematic   'Na4 Ti (P O4)2 O'
+_space_group_IT_number   67
+_symmetry_space_group_name_Hall   '-C 2a 2 (y,z,x)'
+_symmetry_space_group_name_H-M   'C m m a (b,c,a)'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   15.752
+_cell_length_b   7.524
+_cell_length_c   7.095
+_cell_volume   840.886
+_citation_journal_id_ASTM   KRISAJ
+_cod_data_source_file   Klokova_KRISAJ_1993_1352.cif
+_cod_data_source_block   Na4O9P2Ti1
+_cod_original_cell_volume   840.8856
+_cod_original_sg_symbol_H-M   'B m c m'
+_cod_original_formula_sum   'Na4 O9 P2 Ti1'
+_cod_database_code   1536772
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z+1/2
+  -x,-y,z
+  x,-y,-z+1/2
+  -x,-y,-z
+  x,-y,z-1/2
+  x,y,-z
+  -x,y,z-1/2
+  x+1/2,y,z+1/2
+  -x+1/2,y,-z+1
+  -x+1/2,-y,z+1/2
+  x+1/2,-y,-z+1
+  -x+1/2,-y,-z+1/2
+  x+1/2,-y,z
+  x+1/2,y,-z+1/2
+  -x+1/2,y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Na3  Na+1  0.1125  0.2382  0.5  0.78  0.0
+  O1  O-2  0.25  0.3993  0.5  1  0.0
+  P1  P+5  0.1215  0.244  0  1  0.0
+  O3  O-2  0.1411  0.0497  0  1  0.0
+  O4  O-2  0.0283  0.2805  0  1  0.0
+  Na4  Na+1  0  0  0.25  0.48  0.0
+  Ti1  Ti+4  0.25  0.5  0.25  1  0.0
+  Na2  Na+1  0  0.5  0.25  0.93  0.0
+  O2  O-2  0.1605  0.6719  0.3225  1  0.0
+  Na1  Na+1  0.25  0  0.25  0.98  0.0

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_4031465
+loop_
+ _publ_author_name
+  'Herak, R.'
+  'Prelesnik, B.'
+  'Curic, M.'
+  'Vasic, P.'
+_publ_section_title
+'The crystal structure of tin(II) bis(dihydrogenphosphate)'
+_journal_name_full
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic
+Chemistry  (1972-)
+;
+_journal_page_first   566
+_journal_page_last   569
+_journal_volume   1978
+_journal_year   1978
+_chemical_formula_sum   'H4 O8 P2 Sn'
+_chemical_name_systematic   'Sn (H2 P O4)2'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   91.35
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   16.561
+_cell_length_b   6.896
+_cell_length_c   5.939
+_cell_volume   678.073
+_citation_journal_id_ASTM   JCDTBI
+_cod_data_source_file   Herak_JCDTBI_1978_328.cif
+_cod_data_source_block   H4O8P2Sn1
+_cod_original_cell_volume   678.0732
+_cod_original_formula_sum   'H4 O8 P2 Sn1'
+_cod_database_code   4031465
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0.2081  0.8932  0.2472  1  0.0
+  O2  O-2  0.0939  0.6761  0.1306  1  0.0
+  H1  H+1  0.255  0.89  0.361  1  0.0
+  O1  O-2  0.1552  0.6488  0.5245  1  0.0
+  O3  O-2  0.0699  0.9315  0.4075  1  0.0
+  P1  P+5  0.13328  0.7846  0.3348  1  0.0
+  Sn1  Sn+2  0  0.17045  0.25  1  0.0

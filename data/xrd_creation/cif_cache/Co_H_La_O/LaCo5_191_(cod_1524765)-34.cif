@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_1524765
+loop_
+ _publ_author_name
+  'Kuijpers, F.A.'
+_publ_section_title
+'Investigations on the La Co5 - H and Ce Co5 - H systems'
+_journal_name_full   'Journal of the Less-Common Metals'
+_journal_page_first   27
+_journal_page_last   34
+_journal_volume   27
+_journal_year   1972
+_chemical_formula_sum   'Co5 La'
+_space_group_IT_number   191
+_symmetry_space_group_name_Hall   '-P 6 2'
+_symmetry_space_group_name_H-M   'P 6/m m m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   1
+_cell_length_a   5.109
+_cell_length_b   5.109
+_cell_length_c   3.97
+_cell_volume   89.741
+_citation_journal_id_ASTM   JCOMAH
+_cod_data_source_file   Kuijpers_JCOMAH_1972_1088.cif
+_cod_data_source_block   Co5La1
+_cod_original_cell_volume   89.74143
+_cod_original_formula_sum   'Co5 La1'
+_cod_database_code   1524765
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x-y,x,z
+  -y,x-y,z
+  -x,-y,z
+  -x+y,-x,z
+  y,-x+y,z
+  -y,-x,-z
+  x-y,-y,-z
+  x,x-y,-z
+  y,x,-z
+  -x+y,y,-z
+  -x,-x+y,-z
+  -x,-y,-z
+  -x+y,-x,-z
+  y,-x+y,-z
+  x,y,-z
+  x-y,x,-z
+  -y,x-y,-z
+  y,x,z
+  -x+y,y,z
+  -x,-x+y,z
+  -y,-x,z
+  x-y,-y,z
+  x,x-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Co1  Co  0.3333  0.6667  0  1  0.0
+  La1  La  0  0  0  1  0.0
+  Co2  Co  0.5  0  0.5  1  0.0

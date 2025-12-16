@@ -1,0 +1,17 @@
+{
+  "experiment_id": "64ae595c2c76549338f2beb0",
+  "experiment_name": "NSC_47",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Al-In-Na-O-P-Si",
+  "target_formula": "Na4.125Al0.5In1.5(PO4)2.25(SiO4)0.75",
+  "analysis_timestamp": "2025-12-06T15:58:00.697006",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,294 @@
+# generated using pymatgen
+data_2108044
+loop_
+ _publ_author_name
+  'Ishizawa, N.'
+  'Marumo, F.'
+  'Iwai, S.'
+  'Kimura, M.'
+  'Kawamura, T.'
+_publ_section_title
+;
+Compounds with perovskire-type slabs. V. A high-temperature
+modification  of La2Ti2O7
+;
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   368
+_journal_page_last   372
+_journal_paper_doi   10.1107/S0567740882002994
+_journal_volume   38
+_journal_year   1982
+_chemical_formula_sum   'La2 O7 Ti2'
+_chemical_formula_weight   485.54
+_space_group_IT_number   36
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   36
+_symmetry_space_group_name_Hall   'C 2c -2'
+_symmetry_space_group_name_H-M   'C m c 21'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   4
+_cell_length_a   3.954(2)
+_cell_length_b   25.952(8)
+_cell_length_c   5.607(2)
+_cell_volume   575.4(4)
+_diffrn_ambient_temperature   1173
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   17.204
+_exptl_crystal_density_diffrn   5.605
+_exptl_crystal_F_000   856
+_refine_ls_number_reflns   766
+_refine_ls_R_factor_gt   0.066
+_cod_data_source_file   Acta-Cryst-1982-B38-368-372.cif
+_cod_data_source_block   La2Ti2O7
+_cod_database_code   2108044
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,1/2+z
+  3  -x,y,z
+  4  x,-y,1/2+z
+  5  1/2+x,1/2+y,z
+  6  1/2-x,1/2-y,1/2+z
+  7  1/2-x,1/2+y,z
+  8  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  La1  La  Uiso  0.00000  0.44609(6)  0.75000  1.000  0.0276(5)  .
+  .  .  .
+  La2  La  Uiso  0.00000  0.29808(8)  0.1757(5)  1.000  0.0386(9)  .
+  .  .  .
+  Ti1  Ti  Uiso  0.50000  0.44040(10)  0.2452(11)  1.000  0.0196(10)
+  .  .  .  .
+  Ti2  Ti  Uiso  0.50000  0.33700(10)  0.7095(8)  1.000  0.0200(14)
+  .  .  .  .
+  O1  O  Uiso  0.50000  0.5088(9)  0.475(5)  1.000  0.041(6)  .  .
+  .  .
+  O2  O  Uiso  0.50000  0.4077(8)  0.542(4)  1.000  0.030(4)  .  .
+  .  .
+  O3  O  Uiso  0.50000  0.2964(8)  0.458(5)  1.000  0.036(5)  .  .
+  .  .
+  O4  O  Uiso  0.00000  0.4511(8)  0.255(7)  1.000  0.037(4)  .  .
+  .  .
+  O5  O  Uiso  0.00000  0.3472(7)  0.720(5)  1.000  0.038(5)  .  .
+  .  .
+  O6  O  Uiso  0.50000  0.3891(10)  0.039(6)  1.000  0.046(6)  .  .
+  .  .
+  O7  O  Uiso  0.50000  0.2818(8)  0.935(4)  1.000  0.028(4)  .  .
+  .  .
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O2  La1  O4  63.5(5)  .  .  .  yes
+  O2  La1  O5  64.7(5)  .  .  .  yes
+  O2  La1  O2  104.4(6)  .  .  1_455  yes
+  O2  La1  O4  118.9(5)  .  .  1_556  yes
+  O1  La1  O2  176.4(6)  2_565  .  .  yes
+  O2  La1  O4  113.8(6)  .  .  2_565  yes
+  O1  La1  O2  78.8(6)  2_665  .  .  yes
+  O4  La1  O5  88.9(8)  .  .  .  yes
+  O2  La1  O4  63.5(5)  1_455  .  .  yes
+  O4  La1  O4  174.7(6)  .  .  1_556  yes
+  O1  La1  O4  117.4(6)  2_565  .  .  yes
+  O4  La1  O4  87.9(9)  .  .  2_565  yes
+  O1  La1  O4  117.4(6)  2_665  .  .  yes
+  O2  La1  O5  64.7(5)  1_455  .  .  yes
+  O4  La1  O5  96.4(8)  1_556  .  .  yes
+  O1  La1  O5  118.5(6)  2_565  .  .  yes
+  O4  La1  O5  176.9(10)  2_565  .  .  yes
+  O1  La1  O5  118.5(6)  2_665  .  .  yes
+  O2  La1  O4  118.9(5)  1_455  .  1_556  yes
+  O1  La1  O2  78.8(6)  2_565  .  1_455  yes
+  O2  La1  O4  113.8(6)  1_455  .  2_565  yes
+  O1  La1  O2  176.4(6)  2_665  .  1_455  yes
+  O1  La1  O4  59.9(6)  2_565  .  1_556  yes
+  O4  La1  O4  86.8(9)  1_556  .  2_565  yes
+  O1  La1  O4  59.9(6)  2_665  .  1_556  yes
+  O1  La1  O4  63.2(7)  2_565  .  2_565  yes
+  O1  La1  O1  97.9(6)  2_565  .  2_665  yes
+  O1  La1  O4  63.2(7)  2_665  .  2_565  yes
+  O3  La2  O7  168.2(7)  .  .  1_454  yes
+  O3  La2  O3  102.6(7)  .  .  1_455  yes
+  O3  La2  O5  124.5(5)  .  .  1_554  yes
+  O3  La2  O7  73.1(7)  .  .  1_554  yes
+  O3  La2  O3  105.3(6)  .  .  6_554  yes
+  O3  La2  O7  68.1(5)  .  .  6_554  yes
+  O3  La2  O7  73.1(7)  1_455  .  1_454  yes
+  O5  La2  O7  65.2(5)  1_554  .  1_454  yes
+  O7  La2  O7  108.9(6)  1_454  .  1_554  yes
+  O3  La2  O7  66.2(5)  6_554  .  1_454  yes
+  O7  La2  O7  100.2(6)  1_454  .  6_554  yes
+  O3  La2  O5  124.5(5)  1_455  .  1_554  yes
+  O3  La2  O7  168.2(7)  1_455  .  1_554  yes
+  O3  La2  O3  105.3(6)  1_455  .  6_554  yes
+  O3  La2  O7  68.1(5)  1_455  .  6_554  yes
+  O5  La2  O7  65.2(5)  1_554  .  1_554  yes
+  O3  La2  O5  90.1(7)  6_554  .  1_554  yes
+  O5  La2  O7  151.6(7)  1_554  .  6_554  yes
+  O3  La2  O7  66.2(5)  6_554  .  1_554  yes
+  O7  La2  O7  100.2(6)  1_554  .  6_554  yes
+  O3  La2  O7  61.5(8)  6_554  .  6_554  yes
+  O1  Ti1  O2  81.0(10)  .  .  .  yes
+  O1  Ti1  O4  82.6(8)  .  .  .  yes
+  O1  Ti1  O6  175.0(13)  .  .  .  yes
+  O1  Ti1  O4  82.6(8)  .  .  1_655  yes
+  O1  Ti1  O1  84.9(10)  .  .  2_664  yes
+  O2  Ti1  O4  92.2(11)  .  .  .  yes
+  O2  Ti1  O6  104.0(12)  .  .  .  yes
+  O2  Ti1  O4  92.2(11)  .  .  1_655  yes
+  O1  Ti1  O2  166.0(10)  2_664  .  .  yes
+  O4  Ti1  O6  97.1(9)  .  .  .  yes
+  O4  Ti1  O4  163.7(9)  .  .  1_655  yes
+  O1  Ti1  O4  86.0(9)  2_664  .  .  yes
+  O4  Ti1  O6  97.1(9)  1_655  .  .  yes
+  O1  Ti1  O6  90.1(13)  2_664  .  .  yes
+  O1  Ti1  O4  86.0(9)  2_664  .  1_655  yes
+  O2  Ti2  O3  99.7(10)  .  .  .  yes
+  O2  Ti2  O5  84.0(6)  .  .  .  yes
+  O2  Ti2  O7  165.7(9)  .  .  .  yes
+  O2  Ti2  O6  80.9(9)  .  .  1_556  yes
+  O2  Ti2  O5  84.0(6)  .  .  1_655  yes
+  O3  Ti2  O5  95.9(7)  .  .  .  yes
+  O3  Ti2  O7  94.7(10)  .  .  .  yes
+  O3  Ti2  O6  179.4(11)  .  .  1_556  yes
+  O3  Ti2  O5  95.9(7)  .  .  1_655  yes
+  O5  Ti2  O7  94.6(7)  .  .  .  yes
+  O5  Ti2  O6  84.1(7)  .  .  1_556  yes
+  O5  Ti2  O5  164.4(8)  .  .  1_655  yes
+  O6  Ti2  O7  84.8(10)  1_556  .  .  yes
+  O5  Ti2  O7  94.6(7)  1_655  .  .  yes
+  O5  Ti2  O6  84.1(7)  1_655  .  1_556  yes
+  La1  O1  Ti1  94.5(8)  2_564  .  .  yes
+  La1  O1  Ti1  94.5(8)  2_664  .  .  yes
+  Ti1  O1  Ti1  167.0(14)  .  .  2_665  yes
+  La1  O1  La1  97.9(9)  2_564  .  2_664  yes
+  La1  O1  Ti1  94.0(7)  2_564  .  2_665  yes
+  La1  O1  Ti1  94.0(7)  2_664  .  2_665  yes
+  La1  O2  Ti1  103.6(6)  .  .  .  yes
+  La1  O2  Ti2  98.2(7)  .  .  .  yes
+  La1  O2  La1  104.4(8)  .  .  1_655  yes
+  Ti1  O2  Ti2  144.1(12)  .  .  .  yes
+  La1  O2  Ti1  103.6(6)  1_655  .  .  yes
+  La1  O2  Ti2  98.2(7)  1_655  .  .  yes
+  La2  O3  Ti2  119.4(6)  .  .  .  yes
+  La2  O3  La2  102.6(10)  .  .  1_655  yes
+  La2  O3  La2  107.1(6)  .  .  6_555  yes
+  La2  O3  Ti2  119.4(6)  1_655  .  .  yes
+  La2  O3  Ti2  100.3(11)  6_555  .  .  yes
+  La2  O3  La2  107.1(6)  1_655  .  6_555  yes
+  La1  O4  Ti1  91.2(11)  .  .  .  yes
+  La1  O4  Ti1  91.2(11)  .  .  1_455  yes
+  La1  O4  La1  174.7(8)  .  .  1_554  yes
+  La1  O4  La1  93.3(10)  .  .  2_564  yes
+  Ti1  O4  Ti1  163.7(13)  .  .  1_455  yes
+  La1  O4  Ti1  88.1(11)  1_554  .  .  yes
+  La1  O4  Ti1  98.0(6)  2_564  .  .  yes
+  La1  O4  Ti1  88.1(11)  1_554  .  1_455  yes
+  La1  O4  Ti1  98.0(6)  2_564  .  1_455  yes
+  La1  O4  La1  92.0(10)  1_554  .  2_564  yes
+  La1  O5  Ti2  97.7(5)  .  .  .  yes
+  La1  O5  Ti2  97.7(5)  .  .  1_455  yes
+  La1  O5  La2  112.8(9)  .  .  1_556  yes
+  Ti2  O5  Ti2  164.4(11)  .  .  1_455  yes
+  La2  O5  Ti2  88.1(7)  1_556  .  .  yes
+  La2  O5  Ti2  88.1(7)  1_556  .  1_455  yes
+  Ti1  O6  Ti2  167.2(17)  .  .  1_554  yes
+  La2  O7  Ti2  103.7(6)  1_556  .  .  yes
+  La2  O7  Ti2  103.7(6)  1_656  .  .  yes
+  La2  O7  Ti2  103.5(9)  6_555  .  .  yes
+  La2  O7  La2  108.9(9)  1_556  .  1_656  yes
+  La2  O7  La2  117.5(5)  1_556  .  6_555  yes
+  La2  O7  La2  117.5(5)  1_656  .  6_555  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  La1  O2  2.502(13)  .  .  yes
+  La1  O4  2.78(4)  .  .  yes
+  La1  O5  2.572(18)  .  .  yes
+  La1  O2  2.502(13)  .  1_455  yes
+  La1  O4  2.84(4)  .  1_556  yes
+  La1  O1  2.621(17)  .  2_565  yes
+  La1  O4  2.67(2)  .  2_565  yes
+  La1  O1  2.621(17)  .  2_665  yes
+  La2  O3  2.533(18)  .  .  yes
+  La2  O7  2.431(13)  .  1_454  yes
+  La2  O3  2.533(18)  .  1_455  yes
+  La2  O5  2.86(3)  .  1_554  yes
+  La2  O7  2.431(13)  .  1_554  yes
+  La2  O3  2.74(2)  .  6_554  yes
+  La2  O7  2.53(2)  .  6_554  yes
+  Ti1  O1  2.19(3)  .  .  yes
+  Ti1  O2  1.87(2)  .  .  yes
+  Ti1  O4  1.997(4)  .  .  yes
+  Ti1  O6  1.76(3)  .  .  yes
+  Ti1  O4  1.997(4)  .  1_655  yes
+  Ti1  O1  2.01(3)  .  2_664  yes
+  Ti2  O2  2.06(2)  .  .  yes
+  Ti2  O3  1.76(3)  .  .  yes
+  Ti2  O5  1.996(3)  .  .  yes
+  Ti2  O7  1.91(2)  .  .  yes
+  Ti2  O6  2.29(3)  .  1_556  yes
+  Ti2  O5  1.996(3)  .  1_655  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O4  La1  O2  Ti1  22.0(6)  .  .  .  .  no
+  O4  La1  O2  Ti2  -129.3(8)  .  .  .  .  no
+  O5  La1  O2  Ti1  124.3(10)  .  .  .  .  no
+  O5  La1  O2  Ti2  -26.9(7)  .  .  .  .  no
+  O2  La1  O4  Ti1  -19.9(6)  .  .  .  .  no
+  O5  La1  O4  Ti1  -81.9(6)  .  .  .  .  no
+  O2  La1  O5  Ti2  27.9(8)  .  .  .  .  no
+  O4  La1  O5  Ti2  88.8(9)  .  .  .  .  no
+  O1  Ti1  O2  La1  54.4(5)  .  .  .  .  no
+  O1  Ti1  O2  Ti2  180.00  .  .  .  .  no
+  O4  Ti1  O2  La1  -27.8(9)  .  .  .  .  no
+  O4  Ti1  O2  Ti2  97.8(7)  .  .  .  .  no
+  O6  Ti1  O2  La1  -125.6(5)  .  .  .  .  no
+  O6  Ti1  O2  Ti2  0.00  .  .  .  .  no
+  O1  Ti1  O4  La1  -56.6(8)  .  .  .  .  no
+  O2  Ti1  O4  La1  24.1(8)  .  .  .  .  no
+  O6  Ti1  O4  La1  128.5(11)  .  .  .  .  no
+  O3  Ti2  O2  La1  127.0(5)  .  .  .  .  no
+  O3  Ti2  O2  Ti1  0.00  .  .  .  .  no
+  O5  Ti2  O2  La1  32.0(9)  .  .  .  .  no
+  O5  Ti2  O2  Ti1  -95.0(8)  .  .  .  .  no
+  O2  Ti2  O3  La2  -63.6(9)  .  .  .  .  no
+  O5  Ti2  O3  La2  21.3(12)  .  .  .  .  no
+  O7  Ti2  O3  La2  116.4(9)  .  .  .  .  no
+  O2  Ti2  O5  La1  -31.0(9)  .  .  .  .  no
+  O3  Ti2  O5  La1  -130.2(10)  .  .  .  .  no
+  O7  Ti2  O5  La1  134.7(10)  .  .  .  .  no

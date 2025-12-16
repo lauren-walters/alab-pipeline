@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_9011574
+loop_
+ _publ_author_name
+  'Bradley, A. J.'
+  'Ollard, E. F.'
+_publ_section_title   'Allotropy of chromium'
+_journal_name_full   Nature
+_journal_page_first   122
+_journal_page_last   122
+_journal_volume   117
+_journal_year   1926
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   Cr
+_chemical_name_mineral   Chromium
+_space_group_IT_number   194
+_symmetry_space_group_name_Hall   '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_length_a   2.714
+_cell_length_b   2.714
+_cell_length_c   4.410
+_cell_formula_units_Z   2
+_cell_volume   28.131
+_database_code_amcsd   0014671
+_exptl_crystal_density_diffrn   6.138
+_cod_database_code   9011574
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-x+y,1/2+z
+  x,x-y,1/2-z
+  -x+y,-x,1/2-z
+  x-y,x,1/2+z
+  -y,-x,z
+  y,x,-z
+  y,-x+y,-z
+  -y,x-y,z
+  x-y,-y,1/2+z
+  -x+y,y,1/2-z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  x,x-y,z
+  -x,-x+y,-z
+  x-y,x,-z
+  -x+y,-x,z
+  y,x,1/2+z
+  -y,-x,1/2-z
+  -y,x-y,1/2-z
+  y,-x+y,1/2+z
+  -x+y,y,z
+  x-y,-y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Cr  0.33333  0.66667  0.25000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  22412
+  2  AMCSD  0014671

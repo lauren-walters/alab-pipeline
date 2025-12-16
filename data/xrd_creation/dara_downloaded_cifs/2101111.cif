@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_2101111
+loop_
+ _publ_author_name
+  'Dorset, D. L.'
+  'McCourt, M. P.'
+  'Kopp, S.'
+  'Wittmann, J.-C.'
+  'Lotz, B.'
+_publ_section_title
+;
+Direct determination of polymer crystal structures by electron
+crystallography -- isotactic poly(1-butene), form (III)
+;
+_journal_issue   2
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   201
+_journal_page_last   208
+_journal_paper_doi   10.1107/S0108768193009140
+_journal_volume   50
+_journal_year   1994
+_chemical_formula_moiety   '(C4 H8)n'
+_chemical_formula_sum   'C4 H8'
+_chemical_formula_weight   56.068
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   4
+_cell_length_a   12.38
+_cell_length_b   8.88
+_cell_length_c   7.56
+_cell_volume   831.104
+_diffrn_radiation_type   electron
+_cod_data_source_file   cr0447.cif
+_cod_data_source_block   cr0447a
+_cod_original_cell_volume   831.10
+_cod_database_code   2101111
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  C1  .346  -.038  .108
+  C2  .298  .125  .163
+  C3  .381  .248  .103
+  C4  .325  .402  .120
+  C5  .279  .134  .358
+  C6  .160  .067  .413
+  C7  .072  .183  .353
+  C8  -.038  .105  .370

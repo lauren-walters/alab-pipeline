@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_1520978
+loop_
+ _publ_author_name
+  'Erragh, F.'
+  'Boukhari, A.'
+  'Abraham, F.'
+  'Elouadi, B.'
+_publ_section_title
+;
+Study of the crystal structures of sodium magnesium and sodium nickel
+diphosphates
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   323
+_journal_page_last   331
+_journal_volume   152
+_journal_year   2000
+_chemical_formula_sum   'Mg2.18 Na3.64 O14 P4'
+_chemical_name_systematic   'Na3.64 Mg2.18 (P2 O7)2'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   112.43
+_cell_angle_beta   99.64
+_cell_angle_gamma   107.53
+_cell_formula_units_Z   2
+_cell_length_a   10.901
+_cell_length_b   9.765
+_cell_length_c   6.382
+_cell_volume   567.233
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Erragh_JSSCBI_2000_1887.cif
+_cod_data_source_block   Mg2.18Na3.64O14P4
+_cod_database_code   1520978
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O8  O-2  0.0366  0.4257  0.7074  1  0.0
+  P4  P+5  0.96253  0.27051  0.47758  1  0.0
+  Mg3  Mg+2  0.5239  0.21  0.6798  0.18  0.0
+  Mg1  Mg+2  0.21569  0.60898  0.837  1  0.0
+  O9  O-2  0.8403  0.271  0.3286  1  0.0
+  Na3  Na+1  0.8842  0.5356  0.8137  1  0.0
+  O6  O-2  0.2005  0.0122  0.2335  1  0.0
+  Na2  Na+1  0.6602  0.0165  0.0942  1  0.0
+  Mg2  Mg+2  0.26377  0.26235  0.4054  1  0.0
+  Na5  Na+1  0.9531  0.9396  0.244  0.42  0.0
+  P3  P+5  0.21645  0.89454  0.32451  1  0.0
+  Na6  Na+1  0.9711  0.949  0.0951  0.25  0.0
+  O12  O-2  0.3149  0.5192  0.5768  1  0.0
+  Na1  Na+1  0.5239  0.21  0.6798  0.82  0.0
+  P1  P+5  0.4537  0.65669  0.73369  1  0.0
+  O13  O-2  0.9004  0.1255  0.5445  1  0.0
+  O4  O-2  0.1739  0.7277  0.1243  1  0.0
+  P2  P+5  0.68356  0.63893  0.018  1  0.0
+  O1  O-2  0.7028  0.4842  0.9659  1  0.0
+  O3  O-2  0.7742  0.7415  0.9302  1  0.0
+  O14  O-2  0.3509  0.9552  0.5099  1  0.0
+  O10  O-2  0.056  0.2222  0.3437  1  0.0
+  Na4  Na+1  0  0  0  0.3  0.0
+  O2  O-2  0.4319  0.7863  0.9332  1  0.0
+  O5  O-2  0.531  0.5779  0.8547  1  0.0
+  O7  O-2  0.6933  0.7362  0.2725  1  0.0
+  O11  O-2  0.5406  0.7233  0.6077  1  0.0

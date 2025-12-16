@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_1542117
+loop_
+ _publ_author_name
+  'Gamidov, R.S.'
+  'Mamedov, Kh.S.'
+  'Golovachev, V.P.'
+  'Belov, N.V.'
+_publ_section_title
+'Crystal structure of hopeite Zn3 (P O4)2 (H2 O)4'
+_journal_name_full   'Doklady Akademii Nauk SSSR'
+_journal_page_first   381
+_journal_page_last   384
+_journal_volume   150
+_journal_year   1963
+_chemical_formula_sum   'H8 O12 P2 Zn3'
+_chemical_name_systematic   'Zn3 (P O4)2 (H2 O)4'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   10.64
+_cell_length_b   18.36
+_cell_length_c   5.04
+_cell_volume   984.566
+_citation_journal_id_ASTM   DANKAS
+_cod_data_source_file   Gamidov_DANKAS_1963_656.cif
+_cod_data_source_block   H8O12P2Zn3
+_cod_original_cell_volume   984.5661
+_cod_database_code   1542117
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x,y+1/2,-z
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x-1/2,y-1/2,z-1/2
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.141  0.01  0.75  1  0.0
+  O4  O-2  0.467  0.083  0.75  1  0.0
+  O7  O-2  0.342  0.166  0.25  1  0.0
+  O6  O-2  0.116  0.25  0.25  1  0.0
+  O5  O-2  0.367  0.25  0.75  1  0.0
+  Zn2  Zn+2  0.242  0.25  0  1  0.0
+  Zn1  Zn+2  0.141  0  0.125  1  0.0
+  O1  O-2  0.134  0.166  0.75  1  0.0
+  P1  P+5  0.092  0.092  0.625  1  0.0
+  O2  O-2  0.092  0.092  0.25  1  0.0

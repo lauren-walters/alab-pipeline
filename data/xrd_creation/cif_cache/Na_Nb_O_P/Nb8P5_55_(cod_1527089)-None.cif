@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_1527089
+loop_
+ _publ_author_name
+  'Anugul, S.'
+  'Pontchour, C.-O.'
+  'Rundqvist, S.'
+_publ_section_title   'The crystal structure of Nb8 P5'
+_journal_name_full   'Acta Chemica Scandinavica (1-27,1973-42,1988)'
+_journal_page_first   26
+_journal_page_last   34
+_journal_volume   27
+_journal_year   1973
+_chemical_formula_sum   'Nb8 P5'
+_space_group_IT_number   55
+_symmetry_space_group_name_Hall   '-P 2 2ab'
+_symmetry_space_group_name_H-M   'P b a m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   26.1998
+_cell_length_b   9.4652
+_cell_length_c   3.4641
+_cell_volume   859.050
+_citation_journal_id_ASTM   ACSAA4
+_cod_data_source_file   Anugul_ACSAA4_1973_1212.cif
+_cod_data_source_block   Nb8P5
+_cod_original_cell_volume   859.0496
+_cod_database_code   1527089
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  x+1/2,-y+1/2,-z
+  -x+1/2,y+1/2,-z
+  -x,-y,-z
+  x,y,-z
+  -x-1/2,y-1/2,z
+  x-1/2,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Nb5  Nb+1  0.4966  0.2444  0.5  1  0.0
+  P2  P-3  0.3388  0.992  0  1  0.0
+  Nb7  Nb+1  0.1208  0.3327  0.5  1  0.0
+  Nb3  Nb+1  0.3259  0.4137  0  1  0.0
+  Nb6  Nb+1  0.0841  0.0023  0.5  1  0.0
+  Nb2  Nb+1  0.2164  0.2505  0  1  0.0
+  Nb9  Nb+1  0.3762  0.1675  0.5  1  0.0
+  P5  P-3  0.2862  0.259  0.5  1  0.0
+  P3  P-3  0.4272  0.3006  0  1  0.0
+  Nb4  Nb+1  0.0485  0.5036  0  0.5  0.0
+  Nb8  Nb+1  0.2652  0.0029  0.5  1  0.0
+  P4  P-3  0.1706  0.1044  0.5  1  0.0
+  P1  P-3  0.0655  0.2079  0  1  0.0
+  Nb1  Nb+1  0  0  0  1  0.0

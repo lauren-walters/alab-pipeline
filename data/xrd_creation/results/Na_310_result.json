@@ -1,0 +1,31 @@
+{
+  "experiment_id": "668d5f7eaa32321205b56343",
+  "experiment_name": "Na_310",
+  "success": true,
+  "error": null,
+  "rwp": 1.97,
+  "rp": 1.57,
+  "rexp": 1.89,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "NaMo2(P2O7)2_2_(cod_1530288)-None",
+      "spacegroup": "P-1",
+      "weight_fraction": 0.0,
+      "weight_fraction_error": 21298.0,
+      "lattice_a_nm": 0.0,
+      "lattice_b_nm": 1.0,
+      "lattice_c_nm": 1.0,
+      "lattice_alpha_deg": 91.0,
+      "lattice_beta_deg": 93.0,
+      "lattice_gamma_deg": 107.0,
+      "r_phase": 2.14
+    }
+  ],
+  "chemical_system": "Mo-Na-O-P",
+  "target_formula": "Na4MoP2O9",
+  "analysis_timestamp": "2025-12-06T15:00:41.611947",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

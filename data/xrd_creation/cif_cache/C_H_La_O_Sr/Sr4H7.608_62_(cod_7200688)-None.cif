@@ -1,0 +1,159 @@
+# generated using pymatgen
+data_7200688
+loop_
+ _publ_author_name
+  'Verbraeken, Maarten C.'
+  'Suard, Emmanuelle'
+  'Irvine, John T. S.'
+_publ_section_title
+'Structural and electrical properties of calcium and strontium hydrides'
+_journal_issue   18
+_journal_name_full   'Journal of Materials Chemistry'
+_journal_page_first   2766
+_journal_paper_doi   10.1039/b820173k
+_journal_volume   19
+_journal_year   2009
+_chemical_formula_structural   SrD2
+_chemical_formula_sum   'D2 Sr'
+_chemical_formula_weight   91.64
+_chemical_name_common   'Strontium deuteride'
+_chemical_name_systematic   ?
+_space_group_IT_number   62
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90.00000
+_cell_angle_beta   90.00000
+_cell_angle_gamma   90.00000
+_cell_formula_units_Z   4
+_cell_length_a   6.36730(10)
+_cell_length_b   3.86291(6)
+_cell_length_c   7.30892(12)
+_cell_measurement_temperature   298
+_cell_volume   179.772(5)
+_computing_structure_refinement   FULLPROF
+_diffrn_ambient_temperature   298
+_diffrn_radiation_probe   neutron
+_diffrn_radiation_type   'Constant Wavelength Neutron Diffraction'
+_diffrn_radiation_wavelength   1.90946
+_diffrn_source   'nuclear reactor'
+_diffrn_source_type   'D1A, ILL Grenoble'
+_pd_instr_location   'ILL, Grenoble'
+_pd_meas_2theta_range_inc   0.050016
+_pd_meas_2theta_range_max   157.95000
+_pd_meas_2theta_range_min   0.00000
+_pd_meas_number_of_points   3160
+_pd_meas_scan_method   step
+_pd_proc_2theta_range_inc   0.050016
+_pd_proc_2theta_range_max   158.8627
+_pd_proc_2theta_range_min   0.9128
+_pd_proc_info_excluded_regions   '0.00 - 5.00'
+_pd_proc_ls_background_function
+'linear interpolation between a set of background points'
+_pd_proc_ls_profile_function   pseudo-voigt
+_pd_proc_ls_prof_R_factor   4.9156
+_pd_proc_ls_prof_wR_expected   3.5533
+_pd_proc_ls_prof_wR_factor   5.6606
+_pd_proc_wavelength   1.909458
+_refine_ls_number_parameters   30
+_refine_ls_number_reflns   121
+_refine_ls_number_restraints   0
+_refine_ls_R_I_factor   6.5559
+_cod_data_source_file   b820173k.txt
+_cod_data_source_block   SrD2
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Orthorhombic' changed to
+'orthorhombic' according to '/home/saulius/struct/CIF-
+dictionaries/cif_core.dic' dictionary named 'cif_core.dic' version
+2.4.1 from 2010-06-29. Automatic conversion script Id: cif_fix_enum
+1527 2010-12-29 10:47:43Z saulius
+;
+_cod_original_sg_symbol_H-M   'P N M A'
+_cod_original_formula_sum   'Sr1 D2'
+_cod_database_code   7200688
+_pd_proc_ls_prof_cr_factor   13.4055
+_pd_proc_ls_prof_cwr_factor   11.4328
+_pd_proc_ls_prof_cwr_expected   7.1766
+_pd_proc_ls_prof_chi2   2.5378
+_pd_proc_ls_prof_echi2   2.5544
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x+1/2,-y+1/2,-z+1/2
+  -x,y+1/2,-z
+  -x+1/2,-y,z+1/2
+  -x,-y,-z
+  -x+1/2,y+1/2,z+1/2
+  x,-y+1/2,z
+  x+1/2,y,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_adp_type
+ _atom_site_type_symbol
+  Sr  0.2399(3)  0.25000  0.11074(16)  0.0057(5)  1.00000  Uiso  Sr
+  D1  0.3542(3)  0.25000  0.4265(2)  0.0145(7)  0.965(8)  Uiso  D
+  D2  0.9742(3)  0.25000  0.6780(2)  0.0191(7)  0.937(7)  Uiso  D
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+ _atom_site_aniso_type_symbol
+  Sr  0.0072(8)  0.0052(7)  0.0057(8)  0.00000  0.0012(6)  0.00000
+  Sr
+  D1  0.0174(11)  0.0149(14)  0.0099(10)  0.00000  0.0006(8)
+  0.00000  D
+  D2  0.0180(11)  0.0208(11)  0.0190(11)  0.00000  -0.0020(9)
+  0.00000  D
+loop_
+ _atom_type_symbol
+ _atom_type_scat_length_neutron
+ _atom_type_scat_source
+  Sr  0.70200  V.F._Sears_Neutron_News_3_26_(1992)
+  D  0.66710  V.F._Sears_Neutron_News_3_26_(1992)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  D1  Sr  D1  113.83(12)
+  D1  Sr  D1  127.07(10)
+  D1  Sr  D1  72.17(9)
+  D1  Sr  D1  105.31(4)
+  D1  Sr  D2  127.24(11)
+  D1  Sr  D2  67.88(7)
+  D1  Sr  D2  118.93(13)
+  D1  Sr  D2  133.66(12)
+  D1  Sr  D2  71.93(8)
+  D1  Sr  D2  72.45(8)
+  D1  Sr  D2  146.73(8)
+  D1  Sr  D2  67.89(8)
+  D1  Sr  D2  65.19(8)
+  D1  Sr  D2  68.91(7)
+  D1  Sr  D2  136.70(7)
+  D2  Sr  D2  76.08(8)
+  D2  Sr  D2  91.38(6)
+  D2  Sr  D2  136.49(10)
+  D2  Sr  D2  86.32(5)
+  D2  Sr  D2  74.73(8)
+  D2  Sr  D2  135.68(8)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  Sr  D1  2.420(2)
+  Sr  D1  2.471(3)
+  Sr  D1  2.430(1)
+  Sr  D2  2.584(2)
+  Sr  D2  2.824(2)
+  Sr  D2  2.699(2)

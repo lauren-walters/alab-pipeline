@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_8103664
+loop_
+ _publ_author_name
+  'Mayer, H.'
+  'Voellenkle, H.'
+_publ_section_title
+'Die Kristallstruktur und Fehlordnung von Ge (O H) P O4'
+_journal_name_full
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+;
+_journal_page_first   387
+_journal_page_last   401
+_journal_volume   136
+_journal_year   1972
+_chemical_formula_sum   'Ge H O5 P'
+_chemical_name_systematic   'Ge (O H) (P O4)'
+_space_group_IT_number   67
+_symmetry_space_group_name_Hall   '-C 2a 2'
+_symmetry_space_group_name_H-M   'C m m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   12.253
+_cell_length_b   7.014
+_cell_length_c   7.014
+_cell_volume   602.801
+_citation_journal_id_ASTM   ZEKGAX
+_cod_data_source_file   Mayer_ZEKGAX_1972_1316.cif
+_cod_data_source_block   H1Ge1O5P1
+_cod_original_formula_sum   'H1 Ge1 O5 P1'
+_cod_database_code   8103664
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z
+  x,-y,-z
+  -x+1/2,y,-z
+  -x,-y,-z
+  x-1/2,y,-z
+  -x,y,z
+  x-1/2,-y,z
+  x+1/2,y+1/2,z
+  -x+1,-y+1/2,z
+  x+1/2,-y+1/2,-z
+  -x+1,y+1/2,-z
+  -x+1/2,-y+1/2,-z
+  x,y+1/2,-z
+  -x+1/2,y+1/2,z
+  x,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0  0.0694  0.254  1  0.0
+  P2  P+5  0.25  0  0.1174  0.5  0.0
+  Ge1  Ge+4  0  0  0  1  0.0
+  O5  O-2  0.0989  0.25  0.5  1  0.0
+  Ge2  Ge+4  0.25  0.25  0.5  1  0.0
+  O3  O-2  0.25  0  0.4089  0.5  0.0
+  O2  O-2  0.1511  0.5  0  1  0.0
+  P1  P+5  0.25  0.25  0.3826  0.5  0.0
+  O1  O-2  0  0.25  0.9089  1  0.0
+  O6  O-2  0.25  0.3194  0.754  0.5  0.0

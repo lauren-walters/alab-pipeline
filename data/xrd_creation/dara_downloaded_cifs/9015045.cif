@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_9015045
+loop_
+ _publ_author_name
+  'Kamb, B.'
+_publ_section_title
+'Ice II: A proton-ordered form of ice  Note: T = -75 C, P = 0.3 GPa'
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   1437
+_journal_page_last   1449
+_journal_paper_doi   10.1107/S0365110X64003553
+_journal_volume   17
+_journal_year   1964
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   'H2 O'
+_chemical_name_mineral   'Ice II'
+_space_group_IT_number   148
+_symmetry_space_group_name_Hall   '-P 3*'
+_symmetry_space_group_name_H-M   'R -3 :R'
+_cell_angle_alpha   113.1
+_cell_angle_beta   113.1
+_cell_angle_gamma   113.1
+_cell_length_a   7.78
+_cell_length_b   7.78
+_cell_length_c   7.78
+_cell_formula_units_Z   12
+_cell_volume   304.250
+_database_code_amcsd   0018367
+_exptl_crystal_density_diffrn   1.180
+_cod_original_cell_volume   304.251
+_cod_original_sg_symbol_H-M   'R -3'
+_cod_original_formula_sum   'O H2'
+_cod_database_code   9015045
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -z,-x,-y
+  y,z,x
+  -x,-y,-z
+  z,x,y
+  -y,-z,-x
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  O1  0.27300  0.02400  -0.14600  0.02444
+  O2  0.47800  0.75000  0.33200  0.02254
+  H1  0.16500  0.06900  -0.19000  0.02660
+  H2  0.41300  0.20500  -0.00300  0.02660
+  H3  0.71900  0.40100  0.39500  0.02660
+  H4  0.74100  0.20300  0.36000  0.02660
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0018367

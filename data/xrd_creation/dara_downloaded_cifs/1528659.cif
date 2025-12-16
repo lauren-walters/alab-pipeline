@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_1528659
+loop_
+ _publ_author_name
+  'Kumbasar, I.'
+  'Finney, J.J.'
+_publ_section_title   'The crystal structure of parahopeite'
+_journal_name_full
+;
+Mineralogical Magazine and Journal of the Mineralogical Society
+(1876-1968)
+;
+_journal_page_first   621
+_journal_page_last   624
+_journal_volume   36
+_journal_year   1968
+_chemical_formula_sum   'H8 O12 P2 Zn3'
+_chemical_name_systematic   'Zn3 (P O4)2 (H2 O)4'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   93.53
+_cell_angle_beta   91.3
+_cell_angle_gamma   91.55
+_cell_formula_units_Z   1
+_cell_length_a   5.757
+_cell_length_b   7.534
+_cell_length_c   5.625
+_cell_volume   243.350
+_citation_journal_id_ASTM   MIASA6
+_cod_data_source_file   Kumbasar_MIASA6_1968_395.cif
+_cod_data_source_block   H8O12P2Zn3
+_cod_original_cell_volume   243.3499
+_cod_database_code   1528659
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O5  O-2  0.2249  0.8886  0.2684  1  0.0
+  O3  O-2  0.0243  0.2516  0.1963  1  0.0
+  O4  O-2  0.2525  0.5263  0.1764  1  0.0
+  O6  O-2  0.2656  0.0617  0.7622  1  0.0
+  O2  O-2  0.2307  0.3956  0.5842  1  0.0
+  Zn2  Zn+2  0.2521  0.5982  0.8166  1  0.0
+  Zn1  Zn+2  0  0  0  1  0.0
+  P1  P+5  0.2503  0.3603  0.2932  1  0.0
+  O1  O-2  0.4718  0.264  0.2281  1  0.0

@@ -1,0 +1,44 @@
+{
+  "experiment_id": "666c93280cf47fd9cd40aac6",
+  "experiment_name": "Na_282",
+  "success": true,
+  "error": null,
+  "rwp": 14.92,
+  "rp": 11.86,
+  "rexp": 2.11,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "Y2O3_206_(cod_1513300)-0",
+      "spacegroup": "I2_1/a-3",
+      "weight_fraction": 0.1316,
+      "weight_fraction_error": 0.0014,
+      "lattice_a_nm": 1.066245,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 27.68
+    },
+    {
+      "phase_name": "Na12P4O16.008_225_(cod_7222419)-None",
+      "spacegroup": "F4/m-32/m",
+      "weight_fraction": 0.274,
+      "weight_fraction_error": 0.004,
+      "lattice_a_nm": 0.74684,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 42.8
+    }
+  ],
+  "chemical_system": "Na-O-P-Y",
+  "target_formula": "Na5YP2O9",
+  "analysis_timestamp": "2025-12-06T13:55:11.598016",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,155 @@
+# generated using pymatgen
+data_7226608
+loop_
+ _publ_author_name
+  'Ferrer, P.'
+  'da Silva, I.'
+  'Puente-Orench, I.'
+_publ_section_title
+;
+Solid acetone structure dependence on pressure: a new fibre textured
+thin  film crystallographic structure studied by grazing-incidence
+X-ray  diffraction
+;
+_journal_issue   42
+_journal_name_full   CrystEngComm
+_journal_page_first   8220
+_journal_paper_doi   10.1039/C6CE01333C
+_journal_volume   18
+_journal_year   2016
+_chemical_formula_moiety   'C3 O'
+_chemical_formula_sum   'C3 O'
+_chemical_formula_weight   52.03
+_chemical_name_mineral   Acetone
+_chemical_name_systematic   Acetone
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_audit_update_record
+;
+2016-08-25 deposited with the CCDC. 2016-09-22 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90.000
+_cell_angle_beta   95.100
+_cell_angle_gamma   90.000
+_cell_formula_units_Z   16
+_cell_length_a   22.26800
+_cell_length_b   8.67000
+_cell_length_c   7.99000
+_cell_measurement_reflns_used   25
+_cell_measurement_temperature   120
+_cell_measurement_theta_max   8.945
+_cell_measurement_theta_min   4.045
+_cell_volume   1536.471
+_computing_data_reduction
+;
+Fibrefix (G. Rajkumar, H.A. AL-Khayat, F. Eakins,  C. Knuppa and J.M.
+Squirea, J. Appl. Cryst., 2007, 40, 178)
+;
+_computing_structure_solution   'FOX http://objcryst.sourceforge.net'
+_diffrn_ambient_temperature   120
+_diffrn_detector   'CCD Area detector'
+_diffrn_detector_area_resol_mean   30
+_diffrn_detector_type   'Photonic Science'
+_diffrn_measurement_device_type
+'ESRF - BM25 Six circles diffractometer'
+_diffrn_measurement_method
+'Grazing Incidence X-ray Diffraction image'
+_diffrn_radiation_monochromator   Si(111)
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   0.826
+_diffrn_source   Synchrotron
+_exptl_crystal_density_diffrn   0.900
+_exptl_crystal_description   'thin film'
+_exptl_crystal_preparation
+;
+Thin film of acetone, grown by chemical vapour deposition technique on
+top of a  Cu(110) substrate, at a partial pressure of 10-7 mbar.
+;
+_exptl_crystal_recrystallization_method   'Vapour deposition'
+_pd_meas_scan_method   fixed
+_pd_proc_ls_prof_R_factor   0.4021
+_pd_proc_ls_prof_wR_factor   0.3780
+_pd_spec_mounting   'thin film grown on top of substrate'
+_pd_spec_mount_mode   reflection
+_pd_spec_shape   'thin film'
+_cod_data_source_file   c6ce01333c1.cif
+_cod_data_source_block   Acetone_fiber_textured
+_cod_depositor_comments   'Adding full bibliography for 7226608.cif.'
+_cod_original_cell_volume   1536.47
+_cod_database_code   7226608
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y+1/2, -z+1/2'
+  'x, -y+1/2, z+1/2'
+  '-x, -y, -z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_adp_type
+  C11  C  0.753572  0.839485  0.523086  0.012665  1.0000  Uiso
+  O41  O  0.761078  0.922661  0.644894  0.012665  1.0000  Uiso
+  C31  C  0.807610  0.781669  0.447745  0.012665  1.0000  Uiso
+  C21  C  0.692241  0.797013  0.451680  0.012665  1.0000  Uiso
+  C12  C  0.997752  0.863193  0.135516  0.012665  1.0000  Uiso
+  C22  C  1.048620  0.949965  0.222328  0.012665  1.0000  Uiso
+  C32  C  0.936469  0.892804  0.186208  0.012665  1.0000  Uiso
+  O42  O  1.006006  0.771010  0.026185  0.012665  1.0000  Uiso
+  C13  C  0.746821  0.360316  0.603013  0.012665  1.0000  Uiso
+  C23  C  0.804948  0.302681  0.551352  0.012665  1.0000  Uiso
+  C33  C  0.692099  0.266988  0.558138  0.012665  1.0000  Uiso
+  O43  O  0.744105  0.480248  0.679421  0.012665  1.0000  Uiso
+  C14  C  0.507812  0.404428  0.684827  0.012665  1.0000  Uiso
+  C24  C  0.443317  0.447977  0.673766  0.012665  1.0000  Uiso
+  C34  C  0.548534  0.472833  0.821504  0.012665  1.0000  Uiso
+  O44  O  0.526702  0.315782  0.584951  0.012665  1.0000  Uiso
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_source
+  C  C  'International Tables for Crystallography (Vol. IV)'
+  O  O  'International Tables for Crystallography (Vol. IV)'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O41  C11  C21  121.00  no
+  O41  C11  C31  118.00  no
+  C21  C11  C31  121.00  no
+  O42  C12  C22  121.00  no
+  O42  C12  C32  121.00  no
+  C22  C12  C32  118.00  no
+  O43  C13  C23  121.00  no
+  O43  C13  C33  121.00  no
+  C23  C13  C33  118.00  no
+  O44  C14  C24  121.00  no
+  O44  C14  C34  121.00  no
+  C24  C14  C34  118.00  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  O41  C11  1.2109  no
+  C11  C21  1.4791  no
+  C11  C31  1.4800  no
+  O42  C12  1.2100  no
+  C12  C22  1.4800  no
+  C12  C32  1.4800  no
+  O43  C13  1.2100  no
+  C13  C23  1.4800  no
+  C13  C33  1.4800  no
+  O44  C14  1.2100  no
+  C14  C24  1.4800  no
+  C14  C34  1.4800  no

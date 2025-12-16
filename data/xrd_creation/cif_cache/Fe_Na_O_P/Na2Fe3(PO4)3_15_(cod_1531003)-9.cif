@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_1531003
+loop_
+ _publ_author_name
+  'Yakubovich, O.V.'
+  'Egorov-Tismenko, Yu.K.'
+  'Simonov, M.A.'
+  'Belov, N.V.'
+_publ_section_title
+;
+The crystal structure of a synthetic variety of alluaudite Na2
+(Fe(3+))0.5 (Fe(2+))0.5)2 (Fe(2+)) (P O4)3
+;
+_journal_name_full   'Doklady Akademii Nauk SSSR'
+_journal_page_first   1123
+_journal_page_last   1126
+_journal_volume   236
+_journal_year   1977
+_chemical_formula_sum   'Fe3 Na2 O12 P3'
+_chemical_name_systematic   'Na2 Fe3 (P O4)3'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-I 2a'
+_symmetry_space_group_name_H-M   'I 1 1 2/a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   10.923
+_cell_length_b   6.5
+_cell_length_c   12.538
+_cell_volume   890.192
+_citation_journal_id_ASTM   DANKAS
+_cod_data_source_file   Yakubovich_DANKAS_1977_259.cif
+_cod_data_source_block   Fe3Na2O12P3
+_cod_original_cell_volume   890.1918
+_cod_original_sg_symbol_Hall   '-C 2yc (-x+z,x,y)'
+_cod_database_code   1531003
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z
+  -x,-y,-z
+  x-1/2,y,-z
+  x+1/2,y+1/2,z+1/2
+  -x+1,-y+1/2,z+1/2
+  -x+1/2,-y+1/2,-z+1/2
+  x,y+1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.9116  0.0194  0.9138  1  0.0
+  Fe1  Fe+2  0.47036  0.33648  0.09126  1  0.0
+  O5  O-2  0.4727  0.1595  0.4259  1  0.0
+  O2  O-2  0.3516  0.103  0.6131  1  0.0
+  O1  O-2  0.706  0.1694  0.5334  1  0.0
+  O4  O-2  0.3782  0.0518  0.8495  1  0.0
+  Na2  Na+1  0.25  0.5  0.2345  1  0.0
+  Fe2  Fe+2  0.25  0.5  0.51931  1  0.0
+  P2  P+5  0.9855  0.3613  0.6416  1  0.0
+  Na1  Na+1  0.75  0.25  0.25  1  0.0
+  P1  P+5  0.25  0.5  0.9624  1  0.0
+  O6  O-2  0.5773  0.1906  0.7494  1  0.0

@@ -1,0 +1,86 @@
+# generated using pymatgen
+data_1517733
+loop_
+ _publ_author_name
+  'Fukuoka, H.'
+  'Imoto, H.'
+  'Saito, T.'
+_publ_section_title
+;
+Preparation of cubic niobium pyrophosphate containing Nb(IV) and
+topotactic extraction of phosphorus atoms
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   98
+_journal_page_last   106
+_journal_volume   119
+_journal_year   1995
+_chemical_formula_structural   'Nb (P1.81 O7)'
+_chemical_formula_sum   'Nb O7 P1.81'
+_chemical_name_systematic   'Niobium Phosphorus Oxide (1/1.81/7)'
+_space_group_IT_number   205
+_symmetry_Int_Tables_number   205
+_symmetry_space_group_name_Hall   '-P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P a -3'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   4
+_cell_length_a   8.0705(2)
+_cell_length_b   8.0705(2)
+_cell_length_c   8.0705(2)
+_cell_volume   525.66(2)
+_cod_data_source_file   NbP1_81O7_Pa_3_DC279.cif
+_cod_data_source_block   chateigner
+_cod_original_cell_volume   525.66
+_cod_original_formula_sum   'Nb1 O7 P1.81'
+_cod_database_code   1517733
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-z+1/2, x+1/2, y'
+  2  'z+1/2, x, -y+1/2'
+  3  'z, -x+1/2, y+1/2'
+  4  '-z, -x, -y'
+  5  'y, -z+1/2, x+1/2'
+  6  '-y+1/2, z+1/2, x'
+  7  'y+1/2, z, -x+1/2'
+  8  '-y, -z, -x'
+  9  'x+1/2, y, -z+1/2'
+  10  'x, -y+1/2, z+1/2'
+  11  '-x+1/2, y+1/2, z'
+  12  '-x, -y, -z'
+  13  'z+1/2, -x+1/2, -y'
+  14  '-z+1/2, -x, y+1/2'
+  15  '-z, x+1/2, -y+1/2'
+  16  'z, x, y'
+  17  '-y, z+1/2, -x+1/2'
+  18  'y+1/2, -z+1/2, -x'
+  19  '-y+1/2, -z, x+1/2'
+  20  'y, z, x'
+  21  '-x+1/2, -y, z+1/2'
+  22  '-x, y+1/2, -z+1/2'
+  23  'x+1/2, -y+1/2, -z'
+  24  'x, y, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_B_iso_or_equiv
+  Nb1  Nb4.95+  4  a  0  0  0  1.  0  2.36(6)
+  P1  P5+  8  c  0.3938(5)  0.3938(5)  0.3938(5)  0.905(1)  0
+  2.0(2)
+  O1  O2-  4  b  0.5  0.5  0.5  1.  0  11.3(8)
+  O2  O2-  24  d  0.2209(3)  0.424(1)  0.447(1)  1.  0  5.8(3)
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Nb4.95+  4.95
+  O2-  -2
+  P5+  5

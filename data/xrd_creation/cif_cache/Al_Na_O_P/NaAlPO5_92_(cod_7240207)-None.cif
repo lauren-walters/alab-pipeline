@@ -1,0 +1,579 @@
+# generated using pymatgen
+data_7240207
+loop_
+ _publ_author_name
+  'Hao, Yucheng'
+  'Pan, Yang'
+  'Lin, Yuan'
+  'He, Linbo'
+  'Ge, Guangjie'
+  'Ruan, Yu'
+  'Zhou, Haida'
+  'Xue, Yang'
+  'Koirala, Kisan'
+_publ_section_title
+;
+Highly Porous Aluminophosphates with Unique Three Dimensional Open
+Framework Structures from Mild Hydrothermal Syntheses
+;
+_journal_name_full   CrystEngComm
+_journal_paper_doi   10.1039/D0CE00075B
+_journal_year   2020
+_chemical_formula_sum   'Al H Na O5 P'
+_chemical_formula_weight   161.94
+_chemical_name_systematic   'a-H Al Na O5 P'
+_chemical_properties_physical   Heat-sensitive
+_space_group_crystal_system   tetragonal
+_space_group_IT_number   92
+_space_group_name_Hall   'P 4abw 2nw'
+_space_group_name_H-M_alt   'P 41 21 2'
+_audit_creation_method   SHELXL-2014/7
+_audit_update_record
+;
+2020-03-18 deposited with the CCDC.     2020-03-25 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.45090(10)
+_cell_length_b   8.45090(10)
+_cell_length_c   4.7354(2)
+_cell_measurement_reflns_used   684
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   76.2980
+_cell_measurement_theta_min   5.2200
+_cell_volume   338.191(15)
+_computing_structure_refinement   'SHELXL-2014/7 (Sheldrick, 2014)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   1.000
+_diffrn_measured_fraction_theta_max   0.958
+_diffrn_measurement_device_type
+'ROD, Synergy Custom DW system, HyPix'
+_diffrn_radiation_type   CuK\a
+_diffrn_radiation_wavelength   1.54178
+_diffrn_reflns_av_R_equivalents   0.0214
+_diffrn_reflns_av_unetI/netI   0.0254
+_diffrn_reflns_Laue_measured_fraction_full   1.000
+_diffrn_reflns_Laue_measured_fraction_max   0.958
+_diffrn_reflns_limit_h_max   10
+_diffrn_reflns_limit_h_min   -9
+_diffrn_reflns_limit_k_max   10
+_diffrn_reflns_limit_k_min   -6
+_diffrn_reflns_limit_l_max   4
+_diffrn_reflns_limit_l_min   -5
+_diffrn_reflns_number   826
+_diffrn_reflns_point_group_measured_fraction_full   0.990
+_diffrn_reflns_point_group_measured_fraction_max   0.930
+_diffrn_reflns_theta_full   67.679
+_diffrn_reflns_theta_max   76.538
+_diffrn_reflns_theta_min   7.412
+_exptl_absorpt_coefficient_mu   10.361
+_exptl_absorpt_correction_T_max   1.00000
+_exptl_absorpt_correction_T_min   0.51860
+_exptl_absorpt_correction_type   multi-scan
+_exptl_crystal_colour   colorless
+_exptl_crystal_density_diffrn   3.161
+_exptl_crystal_description   Column
+_exptl_crystal_F_000   316
+_exptl_crystal_size_max   0.08
+_exptl_crystal_size_mid   0.06
+_exptl_crystal_size_min   0.04
+_refine_diff_density_max   0.540
+_refine_diff_density_min   -0.877
+_refine_diff_density_rms   0.205
+_refine_ls_abs_structure_details
+;
+Flack x determined using 97 quotients [(I+)-(I-)]/[(I+)+(I-)]
+(Parsons, Flack and Wagner, Acta Cryst. B69 (2013) 249-259).
+;
+_refine_ls_abs_structure_Flack   0.05(4)
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.227
+_refine_ls_hydrogen_treatment   undef
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   43
+_refine_ls_number_reflns   334
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.227
+_refine_ls_R_factor_all   0.0598
+_refine_ls_R_factor_gt   0.0498
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'w=1/[\s^2^(Fo^2^)+(0.1001P)^2^+2.2654P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.1544
+_refine_ls_wR_factor_ref   0.1793
+_reflns_Friedel_coverage   0.459
+_reflns_Friedel_fraction_full   0.970
+_reflns_Friedel_fraction_max   0.875
+_reflns_number_gt   316
+_reflns_number_total   334
+_reflns_threshold_expression   'I > 2\s(I)'
+_cod_data_source_file   d0ce00075b2.cif
+_cod_data_source_block   a
+_cod_original_cell_volume   338.191(16)
+_cod_original_formula_sum   'H Al Na O5 P'
+_cod_database_code   7240207
+_shelx_shelxl_version_number   2014/7
+_shelx_space_group_comment
+;
+The symmetry employed for this shelxl refinement is uniquely defined
+by the following loop, which should always be used as a source of
+symmetry information in preference to the above space-group names.
+They are only intended as comments.
+;
+_shelx_res_file
+;
+a.res created by SHELXL-2014/7 TITL a in P4(3)2(1)2 CELL 1.54178
+8.4509 8.4509 4.7354 90 90 90 ZERR 4 0.0001 0.0001 0.0002 0 0 0 LATT
+-1 SYMM 0.5-Y,0.5+X,0.25+Z SYMM -X,-Y,0.5+Z SYMM 0.5+Y,0.5-X,0.75+Z
+SYMM 0.5+X,0.5-Y,0.75-Z SYMM 0.5-X,0.5+Y,0.25-Z SYMM +Y,+X,-Z SYMM
+-Y,-X,0.5-Z SFAC Al Na O P UNIT 4 4 20 4 L.S. 4 PLAN  20 TEMP 19.85
+conf fmap 2 acta REM <olex2.extras> REM <HklSrc "%.\\a.hkl"> REM
+</olex2.extras> WGHT    0.100100    2.265400 FVAR       1.60148 P1
+4    0.785239    0.214761    0.750000    10.50000    0.01327
+0.01327 =          0.01339    0.00178    0.00178    0.00169 AL1   1
+0.611102    0.388898    0.250000    10.50000    0.01910    0.01910 =
+0.01878   -0.00161   -0.00161   -0.00295 NA1   2    0.488013
+0.037903    0.538513    10.50000    0.03852    0.08796 =
+0.15379   -0.03704   -0.02016   -0.01225 O1    3    0.457711
+0.457711    0.500000    10.50000    0.01571    0.01571 =
+0.01336   -0.00384    0.00384   -0.00293 O2    3    0.667325
+0.236285    0.510372    11.00000    0.01724    0.02271 =
+0.01914   -0.00309   -0.00244   -0.00278 O3    3    0.755863
+0.045393    0.851795    11.00000    0.02099    0.01593 =
+0.02140    0.00201   -0.00501    0.00058 HKLF 4 REM  a in P4(3)2(1)2
+REM R1 =  0.0498 for     316 Fo > 4sig(Fo)  and  0.0598 for all
+334 data REM     43 parameters refined using      0 restraints END
+WGHT      0.1001      2.2654 REM Highest difference peak  0.540,
+deepest hole -0.877,  1-sigma level  0.205 Q1    1   0.8012  0.0873
+0.9697  11.00000  0.05    0.54 Q2    1   0.6396  0.1908  0.7493
+11.00000  0.05    0.51 Q3    1   0.6188  0.2180  0.5256  11.00000
+0.05    0.48 Q4    1   0.3417  0.5084  0.2293  11.00000  0.05    0.47
+Q5    1   0.8854  0.0238  0.7344  11.00000  0.05    0.44 Q6    1
+0.5818  0.1722  0.4314  11.00000  0.05    0.42 Q7    1   0.4702
+0.1944  0.4994  11.00000  0.05    0.42 Q8    1   0.7643  0.1723
+0.7681  11.00000  0.05    0.41 Q9    1   0.7904  0.0723  0.5294
+11.00000  0.05    0.41 Q10   1   0.6996  0.2769  0.6336  11.00000
+0.05    0.39 Q11   1   0.7954 -0.0738  0.7117  11.00000  0.05    0.39
+Q12   1   0.6947 -0.1180  0.7632  11.00000  0.05    0.38 Q13   1
+0.4711  0.4171  0.4924  11.00000  0.05    0.37 Q14   1   0.3643
+0.0766  0.4874  11.00000  0.05    0.34 Q15   1   0.2798  0.3549
+0.5039  11.00000  0.05    0.34 Q16   1   0.6490  0.0793  1.0475
+11.00000  0.05    0.34 Q17   1   0.4887  0.2006  0.6846  11.00000
+0.05    0.34 Q18   1   0.7051  0.1494  0.9436  11.00000  0.05    0.33
+Q19   1   0.7574  0.3563  0.3216  11.00000  0.05    0.32 Q20   1
+0.6587 -0.0320  0.9925  11.00000  0.05    0.32
+;
+_shelx_res_checksum   89327
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-y+1/2, x+1/2, z+1/4'
+  '-x, -y, z+1/2'
+  'y+1/2, -x+1/2, z+3/4'
+  'x+1/2, -y+1/2, -z+3/4'
+  '-x+1/2, y+1/2, -z+1/4'
+  'y, x, -z'
+  '-y, -x, -z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_site_symmetry_order
+ _atom_site_calc_flag
+ _atom_site_refinement_flags_posn
+ _atom_site_refinement_flags_adp
+ _atom_site_refinement_flags_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  P1  P  0.7852(2)  0.2148(2)  0.7500  0.0133(9)  Uani  1  2  d  S
+  T  P  .  .
+  Al1  Al  0.6111(3)  0.3889(3)  0.2500  0.0190(11)  Uani  1  2  d
+  S  T  P  .  .
+  Na1  Na  0.488(2)  0.038(2)  0.539(10)  0.093(8)  Uani  0.5  1  d
+  .  .  P  .  .
+  O1  O  0.4577(7)  0.4577(7)  0.5000  0.0149(19)  Uani  1  2  d  S
+  T  P  .  .
+  O2  O  0.6673(7)  0.2363(8)  0.5104(15)  0.0197(15)  Uani  1  1  d
+  .  .  .  .  .
+  O3  O  0.7559(8)  0.0454(8)  0.8518(14)  0.0194(16)  Uani  1  1  d
+  .  .  .  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  P1  0.0133(11)  0.0133(11)  0.0134(16)  0.0018(10)  0.0018(10)
+  0.0017(11)
+  Al1  0.0191(14)  0.0191(14)  0.019(2)  -0.0016(12)  -0.0016(12)
+  -0.0029(14)
+  Na1  0.039(7)  0.088(13)  0.15(2)  -0.037(17)  -0.020(10)
+  -0.012(7)
+  O1  0.016(3)  0.016(3)  0.013(4)  -0.004(3)  0.004(3)  -0.003(3)
+  O2  0.017(3)  0.023(3)  0.019(3)  -0.003(3)  -0.002(3)  -0.003(2)
+  O3  0.021(3)  0.016(3)  0.021(3)  0.002(3)  -0.005(3)  0.001(2)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Al  Al  0.2130  0.2455
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Na  Na  0.1353  0.1239
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0492  0.0322
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.2955  0.4335
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O2  P1  O2  113.6(5)  8_666  .  ?
+  O2  P1  O3  103.9(4)  8_666  8_666  ?
+  O2  P1  O3  111.0(4)  .  8_666  ?
+  O2  P1  O3  111.0(4)  8_666  .  ?
+  O2  P1  O3  103.9(4)  .  .  ?
+  O3  P1  O3  113.7(5)  8_666  .  ?
+  O2  P1  Na1  44.2(8)  8_666  8_666  ?
+  O2  P1  Na1  117.5(7)  .  8_666  ?
+  O3  P1  Na1  61.2(7)  8_666  8_666  ?
+  O3  P1  Na1  137.4(8)  .  8_666  ?
+  O2  P1  Na1  117.5(7)  8_666  .  ?
+  O2  P1  Na1  44.2(8)  .  .  ?
+  O3  P1  Na1  137.4(8)  8_666  .  ?
+  O3  P1  Na1  61.2(7)  .  .  ?
+  Na1  P1  Na1  153.1(6)  8_666  .  ?
+  O2  P1  Na1  103.7(6)  8_666  2_545  ?
+  O2  P1  Na1  64.8(8)  .  2_545  ?
+  O3  P1  Na1  151.0(5)  8_666  2_545  ?
+  O3  P1  Na1  46.7(6)  .  2_545  ?
+  Na1  P1  Na1  147.6(4)  8_666  2_545  ?
+  Na1  P1  Na1  22.45(8)  .  2_545  ?
+  O2  P1  Na1  64.8(8)  8_666  6_656  ?
+  O2  P1  Na1  103.7(6)  .  6_656  ?
+  O3  P1  Na1  46.7(6)  8_666  6_656  ?
+  O3  P1  Na1  151.0(5)  .  6_656  ?
+  Na1  P1  Na1  22.45(8)  8_666  6_656  ?
+  Na1  P1  Na1  147.6(4)  .  6_656  ?
+  Na1  P1  Na1  160.1(7)  2_545  6_656  ?
+  O2  P1  Na1  91.7(7)  8_666  3_655  ?
+  O2  P1  Na1  86.0(7)  .  3_655  ?
+  O3  P1  Na1  148.9(4)  8_666  3_655  ?
+  O3  P1  Na1  35.2(4)  .  3_655  ?
+  Na1  P1  Na1  134.66(11)  8_666  3_655  ?
+  Na1  P1  Na1  43.98(18)  .  3_655  ?
+  Na1  P1  Na1  21.67(13)  2_545  3_655  ?
+  Na1  P1  Na1  156.5(2)  6_656  3_655  ?
+  O2  P1  Na1  86.0(7)  8_666  7_656  ?
+  O2  P1  Na1  91.7(7)  .  7_656  ?
+  O3  P1  Na1  35.2(4)  8_666  7_656  ?
+  O3  P1  Na1  148.9(4)  .  7_656  ?
+  Na1  P1  Na1  43.98(18)  8_666  7_656  ?
+  Na1  P1  Na1  134.66(11)  .  7_656  ?
+  Na1  P1  Na1  156.5(2)  2_545  7_656  ?
+  Na1  P1  Na1  21.67(13)  6_656  7_656  ?
+  Na1  P1  Na1  175.9(6)  3_655  7_656  ?
+  O2  Al1  O2  95.0(4)  .  8_665  ?
+  O2  Al1  O1  88.4(2)  .  .  ?
+  O2  Al1  O1  176.4(3)  8_665  .  ?
+  O2  Al1  O1  176.4(3)  .  3_664  ?
+  O2  Al1  O1  88.4(2)  8_665  3_664  ?
+  O1  Al1  O1  88.2(2)  .  3_664  ?
+  O2  Al1  O3  95.1(3)  .  6_656  ?
+  O2  Al1  O3  90.7(3)  8_665  6_656  ?
+  O1  Al1  O3  87.6(3)  .  6_656  ?
+  O1  Al1  O3  86.2(3)  3_664  6_656  ?
+  O2  Al1  O3  90.7(3)  .  2_544  ?
+  O2  Al1  O3  95.1(3)  8_665  2_544  ?
+  O1  Al1  O3  86.2(3)  .  2_544  ?
+  O1  Al1  O3  87.6(3)  3_664  2_544  ?
+  O3  Al1  O3  171.4(5)  6_656  2_544  ?
+  O2  Al1  Na1  85.3(7)  .  5  ?
+  O2  Al1  Na1  47.7(7)  8_665  5  ?
+  O1  Al1  Na1  131.5(6)  .  5  ?
+  O1  Al1  Na1  98.0(7)  3_664  5  ?
+  O3  Al1  Na1  45.4(5)  6_656  5  ?
+  O3  Al1  Na1  141.8(5)  2_544  5  ?
+  O2  Al1  Na1  47.7(7)  .  4_554  ?
+  O2  Al1  Na1  85.3(7)  8_665  4_554  ?
+  O1  Al1  Na1  98.0(7)  .  4_554  ?
+  O1  Al1  Na1  131.5(6)  3_664  4_554  ?
+  O3  Al1  Na1  141.8(5)  6_656  4_554  ?
+  O3  Al1  Na1  45.4(5)  2_544  4_554  ?
+  Na1  Al1  Na1  112.1(7)  5  4_554  ?
+  O2  Al1  Na1  104.8(6)  .  8_665  ?
+  O2  Al1  Na1  37.6(4)  8_665  8_665  ?
+  O1  Al1  Na1  140.0(5)  .  8_665  ?
+  O1  Al1  Na1  78.7(6)  3_664  8_665  ?
+  O3  Al1  Na1  54.2(5)  6_656  8_665  ?
+  O3  Al1  Na1  130.1(6)  2_544  8_665  ?
+  Na1  Al1  Na1  21.8(3)  5  8_665  ?
+  Na1  Al1  Na1  119.0(6)  4_554  8_665  ?
+  O2  Al1  Na1  37.6(4)  .  .  ?
+  O2  Al1  Na1  104.8(6)  8_665  .  ?
+  O1  Al1  Na1  78.7(6)  .  .  ?
+  O1  Al1  Na1  140.0(5)  3_664  .  ?
+  O3  Al1  Na1  130.1(6)  6_656  .  ?
+  O3  Al1  Na1  54.2(5)  2_544  .  ?
+  Na1  Al1  Na1  119.0(6)  5  .  ?
+  Na1  Al1  Na1  21.8(3)  4_554  .  ?
+  Na1  Al1  Na1  133.2(7)  8_665  .  ?
+  Na1  Na1  Na1  149.5(15)  2_545  4_554  ?
+  Na1  Na1  O2  114.5(12)  2_545  .  ?
+  Na1  Na1  O2  81(2)  4_554  .  ?
+  Na1  Na1  O3  96(2)  2_545  3_654  ?
+  Na1  Na1  O3  83.6(12)  4_554  3_654  ?
+  O2  Na1  O3  141.9(17)  .  3_654  ?
+  Na1  Na1  O2  67.2(18)  2_545  2_545  ?
+  Na1  Na1  O2  137.5(18)  4_554  2_545  ?
+  O2  Na1  O2  102.4(7)  .  2_545  ?
+  O3  Na1  O2  67.2(5)  3_654  2_545  ?
+  Na1  Na1  Na1  145.2(18)  2_545  3_654  ?
+  Na1  Na1  Na1  15.3(7)  4_554  3_654  ?
+  O2  Na1  Na1  94.6(18)  .  3_654  ?
+  O3  Na1  Na1  68.4(9)  3_654  3_654  ?
+  O2  Na1  Na1  126.7(11)  2_545  3_654  ?
+  Na1  Na1  Na1  15.3(7)  2_545  3_655  ?
+  Na1  Na1  Na1  145.2(18)  4_554  3_655  ?
+  O2  Na1  Na1  101.2(10)  .  3_655  ?
+  O3  Na1  Na1  110.9(18)  3_654  3_655  ?
+  O2  Na1  Na1  76.4(13)  2_545  3_655  ?
+  Na1  Na1  Na1  148.3(16)  3_654  3_655  ?
+  Na1  Na1  O3  66.5(12)  2_545  4_554  ?
+  Na1  Na1  O3  83.0(10)  4_554  4_554  ?
+  O2  Na1  O3  127.0(7)  .  4_554  ?
+  O3  Na1  O3  85.4(5)  3_654  4_554  ?
+  O2  Na1  O3  122.5(15)  2_545  4_554  ?
+  Na1  Na1  O3  81.0(11)  3_654  4_554  ?
+  Na1  Na1  O3  67.5(15)  3_655  4_554  ?
+  Na1  Na1  O3  69.1(8)  2_545  .  ?
+  Na1  Na1  O3  103.7(15)  4_554  .  ?
+  O2  Na1  O3  57.0(4)  .  .  ?
+  O3  Na1  O3  161.1(16)  3_654  .  ?
+  O2  Na1  O3  113.9(14)  2_545  .  ?
+  Na1  Na1  O3  117.7(15)  3_654  .  ?
+  Na1  Na1  O3  53.8(7)  3_655  .  ?
+  O3  Na1  O3  78.4(7)  4_554  .  ?
+  Na1  Na1  O3  153.0(16)  2_545  2_544  ?
+  Na1  Na1  O3  57.2(15)  4_554  2_544  ?
+  O2  Na1  O3  62.2(9)  .  2_544  ?
+  O3  Na1  O3  80.2(10)  3_654  2_544  ?
+  O2  Na1  O3  86.8(7)  2_545  2_544  ?
+  Na1  Na1  O3  57.7(10)  3_654  2_544  ?
+  Na1  Na1  O3  153.5(11)  3_655  2_544  ?
+  O3  Na1  O3  138.7(16)  4_554  2_544  ?
+  O3  Na1  O3  118.5(9)  .  2_544  ?
+  Na1  Na1  P1  89.9(9)  2_545  .  ?
+  Na1  Na1  P1  96.6(16)  4_554  .  ?
+  O2  Na1  P1  27.9(3)  .  .  ?
+  O3  Na1  P1  168.4(10)  3_654  .  ?
+  O2  Na1  P1  106.1(9)  2_545  .  ?
+  Na1  Na1  P1  111.8(15)  3_654  .  ?
+  Na1  Na1  P1  75.4(7)  3_655  .  ?
+  O3  Na1  P1  106.2(7)  4_554  .  ?
+  O3  Na1  P1  29.7(2)  .  .  ?
+  O3  Na1  P1  90.2(8)  2_544  .  ?
+  Na1  Na1  Al1  86.9(18)  2_545  2_545  ?
+  Na1  Na1  Al1  107.7(13)  4_554  2_545  ?
+  O2  Na1  Al1  120.8(7)  .  2_545  ?
+  O3  Na1  Al1  34.6(3)  3_654  2_545  ?
+  O2  Na1  Al1  34.2(3)  2_545  2_545  ?
+  Na1  Na1  Al1  94.4(8)  3_654  2_545  ?
+  Na1  Na1  Al1  100.6(14)  3_655  2_545  ?
+  O3  Na1  Al1  112.3(7)  4_554  2_545  ?
+  O3  Na1  Al1  147.8(15)  .  2_545  ?
+  O3  Na1  Al1  74.5(6)  2_544  2_545  ?
+  P1  Na1  Al1  136.3(7)  .  2_545  ?
+  Al1  O1  Al1  148.3(5)  3_665  .  ?
+  P1  O2  Al1  138.6(4)  .  .  ?
+  P1  O2  Na1  107.8(10)  .  .  ?
+  Al1  O2  Na1  112.6(9)  .  .  ?
+  P1  O2  Na1  121.6(7)  .  4_554  ?
+  Al1  O2  Na1  98.1(7)  .  4_554  ?
+  Na1  O2  Na1  31.3(4)  .  4_554  ?
+  P1  O3  Al1  132.9(4)  .  4  ?
+  P1  O3  Na1  122.7(6)  .  3_655  ?
+  Al1  O3  Na1  100.0(7)  4  3_655  ?
+  P1  O3  Na1  107.4(7)  .  2_545  ?
+  Al1  O3  Na1  119.7(7)  4  2_545  ?
+  Na1  O3  Na1  29.85(11)  3_655  2_545  ?
+  P1  O3  Na1  89.1(7)  .  .  ?
+  Al1  O3  Na1  133.7(5)  4  .  ?
+  Na1  O3  Na1  57.7(3)  3_655  .  ?
+  Na1  O3  Na1  27.9(2)  2_545  .  ?
+  P1  O3  Na1  115.9(5)  .  4  ?
+  Al1  O3  Na1  92.7(4)  4  4  ?
+  Na1  O3  Na1  27.1(7)  3_655  4  ?
+  Na1  O3  Na1  54.8(5)  2_545  4  ?
+  Na1  O3  Na1  81.5(5)  .  4  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  P1  O2  1.521(7)  8_666  ?
+  P1  O2  1.521(7)  .  ?
+  P1  O3  1.531(6)  8_666  ?
+  P1  O3  1.531(6)  .  ?
+  P1  Na1  3.090(15)  8_666  ?
+  P1  Na1  3.090(15)  .  ?
+  P1  Na1  3.341(18)  2_545  ?
+  P1  Na1  3.341(18)  6_656  ?
+  P1  Na1  3.429(16)  3_655  ?
+  P1  Na1  3.429(16)  7_656  ?
+  Al1  O2  1.846(7)  .  ?
+  Al1  O2  1.846(7)  8_665  ?
+  Al1  O1  1.849(4)  .  ?
+  Al1  O1  1.849(4)  3_664  ?
+  Al1  O3  1.872(6)  6_656  ?
+  Al1  O3  1.872(6)  2_544  ?
+  Al1  Na1  3.250(17)  5  ?
+  Al1  Na1  3.250(17)  4_554  ?
+  Al1  Na1  3.43(3)  8_665  ?
+  Al1  Na1  3.43(3)  .  ?
+  Na1  Na1  1.276(10)  2_545  ?
+  Na1  Na1  1.276(10)  4_554  ?
+  Na1  O2  2.26(2)  .  ?
+  Na1  O3  2.350(17)  3_654  ?
+  Na1  O2  2.43(3)  2_545  ?
+  Na1  Na1  2.461(10)  3_654  ?
+  Na1  Na1  2.461(10)  3_655  ?
+  Na1  O3  2.55(2)  4_554  ?
+  Na1  O3  2.71(2)  .  ?
+  Na1  O3  2.78(4)  2_544  ?
+  Na1  Al1  3.250(17)  2_545  ?
+  O1  Al1  1.849(4)  3_665  ?
+  O2  Na1  2.43(3)  4_554  ?
+  O3  Al1  1.872(6)  4  ?
+  O3  Na1  2.351(17)  3_655  ?
+  O3  Na1  2.55(2)  2_545  ?
+  O3  Na1  2.78(4)  4  ?
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O2  Al1  O1  Al1  108.5(2)  .  .  .  3_665  ?
+  O1  Al1  O1  Al1  -73.0(2)  3_664  .  .  3_665  ?
+  O3  Al1  O1  Al1  13.3(2)  6_656  .  .  3_665  ?
+  O3  Al1  O1  Al1  -160.7(2)  2_544  .  .  3_665  ?
+  Na1  Al1  O1  Al1  26.1(9)  5  .  .  3_665  ?
+  Na1  Al1  O1  Al1  155.3(6)  4_554  .  .  3_665  ?
+  Na1  Al1  O1  Al1  -3.0(9)  8_665  .  .  3_665  ?
+  Na1  Al1  O1  Al1  145.0(5)  .  .  .  3_665  ?
+  O2  P1  O2  Al1  61.4(6)  8_666  .  .  .  ?
+  O3  P1  O2  Al1  -55.3(7)  8_666  .  .  .  ?
+  O3  P1  O2  Al1  -177.9(6)  .  .  .  .  ?
+  Na1  P1  O2  Al1  12.3(11)  8_666  .  .  .  ?
+  Na1  P1  O2  Al1  167.3(12)  .  .  .  .  ?
+  Na1  P1  O2  Al1  156.0(8)  2_545  .  .  .  ?
+  Na1  P1  O2  Al1  -6.8(10)  6_656  .  .  .  ?
+  Na1  P1  O2  Al1  151.5(8)  3_655  .  .  .  ?
+  Na1  P1  O2  Al1  -25.0(8)  7_656  .  .  .  ?
+  O2  P1  O2  Na1  -105.9(9)  8_666  .  .  .  ?
+  O3  P1  O2  Na1  137.5(9)  8_666  .  .  .  ?
+  O3  P1  O2  Na1  14.8(9)  .  .  .  .  ?
+  Na1  P1  O2  Na1  -155.0(6)  8_666  .  .  .  ?
+  Na1  P1  O2  Na1  -11.3(7)  2_545  .  .  .  ?
+  Na1  P1  O2  Na1  -174.0(5)  6_656  .  .  .  ?
+  Na1  P1  O2  Na1  -15.7(7)  3_655  .  .  .  ?
+  Na1  P1  O2  Na1  167.7(4)  7_656  .  .  .  ?
+  O2  P1  O2  Na1  -137.0(12)  8_666  .  .  4_554  ?
+  O3  P1  O2  Na1  106.3(12)  8_666  .  .  4_554  ?
+  O3  P1  O2  Na1  -16.3(12)  .  .  .  4_554  ?
+  Na1  P1  O2  Na1  173.9(4)  8_666  .  .  4_554  ?
+  Na1  P1  O2  Na1  -31.1(8)  .  .  .  4_554  ?
+  Na1  P1  O2  Na1  -42.4(10)  2_545  .  .  4_554  ?
+  Na1  P1  O2  Na1  154.8(6)  6_656  .  .  4_554  ?
+  Na1  P1  O2  Na1  -46.9(7)  3_655  .  .  4_554  ?
+  Na1  P1  O2  Na1  136.6(9)  7_656  .  .  4_554  ?
+  O2  Al1  O2  P1  85.2(6)  8_665  .  .  .  ?
+  O1  Al1  O2  P1  -93.5(7)  .  .  .  .  ?
+  O3  Al1  O2  P1  -6.0(7)  6_656  .  .  .  ?
+  O3  Al1  O2  P1  -179.6(7)  2_544  .  .  .  ?
+  Na1  Al1  O2  P1  38.4(8)  5  .  .  .  ?
+  Na1  Al1  O2  P1  164.3(12)  4_554  .  .  .  ?
+  Na1  Al1  O2  P1  48.3(9)  8_665  .  .  .  ?
+  Na1  Al1  O2  P1  -166.9(13)  .  .  .  .  ?
+  O2  Al1  O2  Na1  -107.9(11)  8_665  .  .  .  ?
+  O1  Al1  O2  Na1  73.4(10)  .  .  .  .  ?
+  O3  Al1  O2  Na1  160.9(10)  6_656  .  .  .  ?
+  O3  Al1  O2  Na1  -12.8(10)  2_544  .  .  .  ?
+  Na1  Al1  O2  Na1  -154.7(6)  5  .  .  .  ?
+  Na1  Al1  O2  Na1  -28.9(7)  4_554  .  .  .  ?
+  Na1  Al1  O2  Na1  -144.8(7)  8_665  .  .  .  ?
+  O2  Al1  O2  Na1  -79.1(9)  8_665  .  .  4_554  ?
+  O1  Al1  O2  Na1  102.3(9)  .  .  .  4_554  ?
+  O3  Al1  O2  Na1  -170.2(9)  6_656  .  .  4_554  ?
+  O3  Al1  O2  Na1  16.1(9)  2_544  .  .  4_554  ?
+  Na1  Al1  O2  Na1  -125.8(6)  5  .  .  4_554  ?
+  Na1  Al1  O2  Na1  -115.9(6)  8_665  .  .  4_554  ?
+  Na1  Al1  O2  Na1  28.9(7)  .  .  .  4_554  ?
+  O2  P1  O3  Al1  -90.9(6)  8_666  .  .  4  ?
+  O2  P1  O3  Al1  146.7(5)  .  .  .  4  ?
+  O3  P1  O3  Al1  25.8(4)  8_666  .  .  4  ?
+  Na1  P1  O3  Al1  -46.7(11)  8_666  .  .  4  ?
+  Na1  P1  O3  Al1  158.4(10)  .  .  .  4  ?
+  Na1  P1  O3  Al1  179.8(12)  2_545  .  .  4  ?
+  Na1  P1  O3  Al1  -15.3(18)  6_656  .  .  4  ?
+  Na1  P1  O3  Al1  -151.7(16)  3_655  .  .  4  ?
+  Na1  P1  O3  Al1  28.6(17)  7_656  .  .  4  ?
+  O2  P1  O3  Na1  60.8(14)  8_666  .  .  3_655  ?
+  O2  P1  O3  Na1  -61.6(14)  .  .  .  3_655  ?
+  O3  P1  O3  Na1  177.6(14)  8_666  .  .  3_655  ?
+  Na1  P1  O3  Na1  105.0(9)  8_666  .  .  3_655  ?
+  Na1  P1  O3  Na1  -49.9(7)  .  .  .  3_655  ?
+  Na1  P1  O3  Na1  -28.5(6)  2_545  .  .  3_655  ?
+  Na1  P1  O3  Na1  136.4(4)  6_656  .  .  3_655  ?
+  Na1  P1  O3  Na1  -179.72(17)  7_656  .  .  3_655  ?
+  O2  P1  O3  Na1  89.3(10)  8_666  .  .  2_545  ?
+  O2  P1  O3  Na1  -33.2(10)  .  .  .  2_545  ?
+  O3  P1  O3  Na1  -154.0(10)  8_666  .  .  2_545  ?
+  Na1  P1  O3  Na1  133.5(5)  8_666  .  .  2_545  ?
+  Na1  P1  O3  Na1  -21.4(3)  .  .  .  2_545  ?
+  Na1  P1  O3  Na1  164.8(8)  6_656  .  .  2_545  ?
+  Na1  P1  O3  Na1  28.5(6)  3_655  .  .  2_545  ?
+  Na1  P1  O3  Na1  -151.2(7)  7_656  .  .  2_545  ?
+  O2  P1  O3  Na1  110.7(9)  8_666  .  .  .  ?
+  O2  P1  O3  Na1  -11.8(9)  .  .  .  .  ?
+  O3  P1  O3  Na1  -132.6(9)  8_666  .  .  .  ?
+  Na1  P1  O3  Na1  154.9(6)  8_666  .  .  .  ?
+  Na1  P1  O3  Na1  21.4(3)  2_545  .  .  .  ?
+  Na1  P1  O3  Na1  -173.8(9)  6_656  .  .  .  ?
+  Na1  P1  O3  Na1  49.9(7)  3_655  .  .  .  ?
+  Na1  P1  O3  Na1  -129.9(9)  7_656  .  .  .  ?
+  O2  P1  O3  Na1  30.6(8)  8_666  .  .  4  ?
+  O2  P1  O3  Na1  -91.8(8)  .  .  .  4  ?
+  O3  P1  O3  Na1  147.4(8)  8_666  .  .  4  ?
+  Na1  P1  O3  Na1  74.8(8)  8_666  .  .  4  ?
+  Na1  P1  O3  Na1  -80.1(4)  .  .  .  4  ?
+  Na1  P1  O3  Na1  -58.7(5)  2_545  .  .  4  ?
+  Na1  P1  O3  Na1  106.2(12)  6_656  .  .  4  ?
+  Na1  P1  O3  Na1  -30.2(9)  3_655  .  .  4  ?
+  Na1  P1  O3  Na1  150.1(10)  7_656  .  .  4  ?

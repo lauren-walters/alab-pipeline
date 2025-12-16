@@ -1,0 +1,239 @@
+# generated using pymatgen
+data_4337659
+loop_
+ _publ_author_name
+  'Wang, Guangmei'
+  'Valldor, Martin'
+  'Spielberg, Eike T.'
+  'Mudring, Anja-Verena'
+_publ_section_title
+;
+Ionothermal Synthesis, Crystal Structure, and Magnetic Study of
+Co2PO4OH  Isostructural with Caminite.
+;
+_journal_issue   6
+_journal_name_full   'Inorganic chemistry'
+_journal_page_first   3072
+_journal_page_last   3077
+_journal_paper_doi   10.1021/ic4029904
+_journal_volume   53
+_journal_year   2014
+_chemical_formula_sum   'Co8 H4 O20 P4'
+_chemical_formula_weight   919.35
+_chemical_name_systematic   ?
+_space_group_IT_number   141
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   '-I 4bd 2'
+_symmetry_space_group_name_H-M   'I 41/a m d :2'
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   1
+_cell_length_a   5.2713(7)
+_cell_length_b   5.2713(7)
+_cell_length_c   12.907(3)
+_cell_measurement_temperature   293(2)
+_cell_volume   358.64(11)
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution   'SHELXS-97 (Sheldrick, 1990)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   1.000
+_diffrn_measured_fraction_theta_max   1.000
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0647
+_diffrn_reflns_av_sigmaI/netI   0.0290
+_diffrn_reflns_limit_h_max   7
+_diffrn_reflns_limit_h_min   -6
+_diffrn_reflns_limit_k_max   6
+_diffrn_reflns_limit_k_min   -6
+_diffrn_reflns_limit_l_max   16
+_diffrn_reflns_limit_l_min   -16
+_diffrn_reflns_number   1535
+_diffrn_reflns_theta_full   27.43
+_diffrn_reflns_theta_max   27.43
+_diffrn_reflns_theta_min   4.18
+_exptl_absorpt_coefficient_mu   9.584
+_exptl_crystal_density_diffrn   4.257
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_F_000   440
+_refine_diff_density_max   2.700
+_refine_diff_density_min   -1.344
+_refine_diff_density_rms   0.538
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.184
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   15
+_refine_ls_number_reflns   130
+_refine_ls_number_restraints   6
+_refine_ls_restrained_S_all   1.163
+_refine_ls_R_factor_all   0.0893
+_refine_ls_R_factor_gt   0.0867
+_refine_ls_shift/su_max   0.001
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.1990P)^2^+2.3368P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.2494
+_refine_ls_wR_factor_ref   0.2540
+_reflns_number_gt   120
+_reflns_number_total   130
+_reflns_threshold_expression   >2sigma(I)
+_cod_data_source_file   ic4029904_si_001.cif
+_cod_data_source_block   1
+_cod_original_sg_symbol_H-M   I41/AMD
+_cod_database_code   4337659
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-y+1/4, x+3/4, z+1/4'
+  '-x+1/2, -y, z+1/2'
+  'y+1/4, -x+1/4, z+3/4'
+  'x, -y, -z'
+  'y+1/4, x+3/4, -z+1/4'
+  '-x+1/2, y, -z+1/2'
+  '-y+1/4, -x+1/4, -z+3/4'
+  'x+1/2, y+1/2, z+1/2'
+  '-y+3/4, x+5/4, z+3/4'
+  '-x+1, -y+1/2, z+1'
+  'y+3/4, -x+3/4, z+5/4'
+  'x+1/2, -y+1/2, -z+1/2'
+  'y+3/4, x+5/4, -z+3/4'
+  '-x+1, y+1/2, -z+1'
+  '-y+3/4, -x+3/4, -z+5/4'
+  '-x, -y, -z'
+  'y-1/4, -x-3/4, -z-1/4'
+  'x-1/2, y, -z-1/2'
+  '-y-1/4, x-1/4, -z-3/4'
+  '-x, y, z'
+  '-y-1/4, -x-3/4, z-1/4'
+  'x-1/2, -y, z-1/2'
+  'y-1/4, x-1/4, z-3/4'
+  '-x+1/2, -y+1/2, -z+1/2'
+  'y+1/4, -x-1/4, -z+1/4'
+  'x, y+1/2, -z'
+  '-y+1/4, x+1/4, -z-1/4'
+  '-x+1/2, y+1/2, z+1/2'
+  '-y+1/4, -x-1/4, z+1/4'
+  'x, -y+1/2, z'
+  'y+1/4, x+1/4, z-1/4'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+  Co1  Co  -0.7500  -0.2500  0.2500  0.0318(14)  Uani  1  4  d  S
+  P1  P  -0.5000  -0.7500  0.1250  0.0090(15)  Uani  1  8  d  S
+  O1  O  -0.5000  -0.5172(16)  0.1931(8)  0.016(2)  Uani  1  2  d
+  SU
+  O1H  O  -1.0000  -0.2500  0.1250  0.010(3)  Uani  1  8  d  S
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Co1  0.054(2)  0.0236(18)  0.0181(19)  0.000  -0.0004(13)  0.000
+  P1  0.0105(19)  0.0105(19)  0.006(3)  0.000  0.000  0.000
+  O1  0.024(4)  0.012(4)  0.013(4)  -0.011(3)  0.000  0.000
+  O1H  0.013(5)  0.013(5)  0.003(6)  0.000  0.000  0.000
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Co  Co  0.3494  0.9721
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  H  H  0.0000  0.0000
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+  O1  Co1  O1  180.0(5)  19_556  11_344
+  O1  Co1  O1  93.9(4)  19_556  .
+  O1  Co1  O1  86.1(4)  11_344  .
+  O1  Co1  O1  86.1(4)  19_556  25_345
+  O1  Co1  O1  93.9(4)  11_344  25_345
+  O1  Co1  O1  180.0(5)  .  25_345
+  O1  Co1  O1H  97.4(2)  19_556  25_345
+  O1  Co1  O1H  82.6(2)  11_344  25_345
+  O1  Co1  O1H  82.6(2)  .  25_345
+  O1  Co1  O1H  97.4(2)  25_345  25_345
+  O1  Co1  O1H  82.6(2)  19_556  .
+  O1  Co1  O1H  97.4(2)  11_344  .
+  O1  Co1  O1H  97.4(2)  .  .
+  O1  Co1  O1H  82.6(2)  25_345  .
+  O1H  Co1  O1H  180.0  25_345  .
+  O1  Co1  Co1  129.69(14)  19_556  11_344
+  O1  Co1  Co1  50.31(14)  11_344  11_344
+  O1  Co1  Co1  50.31(15)  .  11_344
+  O1  Co1  Co1  129.69(15)  25_345  11_344
+  O1H  Co1  Co1  50.758(7)  25_345  11_344
+  O1H  Co1  Co1  129.242(8)  .  11_344
+  O1  Co1  Co1  50.31(14)  19_556  11_244
+  O1  Co1  Co1  129.69(14)  11_344  11_244
+  O1  Co1  Co1  129.69(15)  .  11_244
+  O1  Co1  Co1  50.31(15)  25_345  11_244
+  O1H  Co1  Co1  129.242(7)  25_345  11_244
+  O1H  Co1  Co1  50.758(8)  .  11_244
+  Co1  Co1  Co1  180.0  11_344  11_244
+  O1  P1  O1  109.8(4)  .  20_456
+  O1  P1  O1  108.7(8)  .  11_334
+  O1  P1  O1  109.8(4)  20_456  11_334
+  O1  P1  O1  109.8(4)  .  26_545
+  O1  P1  O1  108.7(8)  20_456  26_545
+  O1  P1  O1  109.8(4)  11_334  26_545
+  P1  O1  Co1  139.63(19)  .  11_344
+  P1  O1  Co1  139.63(19)  .  .
+  Co1  O1  Co1  79.4(3)  11_344  .
+  Co1  O1H  Co1  126.857(9)  10_344  .
+  Co1  O1H  Co1  78.485(15)  10_344  4_444
+  Co1  O1H  Co1  126.857(9)  .  4_444
+  Co1  O1H  Co1  126.857(9)  10_344  11_244
+  Co1  O1H  Co1  78.485(15)  .  11_244
+  Co1  O1H  Co1  126.857(9)  4_444  11_244
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  Co1  O1  2.064(6)  19_556
+  Co1  O1  2.064(6)  11_344
+  Co1  O1  2.064(6)  .
+  Co1  O1  2.064(6)  25_345
+  Co1  O1H  2.0832(3)  25_345
+  Co1  O1H  2.0832(3)  .
+  Co1  Co1  2.6356(4)  11_344
+  Co1  Co1  2.6356(4)  11_244
+  P1  O1  1.510(8)  .
+  P1  O1  1.510(8)  20_456
+  P1  O1  1.510(8)  11_334
+  P1  O1  1.510(8)  26_545
+  O1  Co1  2.064(6)  11_344
+  O1H  Co1  2.0832(3)  10_344
+  O1H  Co1  2.0832(3)  4_444
+  O1H  Co1  2.0832(3)  11_244

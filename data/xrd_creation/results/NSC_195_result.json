@@ -1,0 +1,17 @@
+{
+  "experiment_id": "664d998f98c3293cdbc71250",
+  "experiment_name": "NSC_195",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-O-Si-Sn-Zr",
+  "target_formula": "Na4.4Zr1.0Sn1.0(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:17:42.942499",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

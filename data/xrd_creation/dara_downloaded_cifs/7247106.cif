@@ -1,0 +1,313 @@
+# generated using pymatgen
+data_7247106
+loop_
+ _publ_author_name
+  'Hao, Yucheng'
+  'Zhang, Yang'
+  'Zhang, Yuying'
+  'Fu, Zixiang'
+  'Heng, Chunyang'
+  'Li, Junjie'
+  'You, Jiatian'
+  'Hu, Kunhong'
+  'Lin, Yuan'
+  'Li, Haijian'
+_publ_section_title
+;
+A series of novel phosphites/phosphates with deep-ultraviolet cut-off
+edges from 0D polar to 3D non-polar architectures
+;
+_journal_issue   34
+_journal_name_full   CrystEngComm
+_journal_page_first   4864
+_journal_page_last   4872
+_journal_paper_doi   10.1039/D3CE00464C
+_journal_volume   25
+_journal_year   2023
+_chemical_formula_moiety   'Al1 O6 P2, 1(O)'
+_chemical_formula_sum   'Al O7 P2'
+_chemical_formula_weight   200.92
+_space_group_crystal_system   hexagonal
+_space_group_IT_number   186
+_space_group_name_Hall   'P 6c -2c'
+_space_group_name_H-M_alt   'P 63 m c'
+_audit_creation_date   2023-07-13
+_audit_creation_method
+;
+Olex2 1.5 (compiled 2021.11.18 svn.ra9532c28 for OlexSys, GUI
+svn.r6429)
+;
+_audit_update_record
+;
+2023-07-13 deposited with the CCDC.     2023-07-17 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   2
+_cell_length_a   5.1806(2)
+_cell_length_b   5.1806(2)
+_cell_length_c   12.8377(10)
+_cell_measurement_reflns_used   877
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   28.253
+_cell_measurement_theta_min   4.526
+_cell_volume   298.39(3)
+_computing_molecular_graphics   'Olex2 1.5 (Dolomanov et al., 2009)'
+_computing_publication_material
+'Olex2 1.5 (Dolomanov et al., 2009)'
+_computing_structure_refinement   'SHELXL 2018/3 (Sheldrick, 2015)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   0.985
+_diffrn_measured_fraction_theta_max   0.890
+_diffrn_measurement_device_type
+'ROD, Synergy Custom DW system, HyPix'
+_diffrn_measurement_method   '\f and \w scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0309
+_diffrn_reflns_av_unetI/netI   0.0268
+_diffrn_reflns_Laue_measured_fraction_full   0.985
+_diffrn_reflns_Laue_measured_fraction_max   0.890
+_diffrn_reflns_limit_h_max   7
+_diffrn_reflns_limit_h_min   -5
+_diffrn_reflns_limit_k_max   5
+_diffrn_reflns_limit_k_min   -6
+_diffrn_reflns_limit_l_max   13
+_diffrn_reflns_limit_l_min   -15
+_diffrn_reflns_number   1313
+_diffrn_reflns_point_group_measured_fraction_full   0.901
+_diffrn_reflns_point_group_measured_fraction_max   0.782
+_diffrn_reflns_theta_full   25.242
+_diffrn_reflns_theta_max   28.803
+_diffrn_reflns_theta_min   4.543
+_diffrn_standards_number   0
+_exptl_absorpt_coefficient_mu   0.856
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour   colorless
+_exptl_crystal_density_diffrn   2.236
+_exptl_crystal_description   needle
+_exptl_crystal_F_000   198
+_exptl_crystal_size_max   0.1
+_exptl_crystal_size_mid   0.04
+_exptl_crystal_size_min   0.04
+_refine_diff_density_max   0.628
+_refine_diff_density_min   -0.551
+_refine_diff_density_rms   0.119
+_refine_ls_abs_structure_details
+;
+Flack x determined using 98 quotients [(I+)-(I-)]/[(I+)+(I-)]
+(Parsons, Flack and Wagner, Acta Cryst. B69 (2013) 249-259).
+;
+_refine_ls_abs_structure_Flack   0.13(11)
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.234
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   25
+_refine_ls_number_reflns   272
+_refine_ls_number_restraints   1
+_refine_ls_restrained_S_all   1.231
+_refine_ls_R_factor_all   0.0377
+_refine_ls_R_factor_gt   0.0356
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'w=1/[\s^2^(Fo^2^)+(0.0508P)^2^+0.4445P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.0963
+_refine_ls_wR_factor_ref   0.0983
+_reflns_Friedel_coverage   0.679
+_reflns_Friedel_fraction_full   0.808
+_reflns_Friedel_fraction_max   0.663
+_reflns_number_gt   250
+_reflns_number_total   272
+_reflns_threshold_expression   'I > 2\s(I)'
+_cod_data_source_file   d3ce00464c2.cif
+_cod_data_source_block   a
+_cod_depositor_comments
+'Adding full bibliography for 7247106--7247109.cif.'
+_cod_database_code   7247106
+_shelx_shelxl_version_number   2018/3
+_shelx_space_group_comment
+;
+The symmetry employed for this shelxl refinement is uniquely defined
+by the following loop, which should always be used as a source of
+symmetry information in preference to the above space-group names.
+They are only intended as comments.
+;
+_olex2_refinement_description   ""
+_shelx_res_file
+;
+TITL a in P6(3)mc     a.res     created by SHELXL-2018/3 at 11:59:19
+on 13-Jul-2023 CELL 0.71073 5.1806 5.1806 12.8377 90 90 120 ZERR 2
+0.0002 0.0002 0.001 0 0 0 LATT -1 SYMM -Y,+X-Y,+Z SYMM +Y-X,-X,+Z SYMM
+-X,-Y,0.5+Z SYMM +Y,-X+Y,0.5+Z SYMM -Y+X,+X,0.5+Z SYMM -Y,-X,+Z SYMM
++Y-X,+Y,+Z SYMM +X,+X-Y,+Z SYMM +Y,+X,0.5+Z SYMM -Y+X,-Y,0.5+Z SYMM
+-X,-X+Y,0.5+Z SFAC Al O P UNIT 2 14 4 L.S. 4 PLAN  4 CONF fmap 2 acta
+MORE -1 REM <olex2.extras> REM <HklSrc "%.\\a.hkl"> REM
+</olex2.extras> WGHT    0.050800    0.444500 FVAR       0.91281 AL1
+1    0.666667    0.333333    0.486776    10.16667    0.00476
+0.00476 =          0.01122    0.00000    0.00000    0.00238 OW    2
+0.333333    0.666667    0.688936    10.16667    0.02407    0.02407 =
+0.03018    0.00000    0.00000    0.01204 P1    3    0.333333
+0.666667    0.368034    10.16667    0.00644    0.00644 =
+0.00976    0.00000    0.00000    0.00322 P2    3    1.000000
+1.000000    0.536209    10.16667    0.00606    0.00606 =
+0.01451    0.00000    0.00000    0.00303 O1    2    0.837752
+0.675505    0.574070    10.50000    0.01205    0.00430 =
+0.01303   -0.00143   -0.00072    0.00215 O2    2    0.495788
+0.504212    0.399852    10.50000    0.01010    0.01010 =
+0.01688    0.00105   -0.00105    0.00681 HKLF 4 REM  a in P6(3)mc REM
+wR2 = 0.0983, GooF = S = 1.234, Restrained GooF = 1.231 for all data
+REM R1 = 0.0356 for 250 Fo > 4sig(Fo) and 0.0377 for all 272 data REM
+25 parameters refined using 0 restraints END WGHT      0.0508
+0.4444 REM Highest difference peak  0.628,  deepest hole -0.551,
+1-sigma level  0.119 Q1    1   0.3333  0.6667  0.2712  10.16667  0.05
+0.63 Q2    1   1.0000  1.0000  0.4429  10.16667  0.05    0.53 Q3    1
+0.4326  0.8651  0.6486  10.50000  0.05    0.42 Q4    1   0.4224
+0.5776  0.4887  10.50000  0.05    0.33
+;
+_shelx_res_checksum   32294
+_olex2_submission_special_instructions
+'No special instructions were received'
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-y, x-y, z'
+  '-x+y, -x, z'
+  '-x, -y, z+1/2'
+  'y, -x+y, z+1/2'
+  'x-y, x, z+1/2'
+  '-y, -x, z'
+  '-x+y, y, z'
+  'x, x-y, z'
+  'y, x, z+1/2'
+  'x-y, -y, z+1/2'
+  '-x, -x+y, z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_site_symmetry_order
+ _atom_site_calc_flag
+ _atom_site_refinement_flags_posn
+ _atom_site_refinement_flags_adp
+ _atom_site_refinement_flags_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Al1  Al  0.666667  0.333333  0.4868(3)  0.0069(9)  Uani  1  6  d
+  S  T  P  .  .
+  OW  O  0.333333  0.666667  0.6889(11)  0.026(2)  Uani  1  6  d  S
+  T  P  .  .
+  P1  P  0.333333  0.666667  0.3680(2)  0.0075(7)  Uani  1  6  d  S
+  T  P  .  .
+  P2  P  1.000000  1.000000  0.5362(2)  0.0089(7)  Uani  1  6  d  S
+  T  P  .  .
+  O1  O  0.8378(5)  0.6755(10)  0.5741(4)  0.0107(11)  Uani  1  2  d
+  S  T  P  .  .
+  O2  O  0.4958(6)  0.5042(6)  0.3999(4)  0.0116(11)  Uani  1  2  d
+  S  T  P  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Al1  0.0048(10)  0.0048(10)  0.011(2)  0.000  0.000  0.0024(5)
+  OW  0.024(3)  0.024(3)  0.030(6)  0.000  0.000  0.0120(15)
+  P1  0.0064(10)  0.0064(10)  0.0098(16)  0.000  0.000  0.0032(5)
+  P2  0.0061(9)  0.0061(9)  0.0145(18)  0.000  0.000  0.0030(4)
+  O1  0.0121(18)  0.004(2)  0.013(3)  -0.001(2)  -0.0007(11)
+  0.0021(11)
+  O2  0.0101(15)  0.0101(15)  0.017(3)  0.0011(12)  -0.0011(12)
+  0.0068(17)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Al  Al  0.0645  0.0514
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  Al1  O1  88.8(2)  2_655  .  ?
+  O1  Al1  O1  88.8(2)  3_665  2_655  ?
+  O1  Al1  O1  88.8(2)  3_665  .  ?
+  O2  Al1  O1  91.17(15)  2_655  2_655  ?
+  O2  Al1  O1  179.9(3)  2_655  .  ?
+  O2  Al1  O1  91.17(15)  3_665  3_665  ?
+  O2  Al1  O1  91.17(15)  .  .  ?
+  O2  Al1  O1  179.9(3)  .  3_665  ?
+  O2  Al1  O1  91.17(15)  2_655  3_665  ?
+  O2  Al1  O1  179.9(3)  3_665  2_655  ?
+  O2  Al1  O1  91.17(15)  .  2_655  ?
+  O2  Al1  O1  91.17(15)  3_665  .  ?
+  O2  Al1  O2  88.9(3)  3_665  .  ?
+  O2  Al1  O2  88.9(3)  2_655  3_665  ?
+  O2  Al1  O2  88.9(3)  2_655  .  ?
+  O2  P1  O2  113.0(2)  2_665  3_565  ?
+  O2  P1  O2  113.0(2)  2_665  .  ?
+  O2  P1  O2  113.0(2)  3_565  .  ?
+  O1  P2  O1  110.5(2)  3_675  2_765  ?
+  O1  P2  O1  110.5(2)  3_675  .  ?
+  O1  P2  O1  110.5(2)  2_765  .  ?
+  P2  O1  Al1  125.4(4)  .  .  ?
+  P1  O2  Al1  159.6(4)  .  .  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Al1  O1  1.901(5)  3_665  ?
+  Al1  O1  1.901(5)  2_655  ?
+  Al1  O1  1.901(5)  .  ?
+  Al1  O2  1.896(6)  2_655  ?
+  Al1  O2  1.896(6)  .  ?
+  Al1  O2  1.896(6)  3_665  ?
+  P1  O2  1.514(5)  .  ?
+  P1  O2  1.514(6)  2_665  ?
+  P1  O2  1.514(6)  3_565  ?
+  P2  O1  1.535(5)  3_675  ?
+  P2  O1  1.535(5)  .  ?
+  P2  O1  1.535(5)  2_765  ?
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O1  Al1  O2  P1  -44.40(12)  .  .  .  .  ?
+  O1  Al1  O2  P1  44.40(12)  2_655  .  .  .  ?
+  O1  P2  O1  Al1  -118.7(3)  2_765  .  .  .  ?
+  O1  P2  O1  Al1  118.7(3)  3_675  .  .  .  ?
+  O2  Al1  O2  P1  135.55(13)  2_655  .  .  .  ?
+  O2  Al1  O2  P1  -135.54(12)  3_665  .  .  .  ?
+  O2  P1  O2  Al1  65.0(3)  2_665  .  .  .  ?
+  O2  P1  O2  Al1  -65.0(3)  3_565  .  .  .  ?

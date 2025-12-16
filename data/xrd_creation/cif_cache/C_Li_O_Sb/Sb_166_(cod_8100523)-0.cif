@@ -1,0 +1,100 @@
+# generated using pymatgen
+data_8100523
+loop_
+ _publ_author_name
+  'Akselrud, L. G.'
+  'Hanfland, M.'
+  'Schwarz, U.'
+_publ_section_title
+'Refinement of the crystal structure of Sb-I, at 2.22 Gpa'
+_journal_issue   4
+_journal_name_full
+'Zeitschrift f\"ur Kristallographie - New Crystal Structures'
+_journal_page_first   414
+_journal_page_last   414
+_journal_volume   218
+_journal_year   2003
+_chemical_formula_sum   Sb
+_chemical_formula_weight   730.5
+_chemical_name_common   Sb(1)
+_space_group_IT_number   166
+_symmetry_cell_setting   trigonal
+_symmetry_space_group_name_Hall   '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   6
+_cell_length_a   4.2687(2)
+_cell_length_b   4.2687(2)
+_cell_length_c   10.9244(6)
+_cell_volume   172.39(2)
+_diffrn_ambient_pressure   2.22e+06
+_diffrn_ambient_temperature   295
+_exptl_crystal_density_diffrn   7.0359(1)
+_pd_proc_ls_prof_R_factor   0.0662
+_cod_original_sg_symbol_H-M   'R -3 m'
+_cod_database_code   8100523
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  -y,-x,z
+  -x+y,y,z
+  x,x-y,z
+  -x,-y,-z
+  y,-x+y,-z
+  x-y,x,-z
+  y,x,-z
+  x-y,-y,-z
+  -x,-x+y,-z
+  1/3+x,2/3+y,2/3+z
+  1/3-y,2/3+x-y,2/3+z
+  1/3-x+y,2/3-x,2/3+z
+  1/3-y,2/3-x,2/3+z
+  1/3-x+y,2/3+y,2/3+z
+  1/3+x,2/3+x-y,2/3+z
+  1/3-x,2/3-y,2/3-z
+  1/3+y,2/3-x+y,2/3-z
+  1/3+x-y,2/3+x,2/3-z
+  1/3+y,2/3+x,2/3-z
+  1/3+x-y,2/3-y,2/3-z
+  1/3-x,2/3-x+y,2/3-z
+  2/3+x,1/3+y,1/3+z
+  2/3-y,1/3+x-y,1/3+z
+  2/3-x+y,1/3-x,1/3+z
+  2/3-y,1/3-x,1/3+z
+  2/3-x+y,1/3+y,1/3+z
+  2/3+x,1/3+x-y,1/3+z
+  2/3-x,1/3-y,1/3-z
+  2/3+y,1/3-x+y,1/3-z
+  2/3+x-y,1/3+x,1/3-z
+  2/3+y,1/3+x,1/3-z
+  2/3+x-y,1/3-y,1/3-z
+  2/3-x,1/3-x+y,1/3-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Sb  0.0380(5)  0.0380(5)  0.0456(9)  0.0190(3)  -0  -0
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+ _atom_site_type_symbol
+ _atom_site_occupancy
+  Sb  0  0  0.23616(1)  Uani  0.0405(5)  6  Sb  1.
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0011099

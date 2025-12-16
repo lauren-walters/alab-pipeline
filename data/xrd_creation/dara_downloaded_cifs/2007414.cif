@@ -1,0 +1,171 @@
+# generated using pymatgen
+data_2007414
+loop_
+ _publ_author_name
+  'Downs, R. T.'
+  'Somayazulu, M. S.'
+_publ_section_title   'Carbon dioxide at 1.0 GPa'
+_journal_coden_ASTM   ACSCEE
+_journal_issue   7
+_journal_name_full
+'Acta Crystallographica, Section C: Crystal Structure Communications'
+_journal_page_first   897
+_journal_page_last   898
+_journal_paper_doi   10.1107/S0108270198001140
+_journal_volume   54
+_journal_year   1998
+_chemical_compound_source   synthetic
+_chemical_formula_analytical   'C O2'
+_chemical_formula_moiety   'C O2'
+_chemical_formula_structural   'C O2'
+_chemical_formula_sum   'C O2'
+_chemical_formula_weight   44.01
+_chemical_name_systematic   'carbon dioxide'
+_space_group_crystal_system   cubic
+_space_group_IT_number   205
+_space_group_name_Hall   '-P 2ac 2ab 3'
+_space_group_name_H-M_alt   'P a -3'
+_symmetry_space_group_name_H-M   'P a 3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.4942(2)
+_cell_length_b   5.4942(2)
+_cell_length_c   5.4942(2)
+_cell_measurement_reflns_used   18
+_cell_measurement_temperature   293
+_cell_measurement_theta_max   14.0
+_cell_measurement_theta_min   6.4
+_cell_volume   165.85(2)
+_database_code_amcsd   0010314
+_diffrn_ambient_pressure   1000000(5000)
+_diffrn_ambient_temperature   293
+_diffrn_measurement_device   'four-circle diffractometer'
+_diffrn_measurement_method   'profile data from \q/2\q scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'sealed X-ray tube'
+_diffrn_radiation_type   'Mo K\a'
+_diffrn_radiation_wavelength   0.7107
+_diffrn_reflns_av_R_equivalents   0.034
+_diffrn_reflns_limit_h_max   6
+_diffrn_reflns_limit_h_min   -6
+_diffrn_reflns_limit_k_max   7
+_diffrn_reflns_limit_k_min   -7
+_diffrn_reflns_limit_l_max   5
+_diffrn_reflns_limit_l_min   -5
+_diffrn_reflns_number   596
+_diffrn_reflns_theta_max   30
+_diffrn_reflns_theta_min   0
+_diffrn_standards_decay_%   9
+_diffrn_standards_interval_time   180
+_diffrn_standards_number   2
+_exptl_absorpt_coefficient_mu   .172
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   1.762
+_exptl_crystal_description   disc
+_exptl_crystal_F_000   88.
+_exptl_crystal_size_rad   .25
+_refine_diff_density_max   0.063
+_refine_diff_density_min   -0.082
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_obs   1.28
+_refine_ls_hydrogen_treatment   none
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   14
+_refine_ls_number_parameters   6
+_refine_ls_number_reflns   43
+_refine_ls_R_factor_all   .078
+_refine_ls_R_factor_obs   .041
+_refine_ls_shift/esd_max   .01
+_refine_ls_shift/esd_mean   .00
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   'w = 1/[\s^2^(F)+(0.0055F)^2^]'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_all   .019
+_refine_ls_wR_factor_obs   .018
+_reflns_number_observed   43
+_reflns_number_total   78
+_reflns_observed_criterion   I>2\s(I)
+_cod_depositor_comments
+;
+Adding additional information after consulting the original
+publication and the supplementary material. Marking entry as  being
+related to the AMCSD entry 0010314.  Antanas Vaitkus,  2018-08-12
+;
+_cod_database_code   2007414
+_amcsd_formula_title   CO2
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  1/2+z,x,1/2-y
+  3  z,1/2-x,1/2+y
+  4  1/2-z,1/2+x,y
+  5  -z,-x,-y
+  6  1/2+y,1/2-z,-x
+  7  1/2-y,-z,1/2+x
+  8  -y,1/2+z,1/2-x
+  9  y,z,x
+  10  x,1/2-y,1/2+z
+  11  1/2-x,1/2+y,z
+  12  1/2+x,y,1/2-z
+  13  -x,-y,-z
+  14  1/2-z,-x,1/2+y
+  15  -z,1/2+x,1/2-y
+  16  1/2+z,1/2-x,-y
+  17  z,x,y
+  18  1/2-y,1/2+z,x
+  19  1/2+y,z,1/2-x
+  20  y,1/2-z,1/2+x
+  21  -y,-z,-x
+  22  -x,1/2+y,1/2-z
+  23  1/2+x,1/2-y,-z
+  24  1/2-x,-y,1/2+z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  C  0.03705  0.03705  0.03705  0.00658  0.00658  0.00658
+  O  0.05209  0.05209  0.05209  -0.00664  -0.00664  -0.00664
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  C  0  0  0
+  O  .1207(3)  .1207(3)  .1207(3)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  0  .002  .002  Doyle_and_Turner,_Acta_Cryst_A24_(1968)_390
+  O  0  .008  .006  Doyle_and_Turner,_Acta_Cryst_A24_(1968)_390
+loop_
+ _diffrn_standard_refln_index_h
+ _diffrn_standard_refln_index_k
+ _diffrn_standard_refln_index_l
+  1  0  2
+  0  2  0
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  C  O  .  .  1.1486(9)  yes
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  274
+  2  AMCSD  0010314
+  3  PubChem  280

@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_9015632
+loop_
+ _publ_author_name
+  'McFarlan, R.'
+_publ_section_title
+'The Structure of Ice III  _cod_database_code 1011024'
+_journal_name_full   'Journal of Chemical Physics'
+_journal_page_first   253
+_journal_page_last   259
+_journal_paper_doi   10.1063/1.1749832
+_journal_volume   4
+_journal_year   1936
+_chemical_formula_sum   'H7 O4'
+_chemical_name_mineral   'Ice III'
+_space_group_IT_number   72
+_symmetry_space_group_name_Hall   '-I 2 2c'
+_symmetry_space_group_name_H-M   'I b a m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   10.2
+_cell_length_b   5.87
+_cell_length_c   7.17
+_cell_formula_units_Z   4
+_cell_volume   429.297
+_database_code_amcsd   0017931
+_exptl_crystal_density_diffrn   1.099
+_cod_duplicate_entry   1011024
+_cod_original_formula_sum   'O4 H7'
+_cod_database_code   9015632
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,1/2+z
+  x,-y,1/2+z
+  1/2+x,1/2-y,+z
+  -x,y,1/2-z
+  1/2-x,1/2+y,-z
+  -x,y,1/2+z
+  1/2-x,1/2+y,+z
+  x,-y,1/2-z
+  1/2+x,1/2-y,-z
+  x,y,-z
+  1/2+x,1/2+y,1/2-z
+  -x,-y,z
+  1/2-x,1/2-y,1/2+z
+  -x,-y,-z
+  1/2-x,1/2-y,1/2-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  O1  0.12600  0.21800  0.06250
+  H1  0.25000  0.25000  0.00000
+  H2  0.12600  0.00000  0.00000
+  H3  0.00000  0.21800  0.00000
+  H4  0.00000  0.50000  0.25000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0017931

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_1533388
+loop_
+ _publ_author_name
+  'Ahuja, R.'
+_publ_section_title
+;
+Calculated high pressure crystal structure transformations for
+phosphorus
+;
+_journal_name_full
+'Physica Status Solidi, Sectio B: Basic Research'
+_journal_page_first   282
+_journal_page_last   287
+_journal_paper_doi   10.1002/pssb.200301569
+_journal_volume   235
+_journal_year   2003
+_chemical_formula_sum   P
+_space_group_IT_number   74
+_symmetry_space_group_name_Hall   '-I 2b 2'
+_symmetry_space_group_name_H-M   'I m m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.9006
+_cell_length_b   4.4106
+_cell_length_c   2.6463
+_cell_volume   57.199
+_citation_journal_id_ASTM   PSSBBD
+_cod_data_source_file   Ahuja_PSSBBD_2003_668.cif
+_cod_data_source_block   P1
+_cod_original_cell_volume   57.19868
+_cod_original_formula_sum   P1
+_cod_struct_determination_method   theoretical
+_cod_database_code   1533388
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y+1/2,z
+  x,-y,-z
+  -x,y+1/2,-z
+  -x,-y,-z
+  x,y-1/2,-z
+  -x,y,z
+  x,-y-1/2,z
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x+1/2,y+1,-z+1/2
+  -x+1/2,-y+1/2,-z+1/2
+  x+1/2,y,-z+1/2
+  -x+1/2,y+1/2,z+1/2
+  x+1/2,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P  0  0.25  0.2484  1  0.0

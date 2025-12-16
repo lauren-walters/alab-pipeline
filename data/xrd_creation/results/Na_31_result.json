@@ -1,0 +1,17 @@
+{
+  "experiment_id": "64dbb54e67b9ac640d160a29",
+  "experiment_name": "Na_31",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-O-P-Rb",
+  "target_formula": "Na12O40P20Rb8",
+  "analysis_timestamp": "2025-12-06T16:16:01.063123",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

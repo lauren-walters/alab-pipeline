@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_1533322
+loop_
+ _publ_author_name
+  'Zhou Yaming'
+  'Liu Zhichen'
+  'Zhao Dongyuan'
+  'Chen Zhenxia'
+  'Weng Linhong'
+_publ_section_title
+;
+(H3 O)4 Ge7 O16 * 3(H2 O) and K4 Ge9 O20: two microporous germanates
+constructed by Ge10 O28 units
+;
+_journal_name_full   'Hua Hsueh Hsueh Pao'
+_journal_page_first   382
+_journal_page_last   387
+_journal_volume   61
+_journal_year   2003
+_chemical_formula_sum   'Ge7 H18 O23'
+_chemical_name_systematic   '(H3 O)4 (Ge7 O16) (H2 O)3'
+_space_group_IT_number   215
+_symmetry_space_group_name_Hall   'P -4 2 3'
+_symmetry_space_group_name_H-M   'P -4 3 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   1
+_cell_length_a   7.7309
+_cell_length_b   7.7309
+_cell_length_c   7.7309
+_cell_volume   462.051
+_citation_journal_id_ASTM   HHHPA4
+_cod_data_source_file   ZhouYaming_HHHPA4_2003_730.cif
+_cod_data_source_block   H18Ge7O23
+_cod_original_cell_volume   462.0512
+_cod_original_formula_sum   'H18 Ge7 O23'
+_cod_database_code   1533322
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  y,-x,-z
+  -x,-y,z
+  -y,x,-z
+  x,-y,-z
+  -y,-x,z
+  -x,y,-z
+  y,x,z
+  z,x,y
+  x,-z,-y
+  -z,-x,y
+  -x,z,-y
+  z,-x,-y
+  -x,-z,y
+  -z,x,-y
+  x,z,y
+  y,z,x
+  y,-z,-x
+  -z,-y,x
+  -y,z,-x
+  z,y,x
+  -y,-z,x
+  -z,y,-x
+  z,-y,-x
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Ge1  Ge+4  0.1388  0.1388  0.1388  1  0.0
+  O2  O-2  0.3759  0.133  0.133  1  0.0
+  O1  O-2  0.1146  0.1146  0.8854  1  0.0
+  O4  O-2  0.339  0.339  0.661  1  0.0
+  Ge2  Ge+4  0.5  0  0  1  0.0
+  O3  O-2  0.5  0  0.5  1  0.0

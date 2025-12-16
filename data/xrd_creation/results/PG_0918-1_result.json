@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66a3624030f5dbe0921d57ae",
+  "experiment_name": "PG_0918-1",
+  "success": true,
+  "error": null,
+  "rwp": 4.1,
+  "rp": 2.81,
+  "rexp": 2.17,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "In2O3_206_(cod_2310009)-0",
+      "spacegroup": "I2_1/a-3",
+      "weight_fraction": 0.0344,
+      "weight_fraction_error": 0.00014,
+      "lattice_a_nm": 1.012483,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 8.96
+    },
+    {
+      "phase_name": "Co21.92O32_227_(cod_1528446)-None",
+      "spacegroup": "F4_1/d-32/m",
+      "weight_fraction": 0.0235,
+      "weight_fraction_error": 0.00031,
+      "lattice_a_nm": 0.80892,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 5.18
+    }
+  ],
+  "chemical_system": "Co-In-O",
+  "target_formula": "In6Co6O17",
+  "analysis_timestamp": "2025-12-06T15:01:49.362636",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

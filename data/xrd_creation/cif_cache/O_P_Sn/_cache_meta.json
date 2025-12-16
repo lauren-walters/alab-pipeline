@@ -1,0 +1,30 @@
+{
+  "download_attempts": 6,
+  "last_attempt": "2025-12-06T16:39:45.956271",
+  "failures": [
+    {
+      "timestamp": "2025-12-06T16:22:50.169137",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Max retries exceeded with url: /cod/1512527.cif (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.crystallography.net', port=443) at 0x14fb27650>, 'Connection to www.crystallography.net timed out. (connect timeout=30)'))"
+    },
+    {
+      "timestamp": "2025-12-06T16:36:26.842540",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Max retries exceeded with url: /cod/1512527.cif (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.crystallography.net', port=443) at 0x2dd806390>, 'Connection to www.crystallography.net timed out. (connect timeout=30)'))"
+    },
+    {
+      "timestamp": "2025-12-06T16:37:28.409181",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Max retries exceeded with url: /cod/1512527.cif (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.crystallography.net', port=443) at 0x2e9c69190>, 'Connection to www.crystallography.net timed out. (connect timeout=30)'))"
+    },
+    {
+      "timestamp": "2025-12-06T16:38:45.296993",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "timestamp": "2025-12-06T16:39:45.639464",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Max retries exceeded with url: /cod/1512527.cif (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.crystallography.net', port=443) at 0x2e9caae90>, 'Connection to www.crystallography.net timed out. (connect timeout=30)'))"
+    },
+    {
+      "timestamp": "2025-12-06T16:40:48.220341",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Max retries exceeded with url: /cod/1512527.cif (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.crystallography.net', port=443) at 0x2dd85b050>, 'Connection to www.crystallography.net timed out. (connect timeout=30)'))"
+    }
+  ]
+}

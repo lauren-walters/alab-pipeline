@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_2310801
+loop_
+ _publ_author_name
+  'Corbridge, D.E.C.'
+_publ_section_title
+'The crystal structure of sodium triphosphate, Na5 P3 O10, phase I'
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   263
+_journal_page_last   269
+_journal_volume   13
+_journal_year   1960
+_chemical_formula_sum   'Na5 O10 P3'
+_chemical_name_systematic   'Na5 (P3 O10)'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   112
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.61
+_cell_length_b   5.34
+_cell_length_c   19.73
+_cell_volume   938.767
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Corbridge_ACCRA9_1960_1005.cif
+_cod_data_source_block   Na5O10P3
+_cod_original_cell_volume   938.7665
+_cod_database_code   2310801
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.98  0.329  0.42  1  0.0
+  O4  O-2  0.035  0.79  0.405  1  0.0
+  O1  O-2  0.143  0.806  0.267  1  0.0
+  O5  O-2  0.232  0.533  0.438  1  0.0
+  Na2  Na+1  0.357  0.552  0.326  1  0.0
+  Na3  Na+1  0.258  0.965  0.429  1  0.0
+  P2  P+5  0.07  0.523  0.4  1  0.0
+  Na1  Na+1  0  0  0  1  0.0
+  O2  O-2  0.013  0.448  0.312  1  0.0
+  P1  P+5  0  0.655  0.25  1  0.0

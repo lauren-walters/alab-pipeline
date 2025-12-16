@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66567f71c7e9651dd70e0057",
+  "experiment_name": "NSC_207",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Hf-Na-O-P-Si-Zr",
+  "target_formula": "Na3.3Hf1.0Zr1.0(PO4)1.0(SiO4)2.0",
+  "analysis_timestamp": "2025-12-06T13:43:58.775910",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

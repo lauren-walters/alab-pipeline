@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_1534735
+loop_
+ _publ_author_name
+  'Lueer, B.'
+  'Jansen, M.'
+_publ_section_title
+;
+Darstellung und Kristallstrukturen von
+Alkalimetallcyclohexaphosphaten(III) (6P-P)
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first   51
+_journal_page_last   63
+_journal_volume   601
+_journal_year   1991
+_chemical_formula_sum   'H16 K6 O20 P6'
+_chemical_name_systematic   'K6 (P6 O12) (H2 O)8'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   97.04
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   7.04
+_cell_length_b   17.42
+_cell_length_c   10.174
+_cell_volume   1238.300
+_citation_journal_id_ASTM   ZAACAB
+_cod_data_source_file   Lueer_ZAACAB_1991_64.cif
+_cod_data_source_block   H16K6O20P6
+_cod_original_cell_volume   1238.3
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_database_code   1534735
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O10  O-2  -0.2319  1.0681  0.9608  0.667  0.0
+  O11  O-2  -0.4189  1.0236  0.994  0.333  0.0
+  O9  O-2  -0.0901  1.251  0.7981  1  0.0
+  P3  P+3  0.1421  1.10855  0.47776  1  0.0
+  O2  O-2  -0.0436  0.9312  0.8094  1  0.0
+  O1  O-2  0.2478  0.914  0.6803  1  0.0
+  O8  O-2  0.2578  1.1519  1.0292  1  0.0
+  O7  O-2  0.44  1.2263  0.7301  1  0.0
+  K2  K+1  0.3535  0.80834  0.4926  1  0.0
+  K1  K+1  0.5497  1.01157  0.7108  1  0.0
+  P1  P+3  0.0491  0.94505  0.68561  1  0.0
+  O3  O-2  0.2241  1.0955  0.7722  1  0.0
+  K3  K+1  0.3606  0.81944  0.8893  1  0.0
+  O6  O-2  -0.0957  0.8068  0.5396  1  0.0
+  O5  O-2  0.3463  1.083  0.4767  1  0.0
+  P2  P+3  0.0576  1.07208  0.67146  1  0.0
+  O4  O-2  0.1381  0.8964  0.3119  1  0.0

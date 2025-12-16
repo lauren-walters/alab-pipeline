@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_4030923
+loop_
+ _publ_author_name
+  'Weil, M.'
+  'Glaum, R.'
+_publ_section_title
+;
+Crystallization of ultraphosphates via the gas phase. The crystal
+structures of FeP~4~O~11~, ZnP~4~O~11~ and CdP~4~O~11~
+;
+_journal_coden_ASTM   EJSCE5
+_journal_issue   6-7
+_journal_name_full
+'European Journal of Solid State and Inorganic Chemistry'
+_journal_page_first   495
+_journal_page_last   508
+_journal_paper_doi   10.1016/S0992-4361(98)80026-X
+_journal_volume   35
+_journal_year   1998
+_chemical_formula_sum   'O11 P4 Zn'
+_chemical_formula_weight   365.298
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_Int_Tables_number   2
+_symmetry_space_group_name_Hall   '-P 1 (1/2*x+1/2*y,1/2*x-1/2*y,-z)'
+_symmetry_space_group_name_H-M   'C -1'
+_cell_angle_alpha   89.36(2)
+_cell_angle_beta   117.19(2)
+_cell_angle_gamma   90.36(2)
+_cell_formula_units_Z   8
+_cell_length_a   12.882(3)
+_cell_length_b   13.049(3)
+_cell_length_c   10.609(3)
+_cell_volume   1586.2(7)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_exptl_absorpt_coefficient_mu   3.963
+_exptl_crystal_density_diffrn   3.059
+_refine_ls_goodness_of_fit_ref   1.105
+_refine_ls_number_parameters   290
+_refine_ls_number_reflns   3170
+_refine_ls_R_factor_gt   0.043
+_refine_ls_wR_factor_gt   0.107
+_cod_data_source_file   EJSSIC-1998-35-495-508-2.cif
+_cod_data_source_block   ZnP4O11
+_cod_depositor_comments
+;
+No atomic coordinates in the paper Isostructural with FeP4O11 More
+info said to be available from FIZ; reference CSD-408826 at
+crysdata@FIZ-Karlsruhe.de
+;
+_cod_original_cell_volume   1586.0(7)
+_cod_original_sg_symbol_Hall   '-C 1'
+_cod_database_code   4030923
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+  3  1/2+x,1/2+y,z
+  4  1/2-x,1/2-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  Zn  Zn  0  0  0  0
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Fe  Fe  0.3463  0.8444
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'

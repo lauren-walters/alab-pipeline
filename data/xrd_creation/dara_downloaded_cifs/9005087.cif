@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_9005087
+loop_
+ _publ_author_name
+  'Franzini, L.'
+  'Pasero, M.'
+  'Perchiazzi, N.'
+_publ_section_title
+;
+Re-discovery and re-definition of dinite, C20H36,  a forgotten organic
+mineral from Garfagnana, northern Tuscany, Italy  Locality:
+Garfagnana, northern Tuscany, Italy
+;
+_journal_name_full   'European Journal of Mineralogy'
+_journal_page_first   855
+_journal_page_last   861
+_journal_paper_doi   10.1127/ejm/3/5/0855
+_journal_volume   3
+_journal_year   1991
+_chemical_formula_sum   'C20 H36'
+_chemical_name_mineral   Dinite
+_space_group_IT_number   19
+_symmetry_space_group_name_Hall   'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   12.356
+_cell_length_b   12.762
+_cell_length_c   11.427
+_cell_formula_units_Z   4
+_cell_volume   1801.892
+_exptl_crystal_density_diffrn   0.886
+_cod_database_code   9005087
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,1/2+y,1/2-z
+  1/2+x,1/2-y,-z
+  1/2-x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_attached_hydrogens
+  C1  0.08010  0.67920  0.24100  0.05000  0
+  C2  0.16570  0.69880  0.33410  0.06400  2
+  C3  0.34290  0.65720  0.43330  0.05900  2
+  C4  0.44560  0.59170  0.43160  0.05700  2
+  C5  0.61550  0.54620  0.30870  0.05700  0
+  C6  0.65820  0.55090  0.18340  0.09300  2
+  C7  0.58350  0.49980  0.09320  0.10600  2
+  C8  0.47030  0.54980  0.09600  0.08800  2
+  C9  0.23210  0.59290  0.12330  0.06800  2
+  C10  0.13840  0.67330  0.12330  0.06200  2
+  C11  0.26220  0.62380  0.33970  0.05000  1
+  C12  0.49700  0.58860  0.31030  0.05000  1
+  C13  0.41760  0.54670  0.21790  0.05700  0
+  C14  0.31570  0.61770  0.21920  0.04800  1
+  C15  0.00000  0.77240  0.24480  0.08800  2
+  C16  -0.09460  0.76720  0.16100  0.09200  3
+  C17  0.01880  0.57600  0.26610  0.08200  3
+  C18  0.68740  0.61740  0.38310  0.08000  3
+  C19  0.62710  0.43590  0.36400  0.09500  3
+  C20  0.38000  0.42820  0.24310  0.09300  3
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  30654011

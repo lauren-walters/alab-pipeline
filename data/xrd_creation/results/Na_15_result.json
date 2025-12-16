@@ -1,0 +1,17 @@
+{
+  "experiment_id": "64a35afc91bfa984fa66b114",
+  "experiment_name": "Na_15",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "C-Cl-H-In-N-Na-O",
+  "target_formula": "Cl32In4Na20",
+  "analysis_timestamp": "2025-12-06T15:52:35.697509",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_1536190
+loop_
+ _publ_author_name
+  'Nuss, J.'
+  'von Schnering, H.G.'
+  "Grin', Yu."
+_publ_section_title
+;
+Ueber die Antimonidoxide La9 Sb5 O5 und Ce9 Sb5 O5 sowie die binaeren
+Phasen La2 Sb und Ce2 Sb
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first   2287
+_journal_page_last   2291
+_journal_volume   630
+_journal_year   2004
+_chemical_formula_sum   'La9 O5 Sb5'
+_chemical_name_systematic   'La9 Sb5 O5'
+_space_group_IT_number   85
+_symmetry_space_group_name_Hall   '-P 4a'
+_symmetry_space_group_name_H-M   'P 4/n :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   10.415
+_cell_length_b   10.415
+_cell_length_c   9.34
+_cell_volume   1013.131
+_citation_journal_id_ASTM   ZAACAB
+_cod_data_source_file   Nuss_ZAACAB_2004_1576.cif
+_cod_data_source_block   La9O5Sb5
+_cod_database_code   1536190
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/2,x,z
+  -x+1/2,-y+1/2,z
+  y,-x+1/2,z
+  -x,-y,-z
+  y-1/2,-x,-z
+  x-1/2,y-1/2,-z
+  -y,x-1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sb2  Sb-3  0.15242  -0.05245  0.29717  1  0.0
+  O2  O-2  0.5254  0.1299  0.9093  1  0.0
+  O1  O-2  0.25  0.25  0.068  1  0.0
+  La3  La+3  0.478  0.33047  -0.00206  1  0.0
+  La2  La+3  -0.14686  0.04679  0.34636  1  0.0
+  Sb1  Sb-3  0.25  0.25  0.69308  1  0.0
+  La1  La+3  0.25  0.25  0.33415  1  0.0

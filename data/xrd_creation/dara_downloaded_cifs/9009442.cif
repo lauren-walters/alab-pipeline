@@ -1,0 +1,112 @@
+# generated using pymatgen
+data_9009442
+loop_
+ _publ_author_name
+  'Fanfani, L.'
+  'Nunzi, A.'
+  'Zanazzi, P. F.'
+_publ_section_title   'The crystal structure of wardite'
+_journal_name_full   'Mineralogical Magazine'
+_journal_page_first   598
+_journal_page_last   605
+_journal_paper_doi   10.1180/minmag.1970.037.289.10
+_journal_volume   37
+_journal_year   1970
+_chemical_compound_source   'Fairfield, Utah, USA'
+_chemical_formula_sum   'Al3 H8 Na O14 P2'
+_chemical_name_mineral   Wardite
+_space_group_IT_number   92
+_symmetry_space_group_name_Hall   'P 4abw 2nw'
+_symmetry_space_group_name_H-M   'P 41 21 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.03
+_cell_length_b   7.03
+_cell_length_c   19.04
+_cell_volume   940.974
+_database_code_amcsd   0014451
+_exptl_crystal_density_diffrn   2.809
+_cod_original_formula_sum   'P2 Al3 Na O14 H8'
+_cod_database_code   9009442
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  y,x,-z
+  1/2-y,1/2+x,1/4+z
+  1/2-x,1/2+y,1/4-z
+  -x,-y,1/2+z
+  -y,-x,1/2-z
+  1/2+y,1/2-x,3/4+z
+  1/2+x,1/2-y,3/4-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  P  0.01202  0.01027  0.01102  0.00075  -0.00136  0.00068
+  Al(1)  0.01252  0.00876  0.01102  0.00050  0.00203  0.00203
+  Al(2)  0.01828  0.01828  0.00918  -0.00100  -0.00136  0.00136
+  Na  0.03480  0.03480  0.01469  0.00476  0.00475  -0.00475
+  O(1)  0.00851  0.03781  0.02388  0.00325  -0.00271  0.00068
+  O(2)  0.02754  0.03280  0.00184  -0.00225  0.00475  -0.00407
+  O(3)  0.03055  0.02704  0.01837  -0.00626  0.00271  -0.00136
+  O(4)  0.03405  0.01803  0.00735  0.01427  0.00610  0.00407
+  O-H(5)  0.01953  0.02829  0.01469  -0.00050  -0.00136  0.00068
+  Wat(6)  0.03906  0.03655  0.01102  -0.00426  -0.00339  -0.00407
+  O-H(7)  0.02228  0.02479  0.01286  -0.01052  0.00136  -0.00339
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  P  0.14270  0.36590  0.34880  0.01115  P  0
+  Al(1)  0.39840  0.10570  0.25810  0.01077  Al  0
+  Al(2)  0.10290  0.10290  0.00000  0.01520  Al  0
+  Na  0.37330  0.37330  0.50000  0.02812  Na  0
+  O(1)  -0.03170  0.42790  0.30910  0.02343  O  0
+  O(2)  0.29600  0.51120  0.33780  0.02077  O  0
+  O(3)  0.20310  0.17710  0.32160  0.02533  O  0
+  O(4)  0.09940  0.35320  0.42740  0.01976  O  0
+  O-H(5)  0.13260  0.35370  -0.03940  0.02077  O  1
+  Wat(6)  0.18830  0.02940  0.19150  0.02875  O  2
+  O-H(7)  0.40830  0.34890  0.21730  0.02001  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-23T09:17:22+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:21:20+03:00
+;
+Changed the following '_atom_site_aniso_label' values: 'OH(5)' ->
+'O-H(5)' 'OH(7)' -> 'O-H(7)'
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0014451

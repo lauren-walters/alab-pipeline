@@ -1,0 +1,31 @@
+{
+  "experiment_id": "656566dc046219d368bd7526",
+  "experiment_name": "NSC_110",
+  "success": true,
+  "error": null,
+  "rwp": 10.06,
+  "rp": 9.93,
+  "rexp": 2.79,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "Na5.955Ge11.73P18O72_148_(cod_3000289)-None",
+      "spacegroup": "R-3",
+      "weight_fraction": 0.6667,
+      "weight_fraction_error": 0.0032,
+      "lattice_a_nm": 0.810201,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 2.154706,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 13.02
+    }
+  ],
+  "chemical_system": "Ge-Na-O-P",
+  "target_formula": "Na1.1Ge2.0(PO4)3.3",
+  "analysis_timestamp": "2025-12-06T16:52:41.159447",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,88 @@
+# generated using pymatgen
+data_9012523
+loop_
+ _publ_author_name
+  'Harrison, W. T. A.'
+  'Nenoff, T. M.'
+  'Gier, T. E.'
+  'Stucky, G. D.'
+_publ_section_title
+;
+Tetrahedral-atom 3-ring groupings in 1-dimensional inorganic chains:
+Be2AsO4OH*4H2O and Na2ZnPO4OH*7H2O
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   2437
+_journal_page_last   2441
+_journal_paper_doi   10.1021/ic00063a039
+_journal_volume   32
+_journal_year   1993
+_chemical_formula_structural   Na2ZnPO4OH*7H2O
+_chemical_formula_sum   'H15 Na2 O12 P Zn'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   109.899
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.4212
+_cell_length_b   21.612
+_cell_length_c   8.6813
+_cell_volume   1132.817
+_database_code_amcsd   0012709
+_exptl_crystal_density_diffrn   2.049
+_cod_original_formula_sum   'Na2 Zn P O12 H15'
+_cod_database_code   9012523
+_amcsd_formula_title   Na2ZnPO4OH*7H2O
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Na1  0.03390  0.19270  0.26860  0.03240  Na  0
+  Na2  0.02300  0.02890  0.19170  0.03420  Na  0
+  Zn  0.49499  0.74442  0.36474  0.02240  Zn  0
+  P  0.63610  0.85568  0.18920  0.02070  P  0
+  O2  0.48050  0.80050  0.18540  0.02770  O  0
+  O3  0.37850  0.66240  0.28610  0.02870  O  0
+  O4  0.56910  0.91130  0.27050  0.03150  O  0
+  O5  0.61940  0.87030  0.01280  0.02960  O  0
+  O-H1  0.31010  0.76270  0.49750  0.02310  O  1
+  Wat6  0.25380  0.23860  0.11500  0.03120  O  2
+  Wat7  0.94500  0.12440  0.02970  0.03770  O  2
+  Wat8  0.68270  0.13960  0.28820  0.03720  O  2
+  Wat9  0.79090  0.01900  0.35450  0.03500  O  2
+  Watl0  0.27160  0.01020  0.04340  0.03460  O  2
+  Wat11  0.27120  0.10490  0.38440  0.03800  O  2
+  Wat12  0.81850  0.06500  0.66330  0.03400  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-18T11:41:58+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0012709

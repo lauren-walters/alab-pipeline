@@ -1,0 +1,157 @@
+# generated using pymatgen
+data_2200592
+loop_
+ _publ_author_name
+  'Janet M. S. Skakle'
+  'Mhairi Wilson'
+  'J\"org Feldmann'
+_publ_section_title
+;
+Dipotassium carbonate sesquihydrate: rerefinement against new
+intensity data
+;
+_journal_name_full   'Acta Crystallographica, Section E'
+_journal_page_first   i94
+_journal_page_last   i97
+_journal_paper_doi   10.1107/S1600536801016312
+_journal_volume   57
+_journal_year   2001
+_chemical_formula_iupac   'K2 (C O3), 1.5 H2 O'
+_chemical_formula_moiety   'K2, C O3, 1.5(H2 O)'
+_chemical_formula_sum   'C H3 K2 O4.5'
+_chemical_formula_weight   155.23
+_space_group_IT_number   15
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90.00
+_cell_angle_beta   120.7690(10)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   8
+_cell_length_a   11.8175(6)
+_cell_length_b   13.7466(7)
+_cell_length_c   7.1093(4)
+_cell_measurement_temperature   298(2)
+_cell_volume   992.34(9)
+_diffrn_ambient_temperature   298(2)
+_exptl_crystal_density_diffrn   2.212
+_cod_depositor_comments
+;
+2017-04-24 Z value and formula fixed to values more according to usual
+chemical conventions.                 miguel
+;
+_cod_original_formula_sum   'C2 H6 K4 O9'
+_cod_original_formula_weight   330.47
+_cod_original_formula_moiety   'K4, 2(CO3), 3(H2O)'
+_cod_original_formula_units_Z   4
+_cod_original_sg_symbol_H-M   'C 2/c'
+_cod_database_code   2200592
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y, -z+1/2'
+  'x+1/2, y+1/2, z'
+  '-x+1/2, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, -y, z-1/2'
+  '-x+1/2, -y+1/2, -z'
+  'x+1/2, -y+1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+ _atom_site_type_symbol
+  K1  .0000  .38193(3)  .2500  .01984(11)  Uani  d  S  1  .  .  K
+  K2  .0000  .68676(3)  .2500  .02236(11)  Uani  d  S  1  .  .  K
+  K3  .35595(3)  .349981(19)  .45736(4)  .02332(10)  Uani  d  .  1
+  .  .  K
+  C1  .19290(10)  .17350(8)  .15183(18)  .01595(19)  Uani  d  .  1
+  .  .  C
+  O1  .10641(8)  .22728(7)  .15315(13)  .02284(18)  Uani  d  .  1  .
+  .  O
+  O2  .29732(8)  .15119(6)  .33357(15)  .02139(18)  Uani  d  .  1  .
+  .  O
+  O3  .17704(10)  .14186(7)  -.03042(15)  .0275(2)  Uani  d  .  1  .
+  .  O
+  O4  .0000  -.00112(14)  .2500  .0509(5)  Uani  d  S  1  .  .  O
+  H4A  -.057(2)  -.0344(17)  .172(4)  .045(6)  Uiso  d  .  1  .  .
+  H
+  O5  .14810(11)  .45886(7)  .0838(2)  .0297(2)  Uani  d  .  1  .  .
+  O
+  H5A  .174(2)  .5148(18)  .133(3)  .036(5)  Uiso  d  .  1  .  .  H
+  H5B  .189(3)  .445(2)  .046(5)  .054(7)  Uiso  d  .  1  .  .  H
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  K1  .01877(16)  .02370(18)  .01575(16)  .000  .00789(12)  .000
+  K2  .02508(18)  .02663(19)  .01706(17)  .000  .01201(14)  .000
+  K3  .02465(15)  .02638(16)  .01752(15)  .00227(8)  .00978(11)
+  .00148(8)
+  C1  .0165(4)  .0164(4)  .0141(4)  -.0008(3)  .0073(3)  .0002(3)
+  O1  .0219(4)  .0271(4)  .0212(4)  .0073(3)  .0122(3)  .0044(3)
+  O2  .0173(3)  .0237(4)  .0168(4)  .0021(3)  .0041(3)  .0018(3)
+  O3  .0314(4)  .0335(5)  .0177(4)  .0014(4)  .0127(3)  -.0059(3)
+  O4  .0509(10)  .0249(7)  .0442(10)  .000  .0007(8)  .000
+  O5  .0300(5)  .0233(5)  .0412(6)  -.0019(3)  .0221(4)  -.0034(4)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  K1  O2  7_556  2.7302(9)  ?
+  K1  O2  8_455  2.7302(9)  ?
+  K1  O1  2  2.7315(9)  ?
+  K1  O1  .  2.7315(9)  ?
+  K1  O5  .  2.7737(11)  ?
+  K1  O5  2  2.7737(11)  ?
+  K1  O5  6_566  3.0389(12)  ?
+  K1  O5  5_565  3.0389(12)  ?
+  K2  O1  6_566  2.7395(9)  ?
+  K2  O1  5_565  2.7395(9)  ?
+  K2  O2  4  2.7901(9)  ?
+  K2  O2  3_455  2.7901(9)  ?
+  K2  O5  6_566  2.9074(11)  ?
+  K2  O5  5_565  2.9074(11)  ?
+  K2  O3  6_566  3.0037(11)  ?
+  K2  O3  5_565  3.0037(11)  ?
+  K3  O1  8_556  2.7587(9)  ?
+  K3  O1  7_556  2.7808(9)  ?
+  K3  O4  7_556  2.8141(14)  ?
+  K3  O2  .  2.8457(9)  ?
+  K3  O3  7  2.8577(10)  ?
+  K3  O2  7_556  2.8714(10)  ?
+  K3  O5  .  2.9414(12)  ?
+  K3  O1  .  3.1134(9)  ?
+  C1  O1  .  1.2653(13)  ?
+  C1  O3  .  1.2863(14)  ?
+  C1  O2  .  1.2864(13)  ?
+  O1  K2  5_565  2.7395(9)  ?
+  O1  K3  8_455  2.7588(9)  ?
+  O1  K3  7_556  2.7809(9)  ?
+  O2  K1  7_556  2.7301(9)  ?
+  O2  K2  3_545  2.7901(9)  ?
+  O2  K3  7_556  2.8714(10)  ?
+  O3  K3  7  2.8577(10)  ?
+  O3  K2  5_565  3.0037(11)  ?
+  O3  K2  3_545  3.3372(10)  ?
+  O4  K3  7_556  2.8141(14)  ?
+  O4  K3  8_455  2.8141(14)  ?
+  O4  H4A  .  .77(2)  ?
+  O5  K2  5_565  2.9074(11)  ?
+  O5  K1  5_565  3.0389(12)  ?
+  O5  H5A  .  .83(2)  ?
+  O5  H5B  .  .69(3)  ?

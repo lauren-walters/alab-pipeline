@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_9009218
+loop_
+ _publ_author_name
+  'Kuwayama, Y.'
+  'Hirose, K.'
+  'Sata, N.'
+  'Ohishi, Y.'
+_publ_section_title
+;
+The pyrite-type high-pressure form of silica  Sample: P = 271 GPa, T =
+300 K
+;
+_journal_name_full   Science
+_journal_page_first   923
+_journal_page_last   925
+_journal_paper_doi   10.1126/science.1114879
+_journal_volume   309
+_journal_year   2005
+_chemical_formula_structural   SiO2
+_chemical_formula_sum   'O2 Si'
+_space_group_IT_number   205
+_symmetry_space_group_name_Hall   '-P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P a -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   3.9299
+_cell_length_b   3.9299
+_cell_length_c   3.9299
+_cell_formula_units_Z   4
+_cell_volume   60.694
+_database_code_amcsd   0015438
+_diffrn_ambient_pressure   2.71e+08
+_diffrn_ambient_temperature   300
+_exptl_crystal_density_diffrn   6.575
+_cod_original_sg_symbol_H-M   'P a 3'
+_cod_original_formula_sum   'Si O2'
+_cod_database_code   9009218
+_amcsd_formula_title   SiO2
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+z,x,1/2-y
+  z,1/2-x,1/2+y
+  1/2-z,1/2+x,y
+  -z,-x,-y
+  1/2+y,1/2-z,-x
+  1/2-y,-z,1/2+x
+  -y,1/2+z,1/2-x
+  y,z,x
+  x,1/2-y,1/2+z
+  1/2-x,1/2+y,z
+  1/2+x,y,1/2-z
+  -x,-y,-z
+  1/2-z,-x,1/2+y
+  -z,1/2+x,1/2-y
+  1/2+z,1/2-x,-y
+  z,x,y
+  1/2-y,1/2+z,x
+  1/2+y,z,1/2-x
+  y,1/2-z,1/2+x
+  -y,-z,-x
+  -x,1/2+y,1/2-z
+  1/2+x,1/2-y,-z
+  1/2-x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  Si  0.00000  0.00000  0.00000  0.00469
+  O  0.34840  0.34840  0.34840  0.01874
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  21241293
+  2  AMCSD  0015438

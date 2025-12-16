@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_9007516
+loop_
+ _publ_author_name
+  'Baur, W. H.'
+  'Khan, A. A.'
+_publ_section_title
+;
+On the crystal chemistry of salt hydrates. VI. The crystal structures
+of  disodium hydrogen orthoarsenate heptahydrate and of disodium
+hydrogen  orthophosphate heptahydrate
+;
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   1584
+_journal_page_last   1596
+_journal_paper_doi   10.1107/S0567740870004521
+_journal_volume   26
+_journal_year   1970
+_chemical_formula_structural   Na2HPO4*7H2O
+_chemical_formula_sum   'H15 Na2 O11 P'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   95.61
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.258
+_cell_length_b   11.007
+_cell_length_c   10.437
+_cell_volume   1058.466
+_database_code_amcsd   0009379
+_exptl_crystal_density_diffrn   1.682
+_cod_original_formula_sum   'Na2 P O11 H15'
+_cod_database_code   9007516
+_amcsd_formula_title   Na2HPO4*7H2O
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2+y,1/2-z
+  -x,-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Na1  0.03066  0.02523  0.03389  -0.00247  0.01096  -0.00122
+  Na2  0.02821  0.03026  0.02542  0.00000  0.00606  0.00243
+  P  0.01471  0.01762  0.01448  0.00123  0.00000  0.00243
+  O1  0.01596  0.03529  0.02416  -0.00370  0.00485  -0.00122
+  O2  0.03066  0.03278  0.01815  0.00493  0.00364  0.00243
+  O3  0.02331  0.03910  0.02782  -0.00493  -0.00242  0.00122
+  O-H4  0.03436  0.03155  0.02782  -0.00745  0.01096  -0.00863
+  Wat5  0.02576  0.03278  0.02902  0.00123  0.00242  0.00000
+  Wat6  0.02946  0.04290  0.02782  -0.00123  0.00485  0.00243
+  Wat7  0.03312  0.03529  0.02175  0.00370  0.00000  0.00492
+  Wat8  0.03191  0.04922  0.03263  -0.00247  0.00242  -0.00122
+  Wat9  0.02576  0.03278  0.02416  0.00370  0.00000  -0.00243
+  Wat10  0.04051  0.03155  0.02782  -0.00123  -0.00364  0.00492
+  Wat11  0.03681  0.03406  0.02662  0.00622  0.00727  -0.00122
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Na1  0.14040  0.10430  0.47560  Na  0
+  Na2  0.63380  0.10530  0.97710  Na  0
+  P  0.10240  0.26330  0.89550  P  0
+  O1  0.25640  0.25220  0.85400  O  0
+  O2  0.09970  0.24920  0.04030  O  0
+  O3  0.98990  0.18320  0.81900  O  0
+  O-H4  0.56130  0.09680  0.36120  O  1
+  Wat5  0.47590  0.25420  0.05720  O  2
+  Wat6  0.80410  0.25070  0.09510  O  2
+  Wat7  0.19440  0.25030  0.30980  O  2
+  Wat8  0.92120  0.02320  0.35180  O  2
+  Wat9  0.30630  0.98720  0.36800  O  2
+  Wat10  0.40820  0.03470  0.86180  O  2
+  Wat11  0.17810  0.00460  0.10850  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:50:49+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:21:06+03:00
+  "Changed the following '_atom_site_aniso_label' values: 'OH4' -> 'O-H4'"
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009379

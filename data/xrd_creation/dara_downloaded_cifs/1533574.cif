@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_1533574
+loop_
+ _publ_author_name
+  'Grzywa, M.'
+  'Rafalska-Lasocha, A.'
+  'Lasocha, W.'
+_publ_section_title
+;
+X-ray powder diffraction data of potassium  mue-oxo-
+bis(oxodiperoxovanadate)(4-) hydrate K4 (O (V O (O2)2)2) (H2 O)
+;
+_journal_name_full   'Powder Diffraction'
+_journal_page_first   248
+_journal_page_last   251
+_journal_volume   18
+_journal_year   2003
+_chemical_formula_sum   'H2 K4 O12 V2'
+_chemical_name_systematic   'K4 (O (V O (O2)2)2) (H2 O)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   93.69
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.7097
+_cell_length_b   9.9574
+_cell_length_c   15.825
+_cell_volume   1055.095
+_citation_journal_id_ASTM   PODIE2
+_cod_data_source_file   Grzywa_PODIE2_2003_1969.cif
+_cod_data_source_block   H2K4O12V2
+_cod_database_code   1533574
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-1  0.412  0.2  -0.028  1  0.0
+  O5  O-2  0.085  0.356  -0.029  1  0.0
+  O3  O-1  0.23  0.371  0.153  1  0.0
+  O2  O-1  0.493  0.337  -0.015  1  0.0
+  O4  O-1  0.33  0.468  0.1  1  0.0
+  O12  O-2  0.043  0.131  0.91  1  0.0
+  K4  K+1  0.75  0.409  0.134  1  0.0
+  O6  O-2  0.121  0.134  0.066  1  0.0
+  O11  O-2  0.219  -0.034  0.186  1  0.0
+  V2  V+5  0.215  0.127  0.188  1  0.0
+  K1  K+1  0.236  -0.081  -0.029  1  0.0
+  K3  K+1  0.288  0.459  0.308  1  0.0
+  O7  O-1  -0.027  0.159  0.241  1  0.0
+  V1  V+5  0.254  0.308  0.041  1  0.0
+  O10  O-1  0.466  0.184  0.238  1  0.0
+  O9  O-1  0.465  0.175  0.146  1  0.0
+  K2  K+1  0.231  0.705  0.133  1  0.0
+  O8  O-1  0.149  0.217  0.288  1  0.0

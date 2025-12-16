@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6511b8228819410dd707a684",
+  "experiment_name": "Na_65",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-O-P-Sn",
+  "target_formula": "Na4SnP2O9",
+  "analysis_timestamp": "2025-12-06T16:22:42.351238",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

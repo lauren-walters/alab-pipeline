@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_2310965
+loop_
+ _publ_author_name
+  'Smith, H.G.'
+_publ_section_title
+;
+The crystal structure of strontium hydroxide octahydrate, Sr (O H)2
+(H2  O)8
+;
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   604
+_journal_page_last   609
+_journal_volume   6
+_journal_year   1953
+_chemical_formula_sum   'H18 O10 Sr'
+_chemical_name_systematic   'Sr (O H)2 (H2 O)8'
+_space_group_IT_number   130
+_symmetry_space_group_name_Hall   'P 4ab 2n -1ab'
+_symmetry_space_group_name_H-M   'P 4/n c c :1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9
+_cell_length_b   9
+_cell_length_c   11.58
+_cell_volume   937.980
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Smith_ACCRA9_1953_199.cif
+_cod_data_source_block   H18O10Sr1
+_cod_original_cell_volume   937.98
+_cod_original_sg_symbol_Hall   '-P 4a 2ac (x-1/4,y+1/4,z)'
+_cod_original_formula_sum   'H18 O10 Sr1'
+_cod_database_code   2310965
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/2,x+1/2,z
+  -x,-y,z
+  y+1/2,-x+1/2,z
+  x+1/2,-y+1/2,-z+1/2
+  y,x,-z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  -y,-x,-z+1/2
+  -x+1/2,-y+1/2,-z
+  y,-x,-z
+  x+1/2,y+1/2,-z
+  -y,x,-z
+  -x,y,z-1/2
+  -y+1/2,-x+1/2,z-1/2
+  x,-y,z-1/2
+  y+1/2,x+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.096  0.219  0.1244  1  0.0
+  O4  O-2  0.096  0.219  0.8756  1  0.0
+  O2  O-2  0  0.5  0.346  1  0.0
+  Sr1  Sr+2  0  0  0.25  1  0.0
+  O1  O-2  0  0.5  0.096  1  0.0

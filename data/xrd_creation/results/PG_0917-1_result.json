@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66da2dbd4efa8b4b4dfcfb56",
+  "experiment_name": "PG_0917-1",
+  "success": true,
+  "error": null,
+  "rwp": 3.62,
+  "rp": 2.82,
+  "rexp": 1.73,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.0914,
+      "weight_fraction_error": 0.00025,
+      "lattice_a_nm": 0.511877,
+      "lattice_b_nm": 0.51803,
+      "lattice_c_nm": 0.528981,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.2455,
+      "lattice_gamma_deg": null,
+      "r_phase": 6.05
+    },
+    {
+      "phase_name": "Co3O4_227_(cod_9005896)-0",
+      "spacegroup": "F4_1/d-32/m",
+      "weight_fraction": 0.03892,
+      "weight_fraction_error": 0.00053,
+      "lattice_a_nm": 0.808649,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 2.86
+    }
+  ],
+  "chemical_system": "Co-Hf-O",
+  "target_formula": "Hf3Co3O10",
+  "analysis_timestamp": "2025-12-06T15:01:10.713247",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

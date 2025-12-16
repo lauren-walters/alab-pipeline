@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66a3624130f5dbe0921d57db",
+  "experiment_name": "PG_1419-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "C-Fe-H-K-O",
+  "target_formula": "K4Fe4H22C10O33",
+  "analysis_timestamp": "2025-12-06T15:17:34.354253",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

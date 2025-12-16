@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_1530205
+loop_
+ _publ_author_name
+  'Krasnikov, V.V.'
+  'Konstant, Z.A.'
+_publ_section_title   'Crystal structure of beta-V O (P O3)2'
+_journal_name_full
+'Izvestiya Akademii Nauk SSSR, Neorganicheskie Materialy'
+_journal_page_first   2164
+_journal_page_last   2167
+_journal_volume   15
+_journal_year   1979
+_chemical_formula_sum   'O7 P2 V'
+_chemical_name_systematic   'V O (P O3)2'
+_space_group_IT_number   122
+_symmetry_space_group_name_Hall   'I -4 2bw'
+_symmetry_space_group_name_H-M   'I -4 2 d'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   10.99
+_cell_length_b   10.99
+_cell_length_c   4.258
+_cell_volume   514.282
+_citation_journal_id_ASTM   IVNMAW
+_cod_data_source_file   Krasnikov_IVNMAW_1979_578.cif
+_cod_data_source_block   O7P2V1
+_cod_original_cell_volume   514.2816
+_cod_original_formula_sum   'O7 P2 V1'
+_cod_database_code   1530205
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  y,-x,-z
+  -x,-y,z
+  -y,x,-z
+  x,-y+1/2,-z+1/4
+  -y+1/2,-x,z+3/4
+  -x,y+1/2,-z+1/4
+  y+1/2,x,z+3/4
+  x+1/2,y+1/2,z+1/2
+  y+1/2,-x+1/2,-z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  -y+1/2,x+1/2,-z+1/2
+  x+1/2,-y+1,-z+3/4
+  -y+1,-x+1/2,z+5/4
+  -x+1/2,y+1,-z+3/4
+  y+1,x+1/2,z+5/4
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P+5  0.1659  0.25  0.125  1  0.0
+  O3  O-2  0.0909  0.1489  -0.0206  1  0.0
+  V1  V+4  0  0  0  1  0.0
+  O2  O-2  0.6867  0.25  0.125  1  0.0
+  O1  O-2  0  0  0.5  1  0.0

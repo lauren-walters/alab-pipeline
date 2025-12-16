@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_2310700
+loop_
+ _publ_author_name
+  'Wunderlich, J.A.'
+_publ_section_title
+;
+Structures cristallines des hydrates de la soude. III. La structure
+cristalline de Na O H H2 O
+;
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   462
+_journal_page_last   463
+_journal_volume   10
+_journal_year   1957
+_chemical_formula_sum   'H3 Na O2'
+_chemical_name_systematic   'Na (O H) (H2 O)'
+_space_group_IT_number   61
+_symmetry_space_group_name_Hall   '-P 2bc 2ac'
+_symmetry_space_group_name_H-M   'P c a b'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   6.21
+_cell_length_b   11.72
+_cell_length_c   6.05
+_cell_volume   440.326
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Wunderlich_ACCRA9_1957_242.cif
+_cod_data_source_block   H3Na1O2
+_cod_original_cell_volume   440.3263
+_cod_original_sg_symbol_Hall   '-P 2ac 2ab (z,y,-x)'
+_cod_original_formula_sum   'H3 Na1 O2'
+_cod_database_code   2310700
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x+1/2,-y,-z+1/2
+  -x,-y+1/2,z+1/2
+  -x+1/2,y+1/2,-z
+  -x,-y,-z
+  -x-1/2,y,z-1/2
+  x,y-1/2,-z-1/2
+  x-1/2,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Na1  Na+1  0.136  0.053  0.214  1  0.0
+  O2  O-2  0.04  0.126  0.858  1  0.0
+  O1  O-2  0.123  0.383  0.956  1  0.0

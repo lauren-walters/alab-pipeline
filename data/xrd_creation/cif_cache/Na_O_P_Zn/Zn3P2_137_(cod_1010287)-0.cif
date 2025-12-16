@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_1010287
+loop_
+ _publ_author_name
+  'Stackelberg, M von'
+  'Paulus, R'
+_publ_section_title
+;
+Untersuchungen an den Phosphiden und Arseniden des Zinks und Cadmiums.
+Das Zn~3~ P~2~ - Gitter.
+;
+_journal_coden_ASTM   ZPCBAL
+_journal_name_full
+;
+Zeitschrift fuer Physikalische Chemie, Abteilung B: Chemie der
+Elementarprozesse, Aufbau der Materie
+;
+_journal_page_first   427
+_journal_page_last   460
+_journal_volume   28
+_journal_year   1935
+_chemical_formula_structural   'Zn3 P2'
+_chemical_formula_sum   'P2 Zn3'
+_chemical_name_systematic   'Zinc phosphide'
+_space_group_IT_number   137
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   'P 4n 2n -1n'
+_symmetry_space_group_name_H-M   'P 42/n m c :1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   8.097(20)
+_cell_length_b   8.097(20)
+_cell_length_c   11.45(3)
+_cell_volume   750.7
+_exptl_crystal_density_meas   4.49(28)
+_cod_original_sg_symbol_H-M   'P 42/n m c S'
+_cod_database_code   1010287
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  1/2+x,1/2+y,1/2-z
+  1/2-x,1/2-y,1/2-z
+  -x,y,z
+  x,-y,z
+  1/2-x,1/2+y,1/2-z
+  1/2+x,1/2-y,1/2-z
+  -y,x,-z
+  y,-x,-z
+  1/2-y,1/2+x,1/2+z
+  1/2+y,1/2-x,1/2+z
+  y,x,-z
+  -y,-x,-z
+  1/2+y,1/2+x,1/2+z
+  1/2-y,1/2-x,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  P1  P3-  4  c  0.  0.  0.25(1)  1.  0  d
+  P2  P3-  4  d  0.  0.5  0.239(10)  1.  0  d
+  P3  P3-  8  f  0.261(10)  0.261(10)  0.  1.  0  d
+  Zn1  Zn2+  8  g  0.  0.217(8)  0.103(12)  1.  0  d
+  Zn2  Zn2+  8  g  0.  0.283(8)  0.386(12)  1.  0  d
+  Zn3  Zn2+  8  g  0.  0.250(8)  0.647(12)  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  P3-  -3.000
+  Zn2+  2.000

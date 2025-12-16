@@ -1,0 +1,31 @@
+{
+  "experiment_id": "666c93280cf47fd9cd40aadc",
+  "experiment_name": "Na_284",
+  "success": true,
+  "error": null,
+  "rwp": 24.26,
+  "rp": 17.96,
+  "rexp": 2.56,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "Na_229_(cod_9008545)-12",
+      "spacegroup": "I4/m-32/m",
+      "weight_fraction": 0.0476,
+      "weight_fraction_error": 0.0016,
+      "lattice_a_nm": 0.42477,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 32.09
+    }
+  ],
+  "chemical_system": "La-Na-O-P",
+  "target_formula": "Na5LaP2O9",
+  "analysis_timestamp": "2025-12-06T13:57:14.169088",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

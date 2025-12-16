@@ -1,0 +1,17 @@
+{
+  "experiment_id": "664c537fb64ca0e9d7b4aba9",
+  "experiment_name": "NSC_181",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mg-Na-O-P-Sc",
+  "target_formula": "Na4.4Sc1.0Mg1.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:11:51.937899",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

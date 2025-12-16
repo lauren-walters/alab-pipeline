@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_2102067
+loop_
+ _publ_author_name
+  'Kaduk, James A.'
+_publ_section_title
+'Terephthalate salts: salts of monopositive cations'
+_journal_issue   3
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   474
+_journal_page_last   485
+_journal_paper_doi   10.1107/S0108768199014718
+_journal_volume   56
+_journal_year   2000
+_chemical_formula_sum   'C8 H4 Li2 O4'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90.0
+_cell_angle_beta   93.1555(4)
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   8.35918(5)
+_cell_length_b   5.13212(3)
+_cell_length_c   8.48489(5)
+_computing_structure_refinement   GSAS
+_diffrn_radiation_wavelength   1.149681
+_refine_ls_goodness_of_fit_all   1.42
+_refine_ls_number_parameters   44
+_refine_ls_number_restraints   8
+_refine_ls_shift/esd_max   .07
+_refine_ls_shift/esd_mean   .01
+_reflns_number_observed   214
+_cod_data_source_file   bk0069.cif
+_cod_original_sg_symbol_H-M   'P 21/c'
+_cod_database_code   2102067
+loop_
+ _symmetry_equiv_pos_as_xyz
+  +x,+y,+z
+  -x,+y+1/2,-z+1/2
+  -x,-y,-z
+  +x,-y+1/2,+z+1/2
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+  H5  .1224(4)  .2834(5)  -.1794(3)  .05  Uiso  .5
+  C1  -.15701(9)  .0493(5)  .0440(3)  .0246(8)  Uiso  .5
+  C2  -.07238  -.16774  .10623  .0246(8)  Uiso  .5
+  C3  .08463  -.21708  .06227  .0246(8)  Uiso  .5
+  H2  -.1223  -.2834  .17948  .05  Uiso  .5
+  H3  .1430  -.3668  .10521  .05  Uiso  .5
+  C7  -.3181(3)  .1142(6)  .1018(4)  .0339(7)  Uiso  1.0
+  O8  -.3862(2)  -.0445(4)  .1902(3)  .0339(7)  Uiso  1.0
+  O9  -.3809(3)  .3274(4)  .0532(3)  .0339(7)  Uiso  1.0
+  Li  .4878(8)  .1136(13)  .3556(8)  .035(2)  Uiso  1.0
+loop_
+ _atom_type_symbol
+  C
+  H
+  O
+  LI

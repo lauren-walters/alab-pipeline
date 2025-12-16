@@ -1,0 +1,211 @@
+# generated using pymatgen
+data_2104414
+loop_
+ _publ_author_name
+  'St\%ahl, Kenny'
+  'Andersen, Jens E. T.'
+  'Shim, Irene'
+  'Christgau, Stephan'
+_publ_section_title
+;
+Structures of strontium diformate and strontium fumarate. A
+synchrotron powder diffraction study
+;
+_journal_coeditor_code   ZB5005
+_journal_issue   4
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   481
+_journal_page_last   487
+_journal_paper_doi   10.1107/S0108768109023489
+_journal_volume   65
+_journal_year   2009
+_chemical_formula_moiety   'C4 H2 O4 Sr'
+_chemical_formula_sum   'C4 H2 O4 Sr'
+_chemical_formula_weight   201.68
+_chemical_name_common   'Strontium fumarate'
+_chemical_name_systematic   'Strontium fumarate'
+_space_group_IT_number   70
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-F 2uv 2vw'
+_symmetry_space_group_name_H-M   'F d d d :2'
+_cell_angle_alpha   90.00000
+_cell_angle_beta   90.00000
+_cell_angle_gamma   90.00000
+_cell_formula_units_Z   8
+_cell_length_a   10.59801(10)
+_cell_length_b   9.81628(9)
+_cell_length_c   10.00739(8)
+_cell_measurement_temperature   105(2)
+_cell_volume   1041.099(16)
+_computing_cell_refinement   'WINPOW, local Rietveld program'
+_computing_data_collection   'Huber G670'
+_computing_data_reduction   'WINPOW, local Rietveld program'
+_computing_molecular_graphics   'ATOMS 6.2, Shape Software, USA'
+_computing_publication_material   'WINPOW, local Rietveld program'
+_computing_structure_refinement   'WINPOW, local Rietveld program'
+_computing_structure_solution   'EXPO, Altomari et al., 1994, 1995'
+_diffrn_ambient_temperature   105(2)
+_diffrn_measurement_device_type   'HUBER G670 Guinier camera'
+_diffrn_radiation_monochromator   Si(111)
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   1.25176
+_exptl_absorpt_coefficient_mu   7.58
+_exptl_absorpt_correction_T_max   0.452
+_exptl_absorpt_correction_T_min   0.423
+_exptl_absorpt_correction_type   cylinder
+_exptl_absorpt_process_details
+'Bond, W.L. (1972) Int. Tabl. Vol II'
+_exptl_crystal_density_diffrn   2.573
+_exptl_crystal_F_000   768.0
+_pd_block_diffractogram_id   betastrontiumfumarate105K
+_pd_char_colour   colorless
+_pd_instr_location   'Beamline 711, MAX II, MAXlab, Lund, Sweden'
+_pd_meas_2theta_range_inc   0.005
+_pd_meas_2theta_range_max   100.000
+_pd_meas_2theta_range_min   3.000
+_pd_meas_number_of_points   19400
+_pd_meas_scan_method   step
+_pd_proc_2theta_range_inc   0.005
+_pd_proc_2theta_range_max   99.996
+_pd_proc_2theta_range_min   10.996
+_pd_proc_info_data_reduction   ?
+_pd_proc_ls_background_function   'Chebyshev polynomial'
+_pd_proc_ls_pref_orient_corr
+;
+I~corr~ = I~obs~/[P^2^cos^2^\a + P^-1^sin^2^\a]^3/2^ (Dollase (1986)
+J. Appl. Cryst. 19, 267) P = 1.031(11) in direction (011)
+;
+_pd_proc_ls_profile_function   pseudo-Voigt
+_pd_proc_ls_prof_R_factor   0.0427
+_pd_proc_ls_prof_wR_expected   0.0080
+_pd_proc_ls_prof_wR_factor   0.0592
+_pd_proc_number_of_points   17800
+_pd_proc_wavelength   1.25176
+_pd_spec_mounting   'quartz capillary'
+_pd_spec_mount_mode   transmission
+_pd_spec_shape   cylinder
+_pd_spec_size_axial   2.0
+_pd_spec_size_equat   0.3
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_all   7.40
+_refine_ls_hydrogen_treatment   noref
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   35
+_refine_ls_number_restraints   0
+_refine_ls_shift/su_max   0.0450
+_refine_ls_shift/su_mean   0.0180
+_refine_ls_structure_factor_coef   Inet
+_refine_ls_weighting_scheme   sigma
+_cod_data_source_file   zb5005.cif
+_cod_data_source_block   betastrontiumfumarate105K
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Orthorhombic' changed to
+'orthorhombic' according to '/home/saulius/struct/CIF-
+dictionaries/cif_core.dic' dictionary named 'cif_core.dic' version
+2.4.1 from 2010-06-29. Automatic conversion script Id: cif_fix_enum
+1527 2010-12-29 10:47:43Z saulius  The following automatic conversions
+were performed: '_symmetry_cell_setting' value 'Orthorhombic' changed
+to 'orthorhombic' according to /home/saulius/struct/CIF-
+dictionaries/cif_core.dic dictionary named 'cif_core.dic' version
+2.4.1 from 2010-06-29. Automatic conversion script Id: cif_fix_values
+1715 2011-07-08 13:25:40Z adriana
+;
+_cod_original_cell_volume   1041.10(2)
+_cod_original_sg_symbol_H-M   'F d d d'
+_cod_database_code   2104414
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,y+1/2,z+1/2
+  x+1/2,y,z+1/2
+  x+1/2,y+1/2,z
+  -x,y+1/4,z+1/4
+  -x,y+3/4,z+3/4
+  -x+1/2,y+1/4,z+3/4
+  -x+1/2,y+3/4,z+1/4
+  x+1/4,-y,z+1/4
+  x+1/4,-y+1/2,z+3/4
+  x+3/4,-y,z+3/4
+  x+3/4,-y+1/2,z+1/4
+  -x+1/4,-y+3/4,z+1/2
+  -x+1/4,-y+1/4,z
+  -x+3/4,-y+3/4,z
+  -x+3/4,-y+1/4,z+1/2
+  x+1/4,y+1/4,-z
+  x+1/4,y+3/4,-z+1/2
+  x+3/4,y+1/4,-z+1/2
+  x+3/4,y+3/4,-z
+  -x+1/4,y+1/2,-z+3/4
+  -x+1/4,y,-z+1/4
+  -x+3/4,y+1/2,-z+1/4
+  -x+3/4,y,-z+3/4
+  x+1/2,-y+1/4,-z+3/4
+  x+1/2,-y+3/4,-z+1/4
+  x,-y+1/4,-z+1/4
+  x,-y+3/4,-z+3/4
+  -x+1/2,-y,-z+1/2
+  -x+1/2,-y+1/2,-z
+  -x,-y,-z
+  -x,-y+1/2,-z+1/2
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+  Sr  Sr  .1250  .1250  .1250  .00413(17)  Uiso  1.0000
+  O  O1  .04418(11)  .19330(12)  .38019(13)  .0124(4)  Uiso  1.0000
+  C  C1  .1250  .1250  .4332(3)  .0124(4)  Uiso  1.0000
+  C  C2  .1724(3)  .1514(4)  .5847(3)  .0124(4)  Uiso  .5000
+  H  H  .2526  .1665  .6076  .0188(4)  Uiso  .5000
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  C  0.0150  0.0070
+  'International Tables for Crystallography (Vol. IV)'
+  O  O  0.0300  0.0200
+  'International Tables for Crystallography (Vol. IV)'
+  Sr  Sr  -0.7100  1.2300
+  'International Tables for Crystallography (Vol. IV)'
+  H  H  0.0000  0.0000
+  'International Tables for Crystallography (Vol. IV)'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O1  C1  O1  .  14_555  128.0(2)  y
+  O1  C1  C2  .  .  122.80(18)  y
+  C1  C2  H  .  .  124.2(3)  n
+  C1  C2  H  .  27_556  124.8(3)  n
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Sr  O1  32_555  2.5296(12)  y
+  Sr  O1  6_544  2.5296(12)  y
+  Sr  O1  18_545  2.5296(12)  y
+  Sr  O1  10_554  2.5296(12)  y
+  Sr  O1  .  2.7758(13)  y
+  Sr  O1  22_555  2.7758(13)  y
+  Sr  O1  27_555  2.7758(13)  y
+  Sr  O1  14_555  2.7758(13)  y
+  C1  O1  .  1.2101(16)  y
+  C1  O1  14_555  1.2101(16)  y
+  C1  C2  .  1.618(4)  y
+  C2  H  .  .892(3)  y
+  C2  C2  22_556  1.289(6)  y

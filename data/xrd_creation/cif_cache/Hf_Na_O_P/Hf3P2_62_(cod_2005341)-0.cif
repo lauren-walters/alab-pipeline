@@ -1,0 +1,486 @@
+# generated using pymatgen
+data_2005341
+loop_
+ _publ_author_name
+  'Kleinke, H.'
+  'Franzen, H. F.'
+_publ_section_title   'The Binary Hafnium Phosphide Hf~3~P~2~'
+_journal_issue   9
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   2127
+_journal_page_last   2129
+_journal_paper_doi   10.1107/S0108270196004969
+_journal_volume   52
+_journal_year   1996
+_chemical_formula_sum   'Hf3 P2'
+_chemical_formula_weight   597.41
+_chemical_name_common   hafniumphoshide
+_chemical_name_systematic   Trihafniumdiphosphide
+_space_group_IT_number   62
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_audit_creation_method   SHELXL
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   4
+_cell_length_a   10.128(2)
+_cell_length_b   3.5707(6)
+_cell_length_c   9.868(2)
+_cell_measurement_reflns_used   18
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   23.41
+_cell_measurement_theta_min   6.4
+_cell_volume   356.87(12)
+_computing_cell_refinement
+'MSC/AFC Diffractometer Control Software'
+_computing_data_collection
+;
+MSC/AFC Diffractometer Control Software (Molecular Structure
+Corporation,  1993)
+;
+_computing_data_reduction
+'TEXSAN (Molecular Structure Corporation, 1989)'
+_computing_molecular_graphics   'ATOMS (Dowty, 1991)'
+_computing_publication_material   SHELXL93
+_computing_structure_refinement   'SHELXL93 (Sheldrick, 1993)'
+_computing_structure_solution   'SHELXS86 (Sheldrick, 1985)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measurement_device   'Rigaku AFC6R'
+_diffrn_measurement_method   2\q/\w
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source
+'normal-focus sealed tube with rotating anode'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71069
+_diffrn_reflns_av_R_equivalents   0.077
+_diffrn_reflns_av_sigmaI/netI   0.076
+_diffrn_reflns_limit_h_max   12
+_diffrn_reflns_limit_h_min   0
+_diffrn_reflns_limit_k_max   5
+_diffrn_reflns_limit_k_min   -3
+_diffrn_reflns_limit_l_max   13
+_diffrn_reflns_limit_l_min   -13
+_diffrn_reflns_number   1457
+_diffrn_reflns_theta_max   30.06
+_diffrn_reflns_theta_min   2.88
+_diffrn_standards_decay_%   0
+_diffrn_standards_interval_count   150
+_diffrn_standards_number   3
+_exptl_absorpt_coefficient_mu   87.674
+_exptl_absorpt_correction_T_max   0.99
+_exptl_absorpt_correction_T_min   0.44
+_exptl_absorpt_correction_type   '\y scan'
+_exptl_crystal_colour   black
+_exptl_crystal_density_diffrn   11.119
+_exptl_crystal_description   needle-like
+_exptl_crystal_F_000   984
+_exptl_crystal_size_max   0.1
+_exptl_crystal_size_mid   0.01
+_exptl_crystal_size_min   0.01
+_refine_diff_density_max   3.377
+_refine_diff_density_min   -3.190
+_refine_ls_extinction_coef   0.00014(11)
+_refine_ls_extinction_method   'SHELXL93 (Sheldrick, 1993)'
+_refine_ls_goodness_of_fit_all   1.085
+_refine_ls_goodness_of_fit_obs   1.160
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   32
+_refine_ls_number_reflns   548
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.085
+_refine_ls_restrained_S_obs   1.160
+_refine_ls_R_factor_all   0.0428
+_refine_ls_R_factor_obs   0.0293
+_refine_ls_shift/esd_max   0.000
+_refine_ls_shift/esd_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'w = 1/[\s^2^(Fo^2^)+1.3185P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_all   0.0574
+_refine_ls_wR_factor_obs   0.0548
+_reflns_number_observed   443
+_reflns_number_total   548
+_reflns_observed_criterion   >2sigma(I)
+_cod_data_source_file   br1144.cif
+_cod_data_source_block   hf3p2
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Orthorhombic' changed to
+'orthorhombic' according to '/home/saulius/struct/CIF-
+dictionaries/cif_core.dic' dictionary named 'cif_core.dic' version
+2.4.1 from 2010-06-29. Automatic conversion script Id: cif_fix_enum
+1527 2010-12-29 10:47:43Z saulius  The following automatic conversions
+were performed: '_symmetry_cell_setting' value 'Orthorhombic' changed
+to 'orthorhombic' according to /home/saulius/struct/CIF-
+dictionaries/cif_core.dic dictionary named 'cif_core.dic' version
+2.4.1 from 2010-06-29. Automatic conversion script Id: cif_fix_values
+1715 2011-07-08 13:25:40Z adriana  The following automatic conversions
+were performed: '_refine_ls_weighting_scheme' value 'calc w =
+1/[\s^2^(Fo^2^)+1.3185P] where P=(Fo^2^+2Fc^2^)/3' was changed to
+'calc'. New tag '_refine_ls_weighting_details' was created. The value
+of the new tag was set to 'w = 1/[\s^2^(Fo^2^)+1.3185P] where
+P=(Fo^2^+2Fc^2^)/3'. Automatic conversion script Id: cif_fix_values
+3143 2015-03-26 13:38:13Z robertas
+;
+_cod_database_code   2005341
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  'x+1/2, -y+1/2, -z+1/2'
+  '-x, y+1/2, -z'
+  '-x+1/2, -y, z+1/2'
+  '-x, -y, -z'
+  '-x-1/2, y-1/2, z-1/2'
+  'x, -y-1/2, z'
+  'x-1/2, y, -z-1/2'
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Hf1  0.0043(3)  0.0008(3)  0.0045(4)  0.000  -0.0002(2)  0.000
+  Hf2  0.0043(4)  0.0021(3)  0.0034(4)  0.000  -0.0007(2)  0.000
+  Hf3  0.0033(3)  0.0041(4)  0.0040(3)  0.000  -0.0014(3)  0.000
+  P1  0.003(2)  0.009(2)  0.006(2)  0.000  -0.0017(14)  0.000
+  P2  0.001(2)  0.009(2)  0.001(2)  0.000  -0.0007(13)  0.000
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_type_symbol
+  Hf1  1  0.04686(6)  0.2500  0.12605(6)  0.0032(2)  Uani  d  S  Hf
+  Hf2  1  0.37636(7)  0.2500  0.06432(5)  0.0033(2)  Uani  d  S  Hf
+  Hf3  1  0.21585(7)  0.2500  0.79665(6)  0.0038(2)  Uani  d  S  Hf
+  P1  1  0.3066(4)  0.2500  0.4991(4)  0.0059(8)  Uani  d  S  P
+  P2  1  0.4729(4)  0.2500  0.8203(4)  0.0039(9)  Uani  d  S  P
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Hf  Hf  -0.5830  6.1852
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+  P2  Hf1  P2  6_665  6_655  85.62(11)
+  P2  Hf1  P1  6_665  6_665  85.96(9)
+  P2  Hf1  P1  6_655  6_665  148.13(12)
+  P2  Hf1  P1  6_665  6_655  148.13(12)
+  P2  Hf1  P1  6_655  6_655  85.96(9)
+  P1  Hf1  P1  6_665  6_655  85.17(11)
+  P2  Hf1  P1  6_665  2_455  105.21(11)
+  P2  Hf1  P1  6_655  2_455  105.21(11)
+  P1  Hf1  P1  6_665  2_455  106.67(9)
+  P1  Hf1  P1  6_655  2_455  106.67(9)
+  P2  Hf1  Hf1  6_665  5  157.24(10)
+  P2  Hf1  Hf1  6_655  5  99.51(6)
+  P1  Hf1  Hf1  6_665  5  100.07(8)
+  P1  Hf1  Hf1  6_655  5  54.63(8)
+  P1  Hf1  Hf1  2_455  5  52.04(6)
+  P2  Hf1  Hf1  6_665  5_565  99.51(6)
+  P2  Hf1  Hf1  6_655  5_565  157.24(10)
+  P1  Hf1  Hf1  6_665  5_565  54.63(8)
+  P1  Hf1  Hf1  6_655  5_565  100.07(8)
+  P1  Hf1  Hf1  2_455  5_565  52.04(6)
+  Hf1  Hf1  Hf1  5  5_565  67.69(3)
+  P2  Hf1  Hf3  6_665  5_556  97.93(9)
+  P2  Hf1  Hf3  6_655  5_556  53.22(9)
+  P1  Hf1  Hf3  6_665  5_556  158.63(8)
+  P1  Hf1  Hf3  6_655  5_556  101.40(6)
+  P1  Hf1  Hf3  2_455  5_556  52.00(6)
+  Hf1  Hf1  Hf3  5  5_556  68.82(2)
+  Hf1  Hf1  Hf3  5_565  5_556  104.03(3)
+  P2  Hf1  Hf3  6_665  5_566  53.22(9)
+  P2  Hf1  Hf3  6_655  5_566  97.93(9)
+  P1  Hf1  Hf3  6_665  5_566  101.40(6)
+  P1  Hf1  Hf3  6_655  5_566  158.63(8)
+  P1  Hf1  Hf3  2_455  5_566  52.00(6)
+  Hf1  Hf1  Hf3  5  5_566  104.03(3)
+  Hf1  Hf1  Hf3  5_565  5_566  68.82(2)
+  Hf3  Hf1  Hf3  5_556  5_566  65.65(2)
+  P2  Hf1  Hf2  6_665  .  101.88(9)
+  P2  Hf1  Hf2  6_655  .  101.88(9)
+  P1  Hf1  Hf2  6_665  .  50.30(7)
+  P1  Hf1  Hf2  6_655  .  50.30(7)
+  P1  Hf1  Hf2  2_455  .  142.76(8)
+  Hf1  Hf1  Hf2  5  .  98.74(3)
+  Hf1  Hf1  Hf2  5_565  .  98.74(3)
+  Hf3  Hf1  Hf2  5_556  .  146.748(11)
+  Hf3  Hf1  Hf2  5_566  .  146.748(11)
+  P2  Hf1  Hf3  6_665  6_665  48.88(9)
+  P2  Hf1  Hf3  6_655  6_665  92.80(8)
+  P1  Hf1  Hf3  6_665  6_665  59.17(8)
+  P1  Hf1  Hf3  6_655  6_665  101.01(8)
+  P1  Hf1  Hf3  2_455  6_665  147.75(2)
+  Hf1  Hf1  Hf3  5  6_665  151.28(3)
+  Hf1  Hf1  Hf3  5_565  6_665  107.34(2)
+  Hf3  Hf1  Hf3  5_556  6_665  137.18(2)
+  Hf3  Hf1  Hf3  5_566  6_665  99.78(2)
+  Hf2  Hf1  Hf3  .  6_665  53.11(2)
+  P2  Hf1  Hf3  6_665  6_655  92.80(8)
+  P2  Hf1  Hf3  6_655  6_655  48.88(9)
+  P1  Hf1  Hf3  6_665  6_655  101.01(8)
+  P1  Hf1  Hf3  6_655  6_655  59.17(8)
+  P1  Hf1  Hf3  2_455  6_655  147.75(2)
+  Hf1  Hf1  Hf3  5  6_655  107.34(2)
+  Hf1  Hf1  Hf3  5_565  6_655  151.28(3)
+  Hf3  Hf1  Hf3  5_556  6_655  99.78(2)
+  Hf3  Hf1  Hf3  5_566  6_655  137.18(2)
+  Hf2  Hf1  Hf3  .  6_655  53.11(2)
+  Hf3  Hf1  Hf3  6_665  6_655  62.64(2)
+  P2  Hf2  P2  1_554  5_666  100.61(9)
+  P2  Hf2  P2  1_554  5_656  100.61(9)
+  P2  Hf2  P2  5_666  5_656  86.29(12)
+  P2  Hf2  P1  1_554  6_655  92.16(11)
+  P2  Hf2  P1  5_666  6_655  167.11(12)
+  P2  Hf2  P1  5_656  6_655  93.11(9)
+  P2  Hf2  P1  1_554  6_665  92.16(11)
+  P2  Hf2  P1  5_666  6_665  93.11(9)
+  P2  Hf2  P1  5_656  6_665  167.11(12)
+  P1  Hf2  P1  6_655  6_665  84.61(12)
+  P2  Hf2  Hf3  1_554  6_665  144.201(11)
+  P2  Hf2  Hf3  5_666  6_665  56.73(9)
+  P2  Hf2  Hf3  5_656  6_665  104.56(8)
+  P1  Hf2  Hf3  6_655  6_665  111.25(8)
+  P1  Hf2  Hf3  6_665  6_665  64.85(8)
+  P2  Hf2  Hf3  1_554  6_655  144.201(11)
+  P2  Hf2  Hf3  5_666  6_655  104.56(8)
+  P2  Hf2  Hf3  5_656  6_655  56.73(9)
+  P1  Hf2  Hf3  6_655  6_655  64.85(8)
+  P1  Hf2  Hf3  6_665  6_655  111.25(8)
+  Hf3  Hf2  Hf3  6_665  6_655  71.60(2)
+  P2  Hf2  Hf3  1_554  1_554  53.70(9)
+  P2  Hf2  Hf3  5_666  1_554  132.69(6)
+  P2  Hf2  Hf3  5_656  1_554  132.69(6)
+  P1  Hf2  Hf3  6_655  1_554  55.04(7)
+  P1  Hf2  Hf3  6_665  1_554  55.04(7)
+  Hf3  Hf2  Hf3  6_665  1_554  118.64(2)
+  Hf3  Hf2  Hf3  6_655  1_554  118.64(2)
+  P2  Hf2  Hf2  1_554  5_665  50.46(7)
+  P2  Hf2  Hf2  5_666  5_665  50.15(8)
+  P2  Hf2  Hf2  5_656  5_665  95.34(8)
+  P1  Hf2  Hf2  6_655  5_665  142.59(9)
+  P1  Hf2  Hf2  6_665  5_665  94.13(7)
+  Hf3  Hf2  Hf2  6_665  5_665  101.71(2)
+  Hf3  Hf2  Hf2  6_655  5_665  146.17(3)
+  Hf3  Hf2  Hf2  1_554  5_665  93.99(3)
+  P2  Hf2  Hf2  1_554  5_655  50.46(7)
+  P2  Hf2  Hf2  5_666  5_655  95.34(8)
+  P2  Hf2  Hf2  5_656  5_655  50.15(8)
+  P1  Hf2  Hf2  6_655  5_655  94.13(7)
+  P1  Hf2  Hf2  6_665  5_655  142.59(9)
+  Hf3  Hf2  Hf2  6_665  5_655  146.17(3)
+  Hf3  Hf2  Hf2  6_655  5_655  101.71(2)
+  Hf3  Hf2  Hf2  1_554  5_655  93.99(3)
+  Hf2  Hf2  Hf2  5_665  5_655  64.90(3)
+  P2  Hf2  Hf1  1_554  .  122.44(9)
+  P2  Hf2  Hf1  5_666  .  119.81(8)
+  P2  Hf2  Hf1  5_656  .  119.81(8)
+  P1  Hf2  Hf1  6_655  .  49.94(7)
+  P1  Hf2  Hf1  6_665  .  49.94(7)
+  Hf3  Hf2  Hf1  6_665  .  64.16(2)
+  Hf3  Hf2  Hf1  6_655  .  64.16(2)
+  Hf3  Hf2  Hf1  1_554  .  68.73(2)
+  Hf2  Hf2  Hf1  5_665  .  143.99(2)
+  Hf2  Hf2  Hf1  5_655  .  143.99(2)
+  P2  Hf2  Hf1  1_554  2  128.43(10)
+  P2  Hf2  Hf1  5_666  2  48.13(6)
+  P2  Hf2  Hf1  5_656  2  48.13(6)
+  P1  Hf2  Hf1  6_655  2  123.72(8)
+  P1  Hf2  Hf1  6_665  2  123.72(7)
+  Hf3  Hf2  Hf1  6_665  2  59.78(2)
+  Hf3  Hf2  Hf1  6_655  2  59.78(2)
+  Hf3  Hf2  Hf1  1_554  2  177.86(3)
+  Hf2  Hf2  Hf1  5_665  2  87.81(3)
+  Hf2  Hf2  Hf1  5_655  2  87.81(3)
+  Hf1  Hf2  Hf1  .  2  109.13(2)
+  P2  Hf3  P1  .  6_666  91.02(10)
+  P2  Hf3  P1  .  6_656  91.02(10)
+  P1  Hf3  P1  6_666  6_656  83.22(11)
+  P2  Hf3  P2  .  2_456  160.00(5)
+  P1  Hf3  P2  6_666  2_456  103.82(10)
+  P1  Hf3  P2  6_656  2_456  103.82(10)
+  P2  Hf3  Hf2  .  6_656  111.83(7)
+  P1  Hf3  Hf2  6_666  6_656  157.01(9)
+  P1  Hf3  Hf2  6_656  6_656  98.26(6)
+  P2  Hf3  Hf2  2_456  6_656  53.42(5)
+  P2  Hf3  Hf2  .  6_666  111.83(7)
+  P1  Hf3  Hf2  6_666  6_666  98.26(6)
+  P1  Hf3  Hf2  6_656  6_666  157.01(9)
+  P2  Hf3  Hf2  2_456  6_666  53.42(5)
+  Hf2  Hf3  Hf2  6_656  6_666  71.60(2)
+  P2  Hf3  P1  .  .  77.75(11)
+  P1  Hf3  P1  6_666  .  137.24(5)
+  P1  Hf3  P1  6_656  .  137.24(5)
+  P2  Hf3  P1  2_456  .  82.25(11)
+  Hf2  Hf3  P1  6_656  .  51.28(5)
+  Hf2  Hf3  P1  6_666  .  51.28(5)
+  P2  Hf3  Hf2  .  1_556  53.26(8)
+  P1  Hf3  Hf2  6_666  1_556  53.96(7)
+  P1  Hf3  Hf2  6_656  1_556  53.96(7)
+  P2  Hf3  Hf2  2_456  1_556  146.74(8)
+  Hf2  Hf3  Hf2  6_656  1_556  143.137(12)
+  Hf2  Hf3  Hf2  6_666  1_556  143.137(12)
+  P1  Hf3  Hf2  .  1_556  131.01(8)
+  P2  Hf3  Hf1  .  5_556  141.62(4)
+  P1  Hf3  Hf1  6_666  5_556  96.87(7)
+  P1  Hf3  Hf1  6_656  5_556  53.11(8)
+  P2  Hf3  Hf1  2_456  5_556  50.73(6)
+  Hf2  Hf3  Hf1  6_656  5_556  67.03(2)
+  Hf2  Hf3  Hf1  6_666  5_556  104.12(2)
+  P1  Hf3  Hf1  .  5_556  117.54(6)
+  Hf2  Hf3  Hf1  1_556  5_556  103.07(2)
+  P2  Hf3  Hf1  .  5_566  141.62(4)
+  P1  Hf3  Hf1  6_666  5_566  53.11(8)
+  P1  Hf3  Hf1  6_656  5_566  96.87(7)
+  P2  Hf3  Hf1  2_456  5_566  50.73(6)
+  Hf2  Hf3  Hf1  6_656  5_566  104.12(2)
+  Hf2  Hf3  Hf1  6_666  5_566  67.03(2)
+  P1  Hf3  Hf1  .  5_566  117.54(6)
+  Hf2  Hf3  Hf1  1_556  5_566  103.07(2)
+  Hf1  Hf3  Hf1  5_556  5_566  65.65(2)
+  P2  Hf3  Hf1  .  6_666  49.22(6)
+  P1  Hf3  Hf1  6_666  6_666  94.48(7)
+  P1  Hf3  Hf1  6_656  6_666  140.21(8)
+  P2  Hf3  Hf1  2_456  6_666  115.17(7)
+  Hf2  Hf3  Hf1  6_656  6_666  98.63(2)
+  Hf2  Hf3  Hf1  6_666  6_666  62.73(2)
+  P1  Hf3  Hf1  .  6_666  47.41(5)
+  Hf2  Hf3  Hf1  1_556  6_666  92.90(3)
+  Hf1  Hf3  Hf1  5_556  6_666  163.84(2)
+  Hf1  Hf3  Hf1  5_566  6_666  113.390(13)
+  P2  Hf3  Hf1  .  6_656  49.22(6)
+  P1  Hf3  Hf1  6_666  6_656  140.21(8)
+  P1  Hf3  Hf1  6_656  6_656  94.48(7)
+  P2  Hf3  Hf1  2_456  6_656  115.17(7)
+  Hf2  Hf3  Hf1  6_656  6_656  62.73(2)
+  Hf2  Hf3  Hf1  6_666  6_656  98.63(2)
+  P1  Hf3  Hf1  .  6_656  47.41(5)
+  Hf2  Hf3  Hf1  1_556  6_656  92.90(3)
+  Hf1  Hf3  Hf1  5_556  6_656  113.390(13)
+  Hf1  Hf3  Hf1  5_566  6_656  163.84(2)
+  Hf1  Hf3  Hf1  6_666  6_656  62.64(2)
+  Hf1  P1  Hf1  6_666  6_656  85.17(11)
+  Hf1  P1  Hf2  6_666  6_656  137.1(2)
+  Hf1  P1  Hf2  6_656  6_656  79.76(5)
+  Hf1  P1  Hf2  6_666  6_666  79.76(5)
+  Hf1  P1  Hf2  6_656  6_666  137.1(2)
+  Hf2  P1  Hf2  6_656  6_666  84.61(12)
+  Hf1  P1  Hf3  6_666  6_655  148.2(2)
+  Hf1  P1  Hf3  6_656  6_655  87.19(5)
+  Hf2  P1  Hf3  6_656  6_655  71.00(6)
+  Hf2  P1  Hf3  6_666  6_655  124.63(15)
+  Hf1  P1  Hf3  6_666  6_665  87.19(5)
+  Hf1  P1  Hf3  6_656  6_665  148.2(2)
+  Hf2  P1  Hf3  6_656  6_665  124.63(15)
+  Hf2  P1  Hf3  6_666  6_665  71.00(6)
+  Hf3  P1  Hf3  6_655  6_665  83.22(11)
+  Hf1  P1  Hf1  6_666  2  73.33(9)
+  Hf1  P1  Hf1  6_656  2  73.33(9)
+  Hf2  P1  Hf1  6_656  2  137.12(6)
+  Hf2  P1  Hf1  6_666  2  137.12(6)
+  Hf3  P1  Hf1  6_655  2  74.89(9)
+  Hf3  P1  Hf1  6_665  2  74.89(9)
+  Hf1  P1  Hf3  6_666  .  73.42(9)
+  Hf1  P1  Hf3  6_656  .  73.42(9)
+  Hf2  P1  Hf3  6_656  .  63.87(8)
+  Hf2  P1  Hf3  6_666  .  63.87(8)
+  Hf3  P1  Hf3  6_655  .  133.14(8)
+  Hf3  P1  Hf3  6_665  .  133.14(8)
+  Hf1  P1  Hf3  2  .  134.28(14)
+  Hf2  P2  Hf2  1_556  5_666  79.39(9)
+  Hf2  P2  Hf2  1_556  5_656  79.39(9)
+  Hf2  P2  Hf2  5_666  5_656  86.29(12)
+  Hf2  P2  Hf3  1_556  .  73.03(11)
+  Hf2  P2  Hf3  5_666  .  128.43(10)
+  Hf2  P2  Hf3  5_656  .  128.43(10)
+  Hf2  P2  Hf1  1_556  6_656  130.35(10)
+  Hf2  P2  Hf1  5_666  6_656  145.8(2)
+  Hf2  P2  Hf1  5_656  6_656  84.14(5)
+  Hf3  P2  Hf1  .  6_656  81.90(10)
+  Hf2  P2  Hf1  1_556  6_666  130.35(10)
+  Hf2  P2  Hf1  5_666  6_666  84.14(5)
+  Hf2  P2  Hf1  5_656  6_666  145.8(2)
+  Hf3  P2  Hf1  .  6_666  81.90(10)
+  Hf1  P2  Hf1  6_656  6_666  85.62(11)
+  Hf2  P2  Hf3  1_556  2_556  137.2(2)
+  Hf2  P2  Hf3  5_666  2_556  69.85(10)
+  Hf2  P2  Hf3  5_656  2_556  69.85(10)
+  Hf3  P2  Hf3  .  2_556  149.75(15)
+  Hf1  P2  Hf3  6_656  2_556  76.06(9)
+  Hf1  P2  Hf3  6_666  2_556  76.06(9)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Hf1  P2  6_665  2.627(3)  yes
+  Hf1  P2  6_655  2.627(3)  yes
+  Hf1  P1  6_665  2.638(3)  yes
+  Hf1  P1  6_655  2.638(3)  yes
+  Hf1  P1  2_455  2.729(4)  yes
+  Hf1  Hf1  5  3.2057(11)  yes
+  Hf1  Hf1  5_565  3.2057(11)  yes
+  Hf1  Hf3  5_556  3.2938(9)  yes
+  Hf1  Hf3  5_566  3.2938(9)  yes
+  Hf1  Hf2  .  3.3923(12)  yes
+  Hf1  Hf3  6_665  3.4347(8)  yes
+  Hf1  Hf3  6_655  3.4347(8)  yes
+  Hf2  P2  1_554  2.599(4)  yes
+  Hf2  P2  5_666  2.611(3)  yes
+  Hf2  P2  5_656  2.611(3)  yes
+  Hf2  P1  6_655  2.652(3)  yes
+  Hf2  P1  6_665  2.652(3)  yes
+  Hf2  Hf3  6_665  3.0521(8)  yes
+  Hf2  Hf3  6_655  3.0521(8)  yes
+  Hf2  Hf3  1_554  3.1016(10)  yes
+  Hf2  Hf2  5_665  3.3274(12)  yes
+  Hf2  Hf2  5_655  3.3274(12)  yes
+  Hf2  Hf1  2  3.5097(10)  yes
+  Hf3  P2  .  2.614(4)  yes
+  Hf3  P1  6_666  2.689(3)  yes
+  Hf3  P1  6_656  2.689(3)  yes
+  Hf3  P2  2_456  2.718(4)  yes
+  Hf3  Hf2  6_656  3.0521(8)  yes
+  Hf3  Hf2  6_666  3.0521(8)  yes
+  Hf3  P1  .  3.077(4)  yes
+  Hf3  Hf2  1_556  3.1016(10)  yes
+  Hf3  Hf1  5_556  3.2938(9)  yes
+  Hf3  Hf1  5_566  3.2938(9)  yes
+  Hf3  Hf1  6_666  3.4347(8)  yes
+  Hf3  Hf1  6_656  3.4347(8)  yes
+  P1  Hf1  6_666  2.638(3)  yes
+  P1  Hf1  6_656  2.638(3)  yes
+  P1  Hf2  6_656  2.652(3)  yes
+  P1  Hf2  6_666  2.652(3)  yes
+  P1  Hf3  6_655  2.689(3)  yes
+  P1  Hf3  6_665  2.689(3)  yes
+  P1  Hf1  2  2.729(4)  yes
+  P2  Hf2  1_556  2.599(4)  yes
+  P2  Hf2  5_666  2.611(3)  yes
+  P2  Hf2  5_656  2.611(3)  yes
+  P2  Hf1  6_656  2.627(3)  yes
+  P2  Hf1  6_666  2.627(3)  yes
+  P2  Hf3  2_556  2.718(4)  yes

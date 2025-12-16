@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_1001369
+loop_
+ _publ_author_name
+  'Leclaire, A'
+  'Borel, M M'
+  'Grandin, A'
+  'Raveau, B'
+_publ_section_title
+'A Mo(III) Phosphate with a Cage Structure: Na Mo P~2~ O~7~'
+_journal_coden_ASTM   JSSCBI
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   131
+_journal_page_last   135
+_journal_paper_doi   10.1016/0022-4596(88)90200-9
+_journal_volume   76
+_journal_year   1988
+_chemical_formula_structural   'Na Mo (P2 O7)'
+_chemical_formula_sum   'Mo Na O7 P2'
+_chemical_name_systematic   'Sodium molybdenum(III) diphosphate'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   111.868(3)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.4195(3)
+_cell_length_b   8.1084(4)
+_cell_length_c   9.7598(4)
+_cell_volume   544.9
+_refine_ls_R_factor_all   0.035
+_cod_database_code   1001369
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,1/2+y,1/2-z
+  -x,-y,-z
+  x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Mo1  Mo3+  4  e  0.25843(2)  0.00547(2)  0.24845(1)  1.  0  d
+  P1  P5+  4  e  0.07446(6)  0.25293(6)  0.45875(5)  1.  0  d
+  P2  P5+  4  e  -0.32763(6)  0.21689(6)  0.45738(5)  1.  0  d
+  Na1  Na1+  4  e  0.28421(23)  0.48235(22)  0.28787(19)  1.  0  d
+  O1  O2-  4  e  0.53989(21)  0.08981(20)  0.35713(17)  1.  0  d
+  O2  O2-  4  e  0.30868(25)  -0.20968(18)  0.38279(15)  1.  0  d
+  O3  O2-  4  e  0.17033(27)  0.12870(21)  0.39527(19)  1.  0  d
+  O4  O2-  4  e  -0.02348(20)  -0.08760(17)  0.13034(16)  1.  0  d
+  O5  O2-  4  e  0.19160(26)  0.22060(18)  0.12102(16)  1.  0  d
+  O6  O2-  4  e  0.37151(22)  -0.10667(18)  0.09997(16)  1.  0  d
+  O7  O2-  4  e  -0.12504(21)  0.16453(19)  0.44471(19)  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Mo3+  3.000
+  P5+  5.000
+  Na1+  1.000
+  O2-  -2.000

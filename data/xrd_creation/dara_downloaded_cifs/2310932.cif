@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_2310932
+loop_
+ _publ_author_name
+  'Ramsdell, L.S.'
+  'Kohn, J.A.'
+_publ_section_title   'Developments in silicon carbide research'
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   215
+_journal_page_last   224
+_journal_volume   5
+_journal_year   1952
+_chemical_formula_sum   'C Si'
+_chemical_name_systematic   'Si C'
+_space_group_IT_number   186
+_symmetry_space_group_name_Hall   'P 6c -2c'
+_symmetry_space_group_name_H-M   'P 63 m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   8
+_cell_length_a   3.079
+_cell_length_b   3.079
+_cell_length_c   20.146
+_cell_volume   165.401
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Ramsdell_ACCRA9_1952_154.cif
+_cod_data_source_block   C1Si1
+_cod_original_cell_volume   165.4013
+_cod_original_formula_sum   'C1 Si1'
+_cod_database_code   2310932
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x-y,x,z+1/2
+  -y,x-y,z
+  -x,-y,z+1/2
+  -x+y,-x,z
+  y,-x+y,z+1/2
+  y,x,z+1/2
+  -x+y,y,z
+  -x,-x+y,z+1/2
+  -y,-x,z
+  x-y,-y,z+1/2
+  x,x-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Si3  Si+4  0.3333  0.6667  0.25  1  0.0
+  C4  C-4  0.3333  0.6667  0.969  1  0.0
+  C1  C-4  0  0  0.094  1  0.0
+  C2  C-4  0.3333  0.6667  0.344  1  0.0
+  C3  C-4  0.3333  0.6667  0.719  1  0.0
+  Si2  Si+4  0.3333  0.6667  0.625  1  0.0
+  Si1  Si+4  0  0  0  1  0.0
+  Si4  Si+4  0.3333  0.6667  0.875  1  0.0

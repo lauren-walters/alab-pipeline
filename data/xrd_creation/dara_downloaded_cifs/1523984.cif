@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_1523984
+loop_
+ _publ_author_name
+  'Andersson, Y.'
+  'Pramatus, S.'
+  'Rundqvist, S.'
+_publ_section_title   'Crystal structure refinement of alpha-Ta3 P'
+_journal_name_full
+'Acta Chemica Scandinavica, Series A: (28,1974-)'
+_journal_page_first   811
+_journal_page_last   813
+_journal_volume   32
+_journal_year   1978
+_chemical_formula_sum   'P Ta3'
+_chemical_name_systematic   'Ta3 P'
+_space_group_IT_number   86
+_symmetry_space_group_name_Hall   '-P 4bc'
+_symmetry_space_group_name_H-M   'P 42/n :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   10.155
+_cell_length_b   10.155
+_cell_length_c   5.0128
+_cell_volume   516.940
+_citation_journal_id_ASTM   ACAPCT
+_cod_data_source_file   Andersson_ACAPCT_1978_574.cif
+_cod_data_source_block   P1Ta3
+_cod_original_cell_volume   516.9401
+_cod_original_formula_sum   'P1 Ta3'
+_cod_database_code   1523984
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x+1/2,z+1/2
+  -x+1/2,-y+1/2,z
+  y+1/2,-x,z+1/2
+  -x,-y,-z
+  y,-x-1/2,-z-1/2
+  x-1/2,y-1/2,-z
+  -y-1/2,x,-z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Ta1  Ta+1  0.15898  0.65557  0.7435  1  0.0
+  Ta3  Ta+1  0.05257  0.54548  0.2474  1  0.0
+  P1  P-3  0.042  0.2583  0.0064  1  0.0
+  Ta2  Ta+1  0.10483  0.25374  0.5044  1  0.0

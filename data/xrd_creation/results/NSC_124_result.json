@@ -1,0 +1,17 @@
+{
+  "experiment_id": "65fab02b2d682ecd7d7d0f64",
+  "experiment_name": "NSC_124",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Ge-Na-O-P-Ta",
+  "target_formula": "Na0.55Ge1.5(PO4)4.0Ta0.5",
+  "analysis_timestamp": "2025-12-06T17:14:41.795239",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

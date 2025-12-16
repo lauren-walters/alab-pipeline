@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_9015072
+loop_
+ _publ_author_name
+  'Natta, G.'
+_publ_section_title
+;
+Struttura degli idrossidi ed idrati. - Nota IV. Sul perossido di
+stronzio ottoidrato  _cod_database_code 1010384
+;
+_journal_name_full   'Gazzetta Chimica Italiana'
+_journal_page_first   444
+_journal_page_last   456
+_journal_volume   62
+_journal_year   1932
+_chemical_formula_sum   'H16 O10 Sr'
+_space_group_IT_number   123
+_symmetry_space_group_name_Hall   '-P 4 2'
+_symmetry_space_group_name_H-M   'P 4/m m m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   1
+_cell_length_a   6.32
+_cell_length_b   6.32
+_cell_length_c   5.56
+_cell_volume   222.080
+_database_code_amcsd   0017309
+_exptl_crystal_density_diffrn   1.851
+_cod_duplicate_entry   1010384
+_cod_original_formula_sum   'Sr O10'
+_cod_database_code   9015072
+_amcsd_formula_title   'H16 O10 Sr'
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -y,-x,z
+  y,x,-z
+  y,-x,-z
+  -y,x,z
+  x,-y,z
+  -x,y,-z
+  x,y,-z
+  -x,-y,z
+  y,x,z
+  -y,-x,-z
+  -y,x,-z
+  y,-x,z
+  -x,y,z
+  x,-y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_attached_hydrogens
+  Sr1  Sr  0.00000  0.00000  0.00000  0
+  O1  O  0.50000  0.50000  0.10000  0
+  O2  O  0.20000  0.20000  0.25000  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2024-12-10T17:36:39+02:00
+;
+Changed the number of hydrogen atoms attached to the 'Sr1' atom site
+to '0'  and updated the '_chemical_formula_sum' data value
+accordingly.  Added the '_atom_site_type_symbol' data item.
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0017309

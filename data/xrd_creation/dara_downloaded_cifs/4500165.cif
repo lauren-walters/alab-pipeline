@@ -1,0 +1,309 @@
+# generated using pymatgen
+data_4500165
+loop_
+ _publ_author_name
+  'Yeung, Hamish H.-M.'
+  'Kosa, Monica'
+  'Parrinello, Michele'
+  'Forster, Paul M.'
+  'Cheetham, Anthony K.'
+_publ_section_title
+;
+Structural Diversity and Energetics in Anhydrous Lithium Tartrates:
+Experimental and Computational Studies of Novel Chiral Polymorphs and
+Their Racemic and Meso Analogues
+;
+_journal_issue   1
+_journal_name_full   'Crystal Growth &amp; Design'
+_journal_page_first   221
+_journal_paper_doi   10.1021/cg101170k
+_journal_volume   11
+_journal_year   2011
+_chemical_formula_moiety   '(Li 1+)2 (C4 H4 O6 2-)'
+_chemical_formula_sum   'C4 H4 Li2 O6'
+_chemical_formula_weight   161.95
+_chemical_name_common   'Dilithium meso-tartrate'
+_chemical_name_systematic   ?
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   100.474(9)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   6.0522(9)
+_cell_length_b   5.3351(8)
+_cell_length_c   9.8636(14)
+_cell_measurement_reflns_used   10520
+_cell_measurement_temperature   120(2)
+_cell_measurement_theta_max   27.48
+_cell_measurement_theta_min   2.91
+_cell_volume   313.18(8)
+_computing_cell_refinement
+'DENZO (Otwinowski & Minor, 1997) & COLLECT (Hooft, R.W.W., 1998)'
+_computing_data_collection   'COLLECT (Hooft, R.W.W., 1998)'
+_computing_data_reduction
+'DENZO (Otwinowski & Minor, 1997) & COLLECT (Hooft, R.W.W., 1998)'
+_computing_molecular_graphics
+;
+'Ortep-3 for Windows (Farrugia, 1997),  DIAMOND (Brandenburg, K.,
+1999) &  Mercury (Macrae, C.F. et al., 2006)'
+;
+_computing_publication_material
+'WinGX publication routines (Farrugia, 1999)'
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 2008)'
+_computing_structure_solution
+"'Superflip' (Palatinus L., Chapuis G., 2007)"
+_diffrn_ambient_temperature   120(2)
+_diffrn_detector_area_resol_mean   '4096x4096pixels / 62x62mm'
+_diffrn_measured_fraction_theta_full   0.982
+_diffrn_measured_fraction_theta_max   0.982
+_diffrn_measurement_device_type
+'Bruker-Nonius APEX II CCD camera on \k-goniostat'
+_diffrn_measurement_method   '\f & \w scans'
+_diffrn_radiation_monochromator   '10cm confocal mirrors'
+_diffrn_radiation_source   'Bruker-Nonius FR591 rotating anode'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0554
+_diffrn_reflns_av_sigmaI/netI   0.0470
+_diffrn_reflns_limit_h_max   7
+_diffrn_reflns_limit_h_min   -7
+_diffrn_reflns_limit_k_max   6
+_diffrn_reflns_limit_k_min   -6
+_diffrn_reflns_limit_l_max   12
+_diffrn_reflns_limit_l_min   -12
+_diffrn_reflns_number   3246
+_diffrn_reflns_theta_full   27.59
+_diffrn_reflns_theta_max   27.59
+_diffrn_reflns_theta_min   3.42
+_exptl_absorpt_coefficient_mu   0.158
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   1.717
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   rod
+_exptl_crystal_F_000   164
+_exptl_crystal_size_max   0.22
+_exptl_crystal_size_mid   0.05
+_exptl_crystal_size_min   0.03
+_refine_diff_density_max   0.316
+_refine_diff_density_min   -0.263
+_refine_diff_density_rms   0.073
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.014
+_refine_ls_hydrogen_treatment   mixed
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   62
+_refine_ls_number_reflns   713
+_refine_ls_number_restraints   2
+_refine_ls_restrained_S_all   1.018
+_refine_ls_R_factor_all   0.1059
+_refine_ls_R_factor_gt   0.0810
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0583P)^2^+1.1685P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.1736
+_refine_ls_wR_factor_ref   0.1906
+_reflns_number_gt   543
+_reflns_number_total   713
+_reflns_threshold_expression   >2\s(I)
+_cod_data_source_file   cg101170k_si_002.cif
+_cod_data_source_block   4-Li2mesoTartrate
+_cod_original_sg_symbol_H-M   'P 21/c'
+_cod_database_code   4500165
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+  Li1  Li  1.1163(10)  0.5018(12)  0.1961(6)  0.0309(14)  Uani  1  1
+  d  .
+  C1  C  0.7704(6)  0.7963(7)  0.0435(4)  0.0316(9)  Uani  1  1  d
+  D
+  O1A  O  0.9100(4)  0.7701(5)  0.1526(2)  0.0321(7)  Uani  1  1  d
+  .
+  O1B  O  0.7525(5)  0.6594(5)  -0.0606(3)  0.0392(8)  Uani  1  1  d
+  .
+  C2  C  0.6233(8)  1.0354(9)  0.0291(4)  0.0269(11)  Uani  0.785(8)
+  1  d  PD
+  H2  H  0.6791  1.1606  -0.0290  0.032  Uiso  0.785(8)  1  calc  PR
+  C20  C  0.546(2)  0.929(3)  0.0651(16)  0.0269(11)  Uani  0.215(8)
+  1  d  PD
+  H20  H  0.4377  0.8157  0.0955  0.032  Uiso  0.215(8)  1  calc  PR
+  O2  O  0.6312(6)  1.1284(7)  0.1670(3)  0.0568(11)  Uani  1  1  d
+  D
+  H2O  H  0.492(11)  1.255(12)  0.157(6)  0.085  Uiso  1  1  d  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Li1  0.034(3)  0.031(3)  0.026(3)  0.000(3)  0.004(2)  0.011(3)
+  C1  0.0326(19)  0.035(2)  0.0252(17)  -0.0044(15)  -0.0003(14)
+  0.0093(16)
+  O1A  0.0348(14)  0.0310(14)  0.0273(13)  0.0000(11)  -0.0027(10)
+  0.0077(11)
+  O1B  0.0416(16)  0.0433(17)  0.0302(14)  -0.0100(12)  0.0000(11)
+  0.0175(13)
+  C2  0.034(3)  0.021(2)  0.025(2)  -0.0040(18)  0.0029(17)
+  0.0043(19)
+  C20  0.034(3)  0.021(2)  0.025(2)  -0.0040(18)  0.0029(17)
+  0.0043(19)
+  O2  0.057(2)  0.066(2)  0.0374(16)  -0.0261(15)  -0.0169(14)
+  0.0338(17)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  C  0.0033  0.0016
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  H  H  0.0000  0.0000
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Li  Li  -0.0003  0.0001
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+  O1B  Li1  O1A  121.9(3)  3_765  .
+  O1B  Li1  O2  105.6(3)  3_765  2_745
+  O1A  Li1  O2  107.1(3)  .  2_745
+  O1B  Li1  O1A  110.8(3)  3_765  2_745
+  O1A  Li1  O1A  120.4(3)  .  2_745
+  O2  Li1  O1A  81.7(2)  2_745  2_745
+  O1B  C1  O1A  125.9(3)  .  .
+  O1B  C1  C2  116.4(3)  .  .
+  O1A  C1  C2  117.3(3)  .  .
+  O1B  C1  C20  115.2(6)  .  .
+  O1A  C1  C20  113.4(6)  .  .
+  C2  C1  C20  31.6(7)  .  .
+  C1  O1A  Li1  126.4(3)  .  .
+  C1  O1A  Li1  116.6(3)  .  2_755
+  Li1  O1A  Li1  116.30(17)  .  2_755
+  C1  O1B  Li1  150.1(3)  .  3_765
+  O2  C2  C2  107.4(5)  .  3_675
+  O2  C2  C1  106.1(3)  .  .
+  C2  C2  C1  109.5(5)  3_675  .
+  O2  C2  H2  111.2  .  .
+  C2  C2  H2  111.2  3_675  .
+  C1  C2  H2  111.2  .  .
+  O2  C20  C20  104.3(15)  .  3_675
+  O2  C20  C1  102.3(9)  .  .
+  C20  C20  C1  107.8(15)  3_675  .
+  O2  C20  H20  113.8  .  .
+  C20  C20  H20  113.8  3_675  .
+  C1  C20  H20  113.8  .  .
+  C2  O2  C20  33.7(7)  .  .
+  C2  O2  Li1  114.7(3)  .  2_755
+  C20  O2  Li1  110.4(6)  .  2_755
+  C2  O2  H2O  104(3)  .  .
+  C20  O2  H2O  103(3)  .  .
+  Li1  O2  H2O  141(3)  2_755  .
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  Li1  O1B  1.882(6)  3_765
+  Li1  O1A  1.897(6)  .
+  Li1  O2  1.966(7)  2_745
+  Li1  O1A  1.966(7)  2_745
+  C1  O1B  1.248(4)  .
+  C1  O1A  1.249(4)  .
+  C1  C2  1.547(5)  .
+  C1  C20  1.579(14)  .
+  O1A  Li1  1.966(7)  2_755
+  O1B  Li1  1.882(6)  3_765
+  C2  O2  1.441(5)  .
+  C2  C2  1.545(10)  3_675
+  C2  H2  0.9800  .
+  C20  O2  1.488(13)  .
+  C20  C20  1.51(3)  3_675
+  C20  H20  0.9800  .
+  O2  Li1  1.966(7)  2_755
+  O2  H2O  1.07(7)  .
+loop_
+ _geom_hbond_atom_site_label_D
+ _geom_hbond_atom_site_label_H
+ _geom_hbond_atom_site_label_A
+ _geom_hbond_distance_DH
+ _geom_hbond_distance_HA
+ _geom_hbond_distance_DA
+ _geom_hbond_angle_DHA
+ _geom_hbond_site_symmetry_A
+  O2  H2O  O1B  1.07(7)  1.67(6)  2.625(4)  146(5)  3_675
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_4
+  O1B  C1  O1A  Li1  -5.4(7)  .  .
+  C2  C1  O1A  Li1  -178.3(4)  .  .
+  C20  C1  O1A  Li1  147.0(8)  .  .
+  O1B  C1  O1A  Li1  -175.8(4)  .  2_755
+  C2  C1  O1A  Li1  11.3(5)  .  2_755
+  C20  C1  O1A  Li1  -23.5(9)  .  2_755
+  O1B  Li1  O1A  C1  33.6(6)  3_765  .
+  O2  Li1  O1A  C1  155.2(3)  2_745  .
+  O1A  Li1  O1A  C1  -114.6(4)  2_745  .
+  O1B  Li1  O1A  Li1  -155.9(4)  3_765  2_755
+  O2  Li1  O1A  Li1  -34.4(4)  2_745  2_755
+  O1A  Li1  O1A  Li1  55.9(5)  2_745  2_755
+  O1A  C1  O1B  Li1  -51.0(9)  .  3_765
+  C2  C1  O1B  Li1  121.9(6)  .  3_765
+  C20  C1  O1B  Li1  157.0(10)  .  3_765
+  O1B  C1  C2  O2  166.7(4)  .  .
+  O1A  C1  C2  O2  -19.7(5)  .  .
+  C20  C1  C2  O2  71.0(10)  .  .
+  O1B  C1  C2  C2  51.1(6)  .  3_675
+  O1A  C1  C2  C2  -135.3(5)  .  3_675
+  C20  C1  C2  C2  -44.7(10)  .  3_675
+  O1B  C1  C20  O2  -164.1(7)  .  .
+  O1A  C1  C20  O2  40.5(13)  .  .
+  C2  C1  C20  O2  -64.1(9)  .  .
+  O1B  C1  C20  C20  -54.4(17)  .  3_675
+  O1A  C1  C20  C20  150.1(12)  .  3_675
+  C2  C1  C20  C20  45.5(13)  .  3_675
+  C2  C2  O2  C20  46.0(11)  3_675  .
+  C1  C2  O2  C20  -71.0(10)  .  .
+  C2  C2  O2  Li1  136.0(4)  3_675  2_755
+  C1  C2  O2  Li1  19.0(5)  .  2_755
+  C20  C20  O2  C2  -46.6(13)  3_675  .
+  C1  C20  O2  C2  65.6(10)  .  .
+  C20  C20  O2  Li1  -150.9(12)  3_675  2_755
+  C1  C20  O2  Li1  -38.7(12)  .  2_755

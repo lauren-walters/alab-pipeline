@@ -1,0 +1,106 @@
+# generated using pymatgen
+data_1011277
+loop_
+ _publ_author_name
+  'Passerini, L'
+_publ_section_title
+;
+Struttura cristallina di alcuni fosfuri di metalli bivalenti e
+trivalenti
+;
+_journal_coden_ASTM   GCITA9
+_journal_name_full   'Gazzetta Chimica Italiana'
+_journal_page_first   655
+_journal_page_last   664
+_journal_volume   58
+_journal_year   1928
+_chemical_formula_structural   'Mg3 P2'
+_chemical_formula_sum   'Mg3 P2'
+_chemical_name_systematic   'Magnesium phosphide'
+_space_group_IT_number   224
+_symmetry_cell_setting   cubic
+_symmetry_space_group_name_Hall   'P 4n 2 3 -1n'
+_symmetry_space_group_name_H-M   'P n -3 m :1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   5.92
+_cell_length_b   5.92
+_cell_length_c   5.92
+_cell_volume   207.5
+_cod_original_sg_symbol_H-M   'P n -3 m S'
+_cod_database_code   1011277
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,z,y
+  y,z,x
+  z,y,x
+  z,x,y
+  y,x,z
+  x,-y,-z
+  x,-z,-y
+  y,-z,-x
+  z,-y,-x
+  z,-x,-y
+  y,-x,-z
+  -x,y,-z
+  -x,z,-y
+  -y,z,-x
+  -z,y,-x
+  -z,x,-y
+  -y,x,-z
+  -x,-y,z
+  -x,-z,y
+  -y,-z,x
+  -z,-y,x
+  -z,-x,y
+  -y,-x,z
+  1/2-x,1/2-y,1/2-z
+  1/2-x,1/2-z,1/2-y
+  1/2-y,1/2-z,1/2-x
+  1/2-z,1/2-y,1/2-x
+  1/2-z,1/2-x,1/2-y
+  1/2-y,1/2-x,1/2-z
+  1/2-x,1/2+y,1/2+z
+  1/2-x,1/2+z,1/2+y
+  1/2-y,1/2+z,1/2+x
+  1/2-z,1/2+y,1/2+x
+  1/2-z,1/2+x,1/2+y
+  1/2-y,1/2+x,1/2+z
+  1/2+x,1/2-y,1/2+z
+  1/2+x,1/2-z,1/2+y
+  1/2+y,1/2-z,1/2+x
+  1/2+z,1/2-y,1/2+x
+  1/2+z,1/2-x,1/2+y
+  1/2+y,1/2-x,1/2+z
+  1/2+x,1/2+y,1/2-z
+  1/2+x,1/2+z,1/2-y
+  1/2+y,1/2+z,1/2-x
+  1/2+z,1/2+y,1/2-x
+  1/2+z,1/2+x,1/2-y
+  1/2+y,1/2+x,1/2-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Mg1  Mg2+  6  d  0.  0.5  0.5  1.  0  d
+  P1  P3-  4  b  0.25  0.25  0.25  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Mg2+  2.000
+  P3-  -3.000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139036607

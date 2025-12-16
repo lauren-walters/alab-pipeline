@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_2020190
+loop_
+ _publ_author_name
+  'Lightfoot, P.'
+  'Cheetham, A.K.'
+_publ_section_title
+;
+The synthesis and structure of heptacobalt tetrakis
+(hydrogenphosphate)  bis(phosphate)
+;
+_journal_name_full   'Acta Crystallographica C (39,1983-)'
+_journal_page_first   1331
+_journal_page_last   1334
+_journal_volume   44
+_journal_year   1988
+_chemical_formula_sum   'Co7 H4 O24 P6'
+_chemical_name_systematic   'Co7 (H P O4)4 (P O4)2'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   104.29
+_cell_angle_beta   101.35
+_cell_angle_gamma   109.1
+_cell_formula_units_Z   1
+_cell_length_a   6.466
+_cell_length_b   9.48
+_cell_length_c   7.871
+_cell_volume   421.021
+_citation_journal_id_ASTM   ACSCEE
+_cod_data_source_file   Lightfoot_ACSCEE_1988_1645.cif
+_cod_data_source_block   H4Co7O24P6
+_cod_original_cell_volume   421.0211
+_cod_original_formula_sum   'H4 Co7 O24 P6'
+_cod_database_code   2020190
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O5  O-2  0.4484  -0.2278  0.2455  1  0.0
+  P3  P+5  0.22564  -0.22195  0.14347  1  0.0
+  P2  P+5  0.41036  0.37297  0.23105  1  0.0
+  O3  O-2  0.2714  0.4744  0.2954  1  0.0
+  O10  O-2  0.3803  -0.4903  -0.2052  1  0.0
+  Co3  Co+2  0.28549  0.28506  -0.18742  1  0.0
+  O1  O-2  0.262  0.2381  0.0505  1  0.0
+  P1  P+5  0.08549  -0.17344  -0.42163  1  0.0
+  O7  O-2  0.1081  -0.0977  -0.2173  1  0.0
+  O9  O-2  -0.0157  0.3365  -0.1711  1  0.0
+  Co2  Co+2  0.38612  0.11007  0.45711  1  0.0
+  H1  H+1  0.373  0.562  0.406  1  0.0
+  Co4  Co+2  0.0519  -0.48521  -0.28517  1  0.0
+  H2  H+1  0.826  0.202  0.125  1  0.0
+  O2  O-2  0.3034  -0.0864  -0.4636  1  0.0
+  O6  O-2  0.0537  -0.3474  -0.4577  1  0.0
+  O8  O-2  0.1259  0.1649  -0.4579  1  0.0
+  O11  O-2  0.2237  -0.0544  0.1861  1  0.0
+  O12  O-2  0.2063  -0.2745  -0.0671  1  0.0
+  Co1  Co+2  0  0  0  1  0.0
+  O4  O-2  0.4804  0.3115  0.3847  1  0.0

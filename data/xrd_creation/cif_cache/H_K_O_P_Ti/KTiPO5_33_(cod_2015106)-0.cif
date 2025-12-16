@@ -1,0 +1,441 @@
+# generated using pymatgen
+data_2015106
+loop_
+ _publ_author_name
+  'Stefan T. Norberg'
+  'Nobuo Ishizawa'
+_publ_section_title
+'K-site splitting in KTiOPO~4~ at room temperature'
+_journal_coeditor_code   BC1075
+_journal_issue   10
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   i99
+_journal_page_last   i102
+_journal_paper_doi   10.1107/S0108270105027010
+_journal_volume   61
+_journal_year   2005
+_chemical_formula_moiety   'K2 O10 P2 Ti2'
+_chemical_formula_structural   K2(TiO)2(PO4)2
+_chemical_formula_sum   'K2 O10 P2 Ti2'
+_chemical_formula_weight   395.88
+_chemical_name_systematic   'potassium titanyl phosphate'
+_space_group_IT_number   33
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   'P 2c -2n'
+_symmetry_space_group_name_H-M   'P n a 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   12.816(3)
+_cell_length_b   6.4045(5)
+_cell_length_c   10.5889(8)
+_cell_measurement_reflns_used   17
+_cell_measurement_temperature   295(2)
+_cell_measurement_theta_max   48.97
+_cell_measurement_theta_min   27.93
+_cell_volume   869.1(2)
+_computing_cell_refinement   'LATCON in Xtal3.7 (Hall et al., 2000)'
+_computing_data_collection   'DIFF14A (Vaalsta & Hester, 1997)'
+_computing_data_reduction
+'DIFDAT, ADDREF, SORTRF and ABSORB in Xtal3.7'
+_computing_molecular_graphics
+'DIAMOND (Brandenburg, 2001), and FOURR, SLANT and CONTRS in Xtal3.7'
+_computing_publication_material
+'BONDLA, ATABLE and CIFIO in Xtal3.7'
+_computing_structure_refinement   'CRYLSQ in Xtal3.7'
+_computing_structure_solution
+'atomic parameters from Norberg et al. (2000)'
+_diffrn_ambient_temperature   295(2)
+_diffrn_measured_fraction_theta_full   55.01
+_diffrn_measured_fraction_theta_max   55.01
+_diffrn_measurement_device_type   'bl14a 4-circle'
+_diffrn_measurement_method   \w-2\q
+_diffrn_radiation_monochromator   Si(111)
+_diffrn_radiation_source   'Photon Factory bl14a'
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   0.750520(10)
+_diffrn_reflns_av_R_equivalents   0.015
+_diffrn_reflns_limit_h_max   27
+_diffrn_reflns_limit_h_min   -27
+_diffrn_reflns_limit_k_max   9
+_diffrn_reflns_limit_k_min   -13
+_diffrn_reflns_limit_l_max   23
+_diffrn_reflns_limit_l_min   -23
+_diffrn_reflns_number   25010
+_diffrn_reflns_reduction_process   'equatorial monochr Lp'
+_diffrn_reflns_theta_full   55.01
+_diffrn_reflns_theta_max   55.01
+_diffrn_reflns_theta_min   3.36
+_diffrn_standards_decay_%   0
+_diffrn_standards_interval_count   200
+_diffrn_standards_number   4
+_exptl_absorpt_coefficient_mu   3.622
+_exptl_absorpt_correction_T_max   0.9783
+_exptl_absorpt_correction_T_min   0.9425
+_exptl_absorpt_correction_type   analytical
+_exptl_absorpt_process_details   '(Alcock, 1974)'
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   3.026
+_exptl_crystal_description   Rectangular
+_exptl_crystal_F_000   768
+_exptl_crystal_size_max   0.040
+_exptl_crystal_size_mid   0.038
+_exptl_crystal_size_min   0.032
+_refine_diff_density_max   1.02(8)
+_refine_diff_density_min   -0.64(8)
+_refine_ls_abs_structure_details
+'Flack (1983), with how many Friedel pairs'
+_refine_ls_abs_structure_Flack   0.426(11)
+_refine_ls_extinction_coef   74E2(4)
+_refine_ls_extinction_expression
+'Zachariasen, 1967; Larson (1970), Eq. 22 p. 292'
+_refine_ls_extinction_method   'isotropic Gaussian'
+_refine_ls_goodness_of_fit_all   1.016
+_refine_ls_goodness_of_fit_ref   0.996
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   14
+_refine_ls_number_parameters   154
+_refine_ls_number_reflns   9211
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_all   0.020
+_refine_ls_R_factor_gt   0.019
+_refine_ls_shift/su_max   0.0012
+_refine_ls_shift/su_mean   0.000044
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   'w = 1/[\s^2^(F) + 0.02(F)^2^]'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_all   0.026
+_refine_ls_wR_factor_gt   0.025
+_refine_ls_wR_factor_ref   0.025
+_reflns_number_gt   9211
+_reflns_number_total   9456
+_reflns_threshold_expression   F>2\s(F)
+_cod_data_source_file   bc1075.cif
+_cod_data_source_block   I
+_cod_original_cell_volume   869.2(2)
+_cod_original_sg_symbol_Hall   p_2c_-2n
+_cod_database_code   2015106
+_cod_database_fobs_code   2015106
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,1/2+z
+  1/2-x,1/2+y,1/2+z
+  1/2+x,1/2-y,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_calc_attached_atom
+ _atom_site_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  K1a  .37733(7)  .21992(9)  .3120(2)  .0165(2)  Uani  ?  ?
+  0.898(12)  ?  ?
+  K1b  .3847(6)  .2141(9)  .3374(13)  .0165(2)  Uani  ?  ?
+  0.102(12)  ?  ?
+  K2a  .10551(5)  .30033(12)  .0658(3)  .0175(2)  Uani  ?  ?
+  0.868(17)  ?  ?
+  K2b  .1040(4)  .3034(10)  .0897(12)  .0175(2)  Uani  ?  ?
+  0.132(17)  ?  ?
+  Ti1  .372929(11)  .50000(2)  .00206  .00513(4)  Uani  ?  ?  1  ?
+  ?
+  Ti2  .246673(11)  .73058(2)  .25338(2)  .00508(4)  Uani  ?  ?  1
+  ?  ?
+  P1  .49807(2)  .66366(4)  .26196(3)  .00518(7)  Uani  ?  ?  1  ?
+  ?
+  P2  .18085(2)  .49797(4)  .51447(3)  .00545(7)  Uani  ?  ?  1  ?
+  ?
+  O1  .48579(7)  .51335(14)  .15194(8)  .0092(2)  Uani  ?  ?  1  ?
+  ?
+  O2  .51002(6)  .53487(15)  .38504(8)  .0091(2)  Uani  ?  ?  1  ?
+  ?
+  O3  .40024(6)  .80068(13)  .28127(8)  .0079(2)  Uani  ?  ?  1  ?
+  ?
+  O4  .59349(6)  .80668(13)  .24263(8)  .0086(2)  Uani  ?  ?  1  ?
+  ?
+  O11  .27538(6)  .53332(13)  .14527(8)  .0081(2)  Uani  ?  ?  1  ?
+  ?
+  O12  .22371(7)  .95876(14)  .39198(8)  .0088(2)  Uani  ?  ?  1  ?
+  ?
+  O5  .11247(7)  .68910(12)  .54297(8)  .0084(2)  Uani  ?  ?  1  ?
+  ?
+  O6  .11138(7)  .30838(13)  .48910(9)  .0094(2)  Uani  ?  ?  1  ?
+  ?
+  O7  .25274(7)  .46062(14)  .62981(8)  .0092(2)  Uani  ?  ?  1  ?
+  ?
+  O8  .25297(7)  .53914(14)  .40123(8)  .0091(2)  Uani  ?  ?  1  ?
+  ?
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  K1a  .02199(15)  .01008(9)  .0174(4)  -.00383(9)  .00435(19)
+  -.00060(13)
+  K1b  .02199(15)  .01008(9)  .0174(4)  -.00383(9)  .00435(19)
+  -.00060(13)
+  K2a  .01293(9)  .02021(12)  .0194(5)  -.00499(8)  .00049(17)
+  .0007(2)
+  K2b  .01293(9)  .02021(12)  .0194(5)  -.00499(8)  .00049(17)
+  .0007(2)
+  Ti1  .00545(4)  .00508(4)  .00485(4)  .00012(3)  -.00021(4)
+  -.00062(4)
+  Ti2  .00503(4)  .00561(4)  .00460(4)  .00031(3)  .00046(4)
+  .00012(4)
+  P1  .00423(6)  .00594(7)  .00538(8)  .00002(6)  -.00061(6)
+  -.00032(6)
+  P2  .00683(7)  .00446(7)  .00508(8)  .00024(6)  .00032(6)
+  .00069(5)
+  O1  .0087(2)  .0101(3)  .0087(2)  .0015(2)  -.00232(19)  -.0033(2)
+  O2  .0087(2)  .0106(3)  .0081(2)  -.0015(2)  -.00277(19)  .0032(2)
+  O3  .0052(2)  .0084(2)  .0101(2)  .00105(17)  .00017(17)
+  -.00138(19)
+  O4  .0051(2)  .0094(2)  .0112(3)  -.00155(16)  .00054(18)
+  .0008(2)
+  O11  .0080(2)  .0084(2)  .0079(2)  -.00053(19)  .00218(18)
+  -.00218(19)
+  O12  .0090(2)  .0089(2)  .0085(2)  -.0006(2)  .00264(19)
+  -.0018(2)
+  O5  .0100(2)  .0052(2)  .0100(3)  .00102(18)  .0022(2)  .00002(18)
+  O6  .0111(2)  .0057(2)  .0115(3)  -.00123(18)  -.0022(2)
+  -.0001(2)
+  O7  .0105(3)  .0097(3)  .0073(2)  -.0019(2)  -.00251(19)  .0034(2)
+  O8  .0103(3)  .0101(3)  .0069(2)  .0028(2)  .00306(18)  .0030(2)
+loop_
+ _atom_type_symbol
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  K  .196003  .278478
+  'Int Tables Vol C. Table 6.1.1.4  Table 6.1.1.5'
+  Ti  .26491  .495747
+  'Int Tables Vol C. Table 6.1.1.4  Table 6.1.1.5'
+  P  .100431  .105649
+  'Int Tables Vol C. Table 6.1.1.4  Table 6.1.1.5'
+  O  .009319  .00681
+  'Int Tables Vol C. Table 6.1.1.4  Table 6.1.1.5'
+loop_
+ _diffrn_standard_refln_index_h
+ _diffrn_standard_refln_index_k
+ _diffrn_standard_refln_index_l
+  0  8  0
+  0  -8  0
+  0  0  8
+  0  0  -8
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+  O1  K1a  O2  .  .  52.40(3)
+  O1  K1a  O11  .  .  54.84(4)
+  O1  K1a  O8  .  .  89.82(3)
+  O1  K1a  O3  .  1_545  121.36(7)
+  O1  K1a  O12  .  1_545  158.76(8)
+  O1  K1a  O5  .  3_544  55.81(5)
+  O1  K1a  O7  .  3_544  104.30(7)
+  O2  K1a  O11  .  .  86.77(3)
+  O2  K1a  O8  .  .  73.58(4)
+  O2  K1a  O3  .  1_545  133.70(5)
+  O2  K1a  O12  .  1_545  144.24(9)
+  O2  K1a  O5  .  3_544  107.63(6)
+  O2  K1a  O7  .  3_544  156.60(8)
+  O11  K1a  O8  .  .  56.61(3)
+  O11  K1a  O3  .  1_545  129.97(8)
+  O11  K1a  O12  .  1_545  106.38(4)
+  O11  K1a  O5  .  3_544  58.37(5)
+  O11  K1a  O7  .  3_544  75.61(5)
+  O8  K1a  O3  .  1_545  146.57(5)
+  O8  K1a  O12  .  1_545  86.03(5)
+  O8  K1a  O5  .  3_544  114.78(6)
+  O8  K1a  O7  .  3_544  107.77(4)
+  O3  K1a  O12  1_545  1_545  60.54(3)
+  O3  K1a  O5  1_545  3_544  78.92(5)
+  O3  K1a  O7  1_545  3_544  56.27(3)
+  O12  K1a  O5  1_545  3_544  107.53(5)
+  O12  K1a  O7  1_545  3_544  57.66(3)
+  O5  K1a  O7  3_544  3_544  49.88(4)
+  O1  K1b  O2  .  .  51.41(14)
+  O1  K1b  O8  .  .  86.77(19)
+  O1  K1b  O3  .  1_545  116.2(4)
+  O1  K1b  O12  .  1_545  148.1(5)
+  O1  K1b  O5  .  3_544  51.8(2)
+  O2  K1b  O8  .  .  74.96(17)
+  O2  K1b  O3  .  1_545  138.6(3)
+  O2  K1b  O12  .  1_545  153.0(5)
+  O2  K1b  O5  .  3_544  102.9(3)
+  O8  K1b  O3  .  1_545  146.2(3)
+  O8  K1b  O12  .  1_545  86.4(2)
+  O8  K1b  O5  .  3_544  106.9(3)
+  O3  K1b  O12  1_545  1_545  60.82(13)
+  O3  K1b  O5  1_545  3_544  74.4(3)
+  O12  K1b  O5  1_545  3_544  101.1(3)
+  O11  K2a  O5  .  2_564  142.73(6)
+  O11  K2a  O2  .  3_544  154.13(10)
+  O11  K2a  O3  .  3_544  108.82(7)
+  O11  K2a  O12  .  3_544  55.76(3)
+  O11  K2a  O7  .  3_544  80.88(4)
+  O11  K2a  O8  .  3_544  90.10(4)
+  O11  K2a  O1  .  4_455  138.43(12)
+  O11  K2a  O4  .  4_465  54.95(4)
+  O5  K2a  O2  2_564  3_544  57.28(4)
+  O5  K2a  O3  2_564  3_544  83.66(7)
+  O5  K2a  O12  2_564  3_544  131.16(10)
+  O5  K2a  O7  2_564  3_544  131.21(4)
+  O5  K2a  O8  2_564  3_544  124.18(8)
+  O5  K2a  O1  2_564  4_455  58.57(3)
+  O5  K2a  O4  2_564  4_465  89.03(4)
+  O2  K2a  O3  3_544  3_544  48.80(5)
+  O2  K2a  O12  3_544  3_544  99.26(9)
+  O2  K2a  O7  3_544  3_544  91.92(4)
+  O2  K2a  O8  3_544  3_544  66.98(6)
+  O2  K2a  O1  3_544  4_455  60.27(3)
+  O2  K2a  O4  3_544  4_465  145.28(3)
+  O3  K2a  O12  3_544  3_544  53.92(5)
+  O3  K2a  O7  3_544  3_544  104.38(7)
+  O3  K2a  O8  3_544  3_544  55.84(6)
+  O3  K2a  O1  3_544  4_455  109.03(7)
+  O3  K2a  O4  3_544  4_465  126.46(6)
+  O12  K2a  O7  3_544  3_544  86.63(4)
+  O12  K2a  O8  3_544  3_544  53.29(4)
+  O12  K2a  O1  3_544  4_455  150.20(7)
+  O12  K2a  O4  3_544  4_465  97.41(3)
+  O7  K2a  O8  3_544  3_544  49.19(3)
+  O7  K2a  O1  3_544  4_455  73.67(4)
+  O7  K2a  O4  3_544  4_465  119.34(9)
+  O8  K2a  O1  3_544  4_455  97.16(4)
+  O8  K2a  O4  3_544  4_465  144.80(3)
+  O1  K2a  O4  4_455  4_465  111.63(9)
+  O11  K2b  O5  .  2_564  145.8(2)
+  O11  K2b  O2  .  3_544  145.9(4)
+  O11  K2b  O7  .  3_544  82.30(17)
+  O11  K2b  O8  .  3_544  87.62(18)
+  O11  K2b  O1  .  4_455  146.8(5)
+  O11  K2b  O4  .  4_465  57.52(16)
+  O5  K2b  O2  2_564  3_544  55.11(15)
+  O5  K2b  O7  2_564  3_544  131.6(2)
+  O5  K2b  O8  2_564  3_544  117.7(4)
+  O5  K2b  O1  2_564  4_455  59.17(12)
+  O5  K2b  O4  2_564  4_465  92.09(19)
+  O2  K2b  O7  3_544  3_544  88.9(2)
+  O2  K2b  O8  3_544  3_544  62.9(2)
+  O2  K2b  O1  3_544  4_455  58.52(15)
+  O2  K2b  O4  3_544  4_465  144.7(2)
+  O7  K2b  O8  3_544  3_544  47.60(11)
+  O7  K2b  O1  3_544  4_455  75.06(18)
+  O7  K2b  O4  3_544  4_465  125.8(4)
+  O8  K2b  O1  3_544  4_455  94.5(2)
+  O8  K2b  O4  3_544  4_465  144.0(2)
+  O1  K2b  O4  4_455  4_465  119.1(4)
+  O1  Ti1  O11  .  .  81.66(4)
+  O1  Ti1  O2  .  2_664  87.49(4)
+  O1  Ti1  O12  .  3_544  172.13(4)
+  O1  Ti1  O5  .  3_544  79.68(3)
+  O1  Ti1  O6  .  3_554  86.76(4)
+  O11  Ti1  O2  .  2_664  169.12(4)
+  O11  Ti1  O12  .  3_544  94.64(4)
+  O11  Ti1  O5  .  3_544  90.03(3)
+  O11  Ti1  O6  .  3_554  90.55(4)
+  O2  Ti1  O12  2_664  3_544  96.04(4)
+  O2  Ti1  O5  2_664  3_544  87.30(4)
+  O2  Ti1  O6  2_664  3_554  89.55(4)
+  O12  Ti1  O5  3_544  3_544  93.43(4)
+  O12  Ti1  O6  3_544  3_554  100.27(4)
+  O5  Ti1  O6  3_544  3_554  166.19(4)
+  O3  Ti2  O11  .  .  92.92(4)
+  O3  Ti2  O12  .  .  83.13(3)
+  O3  Ti2  O8  .  .  89.00(4)
+  O3  Ti2  O7  .  3_554  85.87(4)
+  O3  Ti2  O4  .  4_465  172.26(4)
+  O11  Ti2  O12  .  .  174.99(4)
+  O11  Ti2  O8  .  .  93.53(4)
+  O11  Ti2  O7  .  3_554  96.03(4)
+  O11  Ti2  O4  .  4_465  94.82(4)
+  O12  Ti2  O8  .  .  83.35(4)
+  O12  Ti2  O7  .  3_554  86.79(4)
+  O12  Ti2  O4  .  4_465  89.14(3)
+  O8  Ti2  O7  .  3_554  169.37(4)
+  O8  Ti2  O4  .  4_465  90.64(4)
+  O7  Ti2  O4  3_554  4_465  93.19(4)
+  O1  P1  O2  .  .  108.53(5)
+  O1  P1  O3  .  .  112.18(5)
+  O1  P1  O4  .  .  110.90(5)
+  O2  P1  O3  .  .  105.75(5)
+  O2  P1  O4  .  .  110.46(5)
+  O3  P1  O4  .  .  108.91(5)
+  O5  P2  O6  .  .  109.58(5)
+  O5  P2  O7  .  .  107.93(5)
+  O5  P2  O8  .  .  111.09(5)
+  O6  P2  O7  .  .  111.24(5)
+  O6  P2  O8  .  .  110.44(5)
+  O7  P2  O8  .  .  106.50(5)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  K1a  O1  .  .  2.8870(17)  y
+  K1a  O2  .  .  2.7495(13)  y
+  K1a  O3  .  1_545  2.7205(10)  y
+  K1a  O11  .  .  2.9751(17)  y
+  K1a  O12  .  1_545  2.7187(14)  y
+  K1a  O5  .  3_544  2.858(2)  y
+  K1a  O7  .  3_544  3.0425(18)  y
+  K1a  O8  .  .  2.7593(14)  y
+  K1a  K1b  .  .  0.287(13)  y
+  K1b  O1  .  .  3.034(10)  y
+  K1b  O2  .  .  2.656(7)  y
+  K1b  O3  .  1_545  2.721(6)  y
+  K1b  O12  .  1_545  2.695(8)  y
+  K1b  O5  .  3_544  3.122(14)  y
+  K1b  O8  .  .  2.764(7)  y
+  K2a  O1  .  4_455  2.6876(16)  y
+  K2a  O2  .  3_544  2.957(2)  y
+  K2a  O3  .  3_544  3.013(3)  y
+  K2a  O4  .  4_465  3.141(2)  y
+  K2a  O11  .  .  2.7703(15)  y
+  K2a  O12  .  3_544  3.034(2)  y
+  K2a  O5  .  2_564  2.8049(13)  y
+  K2a  O7  .  3_544  2.9144(14)  y
+  K2a  O8  .  3_544  3.020(2)  y
+  K2a  K2b  .  .  0.255(13)  y
+  K2b  O1  .  4_455  2.616(7)  y
+  K2b  O2  .  3_544  3.129(10)  y
+  K2b  O4  .  4_465  2.980(9)  y
+  K2b  O11  .  .  2.709(6)  y
+  K2b  O5  .  2_564  2.819(6)  y
+  K2b  O7  .  3_544  2.893(6)  y
+  K2b  O8  .  3_544  3.195(9)  y
+  Ti1  O1  .  .  2.1490(9)  y
+  Ti1  O2  .  2_664  1.9585(9)  y
+  Ti1  O11  .  .  1.9770(8)  y
+  Ti1  O12  .  3_544  1.7212(9)  y
+  Ti1  O5  .  3_544  2.0463(8)  y
+  Ti1  O6  .  3_554  1.9900(8)  y
+  Ti2  O3  .  .  2.0402(9)  y
+  Ti2  O4  .  4_465  1.9810(9)  y
+  Ti2  O11  .  .  1.7440(9)  y
+  Ti2  O12  .  .  2.0919(9)  y
+  Ti2  O7  .  3_554  1.9704(9)  y
+  Ti2  O8  .  .  1.9902(9)  y
+  P1  O1  .  .  1.5195(9)  ?
+  P1  O2  .  .  1.5499(9)  ?
+  P1  O3  .  .  1.5441(8)  ?
+  P1  O4  .  .  1.5416(8)  ?
+  P2  O5  .  .  1.5355(9)  ?
+  P2  O6  .  .  1.5295(9)  ?
+  P2  O7  .  .  1.5485(9)  ?
+  P2  O8  .  .  1.5368(9)  ?

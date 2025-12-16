@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_2310596
+loop_
+ _publ_author_name
+  'Hemily, P.W.'
+_publ_section_title
+;
+Structures cristallines des hydrates de la soude. I. Structure
+cristalline de Na O H (H2 O)4
+;
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   37
+_journal_page_last   44
+_journal_volume   10
+_journal_year   1957
+_chemical_formula_sum   'H9 Na O5'
+_chemical_name_systematic   'Na (O H) (H2 O)4'
+_space_group_IT_number   12
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   116.83
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   15.45
+_cell_length_b   4.05
+_cell_length_c   9.43
+_cell_volume   526.539
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Hemily_ACCRA9_1957_219.cif
+_cod_data_source_block   H9Na1O5
+_cod_original_cell_volume   526.5386
+_cod_original_formula_sum   'H9 Na1 O5'
+_cod_database_code   2310596
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z
+  -x,-y,-z
+  x,-y,z
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.224  0  0.3171  1  0.0
+  Na1  Na+1  0.4547  0  0.1417  1  0.0
+  O3  O-2  0.6064  0  0.1396  1  0.0
+  O5  O-2  0.8546  0  0.4302  1  0.0
+  O4  O-2  0.978  0  0.2836  1  0.0
+  O2  O-2  0.2921  0  0.0975  1  0.0

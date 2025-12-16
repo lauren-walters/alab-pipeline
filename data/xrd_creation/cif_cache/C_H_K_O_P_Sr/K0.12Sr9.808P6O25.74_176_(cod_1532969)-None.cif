@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_1532969
+loop_
+ _publ_author_name
+  'Naddari, T.'
+  'Ben Salah, A.'
+  'Hamdi, B.'
+  'El Feki, H.'
+  'Savariault, J.M.'
+_publ_section_title
+;
+Substitution mechanism of alkali metals for strontium in strontium
+hydroxyapatite
+;
+_journal_name_full   'Materials Research Bulletin'
+_journal_page_first   221
+_journal_page_last   230
+_journal_volume   38
+_journal_year   2003
+_chemical_formula_sum   'H1.74 K0.12 O25.74 P6 Sr9.81'
+_chemical_name_systematic   'Sr9.81 K0.12 (P O4)6 (O H)1.74'
+_space_group_IT_number   176
+_symmetry_space_group_name_Hall   '-P 6c'
+_symmetry_space_group_name_H-M   'P 63/m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   1
+_cell_length_a   9.755
+_cell_length_b   9.755
+_cell_length_c   7.284
+_cell_volume   600.282
+_citation_journal_id_ASTM   MRBUAC
+_cod_data_source_file   Naddari_MRBUAC_2003_542.cif
+_cod_data_source_block   H1.74K0.12O25.74P6Sr9.81
+_cod_original_cell_volume   600.2817
+_cod_database_code   1532969
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x-y,x,z+1/2
+  -y,x-y,z
+  -x,-y,z+1/2
+  -x+y,-x,z
+  y,-x+y,z+1/2
+  -x,-y,-z
+  -x+y,-x,-z-1/2
+  y,-x+y,-z
+  x,y,-z-1/2
+  x-y,x,-z
+  -y,x-y,-z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  K1  K+1  0.2435  0.9824  0.25  0.02  0.0
+  O3  O-2  0.3425  0.2564  0.0833  1  0.0
+  Sr1  Sr+2  0.3333  0.6667  -0.0003  0.997  0.0
+  Sr2  Sr+2  0.2435  0.9824  0.25  0.97  0.0
+  O1  O-2  0.3305  0.4781  0.25  1  0.0
+  P1  P+5  0.3971  0.3676  0.25  1  0.0
+  O4  O-2  0  0  0.1976  0.435  0.0
+  O2  O-2  0.5791  0.4643  0.25  1  0.0

@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_1001681
+loop_
+ _publ_author_name
+  'Chahboun, H'
+  'Groult, D'
+  'Hervieu, M'
+  'Raveau, B'
+_publ_section_title
+;
+$-beta Nb P O5 and $-beta Ta P O5: Bronzoids, second members of the
+monophosphate tungsten bronze series (P O2)4 (W O3)2M
+;
+_journal_coden_ASTM   JSSCBI
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   331
+_journal_page_last   342
+_journal_paper_doi   10.1016/0022-4596(86)90105-2
+_journal_volume   65
+_journal_year   1986
+_chemical_formula_structural   'Ta P O5'
+_chemical_formula_sum   'O5 P Ta'
+_chemical_name_systematic   'Tantalum phosphorus pentoxide - $-beta'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   120.4
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   13.07(1)
+_cell_length_b   5.281(4)
+_cell_length_c   13.24(1)
+_cell_volume   788.2
+_exptl_crystal_density_meas   4.86
+_refine_ls_R_factor_all   0.075
+_cod_database_code   1001681
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,1/2+y,1/2-z
+  -x,-y,-z
+  x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Ta1  Ta5+  4  e  0.4323(6)  0.248(1)  0.3007(9)  1.  0  d
+  Ta2  Ta5+  4  e  0.9389(7)  0.249(1)  0.1327(7)  1.  0  d
+  P1  P5+  4  e  0.150(2)  0.25  0.053(2)  1.  0  d
+  P2  P5+  4  e  0.652(3)  0.25  0.084(2)  1.  0  d
+  O1  O2-  4  e  0.  0.  0.25  1.  0  d
+  O2  O2-  4  e  0.5  0.5  0.25  1.  0  d
+  O3  O2-  4  e  0.878(5)  0.  0.016(6)  1.  0  d
+  O4  O2-  4  e  0.878(6)  0.5  0.018(7)  1.  0  d
+  O5  O2-  4  e  0.378(5)  0.5  0.377(8)  1.  0  d
+  O6  O2-  4  e  0.377(5)  0.  0.377(7)  1.  0  d
+  O7  O2-  4  e  0.787(5)  0.25  0.133(4)  1.  0  d
+  O8  O2-  4  e  0.279(5)  0.25  0.154(4)  1.  0  d
+  O9  O2-  4  e  0.597(5)  0.25  0.452(4)  1.  0  d
+  O10  O2-  4  e  0.078(5)  0.25  0.117(5)  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Ta5+  5.000
+  P5+  5.000
+  O2-  -2.000

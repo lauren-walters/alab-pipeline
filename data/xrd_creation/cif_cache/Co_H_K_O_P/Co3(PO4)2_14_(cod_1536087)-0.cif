@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_1536087
+loop_
+ _publ_author_name
+  'Nord, A.G.'
+  'Stefanidis, T.'
+_publ_section_title
+;
+Structure refinements of Co3 (P O4)2. A note on the reliability of
+powder  diffraction studies
+;
+_journal_name_full
+'Acta Chemica Scandinavica, Series A: (28,1974-)'
+_journal_page_first   715
+_journal_page_last   721
+_journal_volume   37
+_journal_year   1983
+_chemical_formula_sum   'Co3 O8 P2'
+_chemical_name_systematic   'Co3 (P O4)2'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   94.05
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   7.556
+_cell_length_b   8.371
+_cell_length_c   5.064
+_cell_volume   319.505
+_citation_journal_id_ASTM   ACAPCT
+_cod_data_source_file   Nord_ACAPCT_1983_578.cif
+_cod_data_source_block   Co3O8P2
+_cod_original_cell_volume   319.5046
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_database_code   1536087
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0.355  0.078  0.053  1  0.0
+  Co2  Co+2  0  0  0.5  1  0.0
+  O1  O-2  0.052  0.144  0.826  1  0.0
+  Co1  Co+2  0.609  0.137  0.076  1  0.0
+  O2  O-2  0.128  0.199  0.306  1  0.0
+  P1  P+5  0.198  0.19  0.033  1  0.0
+  O3  O-2  0.253  0.363  0.95  1  0.0

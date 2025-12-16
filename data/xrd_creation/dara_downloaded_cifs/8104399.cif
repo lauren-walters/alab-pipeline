@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_8104399
+loop_
+ _publ_author_name
+  'Stachel, D.'
+  'Paulus, H.'
+  'Guenter, C.'
+  'Fuess, H.'
+_publ_section_title   'Crystal structure of magnesium ultraphosphate'
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   275
+_journal_page_last   276
+_journal_volume   199
+_journal_year   1992
+_chemical_formula_sum   'Mg O11 P4'
+_chemical_name_systematic   'Mg (P4 O11)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   110.888
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.343
+_cell_length_b   22.228
+_cell_length_c   7.451
+_cell_volume   826.755
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Stachel_ZEKRDZ_1992_1494.cif
+_cod_data_source_block   Mg1O11P4
+_cod_original_cell_volume   826.7549
+_cod_original_formula_sum   'Mg1 O11 P4'
+_cod_database_code   8104399
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P3  P+5  0.32988  0.67876  0.0569  1  0.0
+  O6  O-2  0.57968  0.63579  0.12142  1  0.0
+  O8  O-2  0.47043  0.73418  0.00507  1  0.0
+  O5  O-2  0.92607  0.57404  0.36941  1  0.0
+  P4  P+5  0.40321  0.80502  -0.02953  1  0.0
+  O1  O-2  0.20988  0.45377  0.30221  1  0.0
+  Mg1  Mg+2  0.99839  0.38617  0.36605  1  0.0
+  O3  O-2  0.77219  0.54473  0.02623  1  0.0
+  O10  O-2  0.1952  0.81896  0.05011  1  0.0
+  P1  P+5  0.39617  0.46457  0.20197  1  0.0
+  O9  O-2  0.2615  0.69416  0.23771  1  0.0
+  O4  O-2  0.44189  0.53715  0.20006  1  0.0
+  P2  P+5  0.69491  0.57135  0.19264  1  0.0
+  O11  O-2  0.65762  0.83723  0.02332  1  0.0
+  O7  O-2  0.09482  0.65579  -0.09627  1  0.0
+  O2  O-2  0.656  0.43457  0.24811  1  0.0

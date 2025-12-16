@@ -1,0 +1,86 @@
+# generated using pymatgen
+data_4124449
+loop_
+ _publ_author_name
+  'Merritt, E.A.'
+  'Dunaway-Mariano, D.'
+  'Sundaralingam, M.'
+_publ_section_title
+;
+Crystal structure and chelate ring pucker of bidentate
+(pyrophosphato)tetraaquochromium(III) trihydrate, a model for metal-
+ADP  coordination
+;
+_journal_name_full   'Journal of the American Chemical Society'
+_journal_page_first   3565
+_journal_page_last   3567
+_journal_volume   103
+_journal_year   1981
+_chemical_formula_sum   'Cr H15 O14 P2'
+_chemical_name_systematic   'Cr (H2 O)4 H P2 O7 (H2 O)3'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   69.19
+_cell_angle_beta   89.54
+_cell_angle_gamma   68.37
+_cell_formula_units_Z   2
+_cell_length_a   7.038
+_cell_length_b   8.858
+_cell_length_c   10.636
+_cell_volume   570.379
+_citation_journal_id_ASTM   JACSAT
+_cod_data_source_file   Merritt_JACSAT_1981_732.cif
+_cod_data_source_block   H15Cr1O14P2
+_cod_original_cell_volume   570.3791
+_cod_original_formula_sum   'H15 Cr1 O14 P2'
+_cod_database_code   4124449
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  H12  H+1  -0.416  0.737  0.323  1  0.0
+  O5  O-2  0.5075  0.6074  0.6112  1  0.0
+  H6  H+1  0.91  0.76  0.556  1  0.0
+  H13  H+1  -0.361  0.6  0.326  1  0.0
+  O4  O-2  0.2346  0.8777  0.6257  1  0.0
+  H2  H+1  1.06  0.389  0.672  1  0.0
+  Cr1  Cr+3  0.73395  0.58492  0.72805  1  0.0
+  O3  O-2  0.2213  0.6896  0.8663  1  0.0
+  H11  H+1  -0.226  0.104  -0.239  1  0.0
+  H9  H+1  0.739  0.29  0.863  1  0.0
+  P2  P+5  0.3091  0.7632  0.5304  1  0.0
+  H3  H+1  0.893  0.391  0.601  1  0.0
+  H15  H+1  0.337  0.223  0.904  1  0.0
+  O1  O-2  0.5458  0.746  0.8046  1  0.0
+  P1  P+5  0.3116  0.8149  0.7829  1  0.0
+  H14  H+1  0.327  0.216  1.031  1  0.0
+  H7  H+1  0.727  0.893  0.59  1  0.0
+  O9  O-2  0.971  0.5404  0.8541  1  0.0
+  O10  O-2  0.7775  0.7854  0.5964  1  0.0
+  H5  H+1  1.027  0.613  0.83  1  0.0
+  O13  O-2  -0.3377  0.6881  0.2864  1  0.0
+  O12  O-2  -0.1595  0.0705  -0.1603  1  0.0
+  H10  H+1  -0.209  0.011  -0.103  1  0.0
+  H1  H+1  0.09  1.042  0.82  1  0.0
+  O6  O-2  0.3413  0.887  0.4009  1  0.0
+  O7  O-2  0.1412  0.7019  0.5161  1  0.0
+  O2  O-2  0.2348  0.9876  0.8107  1  0.0
+  O11  O-2  0.6977  0.3832  0.8704  1  0.0
+  H8  H+1  0.698  0.359  0.961  1  0.0
+  H4  H+1  1.042  0.436  0.894  1  0.0
+  O8  O-2  0.9269  0.4253  0.6536  1  0.0
+  O14  O-2  0.2544  0.2076  0.9869  1  0.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  168333370

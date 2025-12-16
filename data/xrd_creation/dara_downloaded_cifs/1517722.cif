@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_1517722
+loop_
+ _publ_author_name
+  'Amos, T.G.'
+  'Yokochi, A.'
+  'Sleight, A.W.'
+_publ_section_title
+;
+Phase transition and negative thermal expansion in tetragonal Nb O P
+O4
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   303
+_journal_page_last   307
+_journal_volume   141
+_journal_year   1998
+_chemical_formula_structural   'Nb O (P O4)'
+_chemical_formula_sum   'Nb O5 P'
+_chemical_name_systematic   'Niobium Oxide Phosphate(V)'
+_space_group_IT_number   85
+_symmetry_Int_Tables_number   85
+_symmetry_space_group_name_Hall   '-P 4a'
+_symmetry_space_group_name_H-M   'P 4/n :2'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   2
+_cell_length_a   6.3898
+_cell_length_b   6.3898
+_cell_length_c   4.1055
+_cell_volume   167.626
+_diffrn_ambient_temperature   298.15
+_cod_data_source_file   NbPO5_P4_n_DC267.cif
+_cod_data_source_block   chateigner
+_cod_depositor_comments   'add _diffrn_ambient_temperature tag'
+_cod_original_cell_volume   167.63
+_cod_original_sg_symbol_H-M   'P 4/n Z'
+_cod_original_formula_sum   'Nb1 O5 P1'
+_cod_database_code   1517722
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-y, x+1/2, -z'
+  2  'y+1/2, -x, -z'
+  3  'x+1/2, y+1/2, -z'
+  4  '-x, -y, -z'
+  5  'y, -x+1/2, z'
+  6  '-y+1/2, x, z'
+  7  '-x+1/2, -y+1/2, z'
+  8  'x, y, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_B_iso_or_equiv
+  Nb1  Nb5+  2  c  0.25  0.25  0.7824(3)  1.  0
+  O1  O2-  2  c  0.25  0.25  0.2077(4)  1.  0
+  P2  P5+  2  b  0.25  0.75  0.5  1.  0
+  O2  O2-  8  g  0.7731(2)  0.4446(1)  0.2861(2)  1.  0
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Nb5+  5
+  O2-  -2
+  P5+  5

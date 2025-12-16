@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_1534412
+loop_
+ _publ_author_name
+  'Rundqvist, S.'
+_publ_section_title   'The crystal structure of Nb7 P4'
+_journal_name_full   'Acta Chemica Scandinavica (1-27,1973-42,1988)'
+_journal_page_first   2427
+_journal_page_last   2434
+_journal_volume   20
+_journal_year   1966
+_chemical_formula_sum   'Nb7 P4'
+_space_group_IT_number   12
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   104.743
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   14.9503
+_cell_length_b   3.4398
+_cell_length_c   13.8478
+_cell_volume   688.692
+_citation_journal_id_ASTM   ACSAA4
+_cod_data_source_file   Rundqvist_ACSAA4_1966_565.cif
+_cod_data_source_block   Nb7P4
+_cod_original_cell_volume   688.6919
+_cod_database_code   1534412
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z
+  -x,-y,-z
+  x,-y,z
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Nb1  Nb  0  0  0  1  0.0
+  Nb7  Nb  0.00322  0  0.66537  1  0.0
+  Nb4  Nb  0.1953  0  0.31188  1  0.0
+  P1  P  0.17403  0  0.11243  1  0.0
+  Nb8  Nb  0.17502  0  0.54042  1  0.0
+  Nb5  Nb  0.20981  0  0.8003  1  0.0
+  P3  P  0.36956  0  0.33571  1  0.0
+  Nb2  Nb  0  0.5  0.5  1  0.0
+  Nb3  Nb  0.43126  0  0.82675  1  0.0
+  P4  P  0.06355  0  0.84915  1  0.0
+  Nb6  Nb  0.3376  0  0.02775  1  0.0
+  P2  P  0.3736  0  0.60229  1  0.0

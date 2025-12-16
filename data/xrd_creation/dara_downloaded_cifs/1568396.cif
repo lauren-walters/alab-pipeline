@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_1568396
+loop_
+ _publ_author_name
+  'Radevych, Danylo'
+  'Gajdardziska-Josifovska, Marija'
+  'Weinert, Michael'
+_publ_section_title
+'Two-dimensional crystal phases of graphene monoxide'
+_journal_issue   5
+_journal_name_full   'Physical Review B'
+_journal_paper_doi   10.1103/PhysRevB.107.054104
+_journal_volume   107
+_journal_year   2023
+_chemical_formula_sum   'C4 O4'
+_chemical_formula_weight   56.02
+_chemical_name_common   'Pman graphene monoxide (Pman-GmO)'
+_space_group_IT_number   53
+_space_group_name_Hall   '-P 2ab 2'
+_space_group_name_H-M_alt   'P m a n'
+_space_group.reference_setting   '053:-P 2ac 2'
+_space_group.transform_Pp_abc   a,b,c;0,0,0
+_symmetry_Int_Tables_number   53
+_symmetry_space_group_name_H-M   'P m a n'
+_audit_creation_method   FINDSYM
+_cell_angle_alpha   90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma   90.0000000000
+_cell_formula_units_Z   2
+_cell_length_a   5.6042600000
+_cell_length_b   3.6297800000
+_cell_length_c   25.0000000000
+_cell_volume   508.556
+_journal_article_reference   054104
+_cod_data_source_file   pman-gmo.cif
+_cod_data_source_block   findsym-output
+_cod_depositor_comments
+;
+DOI added.  The layer is placed in xy-plane.  Swapped b and c lattice
+lengths to finalize layer in xy-plane.
+;
+_cod_original_cell_volume   508.5557715700
+_cod_original_sg_symbol_Hall   '-P 2ac 2'
+_cod_original_sg_symbol_H-M   'P 2/m 21/a 2/n'
+_cod_struct_determination_method   theoretical
+_cod_database_code   1568396
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  x,-y,-z
+  3  -x+1/2,-y+1/2,z
+  4  -x+1/2,y+1/2,-z
+  5  -x,-y,-z
+  6  -x,y,z
+  7  x+1/2,y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_fract_symmform
+  C1  C  4  e  0.11938  0.00000  0.00000  1.00000  Dx,0,0
+  O1  O  4  g  0.25000  0.25000  -0.02959  1.00000  0,0,Dz

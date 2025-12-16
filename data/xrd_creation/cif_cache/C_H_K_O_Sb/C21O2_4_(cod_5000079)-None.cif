@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_5000079
+loop_
+ _publ_author_name
+  'Bordner, J.'
+  'Hennesee, G. L. A.'
+  'Chandross, R. J.'
+_journal_name_full   'Crystal Structure Communications'
+_journal_page_first   513
+_journal_page_last   515
+_journal_volume   7
+_journal_year   1978
+_chemical_formula_sum   'C21 H32 O2'
+_chemical_name_common   pregnenolone
+_space_group_IT_number   4
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   'P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21 1'
+_cell_angle_alpha   90
+_cell_angle_beta   91.91(1)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   6.188(1)
+_cell_length_b   11.863(2)
+_cell_length_c   12.058(2)
+_cod_original_sg_symbol_H-M   'P 21'
+_cod_database_code   5000079
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,1/2+y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_attached_hydrogens
+  C1  C  -0.17450  0.21080  1.05100  2
+  C2  C  -0.21650  0.21300  1.17600  2
+  C3  C  -0.12420  0.10740  1.22990  1
+  O1  O  -0.15210  0.10830  1.34860  1
+  C4  C  0.11450  0.09700  1.21060  2
+  C5  C  0.16450  0.10170  1.08770  0
+  C6  C  0.28740  0.02420  1.04310  1
+  C7  C  0.34790  0.02090  0.92330  2
+  C8  C  0.30010  0.13150  0.86320  1
+  C9  C  0.07800  0.17780  0.89570  1
+  C10  C  0.06560  0.20020  1.02320  0
+  C11  C  0.01240  0.28070  0.82590  2
+  C12  C  0.03010  0.26480  0.69890  2
+  C13  C  0.25480  0.22330  0.67030  0
+  C14  C  0.29650  0.11480  0.73740  1
+  C15  C  0.49230  0.06070  0.68670  2
+  C16  C  0.46750  0.09120  0.56240  2
+  C17  C  0.27880  0.17610  0.55110  1
+  C18  C  0.42570  0.31550  0.69430  3
+  C19  C  0.18700  0.30910  1.05750  3
+  C20  C  0.30790  0.26340  0.46090  0
+  O2  O  0.46910  0.26430  0.40510  0
+  C21  C  0.13200  0.34850  0.43980  3
+loop_
+ _atom_type_symbol
+ _atom_type_radius_bond
+  C  0.68
+  O  0.68

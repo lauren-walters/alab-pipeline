@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_3000430
+loop_
+ _publ_author_name
+  'Correal, Sergio'
+  'Hernandez-Gomez, Daniel'
+  'Esquivel, Andrea Steffania'
+  'Cardona-Rodriguez, Alexander'
+  'Reiber, Andreas'
+  'Gonzalez-Hernandez, Rafael'
+  'Ramirez, Juan Gabriel'
+_publ_section_title
+;
+Tuning electronic and magnetic properties through disorder in V2O5
+nanoparticles
+;
+_journal_name_full   'Personal communication to COD'
+_journal_year   2023
+_chemical_formula_sum   'O2.44 V0.96'
+_chemical_formula_weight   87.85
+_chemical_name_common   V2O5
+_space_group_IT_number   59
+_space_group_name_Hall   '-P 2ab 2a'
+_space_group_name_H-M_alt   'P m m n :2'
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_H-M   'P m m n :2'
+_audit_creation_date   2020-01-30T12:10
+_audit_creation_method   'from EXP file using GSAS2CIF'
+_audit_update_record
+'2020-01-30T12:10  Initial CIF as created by GSAS2CIF'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   3.56457(4)
+_cell_length_b   11.51194(16)
+_cell_length_c   4.37263(7)
+_cell_volume   179.431(4)
+_computing_structure_refinement   GSAS
+_pd_block_id   2020-01-30T12:10|500_phase1|500v2o5||
+_pd_phase_name   'from C:/GSAS/MyWork/500_v2o5/V2O5.cif'
+_refine_ls_goodness_of_fit_all   1.53
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   13
+_refine_ls_number_restraints   0
+_refine_ls_shift/su_mean   0.01
+_cod_data_source_file   Tcal500C.cif
+_cod_data_source_block   500_phase_1
+_cod_depositor_comments
+;
+Adding manuscript title.  Releasing structure 3000430 into public
+domain as personal  communication to COD.
+;
+_cod_original_sg_symbol_H-M   'P m m n'
+_cod_database_code   3000430
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  -x+1/2,+y,+z
+  3  +x,-y+1/2,+z
+  4  -x+1/2,-y+1/2,+z
+  -1  -x,-y,-z
+  -2  +x+1/2,-y,-z
+  -3  -x,+y+1/2,-z
+  -4  +x+1/2,+y+1/2,-z
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  V  V1  0.25  0.10238  0.39131  0.95915  Uiso  -0.0076  4
+  O  O1  0.25  0.10738  0.03183  1.0  Uiso  -0.00373  4
+  O  O2  0.25  0.57152  0.49983  0.94565  Uiso  -0.00367  4
+  O  O3  0.25  0.25  0.50298  0.98264  Uiso  -0.0103  2
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+  V  3.837
+  O  9.748

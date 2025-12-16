@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13c713800728dad6cd43",
+  "experiment_name": "PG_1747-1",
+  "success": true,
+  "error": null,
+  "rwp": 11.6,
+  "rp": 8.76,
+  "rexp": 3.24,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.05918,
+      "weight_fraction_error": 0.00027,
+      "lattice_a_nm": 0.511688,
+      "lattice_b_nm": 0.518191,
+      "lattice_c_nm": 0.528844,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.2633,
+      "lattice_gamma_deg": null,
+      "r_phase": 16.14
+    },
+    {
+      "phase_name": "V2O5_31_(cod_1011126)-None",
+      "spacegroup": "Pmn2_1",
+      "weight_fraction": 0.01927,
+      "weight_fraction_error": 0.00057,
+      "lattice_a_nm": 1.1536,
+      "lattice_b_nm": 0.43574,
+      "lattice_c_nm": 0.356122,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 14.81
+    }
+  ],
+  "chemical_system": "Hf-O-V",
+  "target_formula": "Hf2V2O7",
+  "analysis_timestamp": "2025-12-06T14:11:21.936617",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

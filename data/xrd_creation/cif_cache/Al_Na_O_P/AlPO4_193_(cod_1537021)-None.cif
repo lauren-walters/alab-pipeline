@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_1537021
+loop_
+ _publ_author_name
+  'Richardson, J.W.jr.'
+  'Smith, J.V.'
+  'Pluth, J.J.'
+_publ_section_title
+;
+Theoretical nets with 18-ring channels: enumeration, geometrical
+modelling, and neutron diffraction study of Al P O4 - 54
+;
+_journal_name_full   'Journal of Physical Chemistry'
+_journal_page_first   8212
+_journal_page_last   8219
+_journal_volume   93
+_journal_year   1989
+_chemical_formula_sum   'Al O4 P'
+_chemical_name_systematic   'Al (P O4)'
+_space_group_IT_number   193
+_symmetry_space_group_name_Hall   '-P 6c 2'
+_symmetry_space_group_name_H-M   'P 63/m c m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   18
+_cell_length_a   18.549
+_cell_length_b   18.549
+_cell_length_c   8.404
+_cell_volume   2504.135
+_citation_journal_id_ASTM   JPCHAX
+_cod_data_source_file   Richardson_JPCHAX_1989_1990.cif
+_cod_data_source_block   Al1O4P1
+_cod_original_formula_sum   'Al1 O4 P1'
+_cod_database_code   1537021
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x-y,x,z+1/2
+  -y,x-y,z
+  -x,-y,z+1/2
+  -x+y,-x,z
+  y,-x+y,z+1/2
+  -y,-x,-z
+  x-y,-y,-z+1/2
+  x,x-y,-z
+  y,x,-z+1/2
+  -x+y,y,-z
+  -x,-x+y,-z+1/2
+  -x,-y,-z
+  -x+y,-x,-z-1/2
+  y,-x+y,-z
+  x,y,-z-1/2
+  x-y,x,-z
+  -y,x-y,-z-1/2
+  y,x,z
+  -x+y,y,z-1/2
+  -x,-x+y,z
+  -y,-x,z-1/2
+  x-y,-y,z
+  x,x-y,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Al2  Al+3  0.1739  0.6603  -0.0486  0.5  0.0
+  P2  P+5  0.1739  0.6603  -0.0486  0.5  0.0
+  O3  O-2  0.0843  0.6536  -0.0227  1  0.0
+  O6  O-2  0.2465  0.493  0  1  0.0
+  P1  P+5  0.5815  0  0.0533  0.5  0.0
+  O5  O-2  0.8372  0.3428  0.25  1  0.0
+  O2  O-2  0.5858  0  0.25  1  0.0
+  O4  O-2  0.593  0.186  0  1  0.0
+  Al1  Al+3  0.5815  0  0.0533  0.5  0.0
+  O1  O-2  0.5  0  0  1  0.0

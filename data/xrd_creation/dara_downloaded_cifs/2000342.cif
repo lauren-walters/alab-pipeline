@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_2000342
+loop_
+ _publ_author_name
+  'Effenberger, H.'
+_publ_section_title
+;
+Structure refinement of Co~3~(OH)~2~(PO~3~OH)~2~ and
+Co[PO~2~(OH)~2~]~2~.2H~2~O
+;
+_journal_issue   12
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   2104
+_journal_page_last   2107
+_journal_paper_doi   10.1107/S0108270192002920
+_journal_volume   48
+_journal_year   1992
+_chemical_formula_moiety   'H4 Co1 O8 P2,2(H2 O1)'
+_chemical_formula_sum   'Co H8 O10 P2'
+_chemical_formula_weight   288.94
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2yn'
+_space_group_name_H-M_alt   'P 1 21/n 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   94.86(2)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   7.268(2)
+_cell_length_b   9.886(3)
+_cell_length_c   5.3310(10)
+_cell_volume   381.66(17)
+_diffrn_radiation_type   Mo
+_diffrn_radiation_wavelength   0.71073
+_exptl_absorpt_coefficient_mu   2.56
+_exptl_crystal_density_diffrn   2.514
+_exptl_crystal_F_000   290
+_cod_data_source_file   bx0567.cif
+_cod_data_source_block   bx0567b
+_cod_original_cell_volume   381.66
+_cod_original_formula_sum   'H8 Co1 O10 P2'
+_cod_database_code   2000342
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x+1/2,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  Co  .5  .5  .5  .01390(10)
+  P  .83784(5)  .28523(4)  .74724(6)  .0145(2)
+  O(1)  .64520(10)  .33160(10)  .6619(2)  .0200(5)
+  O(2)  .8641(2)  .13410(10)  .7396(2)  .0198(5)
+  O(h3)  .9686(2)  .35670(10)  .5706(2)  .0276(6)
+  O(h4)  .8872(2)  .33830(10)  .0220(2)  .0240(6)
+  O(w5)  .3002(2)  .46330(10)  .7604(2)  .0193(5)
+  H(w1)  .342(3)  .431(3)  .892(5)  .050(7)
+  H(w2)  .260(3)  .534(2)  .799(4)  .036(6)
+  H(h3)  .068(4)  .366(2)  .645(4)  .050(7)
+  H(h4)  .950(4)  .292(3)  .098(6)  .075(10)

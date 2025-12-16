@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_1528537
+loop_
+ _publ_author_name
+  'Grenier, J.C.'
+  'Masse, R.'
+_publ_section_title
+'Mise au point sur la structure cristallographique de alpha-Sr2 P2 O7'
+_journal_name_full
+;
+Bulletin de la Societe Francaise de Mineralogie et de Cristallographie
+(72,1949-100,1977)
+;
+_journal_page_first   285
+_journal_page_last   292
+_journal_volume   90
+_journal_year   1967
+_chemical_formula_sum   'O7 P2 Sr2'
+_chemical_name_systematic   'Sr2 (P2 O7)'
+_space_group_IT_number   33
+_symmetry_space_group_name_Hall   'P 2c -2n'
+_symmetry_space_group_name_H-M   'P n a 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.87
+_cell_length_b   13.27
+_cell_length_c   5.39
+_cell_volume   634.429
+_citation_journal_id_ASTM   BUFCAE
+_cod_data_source_file   Grenier_BUFCAE_1967_381.cif
+_cod_data_source_block   O7P2Sr2
+_cod_original_cell_volume   634.4294
+_cod_database_code   1528537
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P+5  0.2226  0.0332  0.5  1  0.0
+  O3  O-2  0.425  0.23  0.26  1  0.0
+  P2  P+5  0.47  0.1802  0.5  1  0.0
+  Sr1  Sr+2  0.173  0.239  0  1  0.0
+  O5  O-2  0.393  0.071  0.5  1  0.0
+  Sr2  Sr+2  0.3754  0.4126  0.5  1  0.0
+  O1  O-2  0.15  0.067  0.74  1  0.0
+  O7  O-2  0.634  0.163  0.5  1  0.0
+  O4  O-2  0.411  0.23  0.73  1  0.0
+  O6  O-2  0.232  -0.078  0.5  1  0.0
+  O2  O-2  0.15  0.077  0.27  1  0.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139046176

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6688a600c69f10c6d7bf56d4",
+  "experiment_name": "PG_2549-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mg-O-W",
+  "target_formula": "MgWO4",
+  "analysis_timestamp": "2025-12-06T15:25:07.709602",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

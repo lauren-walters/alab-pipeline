@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_2000606
+loop_
+ _publ_author_name
+  "Gal\'i, S."
+  "C\'ardenas, A."
+  'Byrappa, K.'
+  'Gopalakrishna, G. S.'
+_publ_section_title
+'Structure of aluminium disodium trihydrogenbis(diphosphate)'
+_journal_issue   9
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   1650
+_journal_page_last   1652
+_journal_paper_doi   10.1107/S0108270192000611
+_journal_volume   48
+_journal_year   1992
+_chemical_formula_sum   'Al H3 Na2 O14 P4'
+_chemical_formula_weight   423.9
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   99.67(2)
+_cell_angle_beta   81.77(2)
+_cell_angle_gamma   114.480(10)
+_cell_formula_units_Z   1
+_cell_length_a   8.311(4)
+_cell_length_b   7.363(4)
+_cell_length_c   4.902(3)
+_cell_volume   268.2(3)
+_diffrn_radiation_type   Mo
+_diffrn_radiation_wavelength   0.7107
+_exptl_absorpt_coefficient_mu   0.931
+_exptl_crystal_density_diffrn   2.624
+_exptl_crystal_F_000   210
+_cod_data_source_file   mu0258.cif
+_cod_data_source_block   mu0258a
+_cod_original_cell_volume   268.2(4)
+_cod_original_formula_sum   'Al1 H3 Na2 O14 P4'
+_cod_database_code   2000606
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Al  .0  .0  .0
+  P(1)  .26170(10)  .08010(10)  .4524(2)
+  P(2)  .23000(10)  .42590(10)  .2839(2)
+  O(1)  .2114(3)  .0409(4)  -.2513(5)
+  O(2)  .0810(3)  .2728(4)  .1229(5)
+  O(3)  .1182(3)  -.0443(4)  .2598(5)
+  O(4)  .3090(3)  .3123(4)  .4389(6)
+  O(5)  .4325(3)  .0503(4)  .3419(5)
+  O(6)  .3834(4)  .5614(4)  .1068(6)
+  O(7)  .1637(4)  .5558(4)  .5045(6)
+  Na  .2850(2)  .7788(3)  -.0913(3)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  O(1)  Al  O(2)  91.30(10)
+  O(1)  Al  O(3)  87.00(10)
+  O(2)  Al  O(3)  92.40(10)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  Al  O(1)  1.940(3)
+  Al  O(2)  1.855(2)
+  Al  O(3)  1.859(2)
+  O(1)  O(2)  2.715(3)
+  O(1)  O(3)  2.616(4)
+  O(2)  O(3)  2.680(3)

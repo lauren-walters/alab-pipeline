@@ -1,0 +1,94 @@
+# generated using pymatgen
+data_4001802
+loop_
+ _publ_author_name
+  'Barpanda, Prabeer'
+  'Liu, Guandong'
+  'Ling, Chris D.'
+  'Tamaru, Mao'
+  'Avdeev, Maxim'
+  'Chung, Sai-Cheong'
+  'Yamada, Yuki'
+  'Yamada, Atsuo'
+_publ_section_title
+'Na2FeP2O7: A Safe Cathode for Rechargeable Sodium-ion Batteries'
+_journal_issue   17
+_journal_name_full   'Chemistry of Materials'
+_journal_page_first   3480
+_journal_paper_doi   10.1021/cm401657c
+_journal_volume   25
+_journal_year   2013
+_chemical_formula_sum   'Fe2 Na4 O14 P4'
+_chemical_formula_weight   551.54
+_chemical_name_systematic   ?
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   64.8468(4)
+_cell_angle_beta   86.2397(5)
+_cell_angle_gamma   73.1333(5)
+_cell_formula_units_Z   2
+_cell_length_a   6.44903(5)
+_cell_length_b   9.48247(8)
+_cell_length_c   10.99331(8)
+_cell_volume   581.050(8)
+_pd_block_id   2013-05-22T11:25|NA2FEP2O7_phase1|Max_Avdeev||
+_pd_phase_name   ICSD91108
+_cod_data_source_file   cm401657c_si_002.cif
+_cod_data_source_block   NA2FEP2O7_phase_1
+_cod_original_formula_sum   'Fe2 Na4.00 O14 P4'
+_cod_database_code   4001802
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  -1  -x,-y,-z
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  Fe  Fe1  0.7220(4)  0.39373(29)  0.21747(22)  1.0  Uiso  0.0106(9)
+  2
+  Fe  Fe2  0.6457(4)  -0.00120(29)  0.26610(24)  1.0  Uiso
+  0.0095(9)  2
+  P  P1  0.5758(8)  0.2050(6)  0.4583(5)  1.0  Uiso  0.0143(8)  2
+  P  P2  0.1229(7)  0.0481(6)  0.3138(5)  1.0  Uiso  0.0143(8)  2
+  P  P3  0.0745(8)  0.3257(6)  0.7885(4)  1.0  Uiso  0.0143(8)  2
+  P  P4  0.2895(7)  0.6900(5)  0.0374(5)  1.0  Uiso  0.0143(8)  2
+  Na  Na1  0.0283(10)  0.3162(7)  0.4748(6)  1.0  Uiso  0.0287(12)
+  2
+  Na  Na2  0.4107(9)  0.6428(7)  0.3381(5)  1.0  Uiso  0.0287(12)  2
+  Na  Na3  0.2116(9)  0.3464(7)  0.1031(6)  1.0  Uiso  0.0287(12)  2
+  Na  Na4  0.5  0.0  0.0  0.33333  Uiso  0.0287(12)  1
+  Na  Na5  0.1899(17)  0.0076(15)  0.0432(11)  0.5  Uiso  0.0287(12)
+  2
+  Na  Na6  0.3778(25)  0.0180(22)  0.0171(18)  0.33333  Uiso
+  0.0287(12)  2
+  O  O1  0.0169(13)  0.2217(10)  0.3021(8)  1.0  Uiso  0.0105(9)  2
+  O  O2  0.6536(13)  0.3548(11)  0.4345(8)  1.0  Uiso  0.0105(9)  2
+  O  O3  0.3037(13)  0.0364(11)  0.2212(9)  1.0  Uiso  0.0105(9)  2
+  O  O4  0.1132(13)  0.4392(10)  0.8460(8)  1.0  Uiso  0.0105(9)  2
+  O  O5  0.7676(13)  0.0452(10)  0.5381(8)  1.0  Uiso  0.0105(9)  2
+  O  O6  0.2845(14)  0.1801(10)  0.8095(7)  1.0  Uiso  0.0105(9)  2
+  O  O7  0.0291(13)  0.0406(10)  0.6959(8)  1.0  Uiso  0.0105(9)  2
+  O  O8  0.7716(13)  0.3973(10)  0.0366(7)  1.0  Uiso  0.0105(9)  2
+  O  O9  0.4278(13)  0.5738(10)  0.1694(8)  1.0  Uiso  0.0105(9)  2
+  O  O10  0.6198(13)  0.1772(10)  0.0512(8)  1.0  Uiso  0.0105(9)  2
+  O  O11  0.3738(13)  0.1965(9)  0.5358(8)  1.0  Uiso  0.0105(9)  2
+  O  O12  0.5543(13)  0.2017(10)  0.3243(8)  1.0  Uiso  0.0105(9)  2
+  O  O13  0.0871(14)  0.7687(10)  0.1023(8)  1.0  Uiso  0.0105(9)  2
+  O  O14  0.0390(14)  0.6042(9)  0.3441(8)  1.0  Uiso  0.0105(9)  2
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+  Fe  4.0
+  P  8.0
+  Na  8.0
+  O  28.0

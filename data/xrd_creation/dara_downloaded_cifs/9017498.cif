@@ -1,0 +1,87 @@
+# generated using pymatgen
+data_9017498
+loop_
+ _publ_author_name
+  'Lundegaard, L. F.'
+  'Guillaume, C.'
+  'McMahon, M. I.'
+  'Gregoryanz, E.'
+  'Merlini, M.'
+_publ_section_title
+'On the structure of high-pressure high-temperature eta-O2'
+_journal_name_full   'Journal of Chemical Physics'
+_journal_page_last   164516
+_journal_volume   130
+_journal_year   2009
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   O2
+_chemical_name_mineral   Oxygen
+_space_group_IT_number   194
+_space_group_name_Hall   '-P 6c 2c'
+_space_group_name_H-M_alt   'P 63/m m c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_length_a   2.561
+_cell_length_b   2.561
+_cell_length_c   6.575
+_cell_formula_units_Z   2
+_cell_volume   37.346
+_database_code_amcsd   0020613
+_exptl_crystal_density_diffrn   2.846
+_cod_data_source_file   inputs/fixed/downloads/16/16025.cif
+_cod_data_source_block   16025
+_cod_depositor_comments
+;
+2024-05-28 Z value and formula fixed to values more according to usual
+chemical conventions.                 miguel
+;
+_cod_original_formula_sum   O
+_cod_database_code   9017498
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-x+y,1/2+z
+  x,x-y,1/2-z
+  -x+y,-x,1/2-z
+  x-y,x,1/2+z
+  -y,-x,z
+  y,x,-z
+  y,-x+y,-z
+  -y,x-y,z
+  x-y,-y,1/2+z
+  -x+y,y,1/2-z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  x,x-y,z
+  -x,-x+y,-z
+  x-y,x,-z
+  -x+y,-x,z
+  y,x,1/2+z
+  -y,-x,1/2-z
+  -y,x-y,1/2-z
+  y,-x+y,1/2+z
+  -x+y,y,z
+  x-y,-y,-z
+  -x,-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  O  0.04980  0.04980  0.03000  0.02490  0.00000  0.00000
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  O  0.33333  0.66667  0.16100
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0020613

@@ -1,0 +1,182 @@
+# generated using pymatgen
+data_6000577
+loop_
+ _publ_author_name
+  'Yanning Song'
+  'Peter Y. Zavalij'
+  'Masatsugu Suzuki'
+  'M. Stanley Whittingham'
+_publ_section_title
+;
+New Iron(III) Phosphate Phases: Crystal Structure and Electrochemical
+and Magnetic Properties
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   5778
+_journal_page_last   5786
+_journal_paper_doi   10.1021/ic025688q
+_journal_volume   41
+_journal_year   2002
+_chemical_formula_moiety   'Fe P O4'
+_chemical_formula_sum   'Fe O4 P'
+_chemical_formula_weight   150.82
+_chemical_name_common   'Iron Phospphate'
+_chemical_name_systematic   'Iron Phospphate'
+_space_group_IT_number   14
+_space_group_name_H-M_alt   'P 1 21/n 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90.000
+_cell_angle_beta   95.708(9)
+_cell_angle_gamma   90.000
+_cell_formula_units_Z   4
+_cell_length_a   5.4802(6)
+_cell_length_b   7.4802(8)
+_cell_length_c   8.0537(10)
+_cell_measurement_temperature   295
+_cell_volume   328.51(12)
+_computing_cell_refinement   WinCSD
+_computing_publication_material   'WinCSD (Akeslrud et al, 1993)'
+_computing_structure_refinement   GSAS
+_computing_structure_solution   DLS
+_diffrn_ambient_environment   air
+_diffrn_ambient_temperature   295
+_diffrn_detector   scintillation
+_diffrn_measurement_device   'Rigaku rotating anode TTRAX'
+_diffrn_measurement_method   \w/\q
+_diffrn_radiation_monochromator   RS
+_diffrn_radiation_probe   x-ray
+_exptl_absorpt_coefficient_mu   5.01
+_exptl_crystal_density_diffrn   3.0492(1)
+_exptl_crystal_F_000   292
+_pd_calc_method   'Rietveld Refinement'
+_pd_char_colour   pale
+_pd_char_particle_morphology   plate
+_pd_meas_2theta_range_inc   0.01
+_pd_meas_2theta_range_max   50.0
+_pd_meas_2theta_range_min   5.0
+_pd_proc_2theta_range_inc   0.01
+_pd_proc_2theta_range_max   37.59
+_pd_proc_2theta_range_min   5.0
+_pd_proc_ls_pref_orient_corr   ?
+_pd_proc_ls_profile_function   pseudo-Voit
+_pd_proc_ls_prof_R_factor   0.0516
+_pd_proc_ls_prof_wR_expected   0.0205
+_pd_proc_ls_prof_wR_factor   0.0686
+_pd_spec_mounting   'packed powder pellet'
+_pd_spec_shape   flat
+_refine_ls_goodness_of_fit_all   4.63
+_refine_ls_matrix_type   fullcycle
+_refine_ls_number_parameters   38
+_refine_ls_number_restraints   4
+_refine_ls_shift/esd_max   0.10
+_refine_ls_shift/esd_mean   0.01
+_refine_ls_structure_factor_coef   Inet
+_refine_ls_weighting_details   'w = 1/Yi'
+_refine_ls_weighting_scheme   calc
+_reflns_d_resolution_high   1.102
+_reflns_d_resolution_low   5.468
+_reflns_limit_h_max   5
+_reflns_limit_h_min   0
+_reflns_limit_k_max   7
+_reflns_limit_k_min   0
+_reflns_limit_l_max   7
+_reflns_limit_l_min   -7
+_reflns_number_observed   506
+_cod_depositor_comments
+;
+Changing the _atom_site_occupancy data item value from '.' to '1'  for
+all fully occupied atom sites.  Antanas Vaitkus,  2017-02-09 The
+following automatic conversions were performed:
+'_refine_ls_weighting_scheme' value '1/Yi' was changed to 'calc'. New
+tag '_refine_ls_weighting_details' was created. The value of the new
+tag was set to 'w = 1/Yi'. Automatic conversion script Id:
+cif_fix_values 3143 2015-03-26 13:38:13Z robertas
+;
+_cod_database_code   6000577
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  1/2-x,1/2+y,1/2-z
+  -x,-y,-z
+  -1/2+x,-1/2-y,-1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+ _atom_site_type_symbol
+ _atom_site_occupancy
+  Fe1  0.3881(5)  0.8059(4)  0.0602(3)  Uiso  0.01264  4  Fe  1
+  P1  0.5896(9)  0.4579(5)  0.2659(6)  Uiso  0.01264  4  P  1
+  O1  0.4811(14)  0.6402(11)  0.2275(10)  Uiso  0.01264  4  O  1
+  O2  0.828(2)  0.4632(12)  0.3839(11)  Uiso  0.01264  4  O  1
+  O3  0.6406(14)  0.3577(12)  0.1157(11)  Uiso  0.01264  4  O  1
+  O4  0.4102(15)  0.3431(11)  0.3679(11)  Uiso  0.01264  4  O  1
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+  Fe  Fe  0.3463  0.8444
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+loop_
+ _diffrn_radiation_wavelength
+ _diffrn_radiation_wavelength_wt
+ _diffrn_radiation_type
+  .709300  1.000  MoK\a~1~
+  .713590  .500  MoK\a~2~
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O4  Fe1  O1  93.5(4)  2_555  .  no
+  O4  Fe1  O3  109.5(4)  2_555  3_665  no
+  O4  Fe1  O2  123.6(4)  2_555  2_655  no
+  O4  Fe1  O2  90.3(4)  2_555  4_575  no
+  O1  Fe1  O3  96.3(4)  .  3_665  no
+  O1  Fe1  O2  94.6(4)  .  2_655  no
+  O1  Fe1  O2  169.5(4)  .  4_575  no
+  O3  Fe1  O2  124.9(4)  3_665  2_655  no
+  O3  Fe1  O2  91.6(4)  3_665  4_575  no
+  O2  Fe1  O2  75.3(4)  2_655  4_575  no
+  O3  P1  O1  113.3(5)  .  .  no
+  O3  P1  O2  107.5(6)  .  .  no
+  O3  P1  O4  109.0(5)  .  .  no
+  O1  P1  O2  113.4(5)  .  .  no
+  O1  P1  O4  110.0(5)  .  .  no
+  O2  P1  O4  103.1(5)  .  .  no
+  P1  O1  Fe1  145.5(6)  .  .  no
+  P1  O2  Fe1  136.9(6)  .  2_645  no
+  P1  O2  Fe1  118.2(5)  .  4_676  no
+  Fe1  O2  Fe1  104.7(4)  2_645  4_676  no
+  P1  O3  Fe1  161.5(6)  .  3_665  no
+  P1  O4  Fe1  150.6(6)  .  2_545  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Fe1  O4  1.809(9)  2_555  yes
+  Fe1  O1  1.864(9)  .  yes
+  Fe1  O3  1.867(9)  3_665  yes
+  Fe1  O2  1.965(10)  2_655  yes
+  Fe1  O2  2.239(9)  4_575  yes
+  P1  O3  1.473(10)  .  yes
+  P1  O1  1.507(9)  .  yes
+  P1  O2  1.540(11)  .  yes
+  P1  O4  1.594(10)  .  yes

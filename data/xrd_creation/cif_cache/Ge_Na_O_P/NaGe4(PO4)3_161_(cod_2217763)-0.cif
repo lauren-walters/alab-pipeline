@@ -1,0 +1,320 @@
+# generated using pymatgen
+data_2217763
+loop_
+ _publ_author_name
+  'Lee, Chi-Shen'
+  'Weng, Sheng-Feng'
+_publ_section_title
+'A quaternary germanium(II) phosphate, Na[Ge~4~(PO~4~)~3~]'
+_journal_coeditor_code   FI2055
+_journal_issue   3
+_journal_name_full   'Acta Crystallographica Section E'
+_journal_page_first   i17
+_journal_paper_doi   10.1107/S1600536808003231
+_journal_volume   64
+_journal_year   2008
+_chemical_formula_iupac   'Na [Ge4 (P O4)3]'
+_chemical_formula_moiety   'Ge4 O12 P3, Na'
+_chemical_formula_sum   'Ge4 Na O12 P3'
+_chemical_formula_weight   598.26
+_chemical_name_systematic   'sodium tetragermanium tris(phosphate)'
+_space_group_IT_number   161
+_symmetry_cell_setting   trigonal
+_symmetry_space_group_name_Hall   'R 3 -2"c'
+_symmetry_space_group_name_H-M   'R 3 c :H'
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   120.00
+_cell_formula_units_Z   6
+_cell_length_a   9.377(8)
+_cell_length_b   9.377(8)
+_cell_length_c   23.48(3)
+_cell_measurement_reflns_used   2164
+_cell_measurement_temperature   298(2)
+_cell_measurement_theta_max   28.28
+_cell_measurement_theta_min   3.05
+_cell_volume   1788(3)
+_computing_cell_refinement   'SMART (Bruker, 2000)'
+_computing_data_collection   'SMART (Bruker, 2000)'
+_computing_data_reduction   'SAINT (Bruker, 2000)'
+_computing_molecular_graphics   'ATOMS (Dowty, 2005)'
+_computing_publication_material   'SHELXTL (Sheldrick, 2008)'
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 2008)'
+_computing_structure_solution   'SHELXS97 (Sheldrick, 2008)'
+_diffrn_ambient_temperature   298(2)
+_diffrn_measured_fraction_theta_full   0.984
+_diffrn_measured_fraction_theta_max   0.984
+_diffrn_measurement_device_type   'Bruker SMART CCD area-detector'
+_diffrn_measurement_method   '\f and \w'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0683
+_diffrn_reflns_av_sigmaI/netI   0.0661
+_diffrn_reflns_limit_h_max   6
+_diffrn_reflns_limit_h_min   -11
+_diffrn_reflns_limit_k_max   10
+_diffrn_reflns_limit_k_min   -12
+_diffrn_reflns_limit_l_max   31
+_diffrn_reflns_limit_l_min   -14
+_diffrn_reflns_number   2164
+_diffrn_reflns_theta_full   28.28
+_diffrn_reflns_theta_max   28.28
+_diffrn_reflns_theta_min   3.05
+_exptl_absorpt_coefficient_mu   10.490
+_exptl_absorpt_correction_T_max   1
+_exptl_absorpt_correction_T_min   0.488
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   '(SADABS; Bruker, 2000)'
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   3.334
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   rod
+_exptl_crystal_F_000   1680
+_exptl_crystal_size_max   0.2
+_exptl_crystal_size_mid   0.13
+_exptl_crystal_size_min   0.1
+_refine_diff_density_max   1.708
+_refine_diff_density_min   -1.064
+_refine_ls_abs_structure_details   'Flack (1983), 146 Friedel pairs'
+_refine_ls_abs_structure_Flack   0.23(8)
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.087
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   62
+_refine_ls_number_reflns   639
+_refine_ls_number_restraints   1
+_refine_ls_restrained_S_all   1.086
+_refine_ls_R_factor_all   0.0638
+_refine_ls_R_factor_gt   0.0580
+_refine_ls_shift/su_max   0.017
+_refine_ls_shift/su_mean   0.005
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.08P)^2^] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.1301
+_refine_ls_wR_factor_ref   0.1328
+_reflns_number_gt   567
+_reflns_number_total   639
+_reflns_threshold_expression   I>2\s(I)
+_cod_data_source_file   fi2055.cif
+_cod_data_source_block   I
+_cod_original_sg_symbol_Hall   'R 3 -2" c'
+_cod_original_sg_symbol_H-M   'R 3 c'
+_cod_database_code   2217763
+_cod_database_fobs_code   2217763
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-y, x-y, z'
+  '-x+y, -x, z'
+  '-y, -x, z+1/2'
+  '-x+y, y, z+1/2'
+  'x, x-y, z+1/2'
+  'x+2/3, y+1/3, z+1/3'
+  '-y+2/3, x-y+1/3, z+1/3'
+  '-x+y+2/3, -x+1/3, z+1/3'
+  '-y+2/3, -x+1/3, z+5/6'
+  '-x+y+2/3, y+1/3, z+5/6'
+  'x+2/3, x-y+1/3, z+5/6'
+  'x+1/3, y+2/3, z+2/3'
+  '-y+1/3, x-y+2/3, z+2/3'
+  '-x+y+1/3, -x+2/3, z+2/3'
+  '-y+1/3, -x+2/3, z+7/6'
+  '-x+y+1/3, y+2/3, z+7/6'
+  'x+1/3, x-y+2/3, z+7/6'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+  Ge  Ge1  1.0000  1.0000  0.07489(10)  0.0243(6)  Uani  d  S  1
+  Ge  Ge2  1.41201(19)  1.47337(17)  0.10322(6)  0.0214(4)  Uani  d
+  .  1
+  P  P1  1.3317(4)  1.1233(4)  0.14139(17)  0.0190(7)  Uani  d  .  1
+  Na  Na1  0.6667  0.3333  0.0506(4)  0.025(2)  Uani  d  S  1
+  O  O1  1.4071(13)  1.2667(13)  0.0985(4)  0.024(2)  Uani  d  .  1
+  O  O2  1.1603(13)  0.9917(13)  0.1226(5)  0.032(2)  Uani  d  .  1
+  O  O3  1.6040(13)  1.5600(13)  0.1466(4)  0.027(2)  Uani  d  .  1
+  O  O4  1.5371(12)  1.5216(13)  0.0335(4)  0.026(2)  Uani  d  .  1
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Ge1  0.0271(9)  0.0271(9)  0.0187(11)  0.0136(4)  0.000  0.000
+  Ge2  0.0170(8)  0.0212(8)  0.0242(6)  0.0083(6)  -0.0022(5)
+  -0.0022(6)
+  P1  0.0169(17)  0.0186(17)  0.0205(14)  0.0082(14)  0.0026(12)
+  0.0008(12)
+  Na1  0.025(3)  0.025(3)  0.026(5)  0.0125(16)  0.000  0.000
+  O1  0.025(5)  0.027(6)  0.019(4)  0.012(5)  -0.005(4)  0.000(4)
+  O2  0.019(5)  0.031(6)  0.050(6)  0.016(5)  0.002(4)  0.010(5)
+  O3  0.027(6)  0.028(5)  0.020(4)  0.009(5)  0.000(4)  -0.004(4)
+  O4  0.018(5)  0.024(6)  0.019(4)  -0.001(4)  0.002(4)  0.008(4)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Na  Na  0.0362  0.0249
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Ge  Ge  0.1547  1.8001
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+  O2  Ge1  O2  .  2_765  89.0(5)
+  O2  Ge1  O2  .  3_675  89.0(5)
+  O2  Ge1  O2  2_765  3_675  89.0(5)
+  O2  Ge1  Na1  .  16_664  54.0(3)
+  O2  Ge1  Na1  2_765  16_664  54.0(3)
+  O2  Ge1  Na1  3_675  16_664  54.0(3)
+  O3  Ge2  O1  .  .  90.1(5)
+  O3  Ge2  O4  .  .  91.2(4)
+  O1  Ge2  O4  .  .  83.8(4)
+  O3  Ge2  Na1  .  1_665  70.3(3)
+  O1  Ge2  Na1  .  1_665  43.3(3)
+  O4  Ge2  Na1  .  1_665  48.4(3)
+  O2  P1  O3  .  2_865  108.5(6)
+  O2  P1  O1  .  .  110.8(6)
+  O3  P1  O1  2_865  .  110.5(6)
+  O2  P1  O4  .  17_644  108.4(6)
+  O3  P1  O4  2_865  17_644  109.1(6)
+  O1  P1  O4  .  17_644  109.5(6)
+  O2  P1  Na1  .  16_664  55.7(4)
+  O3  P1  Na1  2_865  16_664  122.1(4)
+  O1  P1  Na1  .  16_664  127.4(4)
+  O4  P1  Na1  17_644  16_664  52.8(4)
+  O1  Na1  O1  2_755  3_675  100.8(4)
+  O1  Na1  O1  2_755  1_445  100.8(4)
+  O1  Na1  O1  3_675  1_445  100.8(4)
+  O1  Na1  O4  2_755  2_755  60.6(3)
+  O1  Na1  O4  3_675  2_755  159.5(5)
+  O1  Na1  O4  1_445  2_755  76.3(3)
+  O1  Na1  O4  2_755  3_675  76.3(3)
+  O1  Na1  O4  3_675  3_675  60.6(3)
+  O1  Na1  O4  1_445  3_675  159.5(5)
+  O4  Na1  O4  2_755  3_675  117.71(15)
+  O1  Na1  O4  2_755  1_445  159.5(5)
+  O1  Na1  O4  3_675  1_445  76.3(3)
+  O1  Na1  O4  1_445  1_445  60.6(3)
+  O4  Na1  O4  2_755  1_445  117.71(15)
+  O4  Na1  O4  3_675  1_445  117.71(15)
+  O1  Na1  O2  2_755  10_664  83.0(3)
+  O1  Na1  O2  3_675  10_664  135.5(4)
+  O1  Na1  O2  1_445  10_664  122.3(4)
+  O4  Na1  O2  2_755  10_664  55.5(3)
+  O4  Na1  O2  3_675  10_664  77.9(4)
+  O4  Na1  O2  1_445  10_664  113.5(4)
+  O1  Na1  O2  2_755  12_454  122.3(4)
+  O1  Na1  O2  3_675  12_454  83.0(3)
+  O1  Na1  O2  1_445  12_454  135.5(4)
+  O4  Na1  O2  2_755  12_454  113.5(4)
+  O4  Na1  O2  3_675  12_454  55.5(3)
+  O4  Na1  O2  1_445  12_454  77.9(4)
+  O2  Na1  O2  10_664  12_454  59.2(4)
+  O1  Na1  O2  2_755  11_544  135.5(4)
+  O1  Na1  O2  3_675  11_544  122.3(4)
+  O1  Na1  O2  1_445  11_544  83.0(3)
+  O4  Na1  O2  2_755  11_544  77.9(4)
+  O4  Na1  O2  3_675  11_544  113.5(4)
+  O4  Na1  O2  1_445  11_544  55.5(3)
+  O2  Na1  O2  10_664  11_544  59.2(4)
+  O2  Na1  O2  12_454  11_544  59.2(4)
+  O1  Na1  P1  2_755  10_664  69.3(2)
+  O1  Na1  P1  3_675  10_664  158.4(3)
+  O1  Na1  P1  1_445  10_664  100.0(3)
+  O4  Na1  P1  2_755  10_664  27.8(2)
+  O4  Na1  P1  3_675  10_664  97.9(3)
+  O4  Na1  P1  1_445  10_664  119.8(3)
+  O2  Na1  P1  10_664  10_664  27.7(2)
+  O2  Na1  P1  12_454  10_664  86.4(3)
+  O2  Na1  P1  11_544  10_664  66.4(3)
+  O1  Na1  P1  2_755  12_454  100.0(3)
+  O1  Na1  P1  3_675  12_454  69.3(2)
+  O1  Na1  P1  1_445  12_454  158.4(3)
+  O4  Na1  P1  2_755  12_454  119.8(3)
+  O4  Na1  P1  3_675  12_454  27.8(2)
+  O4  Na1  P1  1_445  12_454  97.9(3)
+  O2  Na1  P1  10_664  12_454  66.4(3)
+  O2  Na1  P1  12_454  12_454  27.7(2)
+  O2  Na1  P1  11_544  12_454  86.4(3)
+  P1  Na1  P1  10_664  12_454  92.9(2)
+  O1  Na1  P1  2_755  11_544  158.4(3)
+  O1  Na1  P1  3_675  11_544  100.0(3)
+  O1  Na1  P1  1_445  11_544  69.3(2)
+  O4  Na1  P1  2_755  11_544  97.9(3)
+  O4  Na1  P1  3_675  11_544  119.8(3)
+  O4  Na1  P1  1_445  11_544  27.8(2)
+  O2  Na1  P1  10_664  11_544  86.4(3)
+  O2  Na1  P1  12_454  11_544  66.4(3)
+  O2  Na1  P1  11_544  11_544  27.7(2)
+  P1  Na1  P1  10_664  11_544  92.9(2)
+  P1  Na1  P1  12_454  11_544  92.9(2)
+  P1  O1  Ge2  .  .  127.8(6)
+  P1  O1  Na1  .  1_665  118.9(6)
+  Ge2  O1  Na1  .  1_665  104.4(5)
+  P1  O2  Ge1  .  .  132.2(6)
+  P1  O2  Na1  .  16_664  96.7(5)
+  Ge1  O2  Na1  .  16_664  91.2(4)
+  P1  O3  Ge2  3_785  .  141.5(7)
+  P1  O4  Ge2  11_654  .  123.5(6)
+  P1  O4  Na1  11_654  1_665  99.4(6)
+  Ge2  O4  Na1  .  1_665  98.3(4)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+  Ge1  O2  .  1.908(10)
+  Ge1  O2  2_765  1.908(10)
+  Ge1  O2  3_675  1.908(10)
+  Ge1  Na1  16_664  3.343(11)
+  Ge2  O3  .  1.864(10)
+  Ge2  O1  .  1.918(11)
+  Ge2  O4  .  1.931(10)
+  Ge2  Na1  1_665  3.477(5)
+  P1  O2  .  1.522(12)
+  P1  O3  2_865  1.534(11)
+  P1  O1  .  1.540(11)
+  P1  O4  17_644  1.540(9)
+  P1  Na1  16_664  3.254(7)
+  Na1  O1  2_755  2.462(11)
+  Na1  O1  3_675  2.462(11)
+  Na1  O1  1_445  2.462(11)
+  Na1  O4  2_755  2.627(11)
+  Na1  O4  3_675  2.627(11)
+  Na1  O4  1_445  2.627(11)
+  Na1  O2  10_664  2.705(13)
+  Na1  O2  12_454  2.705(13)
+  Na1  O2  11_544  2.705(13)
+  Na1  P1  10_664  3.254(7)
+  Na1  P1  12_454  3.254(7)
+  Na1  P1  11_544  3.254(7)
+  O1  Na1  1_665  2.462(11)
+  O2  Na1  16_664  2.705(13)
+  O3  P1  3_785  1.534(11)
+  O4  P1  11_654  1.540(9)
+  O4  Na1  1_665  2.627(11)

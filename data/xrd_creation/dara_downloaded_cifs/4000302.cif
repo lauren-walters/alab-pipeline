@@ -1,0 +1,169 @@
+# generated using pymatgen
+data_4000302
+loop_
+ _publ_author_name
+  'Bull, I.'
+  'Young, V.'
+  'Teat, S. J.'
+  'Peng, L.'
+  'Grey, C. P.'
+  'Parise, J. B.'
+_publ_section_title
+;
+Hydrothermal synthesis and structural characterization of four
+scandium  phosphate frameworks  Locality: synthetic
+;
+_journal_name_full   'Chemistry of Materials'
+_journal_page_first   3818
+_journal_page_last   3825
+_journal_paper_doi   10.1021/cm030306f
+_journal_volume   15
+_journal_year   2003
+_chemical_formula_sum   'H4 O6 P Sc'
+_chemical_formula_weight   175.96
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_atom_sites_solution_hydrogens   none
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.253(7)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   4
+_cell_length_a   5.4429(8)
+_cell_length_b   10.2513(15)
+_cell_length_c   8.9094(11)
+_cell_measurement_reflns_used   1563
+_cell_measurement_temperature   150(2)
+_cell_measurement_theta_max   21.47
+_cell_measurement_theta_min   4.20
+_cell_volume   497.11(12)
+_diffrn_ambient_temperature   150(2)
+_diffrn_detector_area_resol_mean   ?
+_diffrn_measurement_device_type
+'Bruker SMART PROTEUM 200 CCD diffractometer'
+_diffrn_measurement_method   '\w rotation with narrow frames'
+_diffrn_radiation_monochromator   'silicon 111'
+_diffrn_radiation_source   'Daresbury SRS station 9.8'
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   0.6845
+_diffrn_reflns_av_R_equivalents   0.0273
+_diffrn_reflns_av_sigmaI/netI   0.0285
+_diffrn_reflns_limit_h_max   5
+_diffrn_reflns_limit_h_min   -5
+_diffrn_reflns_limit_k_max   10
+_diffrn_reflns_limit_k_min   -10
+_diffrn_reflns_limit_l_max   9
+_diffrn_reflns_limit_l_min   -9
+_diffrn_reflns_number   2327
+_diffrn_reflns_theta_max   21.47
+_diffrn_reflns_theta_min   1.91
+_diffrn_standards_decay_%   ?
+_diffrn_standards_interval_count   ?
+_diffrn_standards_interval_time   ?
+_diffrn_standards_number   0
+_exptl_absorpt_coefficient_mu   1.744
+_exptl_absorpt_correction_T_max   0.96
+_exptl_absorpt_correction_T_min   0.93
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   ?
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   2.351
+_exptl_crystal_density_meas   ?
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   plate
+_exptl_crystal_F_000   352
+_exptl_crystal_size_max   0.02
+_exptl_crystal_size_mid   0.02
+_exptl_crystal_size_min   0.01
+_refine_ls_extinction_coef   ?
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.127
+_refine_ls_hydrogen_treatment   none
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   74
+_refine_ls_number_reflns   626
+_refine_ls_number_restraints   89
+_refine_ls_restrained_S_all   1.109
+_refine_ls_R_factor_all   0.0655
+_refine_ls_R_factor_gt   0.0630
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0999P)^2^+6.3185P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.1670
+_refine_ls_wR_factor_ref   0.1697
+_reflns_number_gt   589
+_reflns_number_total   626
+_reflns_threshold_expression   I>2\s(I)
+_cod_original_sg_symbol_H-M   P2(1)/n
+_cod_database_code   4000302
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x+1/2, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x-1/2, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Sc1  Sc  0.0891(5)  0.33377(15)  0.2023(2)  0.0052(7)  Uani  1  1
+  d  U  .  .
+  P1  P  0.0864(6)  0.3467(2)  -0.1801(3)  0.0055(8)  Uani  1  1  d
+  U  .  .
+  O1  O  0.3974(16)  0.4620(8)  0.2036(9)  0.0261(19)  Uani  1  1  d
+  U  .  .
+  O2  O  0.1165(13)  0.4948(6)  -0.1825(7)  0.0083(15)  Uani  1  1
+  d  U  .  .
+  O3  O  0.1068(14)  0.2950(7)  -0.0199(8)  0.0196(17)  Uani  1  1
+  d  U  .  .
+  O4  O  -0.1660(13)  0.3126(7)  -0.2482(8)  0.0122(18)  Uani  1  1
+  d  U  .  .
+  O5  O  0.2842(14)  0.2852(7)  -0.2755(8)  0.0117(16)  Uani  1  1
+  d  U  .  .
+  O6  O  0.0746(18)  0.3654(8)  0.4442(10)  0.030(2)  Uani  1  1  d
+  U  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Sc1  0.0029(9)  0.0026(9)  0.0101(9)  0.0008(6)  -0.0008(7)
+  0.0001(6)
+  P1  0.0043(10)  0.0044(10)  0.0077(10)  -0.0005(7)  -0.0014(8)
+  -0.0001(7)
+  O1  0.025(2)  0.025(2)  0.028(2)  -0.0003(10)  0.0001(10)
+  -0.0003(10)
+  O2  0.0078(17)  0.0080(17)  0.0092(17)  0.0001(10)  0.0000(10)
+  0.0002(10)
+  O3  0.0209(19)  0.0186(19)  0.0192(19)  0.0003(10)  0.0000(10)
+  0.0001(10)
+  O4  0.012(2)  0.0119(19)  0.013(2)  -0.0005(10)  -0.0008(10)
+  0.0004(10)
+  O5  0.0112(18)  0.0109(18)  0.0130(18)  -0.0004(10)  0.0002(10)
+  -0.0002(10)
+  O6  0.030(2)  0.030(2)  0.029(2)  -0.0001(10)  -0.0002(10)
+  0.0010(10)
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0012220

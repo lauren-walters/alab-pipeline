@@ -1,0 +1,244 @@
+# generated using pymatgen
+data_1532224
+loop_
+ _publ_author_name
+  'Tashmetov, M.Yu.'
+  'Lee, J.-S.'
+  'Em, V.T.'
+  'Lee, C.H.'
+  'Choi, Y.-N.'
+  'Shim, H.-S.'
+_publ_section_title
+;
+Neutron diffraction study of the ordered structures of
+nonstoichiometric  titanium carbide
+;
+_journal_name_full   'Physik (Berlin)'
+_journal_page_first   318
+_journal_page_last   325
+_journal_volume   311
+_journal_year   2002
+_chemical_formula_sum   'C0.62 Ti'
+_chemical_name_systematic   'Ti C0.62'
+_space_group_IT_number   227
+_symmetry_space_group_name_Hall   '-F 4vw 2vw 3'
+_symmetry_space_group_name_H-M   'F d -3 m :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   32
+_cell_length_a   8.624
+_cell_length_b   8.624
+_cell_length_c   8.624
+_cell_volume   641.396
+_citation_journal_id_ASTM   PHYBE3
+_cod_data_source_file   Tashmetov_PHYBE3_2002_802.cif
+_cod_data_source_block   C0.62Ti1
+_cod_original_cell_volume   641.3959
+_cod_original_formula_sum   'C0.62 Ti1'
+_cod_database_code   1532224
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x+1/4,z+1/4
+  -x+3/4,-y+1/4,z+1/2
+  y+3/4,-x,z+3/4
+  x,-y+1/4,-z+1/4
+  y+3/4,x+1/4,-z+1/2
+  -x+3/4,y,-z+3/4
+  -y,-x,-z
+  z,x,y
+  -x,z+1/4,y+1/4
+  -z+3/4,-x+1/4,y+1/2
+  x+3/4,-z,y+3/4
+  z,-x+1/4,-y+1/4
+  x+3/4,z+1/4,-y+1/2
+  -z+3/4,x,-y+3/4
+  -x,-z,-y
+  y,z,x
+  y+1/2,-z+3/4,-x+1/4
+  z+1/4,y+3/4,-x+1/2
+  -y+1/4,z+1/2,-x+3/4
+  -z,-y+1/2,-x+1/2
+  -y+1/4,-z+1/4,x
+  z+1/4,-y,x+1/4
+  -z+1/2,y+1/4,x+3/4
+  -x,-y,-z
+  y,-x-1/4,-z-1/4
+  x-3/4,y-1/4,-z-1/2
+  -y-3/4,x,-z-3/4
+  -x,y-1/4,z-1/4
+  -y-3/4,-x-1/4,z-1/2
+  x-3/4,-y,z-3/4
+  y,x,z
+  -z,-x,-y
+  x,-z-1/4,-y-1/4
+  z-3/4,x-1/4,-y-1/2
+  -x-3/4,z,-y-3/4
+  -z,x-1/4,y-1/4
+  -x-3/4,-z-1/4,y-1/2
+  z-3/4,-x,y-3/4
+  x,z,y
+  -y,-z,-x
+  -y-1/2,z-3/4,x-1/4
+  -z-1/4,-y-3/4,x-1/2
+  y-1/4,-z-1/2,x-3/4
+  z,y-1/2,x-1/2
+  y-1/4,z-1/4,-x
+  -z-1/4,y,-x-1/4
+  z-1/2,-y-1/4,-x-3/4
+  x,y+1/2,z+1/2
+  -y,x+3/4,z+3/4
+  -x+3/4,-y+3/4,z+1
+  y+3/4,-x+1/2,z+5/4
+  x,-y+3/4,-z+3/4
+  y+3/4,x+3/4,-z+1
+  -x+3/4,y+1/2,-z+5/4
+  -y,-x+1/2,-z+1/2
+  z,x+1/2,y+1/2
+  -x,z+3/4,y+3/4
+  -z+3/4,-x+3/4,y+1
+  x+3/4,-z+1/2,y+5/4
+  z,-x+3/4,-y+3/4
+  x+3/4,z+3/4,-y+1
+  -z+3/4,x+1/2,-y+5/4
+  -x,-z+1/2,-y+1/2
+  y,z+1/2,x+1/2
+  y+1/2,-z+5/4,-x+3/4
+  z+1/4,y+5/4,-x+1
+  -y+1/4,z+1,-x+5/4
+  -z,-y+1,-x+1
+  -y+1/4,-z+3/4,x+1/2
+  z+1/4,-y+1/2,x+3/4
+  -z+1/2,y+3/4,x+5/4
+  -x,-y+1/2,-z+1/2
+  y,-x+1/4,-z+1/4
+  x-3/4,y+1/4,-z
+  -y-3/4,x+1/2,-z-1/4
+  -x,y+1/4,z+1/4
+  -y-3/4,-x+1/4,z
+  x-3/4,-y+1/2,z-1/4
+  y,x+1/2,z+1/2
+  -z,-x+1/2,-y+1/2
+  x,-z+1/4,-y+1/4
+  z-3/4,x+1/4,-y
+  -x-3/4,z+1/2,-y-1/4
+  -z,x+1/4,y+1/4
+  -x-3/4,-z+1/4,y
+  z-3/4,-x+1/2,y-1/4
+  x,z+1/2,y+1/2
+  -y,-z+1/2,-x+1/2
+  -y-1/2,z-1/4,x+1/4
+  -z-1/4,-y-1/4,x
+  y-1/4,-z,x-1/4
+  z,y,x
+  y-1/4,z+1/4,-x+1/2
+  -z-1/4,y+1/2,-x+1/4
+  z-1/2,-y+1/4,-x-1/4
+  x+1/2,y,z+1/2
+  -y+1/2,x+1/4,z+3/4
+  -x+5/4,-y+1/4,z+1
+  y+5/4,-x,z+5/4
+  x+1/2,-y+1/4,-z+3/4
+  y+5/4,x+1/4,-z+1
+  -x+5/4,y,-z+5/4
+  -y+1/2,-x,-z+1/2
+  z+1/2,x,y+1/2
+  -x+1/2,z+1/4,y+3/4
+  -z+5/4,-x+1/4,y+1
+  x+5/4,-z,y+5/4
+  z+1/2,-x+1/4,-y+3/4
+  x+5/4,z+1/4,-y+1
+  -z+5/4,x,-y+5/4
+  -x+1/2,-z,-y+1/2
+  y+1/2,z,x+1/2
+  y+1,-z+3/4,-x+3/4
+  z+3/4,y+3/4,-x+1
+  -y+3/4,z+1/2,-x+5/4
+  -z+1/2,-y+1/2,-x+1
+  -y+3/4,-z+1/4,x+1/2
+  z+3/4,-y,x+3/4
+  -z+1,y+1/4,x+5/4
+  -x+1/2,-y,-z+1/2
+  y+1/2,-x-1/4,-z+1/4
+  x-1/4,y-1/4,-z
+  -y-1/4,x,-z-1/4
+  -x+1/2,y-1/4,z+1/4
+  -y-1/4,-x-1/4,z
+  x-1/4,-y,z-1/4
+  y+1/2,x,z+1/2
+  -z+1/2,-x,-y+1/2
+  x+1/2,-z-1/4,-y+1/4
+  z-1/4,x-1/4,-y
+  -x-1/4,z,-y-1/4
+  -z+1/2,x-1/4,y+1/4
+  -x-1/4,-z-1/4,y
+  z-1/4,-x,y-1/4
+  x+1/2,z,y+1/2
+  -y+1/2,-z,-x+1/2
+  -y,z-3/4,x+1/4
+  -z+1/4,-y-3/4,x
+  y+1/4,-z-1/2,x-1/4
+  z+1/2,y-1/2,x
+  y+1/4,z-1/4,-x+1/2
+  -z+1/4,y,-x+1/4
+  z,-y-1/4,-x-1/4
+  x+1/2,y+1/2,z
+  -y+1/2,x+3/4,z+1/4
+  -x+5/4,-y+3/4,z+1/2
+  y+5/4,-x+1/2,z+3/4
+  x+1/2,-y+3/4,-z+1/4
+  y+5/4,x+3/4,-z+1/2
+  -x+5/4,y+1/2,-z+3/4
+  -y+1/2,-x+1/2,-z
+  z+1/2,x+1/2,y
+  -x+1/2,z+3/4,y+1/4
+  -z+5/4,-x+3/4,y+1/2
+  x+5/4,-z+1/2,y+3/4
+  z+1/2,-x+3/4,-y+1/4
+  x+5/4,z+3/4,-y+1/2
+  -z+5/4,x+1/2,-y+3/4
+  -x+1/2,-z+1/2,-y
+  y+1/2,z+1/2,x
+  y+1,-z+5/4,-x+1/4
+  z+3/4,y+5/4,-x+1/2
+  -y+3/4,z+1,-x+3/4
+  -z+1/2,-y+1,-x+1/2
+  -y+3/4,-z+3/4,x
+  z+3/4,-y+1/2,x+1/4
+  -z+1,y+3/4,x+3/4
+  -x+1/2,-y+1/2,-z
+  y+1/2,-x+1/4,-z-1/4
+  x-1/4,y+1/4,-z-1/2
+  -y-1/4,x+1/2,-z-3/4
+  -x+1/2,y+1/4,z-1/4
+  -y-1/4,-x+1/4,z-1/2
+  x-1/4,-y+1/2,z-3/4
+  y+1/2,x+1/2,z
+  -z+1/2,-x+1/2,-y
+  x+1/2,-z+1/4,-y-1/4
+  z-1/4,x+1/4,-y-1/2
+  -x-1/4,z+1/2,-y-3/4
+  -z+1/2,x+1/4,y-1/4
+  -x-1/4,-z+1/4,y-1/2
+  z-1/4,-x+1/2,y-3/4
+  x+1/2,z+1/2,y
+  -y+1/2,-z+1/2,-x
+  -y,z-1/4,x-1/4
+  -z+1/4,-y-1/4,x-1/2
+  y+1/4,-z,x-3/4
+  z+1/2,y,x-1/2
+  y+1/4,z+1/4,-x
+  -z+1/4,y+1/2,-x-1/4
+  z,-y+1/4,-x-3/4
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  C2  C  0.5  0.5  0.5  0.42  0.0
+  C1  C  0  0  0  0.82  0.0
+  Ti1  Ti  0.248  0.248  0.248  1  0.0

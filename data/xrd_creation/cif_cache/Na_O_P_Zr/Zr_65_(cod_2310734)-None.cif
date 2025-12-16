@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_2310734
+loop_
+ _publ_author_name
+  'Bode, H.'
+_publ_section_title
+'Ueber die Kristallstrukturen der Hexafluorozirkonate'
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   637
+_journal_page_last   637
+_journal_volume   7
+_journal_year   1954
+_chemical_formula_sum   Zr
+_chemical_name_systematic   '(N H4)2 (Zr F6)'
+_space_group_IT_number   55
+_symmetry_space_group_name_Hall   '-P 2 2ab'
+_symmetry_space_group_name_H-M   'P b a m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   13.5
+_cell_length_b   11.68
+_cell_length_c   7.74
+_cell_volume   1220.443
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Bode_ACCRA9_1954_1998.cif
+_cod_data_source_block   Zr1
+_cod_original_formula_sum   Zr1
+_cod_database_code   2310734
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  x+1/2,-y+1/2,-z
+  -x+1/2,y+1/2,-z
+  -x,-y,-z
+  x,y,-z
+  -x-1/2,y-1/2,z
+  x-1/2,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Zr1  Zr+4  0  0  0  1  0.0
+  Zr3  Zr+4  0  0.25  0.5  1  0.0
+  Zr2  Zr+4  0  0.5  0  1  0.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139089008

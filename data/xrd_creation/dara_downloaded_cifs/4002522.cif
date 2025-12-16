@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_4002522
+loop_
+ _publ_author_name
+  'Masaki, N.'
+  'Yamane, H.'
+  'Uchida, S.'
+  'Sato, T.'
+_publ_section_title
+;
+Characterization of a new potassium titanate, K Ti O2 (O H)
+synthesized  via hydrothermal method
+;
+_journal_name_full   'Chemistry of Materials (1,1989-)'
+_journal_page_first   419
+_journal_page_last   424
+_journal_volume   14
+_journal_year   2002
+_chemical_formula_sum   'H K O3 Ti'
+_chemical_name_systematic   'K (Ti O2 (O H))'
+_space_group_IT_number   194
+_symmetry_space_group_name_Hall   '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   4
+_cell_length_a   5.7096
+_cell_length_b   5.7096
+_cell_length_c   9.5574
+_cell_volume   269.825
+_citation_journal_id_ASTM   CMATEX
+_cod_data_source_file   Masaki_CMATEX_2002_244.cif
+_cod_data_source_block   H1K1O3Ti1
+_cod_original_cell_volume   269.8247
+_cod_original_formula_sum   'H1 K1 O3 Ti1'
+_cod_database_code   4002522
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x-y,x,z+1/2
+  -y,x-y,z
+  -x,-y,z+1/2
+  -x+y,-x,z
+  y,-x+y,z+1/2
+  -y,-x,-z+1/2
+  x-y,-y,-z
+  x,x-y,-z+1/2
+  y,x,-z
+  -x+y,y,-z+1/2
+  -x,-x+y,-z
+  -x,-y,-z
+  -x+y,-x,-z-1/2
+  y,-x+y,-z
+  x,y,-z-1/2
+  x-y,x,-z
+  -y,x-y,-z-1/2
+  y,x,z-1/2
+  -x+y,y,z
+  -x,-x+y,z-1/2
+  -y,-x,z
+  x-y,-y,z-1/2
+  x,x-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  K2  K+1  0.6667  0.3333  0.25  1  0.0
+  O1  O-2  0.5  0  0  1  0.0
+  O2  O-2  0.1829  0.3658  0.25  1  0.0
+  Ti1  Ti+4  0.3333  0.6667  0.0955  1  0.0
+  K1  K+1  0  0  0  1  0.0

@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_9010009
+loop_
+ _publ_author_name
+  'Milton, C.'
+  'Appleman, D. E.'
+  'Appleman, M. H.'
+  'Chao, E. C. T.'
+  'Cuttita, F.'
+  'Dinnin, J. I.'
+  'Dwornik, E. J.'
+  'Ingram, B. L.'
+  'Rose, H. J.'
+_publ_section_title
+'Merumite, a complex assemblage of chromium minerals from Guyana'
+_journal_name_full   'U.S. Geological Survey Professional Paper'
+_journal_page_first   1
+_journal_page_last   29
+_journal_volume   887
+_journal_year   1976
+_chemical_compound_source   Guyana
+_chemical_formula_sum   'Cr H O2'
+_chemical_name_mineral   Bracewellite
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2c 2ab'
+_symmetry_space_group_name_H-M   'P b n m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.492
+_cell_length_b   9.860
+_cell_length_c   2.974
+_cell_volume   131.722
+_database_code_amcsd   0015707
+_exptl_crystal_density_diffrn   4.286
+_cod_original_formula_sum   'Cr O2 H'
+_cod_database_code   9010009
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2+y,1/2-z
+  1/2-x,1/2+y,z
+  1/2+x,1/2-y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Cr  -0.05200  0.14500  0.25000  Cr  0
+  O1  0.30100  -0.19700  0.25000  O  0
+  O-H2  -0.19800  -0.05400  0.25000  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:52:19+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0015707

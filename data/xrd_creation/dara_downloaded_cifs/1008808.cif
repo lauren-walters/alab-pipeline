@@ -1,0 +1,305 @@
+# generated using pymatgen
+data_1008808
+loop_
+ _publ_author_name
+  'Dahaoui, Slimane'
+  'Hansen, Niels K.'
+  'Menaert, Bertrand'
+_publ_section_title   'NaTiOPO~4~ and KTiOPO~4~ at 110 K'
+_journal_coden_ASTM   ACSCEE
+_journal_coeditor_code   du1171
+_journal_issue   9
+_journal_name_full
+'Acta Crystallographica, Section C: Crystal Structure Communications'
+_journal_page_first   1173
+_journal_page_last   1176
+_journal_paper_doi   10.1107/s0108270197004265
+_journal_volume   53
+_journal_year   1997
+_chemical_formula_moiety   'K Ti O P O4'
+_chemical_formula_structural   'K (Ti O) (P O4)'
+_chemical_formula_sum   'K O5 P Ti'
+_chemical_formula_weight   197.97
+_chemical_name_common   'Potassium titanyl phosphate'
+_chemical_name_systematic   'Potassium oxotitanium phosphate(V)'
+_space_group_IT_number   33
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   33
+_symmetry_space_group_name_Hall   'P 2c -2n'
+_symmetry_space_group_name_H-M   'P n a 21'
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   8
+_cell_length_a   12.7982(9)
+_cell_length_b   6.3937(7)
+_cell_length_c   10.5853(9)
+_cell_measurement_reflns_used   23
+_cell_measurement_temperature   110(3)
+_cell_measurement_theta_max   33
+_cell_measurement_theta_min   19
+_cell_volume   866.20(10)
+_computing_cell_refinement   'CAD4 Software'
+_computing_data_collection   'CAD4 Software (Enraf-Nonius, 1989)'
+_computing_data_reduction   'DREAR (Blessing, 1987)'
+_computing_molecular_graphics   'CRIC (Boudias & Monceau, 1994)'
+_computing_structure_refinement   'MOLLY (Hansen & Coppens, 1978)'
+_computing_structure_solution   'SHELXS-86 (Sheldrick, 1985)'
+_diffrn_ambient_temperature   110(3)
+_diffrn_measurement_device   'Enraf-Nonius CAD4'
+_diffrn_measurement_method   \w/2\q
+_diffrn_radiation_type   'Ag K\a'
+_diffrn_radiation_wavelength   0.56087
+_diffrn_reflns_av_R_equivalents   0.0123
+_diffrn_reflns_limit_h_max   29
+_diffrn_reflns_limit_h_min   -29
+_diffrn_reflns_limit_k_max   14
+_diffrn_reflns_limit_k_min   -7
+_diffrn_reflns_limit_l_max   24
+_diffrn_reflns_limit_l_min   -12
+_diffrn_reflns_number   18156
+_diffrn_reflns_theta_max   40.0
+_diffrn_standards_decay_%   1
+_diffrn_standards_interval_time   120
+_diffrn_standards_number   3
+_exptl_absorpt_coefficient_mu   1.65
+_exptl_absorpt_correction_T_max   0.732
+_exptl_absorpt_correction_T_min   0.732
+_exptl_absorpt_correction_type   sphere
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   3.037
+_exptl_crystal_density_meas   .
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   Sphere
+_exptl_crystal_size_rad   0.13
+_refine_diff_density_max   .170
+_refine_diff_density_min   -.150
+_refine_ls_extinction_coef   993.(11)
+_refine_ls_extinction_method
+'Isotropic type I Lorentzian  (Becker & Coppens, 1974)'
+_refine_ls_goodness_of_fit_obs   1.00
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   8
+_refine_ls_number_parameters   305
+_refine_ls_number_reflns   4762
+_refine_ls_R_factor_all   0.0123
+_refine_ls_R_factor_obs   0.0123
+_refine_ls_shift/esd_max   0.001
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   '1/[\s^2^(F^2^) + (0.008F^2^)^2^]'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_obs   0.0119
+_reflns_number_observed   6402
+_reflns_number_total   7056
+_reflns_observed_criterion   I>3\s(I)
+_cod_duplicate_entry   2006468
+_cod_data_source_file   du1171.cif
+_cod_data_source_block   2
+_cod_original_formula_sum   'K Ti O P O4'
+_cod_database_code   1008808
+_cod_database_fobs_code   2006468
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,1/2+z
+  1/2-x,1/2+y,1/2+z
+  1/2+x,1/2-y,z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Ti1  .00257(3)  .00219(3)  .00243(3)  -.00003(3)  -.00009(3)
+  .00025(3)
+  OT2  .0051(2)  .0052(2)  .0051(2)  -.00030(10)  -.00150(10)
+  .00080(10)
+  Ti2  .00231(3)  .00243(3)  .00230(3)  -.00005(3)  .00015(3)
+  -.00004(3)
+  OT1  .00500(10)  .0046(2)  .00430(10)  -.00010(10)  .00090(10)
+  .00120(10)
+  P1  .00235(5)  .00280(5)  .00283(6)  .00006(4)  -.00022(5)
+  .00008(5)
+  O1  .00500(10)  .0052(2)  .00490(10)  -.00070(10)  -.00090(10)
+  .00180(10)
+  O2  .00470(10)  .0057(2)  .00430(10)  .00040(10)  -.00120(10)
+  -.00150(10)
+  O3  .00330(10)  .00450(10)  .00610(10)  -.00060(10)  .00010(10)
+  .00050(10)
+  O4  .00330(10)  .00510(10)  .0065(2)  .00090(10)  -.00010(10)
+  -.00040(10)
+  P2  .00326(5)  .00235(5)  .00281(6)  -.00011(5)  .00011(5)
+  -.00023(4)
+  O5  .0053(2)  .00300(10)  .0055(2)  -.00070(10)  .00100(10)
+  .00010(10)
+  O6  .00600(10)  .00320(10)  .0065(2)  .00080(10)  -.00100(10)
+  .00020(10)
+  O7  .00560(10)  .00510(10)  .00440(10)  .00070(10)  -.00130(10)
+  -.00120(10)
+  O8  .00540(10)  .0055(2)  .00440(10)  -.00090(10)  .00140(10)
+  -.00140(10)
+  K1  .00918(6)  .0044(5)  .00869(6)  .00152(4)  .00208(5)
+  .00036(4)
+  K2  .00548(5)  .00814(6)  .01023(6)  .00190(4)  -.00007(4)
+  -.00054(5)
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Ti1  Ti4+  4  a  .373090(10)  .49989(2)  0  .002390(10)  1.  0  d
+  OT2  O2-  4  a  .27624(5)  .54130(10)  -.11043(7)  .00514(9)  1.
+  0  d
+  Ti2  Ti4+  4  a  .246410(10)  .26951(2)  .25125(2)  .002340(10)
+  1.  0  d
+  OT1  O2-  4  a  .27523(5)  .46730(10)  .14306(6)  .00465(9)  1.  0
+  d
+  P1  P5+  4  a  .49787(2)  .33640(3)  .25999(3)  .00266(3)  1.  0
+  d
+  O1  O2-  4  a  .48577(5)  .48730(10)  .14987(6)  .00503(9)  1.  0
+  d
+  O2  O2-  4  a  .50947(5)  .46540(10)  .38309(6)  .00494(9)  1.  0
+  d
+  O3  O2-  4  a  .40007(5)  .19900(10)  .27899(7)  .00462(8)  1.  0
+  d
+  O4  O2-  4  a  .59353(5)  .19310(10)  .24065(7)  .00494(9)  1.  0
+  d
+  P2  P5+  4  a  .18102(2)  .50196(4)  .51245(2)  .00281(3)  1.  0
+  d
+  O5  O2-  4  a  .11228(5)  .31070(10)  .54068(6)  .00462(9)  1.  0
+  d
+  O6  O2-  4  a  .11166(5)  .69180(10)  .48717(7)  .00523(9)  1.  0
+  d
+  O7  O2-  4  a  .25303(5)  .53850(10)  .62785(6)  .00503(9)  1.  0
+  d
+  O8  O2-  4  a  .25325(6)  .46100(10)  .39909(6)  .00510(9)  1.  0
+  d
+  K1  K1+  4  a  .37683(2)  .77983(3)  .30901(3)  .00743(4)  1.  0
+  d
+  K2  K1+  4  a  .10553(2)  .69986(3)  .06362(3)  .00789(4)  1.  0
+  d
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+ _atom_type_oxidation_number
+  Ti4+  8  .2060  .2830  International_Tables_Vol_C_Table_4.2.6.8
+  4.000
+  O2-  40  .0056  .0036  International_Tables_Vol_C_Table_4.2.6.8
+  -2.000
+  P5+  8  .0667  .0580  International_Tables_Vol_C_Table_4.2.6.8
+  5.000
+  K1+  8  .1399  .1562  International_Tables_Vol_C_Table_4.2.6.8
+  1.000
+loop_
+ _diffrn_standard_refln_index_h
+ _diffrn_standard_refln_index_k
+ _diffrn_standard_refln_index_l
+  0  0  -16
+  -12  1  1
+  4  2  2
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O1  P1  O2  .  .  108.45(4)  yes
+  O1  P1  O3  .  .  112.25(4)  yes
+  O1  P1  O4  .  .  110.85(4)  yes
+  O2  P1  O3  .  .  105.74(4)  yes
+  O2  P1  O4  .  .  110.59(4)  yes
+  O3  P1  O4  .  .  108.86(3)  yes
+  O5  P2  O6  .  .  109.51(3)  yes
+  O5  P2  O7  .  .  107.92(4)  yes
+  O5  P2  O8  .  .  111.15(4)  yes
+  O6  P2  O7  .  .  111.36(4)  yes
+  O6  P2  O8  .  .  110.38(4)  yes
+  O7  P2  O8  .  .  106.48(4)  yes
+  OT2  Ti1  OT1  .  .  94.60(3)  yes
+  OT2  Ti1  O1  .  .  172.00(3)  yes
+  OT2  Ti1  O2  .  2_664  96.07(3)  yes
+  OT2  Ti1  O5  .  3_554  93.41(3)  yes
+  OT2  Ti1  O6  .  3_544  100.18(3)  yes
+  OT1  Ti1  O1  .  .  81.69(3)  yes
+  OT1  Ti1  O5  .  3_554  89.95(3)  yes
+  OT1  Ti1  O6  .  3_544  90.58(3)  yes
+  O1  Ti1  O2  .  2_664  87.46(3)  yes
+  O1  Ti1  O5  .  3_554  79.56(3)  yes
+  O1  Ti1  O6  .  3_544  86.98(3)  yes
+  O2  Ti1  OT1  2_664  .  169.11(3)  yes
+  O2  Ti1  O5  2_664  3_554  87.28(3)  yes
+  O2  Ti1  O6  2_664  3_544  89.64(3)  yes
+  O5  Ti1  O6  3_554  3_544  166.31(3)  yes
+  OT1  Ti2  OT2  .  3_545  174.89(3)  yes
+  OT1  Ti2  O3  .  .  92.91(3)  yes
+  OT1  Ti2  O4  .  4_455  94.84(3)  yes
+  OT1  Ti2  O7  .  3_544  96.16(3)  yes
+  OT1  Ti2  O8  .  .  93.50(3)  yes
+  O3  Ti2  OT2  .  3_545  83.02(3)  yes
+  O4  Ti2  OT2  4_455  3_545  89.25(3)  yes
+  O4  Ti2  O3  4_455  .  172.24(2)  yes
+  O4  Ti2  O8  4_455  .  90.79(3)  yes
+  O7  Ti2  OT2  3_544  3_545  86.65(3)  yes
+  O7  Ti2  O3  3_544  .  85.78(2)  yes
+  O7  Ti2  O4  3_544  4_455  93.25(2)  yes
+  O7  Ti2  O8  3_544  .  169.18(2)  yes
+  O8  Ti2  OT2  .  3_545  83.37(3)  yes
+  O8  Ti2  O3  .  .  88.87(2)  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  P1  O1  .  .  1.5212(7)  yes
+  P1  O2  .  .  1.5492(7)  yes
+  P1  O3  .  .  1.5423(6)  yes
+  P1  O4  .  .  1.5428(6)  yes
+  P2  O5  .  .  1.5356(7)  yes
+  P2  O6  .  .  1.5276(7)  yes
+  P2  O7  .  .  1.5479(7)  yes
+  P2  O8  .  .  1.5372(7)  yes
+  Ti1  OT2  .  .  1.7242(7)  yes
+  Ti1  OT1  .  .  1.9761(6)  yes
+  Ti1  O1  .  .  2.1455(6)  yes
+  Ti1  O2  .  2_664  1.9596(6)  yes
+  Ti1  O5  .  3_554  2.0422(6)  yes
+  Ti1  O6  .  3_544  1.9838(6)  yes
+  Ti2  OT2  .  3_545  2.0872(7)  yes
+  Ti2  OT1  .  .  1.7455(6)  yes
+  Ti2  O3  .  .  2.0387(6)  yes
+  Ti2  O4  .  4_455  1.9744(6)  yes
+  Ti2  O7  .  3_544  1.9717(7)  yes
+  Ti2  O8  .  .  1.9889(6)  yes
+  K1  OT2  .  3_555  2.7129(7)  yes
+  K1  O3  .  1_565  2.7154(7)  yes
+  K1  O2  .  .  2.7456(7)  yes
+  K1  O8  .  .  2.7507(7)  yes
+  K1  O5  .  3_554  2.8506(7)  yes
+  K1  O1  .  .  2.8773(7)  yes
+  K1  OT1  .  .  2.9613(7)  yes
+  K1  O7  .  3_554  3.0289(8)  yes
+  K2  O1  .  4_465  2.6799(7)  yes
+  K2  OT1  .  .  2.7632(7)  yes
+  K2  O5  .  2_564  2.7990(7)  yes
+  K2  O7  .  3_554  2.9030(7)  yes
+  K2  O2  .  3_554  2.9496(7)  yes
+  K2  O8  .  3_554  3.0146(8)  yes
+  K2  O3  .  3_554  3.0137(8)  yes
+  K2  OT2  .  .  3.0325(8)  yes
+  K2  O4  .  4_455  3.1381(7)  yes

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6655362083fdf76b50aaf079",
+  "experiment_name": "PG_1934-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "C-H-K-N-O-P",
+  "target_formula": "K4PH12C2NO13",
+  "analysis_timestamp": "2025-12-06T13:22:31.482299",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

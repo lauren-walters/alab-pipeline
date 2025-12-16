@@ -1,0 +1,102 @@
+# generated using pymatgen
+data_2102055
+loop_
+ _publ_author_name
+  'Kutzke, Hartmut'
+  'Klapper, Helmut'
+  'Hammond, Robert B.'
+  'Roberts, Kevin J.'
+_publ_section_title
+;
+Metastable \b-phase of benzophenone: independent structure
+determinations  via X-ray powder diffraction and single crystal
+studies
+;
+_journal_coeditor_code   AN0561
+_journal_issue   3
+_journal_name_full
+'Acta Crystallographica, Section B: Structural Science'
+_journal_page_first   486
+_journal_page_last   496
+_journal_paper_doi   10.1107/S0108768100000355
+_journal_volume   56
+_journal_year   2000
+_chemical_formula_moiety   'C13 H10 O1'
+_chemical_formula_sum   'C13 H10 O'
+_chemical_formula_weight   182.22
+_space_group_crystal_system   monoclinic
+_space_group_IT_number   15
+_space_group_name_Hall   '-C 2yc'
+_space_group_name_H-M_alt   'C 1 2/c 1'
+_cell_angle_alpha   90.0
+_cell_angle_beta   112.911(5)
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   8
+_cell_length_a   16.2219(11)
+_cell_length_b   8.1468(3)
+_cell_length_c   16.3340(7)
+_cell_measurement_temperature   295(2)
+_cell_volume   1988.35(19)
+_computing_structure_refinement   GSAS
+_diffrn_ambient_temperature   295(2)
+_diffrn_radiation_type   'Cu K\a'
+_diffrn_radiation_wavelength   1.54178
+_exptl_crystal_density_diffrn   1.218
+_refine_ls_goodness_of_fit_all   2.94
+_refine_ls_number_parameters   23
+_cod_data_source_file   an0561.cif
+_cod_data_source_block   MSBENZ2
+_cod_depositor_comments
+;
+Marking attached hydrogen atoms.  Antanas Vaitkus,  2017-08-01  Adding
+the measurement temperature after consulting the original publication.
+The term "room temperature" was interpreted as 295(2).  Antanas
+Vaitkus,  2017-08-01
+;
+_cod_original_cell_volume   1988.35(13)
+_cod_original_sg_symbol_H-M   C2/c
+_cod_original_formula_sum   'C13 H10 O1'
+_cod_database_code   2102055
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  x,-y,1/2+z
+  3  1/2+x,1/2+y,z
+  4  1/2+x,1/2-y,1/2+z
+  5  -x,-y,-z
+  6  -x,y,-1/2-z
+  7  -1/2-x,-1/2-y,-z
+  8  -1/2-x,-1/2+y,-1/2-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+  O1  .3802(6)  .151(2)  .9751(12)  .0  Uiso  1.0  0
+  C1  .3784(6)  .242(2)  .9228(5)  .0  Uiso  1.0  0
+  C2  .4685(7)  .3183(11)  .9157(5)  .0  Uiso  1.0  0
+  C3  .5480(8)  .2240(13)  .9436(8)  .0  Uiso  1.0  1
+  C4  .6261(8)  .2898(18)  .9375(7)  .0  Uiso  1.0  1
+  C5  .6248(9)  .4500(18)  .9033(5)  .0  Uiso  1.0  1
+  C6  .5453(10)  .5443(16)  .8754(9)  .0  Uiso  1.0  1
+  C7  .4671(9)  .4785(14)  .8816(8)  .0  Uiso  1.0  1
+  C8  .2910(8)  .2968(11)  .8547(7)  .0  Uiso  1.0  0
+  C9  .2211(7)  .3455(16)  .8809(7)  .0  Uiso  1.0  1
+  C10  .1380(8)  .3972(16)  .8161(6)  .0  Uiso  1.0  1
+  C11  .1247(7)  .4002(15)  .7252(7)  .0  Uiso  1.0  1
+  C12  .1947(7)  .3515(18)  .6990(7)  .0  Uiso  1.0  1
+  C13  .2778(7)  .2998(16)  .7638(7)  .0  Uiso  1.0  1
+loop_
+ _atom_type_symbol
+  O
+  C
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  3102

@@ -1,0 +1,154 @@
+# generated using pymatgen
+data_9015059
+loop_
+ _publ_author_name
+  'Fernandez-Martinez A'
+  'Timon, V.'
+  'Roman-Ross G'
+  'Cuello, G. J.'
+  'Daniels, J. E.'
+  'Ayora, C.'
+_publ_section_title
+;
+The structure of schwertmannite, a nanocrystalline iron
+oxyhydroxysulfate  Note: Model 1, positions of sulfate groups not
+determined
+;
+_journal_name_full   'American Mineralogist'
+_journal_page_first   1312
+_journal_page_last   1322
+_journal_paper_doi   10.2138/am.2010.3446
+_journal_volume   95
+_journal_year   2010
+_chemical_compound_source
+'Monte Romero mine (Iberian Pyrite Belt), Spain'
+_chemical_formula_sum   'Fe O2'
+_chemical_name_mineral   Schwertmannite
+_space_group_IT_number   1
+_symmetry_space_group_name_Hall   'P 1'
+_symmetry_space_group_name_H-M   'P 1'
+_cell_angle_alpha   90.0
+_cell_angle_beta   92.6
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   16
+_cell_length_a   10.821
+_cell_length_b   6.002
+_cell_length_c   10.514
+_cell_volume   682.157
+_database_code_amcsd   0018670
+_exptl_crystal_density_diffrn   3.421
+_cod_database_code   9015059
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  Fe1  0.34500  0.00000  0.15200  0.00200
+  Fe2  0.14000  0.00000  0.64500  0.00200
+  O1  0.28800  0.00000  0.32200  0.00900
+  O2  0.04300  0.00000  0.33600  0.00900
+  O3  0.33500  0.00000  0.69000  0.00900
+  O4  0.32500  0.00000  0.94600  0.00900
+  Fe3  0.85700  0.25000  0.61100  0.00200
+  Fe4  0.70000  0.25000  0.09300  0.00200
+  O5  0.78700  0.25000  0.79600  0.00900
+  O6  0.54000  0.25000  0.81000  0.00900
+  O7  0.86100  0.25000  0.15900  0.00900
+  O8  0.82400  0.25000  0.41900  0.00900
+  Fe5  0.66900  0.00000  0.81100  0.00200
+  Fe6  0.86600  0.00000  0.32000  0.00200
+  O9  0.71100  0.00000  0.62600  0.00900
+  O10  0.95600  0.00000  0.61200  0.00900
+  O11  0.66400  0.00000  0.26000  0.00900
+  O12  0.67400  0.00000  0.00200  0.00900
+  Fe7  0.15100  0.25000  0.35200  0.00200
+  Fe8  0.34400  0.25000  0.84000  0.00200
+  O13  0.21100  0.25000  0.15200  0.00900
+  O14  0.45600  0.25000  0.13800  0.00900
+  O15  0.16500  0.25000  0.78600  0.00900
+  O16  0.17500  0.25000  0.52700  0.00900
+  Fe9  0.33700  0.50000  0.14200  0.00200
+  Fe10  0.14400  0.50000  0.64800  0.00200
+  O17  0.28800  0.50000  0.32200  0.00900
+  O18  0.04300  0.50000  0.33600  0.00900
+  O19  0.33500  0.50000  0.69000  0.00900
+  O20  0.32500  0.50000  0.94600  0.00900
+  Fe11  0.84600  0.75000  0.60600  0.00200
+  Fe12  0.69600  0.75000  0.09500  0.00200
+  O21  0.78700  0.75000  0.79600  0.00900
+  O22  0.54200  0.75000  0.81000  0.00900
+  O23  0.85700  0.75000  0.15700  0.00900
+  O24  0.82400  0.75000  0.41900  0.00900
+  Fe13  0.66600  0.50000  0.80400  0.00200
+  Fe14  0.86500  0.50000  0.32200  0.00200
+  O25  0.71100  0.50000  0.62600  0.00900
+  O26  0.95600  0.50000  0.61200  0.00900
+  O27  0.66400  0.50000  0.26000  0.00900
+  O28  0.67400  0.50000  0.00200  0.00900
+  Fe15  0.15300  0.75000  0.33800  0.00200
+  Fe16  0.36300  0.75000  0.83500  0.00200
+  O29  0.21100  0.75000  0.15000  0.00900
+  O30  0.45600  0.75000  0.13800  0.00900
+  O31  0.16500  0.75000  0.78600  0.00900
+  O32  0.17500  0.75000  0.52800  0.00900
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_atom_labels 10224
+2024-08-07 11:09:31Z saulius
+;
+  2024-08-07T19:40:14+03:00
+;
+Changed the following '_atom_site_label' values: the first duplicated
+label 'Fe'  converted to 'Fe1' duplicated label 'Fe' at index 1
+converted to 'Fe2' the first duplicated label 'O'  converted to 'O1'
+duplicated label 'O' at index 3 converted to 'O2' duplicated label 'O'
+at index 4 converted to 'O3' duplicated label 'O' at index 5 converted
+to 'O4' duplicated label 'Fe' at index 6 converted to 'Fe3' duplicated
+label 'Fe' at index 7 converted to 'Fe4' duplicated label 'O' at index
+8 converted to 'O5' duplicated label 'O' at index 9 converted to 'O6'
+duplicated label 'O' at index 10 converted to 'O7' duplicated label
+'O' at index 11 converted to 'O8' duplicated label 'Fe' at index 12
+converted to 'Fe5' duplicated label 'Fe' at index 13 converted to
+'Fe6' duplicated label 'O' at index 14 converted to 'O9' duplicated
+label 'O' at index 15 converted to 'O10' duplicated label 'O' at index
+16 converted to 'O11' duplicated label 'O' at index 17 converted to
+'O12' duplicated label 'Fe' at index 18 converted to 'Fe7' duplicated
+label 'Fe' at index 19 converted to 'Fe8' duplicated label 'O' at
+index 20 converted to 'O13' duplicated label 'O' at index 21 converted
+to 'O14' duplicated label 'O' at index 22 converted to 'O15'
+duplicated label 'O' at index 23 converted to 'O16' duplicated label
+'Fe' at index 24 converted to 'Fe9' duplicated label 'Fe' at index 25
+converted to 'Fe10' duplicated label 'O' at index 26 converted to
+'O17' duplicated label 'O' at index 27 converted to 'O18' duplicated
+label 'O' at index 28 converted to 'O19' duplicated label 'O' at index
+29 converted to 'O20' duplicated label 'Fe' at index 30 converted to
+'Fe11' duplicated label 'Fe' at index 31 converted to 'Fe12'
+duplicated label 'O' at index 32 converted to 'O21' duplicated label
+'O' at index 33 converted to 'O22' duplicated label 'O' at index 34
+converted to 'O23' duplicated label 'O' at index 35 converted to 'O24'
+duplicated label 'Fe' at index 36 converted to 'Fe13' duplicated label
+'Fe' at index 37 converted to 'Fe14' duplicated label 'O' at index 38
+converted to 'O25' duplicated label 'O' at index 39 converted to 'O26'
+duplicated label 'O' at index 40 converted to 'O27' duplicated label
+'O' at index 41 converted to 'O28' duplicated label 'Fe' at index 42
+converted to 'Fe15' duplicated label 'Fe' at index 43 converted to
+'Fe16' duplicated label 'O' at index 44 converted to 'O29' duplicated
+label 'O' at index 45 converted to 'O30' duplicated label 'O' at index
+46 converted to 'O31' duplicated label 'O' at index 47 converted to
+'O32'
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0018670

@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_1528795
+loop_
+ _publ_author_name
+  'Pekov, I.V.'
+  'Kolitsch, U.'
+  'Zubkova, N.V.'
+  'Pushcharovsky, D.Yu.'
+  'Tillmanns, E.'
+_publ_section_title
+;
+Refined crystal structure of parakeldyshite and the genetic crystal
+chemistry of zirconium minerals with [Si2 O7] diorthogroups
+;
+_journal_name_full   Kristallografiya
+_journal_page_first   1100
+_journal_page_last   1105
+_journal_volume   52
+_journal_year   2007
+_chemical_formula_sum   'H0.07 Na1.93 O7 Si2 Zr'
+_chemical_name_systematic   'Na1.93 Zr Si2 O6.93 (O H)0.07'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   87.26
+_cell_angle_beta   85.68
+_cell_angle_gamma   71.45
+_cell_formula_units_Z   2
+_cell_length_a   6.617
+_cell_length_b   8.813
+_cell_length_c   5.426
+_cell_volume   299.034
+_citation_journal_id_ASTM   KRISAJ
+_cod_data_source_file   Pekov_KRISAJ_2007_1450.cif
+_cod_data_source_block   H0.07Na1.93O7Si2Zr1
+_cod_original_formula_sum   'H0.07 Na1.93 O7 Si2 Zr1'
+_cod_database_code   1528795
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O6  O-2  0.12482  0.33736  0.11279  1  0.0
+  Na4  Na+1  0.34251  0.50132  0.23243  1  0.0
+  Na2  Na+1  0.827  0.0624  -0.2682  0.085  0.0
+  Na1  Na+1  0.8769  0.09573  -0.25739  0.819  0.0
+  Na3  Na+1  0.759  0.004  -0.274  0.03  0.0
+  O4  O-2  0.56307  0.25335  -0.02375  1  0.0
+  O2  O-2  0.87893  0.16677  0.27825  1  0.0
+  O5  O-2  0.00766  0.3195  0.59858  1  0.0
+  Zr1  Zr+4  0.289623  0.270621  -0.221466  1  0.0
+  Si2  Si+4  0.9373  0.33444  0.31565  1  0.0
+  O3  O-2  0.49007  0.20905  0.46593  1  0.0
+  Si1  Si+4  0.64397  0.14776  0.22433  1  0.0
+  O1  O-2  0.2914  0.03947  -0.16584  1  0.0
+  O7  O-2  0.27715  0.51311  -0.2898  1  0.0

@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_1521897
+loop_
+ _publ_author_name
+  'Schmid-Beurmann, P.'
+_publ_section_title
+;
+Synthesis and phase characterization of a solid solution series
+between  beta-(Fe2 (P O4) O) and Fe4 (P O4)3 (O H)3
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   237
+_journal_page_last   247
+_journal_volume   153
+_journal_year   2000
+_chemical_formula_sum   'Fe3.08 H1.53 O10 P2.04'
+_chemical_name_systematic   'Fe3.08 (P O4)2.04 O0.31 (O H)1.53'
+_space_group_IT_number   141
+_symmetry_space_group_name_Hall   '-I 4bd 2'
+_symmetry_space_group_name_H-M   'I 41/a m d :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   5.2273
+_cell_length_b   5.2273
+_cell_length_c   12.891
+_cell_volume   352.242
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Schmid-Beurmann_JSSCBI_2000_1967.cif
+_cod_data_source_block   H1.53Fe3.08O10P2.04
+_cod_original_cell_volume   352.2423
+_cod_original_formula_sum   'H1.53 Fe3.08 O10 P2.04'
+_cod_database_code   1521897
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/4,x+3/4,z+1/4
+  -x+1/2,-y,z+1/2
+  y+1/4,-x+1/4,z+3/4
+  x,-y,-z
+  y+1/4,x+3/4,-z+1/4
+  -x+1/2,y,-z+1/2
+  -y+1/4,-x+1/4,-z+3/4
+  -x,-y,-z
+  y-1/4,-x-3/4,-z-1/4
+  x-1/2,y,-z-1/2
+  -y-1/4,x-1/4,-z-3/4
+  -x,y,z
+  -y-1/4,-x-3/4,z-1/4
+  x-1/2,-y,z-1/2
+  y-1/4,x-1/4,z-3/4
+  x+1/2,y+1/2,z+1/2
+  -y+3/4,x+5/4,z+3/4
+  -x+1,-y+1/2,z+1
+  y+3/4,-x+3/4,z+5/4
+  x+1/2,-y+1/2,-z+1/2
+  y+3/4,x+5/4,-z+3/4
+  -x+1,y+1/2,-z+1
+  -y+3/4,-x+3/4,-z+5/4
+  -x+1/2,-y+1/2,-z+1/2
+  y+1/4,-x-1/4,-z+1/4
+  x,y+1/2,-z
+  -y+1/4,x+1/4,-z-1/4
+  -x+1/2,y+1/2,z+1/2
+  -y+1/4,-x-1/4,z+1/4
+  x,-y+1/2,z
+  y+1/4,x+1/4,z-1/4
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P+5  0  0.75  0.125  1.02  0.0
+  O2  O-2  0  0.25  0.375  1  0.0
+  Fe1  Fe+2  0  0  0.5  0.77  0.0
+  O1  O-2  0  0.494  0.807  1  0.0

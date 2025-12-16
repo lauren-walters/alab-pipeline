@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66471f2ae84e87556c09882f",
+  "experiment_name": "NSC_136",
+  "success": true,
+  "error": null,
+  "rwp": 35.02,
+  "rp": 26.22,
+  "rexp": 2.57,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "P_123_(cod_1534547)-None",
+      "spacegroup": "P4/m2/m2/m",
+      "weight_fraction": 0.1067,
+      "weight_fraction_error": 0.0027,
+      "lattice_a_nm": 0.43079,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.44218,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 48.21
+    },
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.0345,
+      "weight_fraction_error": 0.001,
+      "lattice_a_nm": 0.50644,
+      "lattice_b_nm": 0.51408,
+      "lattice_c_nm": 0.52853,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 98.377,
+      "lattice_gamma_deg": null,
+      "r_phase": 40.24
+    }
+  ],
+  "chemical_system": "Hf-Na-O-P",
+  "target_formula": "Na1.1Hf2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:40:28.220549",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

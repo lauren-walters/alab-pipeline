@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_1528891
+loop_
+ _publ_author_name
+  'Stafeeva, V.S.'
+  'Mitiaev, A.S.'
+  'Abakumov, A.M.'
+  'Antipov, E.V.'
+  'Makarevich, A.M.'
+  'Tsirlin, A.A.'
+_publ_section_title
+'Crystal structure and chemical bonding in tin(II) acetate'
+_journal_name_full   Polyhedron
+_journal_page_first   5365
+_journal_page_last   5369
+_journal_volume   26
+_journal_year   2007
+_chemical_formula_sum   'C4 H6 O4 Sn'
+_chemical_name_systematic   'Sn (C H3 C O O)2'
+_space_group_IT_number   45
+_symmetry_space_group_name_Hall   'I 2 -2c'
+_symmetry_space_group_name_H-M   'I b a 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   13.9859
+_cell_length_b   21.187
+_cell_length_c   4.54
+_cell_volume   1345.289
+_citation_journal_id_ASTM   PLYHDE
+_cod_data_source_file   Stafeeva_PLYHDE_2007_1431.cif
+_cod_data_source_block   C4H6O4Sn1
+_cod_original_formula_sum   'C4 H6 O4 Sn1'
+_cod_database_code   1528891
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -x,y,z+1/2
+  x,-y,z+1/2
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1
+  x+1/2,-y+1/2,z+1
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.3396  0.3274  0.7949  1  0.0
+  C1  C+3  0.3839  0.3185  0.5572  1  0.0
+  Sn1  Sn+2  0.37489  0.41691  0  1  0.0
+  C3  C+3  0.2116  0.42146  0.4097  1  0.0
+  C4  C-3  0.1117  0.41764  0.5345  1  0.0
+  O3  O-2  0.2795  0.43639  0.5777  1  0.0
+  O2  O-2  0.421  0.3632  0.4149  1  0.0
+  C2  C-3  0.3928  0.2522  0.439  1  0.0
+  O4  O-2  0.2243  0.40962  0.141  1  0.0

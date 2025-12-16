@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_4124062
+loop_
+ _publ_author_name
+  'Foster, M.D.'
+  'Friedrichs, O.D.'
+  'Bell, R.G.'
+  'Klinowski, J.'
+  'Paz, F.A.A.'
+_publ_section_title
+'Chemical evaluation of hypothetical uninodal zeolites'
+_journal_name_full   'Journal of the American Chemical Society'
+_journal_page_first   9769
+_journal_page_last   9775
+_journal_paper_doi   10.1021/ja037334j
+_journal_volume   126
+_journal_year   2004
+_chemical_formula_sum   'O2 Si'
+_chemical_name_systematic   'Si O2'
+_space_group_IT_number   7
+_symmetry_space_group_name_Hall   'P -2yc'
+_symmetry_space_group_name_H-M   'P 1 c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   16
+_cell_length_a   8.75906
+_cell_length_b   8.41546
+_cell_length_c   10.23357
+_cell_volume   754.332
+_citation_journal_id_ASTM   JACSAT
+_cod_data_source_file   Foster_JACSAT_2004_533.cif
+_cod_data_source_block   O2Si1
+_cod_original_formula_sum   'O2 Si1'
+_cod_struct_determination_method   theoretical
+_cod_database_code   4124062
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O8  O-2  0.03445  0.95974  0.71873  1  0.0
+  O9  O-2  0.77017  0.04179  0.61774  1  0.0
+  O2  O-2  0.86932  0.24967  0.09465  1  0.0
+  O3  O-2  0.56041  0.25031  0.66772  1  0.0
+  Si1  Si+4  0.59064  0.06688  0.6348  1  0.0
+  O5  O-2  0.53145  0.04051  0.25269  1  0.0
+  Si5  Si+4  0.41782  0.06676  0.373  1  0.0
+  O16  O-2  0.00568  0.48591  0.97048  1  0.0
+  O14  O-2  0.50055  0.51262  0.00596  1  0.0
+  O1  O-2  0.36944  0.25027  0.37879  1  0.0
+  Si8  Si+4  0.91789  0.43311  0.10074  1  0.0
+  Si2  Si+4  0.59053  0.56612  0.13503  1  0.0
+  O13  O-2  0.50442  0.01395  0.50385  1  0.0
+  O10  O-2  0.76962  0.54133  0.11405  1  0.0
+  Si3  Si+4  0.09043  0.93375  0.33848  1  0.0
+  Si7  Si+4  0.91793  0.93379  0.60019  1  0.0
+  O12  O-2  0.27045  0.45825  0.85495  1  0.0
+  O7  O-2  0.03059  0.45909  0.22168  1  0.0
+  O11  O-2  0.26958  0.95869  0.35874  1  0.0
+  O15  O-2  0.00111  0.98728  0.46782  1  0.0
+  Si4  Si+4  0.09079  0.43318  0.83894  1  0.0
+  O6  O-2  0.53523  0.54044  0.75506  1  0.0
+  O4  O-2  0.06025  0.24984  0.80591  1  0.0
+  Si6  Si+4  0.41809  0.56628  0.87327  1  0.0

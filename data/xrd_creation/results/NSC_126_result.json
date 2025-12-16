@@ -1,0 +1,31 @@
+{
+  "experiment_id": "65fab02b2d682ecd7d7d0f7a",
+  "experiment_name": "NSC_126",
+  "success": true,
+  "error": null,
+  "rwp": 9.19,
+  "rp": 6.89,
+  "rexp": 2.32,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "NaZr2(PO4)3_167_(cod_1531508)-0",
+      "spacegroup": "R-32/c",
+      "weight_fraction": 0.3179,
+      "weight_fraction_error": 0.002,
+      "lattice_a_nm": 0.881197,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 2.273287,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 10.11
+    }
+  ],
+  "chemical_system": "Na-O-P-Zr",
+  "target_formula": "Na1.1Zr2.0(PO4)4.0",
+  "analysis_timestamp": "2025-12-06T17:19:43.833152",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

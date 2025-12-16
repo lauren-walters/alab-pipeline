@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_1528620
+loop_
+ _publ_author_name
+  'Kamb, W.B.'
+  'Datta, S.K.'
+_publ_section_title
+'Crystal structures of the high-pressure froms of ice: Ice III'
+_journal_name_full   'Nature (London)'
+_journal_page_first   140
+_journal_page_last   141
+_journal_volume   187
+_journal_year   1960
+_chemical_formula_sum   'H2 O'
+_space_group_IT_number   92
+_symmetry_space_group_name_Hall   'P 4abw 2nw'
+_symmetry_space_group_name_H-M   'P 41 21 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   12
+_cell_length_a   6.8
+_cell_length_b   6.8
+_cell_length_c   6.8
+_cell_volume   314.432
+_citation_journal_id_ASTM   NATUAS
+_cod_data_source_file   Kamb_NATUAS_1960_305.cif
+_cod_data_source_block   H2O1
+_cod_original_formula_sum   'H2 O1'
+_cod_database_code   1528620
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/2,x+1/2,z+1/4
+  -x,-y,z+1/2
+  y+1/2,-x+1/2,z+3/4
+  x+1/2,-y+1/2,-z+3/4
+  y,x,-z
+  -x+1/2,y+1/2,-z+1/4
+  -y,-x,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_attached_hydrogens
+  O2  O-2  0.392  0.392  0  1  0.0  2
+  O1  O-2  0.095  0.3  0.29  1  0.0  2
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  449052

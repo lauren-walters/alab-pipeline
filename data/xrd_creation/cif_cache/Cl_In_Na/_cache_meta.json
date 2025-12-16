@@ -1,0 +1,14 @@
+{
+  "download_attempts": 2,
+  "last_attempt": "2025-12-06T16:16:28.718252",
+  "failures": [
+    {
+      "timestamp": "2025-12-06T16:14:29.550727",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "timestamp": "2025-12-06T16:17:02.647050",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Read timed out. (read timeout=30)"
+    }
+  ]
+}

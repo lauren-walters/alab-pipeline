@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_1525548
+loop_
+ _publ_author_name
+  'Adair, B.A.'
+  'Cheetham, A.K.'
+_publ_section_title
+'Synthesis and structure of Sb5 P O10, a new phosphate of antimony(III)'
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   451
+_journal_page_last   454
+_journal_volume   155
+_journal_year   2000
+_chemical_formula_sum   'O10 P Sb5'
+_chemical_name_systematic   'Sb5 O6 (P O4)'
+_space_group_IT_number   19
+_symmetry_space_group_name_Hall   'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.8373
+_cell_length_b   7.0932
+_cell_length_c   19.873
+_cell_volume   963.807
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Adair_JSSCBI_2000_73.cif
+_cod_data_source_block   O10P1Sb5
+_cod_original_cell_volume   963.8074
+_cod_original_formula_sum   'O10 P1 Sb5'
+_cod_database_code   1525548
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z
+  -x,y+1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O10  O-2  0.2173  0.0268  0.0194  1  0.0
+  O5  O-2  0.3777  0.3714  0.9097  1  0.0
+  Sb1  Sb+3  0.6217  0.76828  0.81257  1  0.0
+  O7  O-2  0.8468  0.5827  0.753  1  0.0
+  Sb5  Sb+3  0.3889  0.46301  0.00058  1  0.0
+  O2  O-2  0.8454  0.949  0.7988  1  0.0
+  O6  O-2  0.4289  0.8243  0.0963  1  0.0
+  P1  P+5  0.4017  0.9064  0.0259  1  0.0
+  O4  O-2  0.3879  0.7376  0.9746  1  0.0
+  O9  O-2  0.0771  0.4666  0.995  1  0.0
+  Sb3  Sb+3  0.14795  0.97275  0.84066  1  0.0
+  Sb4  Sb+3  0.59136  0.26468  0.85468  1  0.0
+  O1  O-2  0.7734  0.2297  0.6993  1  0.0
+  O3  O-2  0.5664  0.8612  0.7203  1  0.0
+  O8  O-2  0.4672  0.0129  0.8455  1  0.0
+  Sb2  Sb+3  0.90648  0.98549  0.69617  1  0.0

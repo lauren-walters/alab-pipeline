@@ -1,0 +1,249 @@
+# generated using pymatgen
+data_9013009
+loop_
+ _publ_author_name
+  'Akhtar, D.'
+  'Vankar, V. D.'
+  'Goel, T. C.'
+  'Chopra, K. L.'
+_publ_section_title
+;
+Metastable structures of liquid-quenched and vapour-quenched antimony
+films  Locality: synthetic  Note: liquid-quenched specimen
+;
+_journal_name_full   'Journal of Materials Science'
+_journal_page_first   988
+_journal_page_last   994
+_journal_volume   14
+_journal_year   1979
+_chemical_formula_sum   Sb
+_chemical_name_mineral   Antimony
+_space_group_IT_number   225
+_symmetry_space_group_name_Hall   '-F 4 2 3'
+_symmetry_space_group_name_H-M   'F m -3 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   4.61
+_cell_length_b   4.61
+_cell_length_c   4.61
+_cell_formula_units_Z   4
+_cell_volume   97.972
+_exptl_crystal_density_diffrn   8.254
+_cod_original_sg_symbol_H-M   'F m 3 m'
+_cod_database_code   9013009
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,1/2+y,1/2+z
+  1/2+x,y,1/2+z
+  1/2+x,1/2+y,z
+  z,-x,y
+  z,1/2-x,1/2+y
+  1/2+z,-x,1/2+y
+  1/2+z,1/2-x,y
+  -y,z,-x
+  -y,1/2+z,1/2-x
+  1/2-y,z,1/2-x
+  1/2-y,1/2+z,-x
+  x,-y,z
+  x,1/2-y,1/2+z
+  1/2+x,-y,1/2+z
+  1/2+x,1/2-y,z
+  -z,x,-y
+  -z,1/2+x,1/2-y
+  1/2-z,x,1/2-y
+  1/2-z,1/2+x,-y
+  y,-z,x
+  y,1/2-z,1/2+x
+  1/2+y,-z,1/2+x
+  1/2+y,1/2-z,x
+  -x,y,-z
+  -x,1/2+y,1/2-z
+  1/2-x,y,1/2-z
+  1/2-x,1/2+y,-z
+  x,-z,-y
+  x,1/2-z,1/2-y
+  1/2+x,-z,1/2-y
+  1/2+x,1/2-z,-y
+  -z,y,x
+  -z,1/2+y,1/2+x
+  1/2-z,y,1/2+x
+  1/2-z,1/2+y,x
+  y,-x,-z
+  y,1/2-x,1/2-z
+  1/2+y,-x,1/2-z
+  1/2+y,1/2-x,-z
+  -x,z,y
+  -x,1/2+z,1/2+y
+  1/2-x,z,1/2+y
+  1/2-x,1/2+z,y
+  z,-y,-x
+  z,1/2-y,1/2-x
+  1/2+z,-y,1/2-x
+  1/2+z,1/2-y,-x
+  -y,x,z
+  -y,1/2+x,1/2+z
+  1/2-y,x,1/2+z
+  1/2-y,1/2+x,z
+  x,z,y
+  x,1/2+z,1/2+y
+  1/2+x,z,1/2+y
+  1/2+x,1/2+z,y
+  -z,-y,-x
+  -z,1/2-y,1/2-x
+  1/2-z,-y,1/2-x
+  1/2-z,1/2-y,-x
+  y,x,z
+  y,1/2+x,1/2+z
+  1/2+y,x,1/2+z
+  1/2+y,1/2+x,z
+  -x,-z,-y
+  -x,1/2-z,1/2-y
+  1/2-x,-z,1/2-y
+  1/2-x,1/2-z,-y
+  z,y,x
+  z,1/2+y,1/2+x
+  1/2+z,y,1/2+x
+  1/2+z,1/2+y,x
+  -y,-x,-z
+  -y,1/2-x,1/2-z
+  1/2-y,-x,1/2-z
+  1/2-y,1/2-x,-z
+  z,x,-y
+  z,1/2+x,1/2-y
+  1/2+z,x,1/2-y
+  1/2+z,1/2+x,-y
+  -y,-z,x
+  -y,1/2-z,1/2+x
+  1/2-y,-z,1/2+x
+  1/2-y,1/2-z,x
+  x,y,-z
+  x,1/2+y,1/2-z
+  1/2+x,y,1/2-z
+  1/2+x,1/2+y,-z
+  -z,-x,y
+  -z,1/2-x,1/2+y
+  1/2-z,-x,1/2+y
+  1/2-z,1/2-x,y
+  y,z,-x
+  y,1/2+z,1/2-x
+  1/2+y,z,1/2-x
+  1/2+y,1/2+z,-x
+  -x,-y,z
+  -x,1/2-y,1/2+z
+  1/2-x,-y,1/2+z
+  1/2-x,1/2-y,z
+  -z,x,y
+  -z,1/2+x,1/2+y
+  1/2-z,x,1/2+y
+  1/2-z,1/2+x,y
+  y,-z,-x
+  y,1/2-z,1/2-x
+  1/2+y,-z,1/2-x
+  1/2+y,1/2-z,-x
+  -x,y,z
+  -x,1/2+y,1/2+z
+  1/2-x,y,1/2+z
+  1/2-x,1/2+y,z
+  z,-x,-y
+  z,1/2-x,1/2-y
+  1/2+z,-x,1/2-y
+  1/2+z,1/2-x,-y
+  -y,z,x
+  -y,1/2+z,1/2+x
+  1/2-y,z,1/2+x
+  1/2-y,1/2+z,x
+  x,-y,-z
+  x,1/2-y,1/2-z
+  1/2+x,-y,1/2-z
+  1/2+x,1/2-y,-z
+  -x,z,-y
+  -x,1/2+z,1/2-y
+  1/2-x,z,1/2-y
+  1/2-x,1/2+z,-y
+  z,-y,x
+  z,1/2-y,1/2+x
+  1/2+z,-y,1/2+x
+  1/2+z,1/2-y,x
+  -y,x,-z
+  -y,1/2+x,1/2-z
+  1/2-y,x,1/2-z
+  1/2-y,1/2+x,-z
+  x,-z,y
+  x,1/2-z,1/2+y
+  1/2+x,-z,1/2+y
+  1/2+x,1/2-z,y
+  -z,y,-x
+  -z,1/2+y,1/2-x
+  1/2-z,y,1/2-x
+  1/2-z,1/2+y,-x
+  y,-x,z
+  y,1/2-x,1/2+z
+  1/2+y,-x,1/2+z
+  1/2+y,1/2-x,z
+  -x,-z,y
+  -x,1/2-z,1/2+y
+  1/2-x,-z,1/2+y
+  1/2-x,1/2-z,y
+  z,y,-x
+  z,1/2+y,1/2-x
+  1/2+z,y,1/2-x
+  1/2+z,1/2+y,-x
+  -y,-x,z
+  -y,1/2-x,1/2+z
+  1/2-y,-x,1/2+z
+  1/2-y,1/2-x,z
+  x,z,-y
+  x,1/2+z,1/2-y
+  1/2+x,z,1/2-y
+  1/2+x,1/2+z,-y
+  -z,-y,x
+  -z,1/2-y,1/2+x
+  1/2-z,-y,1/2+x
+  1/2-z,1/2-y,x
+  y,x,-z
+  y,1/2+x,1/2-z
+  1/2+y,x,1/2-z
+  1/2+y,1/2+x,-z
+  -z,-x,-y
+  -z,1/2-x,1/2-y
+  1/2-z,-x,1/2-y
+  1/2-z,1/2-x,-y
+  y,z,x
+  y,1/2+z,1/2+x
+  1/2+y,z,1/2+x
+  1/2+y,1/2+z,x
+  -x,-y,-z
+  -x,1/2-y,1/2-z
+  1/2-x,-y,1/2-z
+  1/2-x,1/2-y,-z
+  z,x,y
+  z,1/2+x,1/2+y
+  1/2+z,x,1/2+y
+  1/2+z,1/2+x,y
+  -y,-z,-x
+  -y,1/2-z,1/2-x
+  1/2-y,-z,1/2-x
+  1/2-y,1/2-z,-x
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Sb  0.00000  0.00000  0.00000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0013081
+  2  AMCSD  0013084
+loop_
+ _[local]_alternative_name_id
+ _[local]_alternative_name_type
+ _[local]_alternative_name_source
+ _[local]_alternative_name_source_id
+ _[local]_alternative_name_value
+  1  mineral  AMCSD  0013081  Antimony
+  2  mineral  AMCSD  0013084  Antimony
+_database_code_amcsd   0013081

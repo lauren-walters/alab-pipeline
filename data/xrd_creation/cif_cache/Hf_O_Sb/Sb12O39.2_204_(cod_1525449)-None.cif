@@ -1,0 +1,98 @@
+# generated using pymatgen
+data_1525449
+loop_
+ _publ_author_name
+  'Watelet, H.'
+  'Picard, J.P.'
+  'Baud, G.'
+  'Besse, J.P.'
+  'Chevalier, R.'
+_publ_section_title
+'Un nouveau conducteur protonique (H(H2 O)n)12 Sb12 O36 (n <= 1)'
+_journal_name_full   'Materials Research Bulletin'
+_journal_page_first   1131
+_journal_page_last   1137
+_journal_volume   16
+_journal_year   1981
+_chemical_formula_sum   'H1.534 O3.267 Sb'
+_chemical_name_systematic   'H Sb O3 (H2 O)0.267'
+_space_group_IT_number   204
+_symmetry_space_group_name_Hall   '-I 2 2 3'
+_symmetry_space_group_name_H-M   'I m -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   12
+_cell_length_a   9.47
+_cell_length_b   9.47
+_cell_length_c   9.47
+_cell_volume   849.278
+_citation_journal_id_ASTM   MRBUAC
+_cod_data_source_file   Watelet_MRBUAC_1981_527.cif
+_cod_data_source_block   H1.534O3.267Sb1
+_cod_original_cell_volume   849.2782
+_cod_original_formula_sum   'H1.534 O3.267 Sb1'
+_cod_database_code   1525449
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  x,-y,-z
+  -x,y,-z
+  z,x,y
+  -z,-x,y
+  z,-x,-y
+  -z,x,-y
+  y,z,x
+  y,-z,-x
+  -y,z,-x
+  -y,-z,x
+  -x,-y,-z
+  x,y,-z
+  -x,y,z
+  x,-y,z
+  -z,-x,-y
+  z,x,-y
+  -z,x,y
+  z,-x,y
+  -y,-z,-x
+  -y,z,x
+  y,-z,x
+  y,z,-x
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  z+1/2,x+1/2,y+1/2
+  -z+1/2,-x+1/2,y+1/2
+  z+1/2,-x+1/2,-y+1/2
+  -z+1/2,x+1/2,-y+1/2
+  y+1/2,z+1/2,x+1/2
+  y+1/2,-z+1/2,-x+1/2
+  -y+1/2,z+1/2,-x+1/2
+  -y+1/2,-z+1/2,x+1/2
+  -x+1/2,-y+1/2,-z+1/2
+  x+1/2,y+1/2,-z+1/2
+  -x+1/2,y+1/2,z+1/2
+  x+1/2,-y+1/2,z+1/2
+  -z+1/2,-x+1/2,-y+1/2
+  z+1/2,x+1/2,-y+1/2
+  -z+1/2,x+1/2,y+1/2
+  z+1/2,-x+1/2,y+1/2
+  -y+1/2,-z+1/2,-x+1/2
+  -y+1/2,z+1/2,x+1/2
+  y+1/2,-z+1/2,x+1/2
+  y+1/2,z+1/2,-x+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0.175  0.175  0.175  0.03  0.0
+  Sb1  Sb+5  0.834  0  0.5  1  0.0
+  O3  O-2  0.09  0.09  0.09  0.17  0.0
+  O1  O-2  0.369  0  0  1  0.0
+  O2  O-2  0  0.34  0.295  1  0.0

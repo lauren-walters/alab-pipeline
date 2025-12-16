@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_8104231
+loop_
+ _publ_author_name
+  'Liebau, F.'
+_publ_section_title
+'\"Uber Kristallstrukturen zweier Phyllokiesels\"auren, H2 Si2 O5'
+_journal_name_full
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+;
+_journal_page_first   427
+_journal_page_last   449
+_journal_paper_doi   10.1524/zkri.1964.120.16.427
+_journal_volume   120
+_journal_year   1964
+_chemical_formula_sum   'H2 O5 Si2'
+_chemical_name_systematic   'H2 Si2 O5'
+_space_group_crystal_system   orthorhombic
+_space_group_IT_number   46
+_space_group_name_Hall   'I 2 -2b'
+_space_group_name_H-M_alt   'I b m 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.12
+_cell_length_b   15.4
+_cell_length_c   4.96
+_cell_volume   467.470
+_citation_journal_id_ASTM   ZEKGAX
+_cod_data_source_file   Liebau_ZEKGAX_1964_1532.cif
+_cod_data_source_block   H2O5Si2
+_cod_original_cell_volume   467.4701
+_cod_database_code   8104231
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x,-y+1/2,z
+  4  -x,y+1/2,z
+  5  x+1/2,y+1/2,z+1/2
+  6  -x+1/2,-y+1/2,z+1/2
+  7  x+1/2,-y+1,z+1/2
+  8  -x+1/2,y+1,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O2  O-2  0.8035  0.1141  0.7146  1  0.0
+  O3  O-2  0.0808  0.164  0.9651  1  0.0
+  Si1  Si+4  0.8896  0.0935  0  1  0.0
+  O1  O-2  0  0  0.8895  1  0.0

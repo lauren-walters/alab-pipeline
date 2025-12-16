@@ -1,0 +1,57 @@
+{
+  "experiment_id": "667a13c813800728dad6cd85",
+  "experiment_name": "PG_1846-1",
+  "success": true,
+  "error": null,
+  "rwp": 21.94,
+  "rp": 13.55,
+  "rexp": 3.26,
+  "num_phases": 3,
+  "phases": [
+    {
+      "phase_name": "In2O3_206_(cod_1538147)-0",
+      "spacegroup": "I2_1/a-3",
+      "weight_fraction": 0.0149,
+      "weight_fraction_error": 0.00032,
+      "lattice_a_nm": 1.010987,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 34.9
+    },
+    {
+      "phase_name": "Ti26.72O48_61_(cod_9014505)-None",
+      "spacegroup": "P2_1/b2_1/c2_1/a",
+      "weight_fraction": 0.0544,
+      "weight_fraction_error": 0.0024,
+      "lattice_a_nm": 0.98758,
+      "lattice_b_nm": 0.99131,
+      "lattice_c_nm": 0.98788,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 35.42
+    },
+    {
+      "phase_name": "Ti1.984O4_136_(cod_9001681)-None",
+      "spacegroup": "P4_2/m2_1/n2/m",
+      "weight_fraction": 0.02619,
+      "weight_fraction_error": 0.00097,
+      "lattice_a_nm": 0.458989,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.295205,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 21.11
+    }
+  ],
+  "chemical_system": "In-O-Ti",
+  "target_formula": "Ti2In2O7",
+  "analysis_timestamp": "2025-12-06T14:15:34.186186",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

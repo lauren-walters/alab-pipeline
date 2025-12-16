@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_1565813
+loop_
+ _publ_author_name
+  'Goj, Pawel'
+  'Wajda, Aleksandra'
+  'Blachowski, Artur'
+  'Stoch, Pawel'
+_publ_section_title
+;
+A new iron-phosphate compound (Fe7P11O38) obtained by pyrophosphate
+stoichiometric glass devitrification
+;
+_journal_issue   1
+_journal_name_full   'Scientific Reports'
+_journal_page_first   22957
+_journal_paper_doi   10.1038/s41598-021-02471-0
+_journal_volume   11
+_journal_year   2021
+_chemical_formula_sum   'Fe7 O38 P11'
+_chemical_formula_weight   1339.61
+_space_group_IT_number   173
+_space_group_name_Hall   'P 6c'
+_space_group_name_H-M_alt   'P 63'
+_symmetry_cell_setting   hexagonal
+_symmetry_space_group_name_H-M   'P 63'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   2
+_cell_length_a   14.4504(16)
+_cell_length_b   14.4504(16)
+_cell_length_c   7.42607(23)
+_cell_measurement_temperature   300
+_cell_volume   1342.9(2)
+_exptl_crystal_density_diffrn   3.3129
+_pd_phase_name   'Fe7 O38 P11'
+_cod_data_source_file   Fe7_O38_P11.cif
+_cod_data_source_block   Fe7_O38_P11
+_cod_depositor_comments
+;
+The following automatic conversions were performed: data item
+'_cell_measurement_temperature' value '300 K' was changed to '300' --
+the value should be numeric and without a unit designator. Automatic
+conversion script Id: cif_fix_values 8738 2021-04-28 16:35:53Z antanas
+;
+_cod_original_cell_volume   1342.92(18)
+_cod_database_code   1565813
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  x-y,x,1/2+z
+  3  -y,x-y,z
+  4  -x,-y,1/2+z
+  5  y-x,-x,z
+  6  y,y-x,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_site_symmetry_multiplicity
+  Fe1_Fe3+  Fe  0.343(4)  0.321(5)  0.0316(23)  1.0000  Uiso
+  0.030(16)  6
+  Fe2_Fe3+  Fe  0.338(4)  0.322(4)  0.4380(20)  1.0000  Uiso
+  0.009(13)  6
+  P1_P  P  0.2181(25)  0.4396(29)  0.227(10)  1.0000  Uiso
+  0.017(13)  6
+  P2_P  P  0.5130(26)  0.0890(26)  0.247(9)  1.0000  Uiso
+  -0.001(11)  6
+  P3_P  P  0.2318(27)  0.0910(29)  0.234(10)  1.0000  Uiso
+  0.003(11)  6
+  P4_P  P  0.00000  0.00000  0.260(13)  1.0000  Uiso  -0.006(23)  2
+  Fe3_Fe3+  Fe  0.66667  0.33333  0.206(19)  1.0000  Uiso  0.27(6)
+  2
+  P6_P  P  0.33333  0.66667  0.262(15)  1.0000  Uiso  0.04(4)  2
+  O1_O2-  O  0.303(5)  0.204(5)  0.237(22)  1.0000  Uiso  0.024(28)
+  6
+  O2_O2-  O  0.464(5)  0.408(5)  0.230(22)  1.0000  Uiso  -0.011(23)
+  6
+  O3_O2-  O  0.270(5)  0.371(6)  0.242(23)  1.0000  Uiso  0.04(3)  6
+  O4_O2-  O  0.254(9)  0.045(10)  0.075(14)  1.0000  Uiso  -0.01(5)
+  6
+  O5_O2-  O  0.240(8)  0.037(9)  0.419(15)  1.0000  Uiso  -0.01(4)
+  6
+  O6_O2-  O  0.266(7)  0.854(8)  0.060(14)  1.0000  Uiso  -0.03(4)
+  6
+  O7_O2-  O  0.278(8)  0.851(9)  0.380(13)  1.0000  Uiso  0.00(5)  6
+  O8_O2-  O  0.448(11)  0.058(11)  0.080(15)  1.0000  Uiso  0.06(6)
+  6
+  O9_O2-  O  0.456(9)  0.054(9)  0.426(16)  1.0000  Uiso  0.02(5)  6
+  O10_O2-  O  0.249(5)  0.694(6)  0.204(13)  1.0000  Uiso  0.01(3)
+  6
+  O11_O2-  O  0.565(5)  0.209(5)  0.270(16)  1.0000  Uiso  0.06(4)
+  6
+  O12_O2-  O  0.00000  0.00000  0.975(21)  1.0000  Uiso  -0.00(5)  2
+  O13_O2-  O  0.117(5)  0.076(6)  0.196(13)  1.0000  Uiso  0.06(5)
+  6
+  O14_O2-  O  0.66667  0.33333  -0.030(19)  1.0000  Uiso  0.41(20)
+  2
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+  Fe  14
+  O  76
+  P  22

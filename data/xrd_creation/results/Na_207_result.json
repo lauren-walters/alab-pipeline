@@ -1,0 +1,57 @@
+{
+  "experiment_id": "65b2b309d84e296e51f0fcf5",
+  "experiment_name": "Na_207",
+  "success": true,
+  "error": null,
+  "rwp": 18.69,
+  "rp": 12.95,
+  "rexp": 2.75,
+  "num_phases": 3,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.03351,
+      "weight_fraction_error": 0.00046,
+      "lattice_a_nm": 0.51303,
+      "lattice_b_nm": 0.51935,
+      "lattice_c_nm": 0.53052,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.245,
+      "lattice_gamma_deg": null,
+      "r_phase": 14.57
+    },
+    {
+      "phase_name": "NaO3_44_(cod_1008882)-84",
+      "spacegroup": "Imm2",
+      "weight_fraction": 0.0605,
+      "weight_fraction_error": 0.0017,
+      "lattice_a_nm": 0.34719,
+      "lattice_b_nm": 0.52688,
+      "lattice_c_nm": 0.57721,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 26.59
+    },
+    {
+      "phase_name": "Na12P4O16.008_225_(cod_7222419)-None",
+      "spacegroup": "F4/m-32/m",
+      "weight_fraction": 0.0481,
+      "weight_fraction_error": 0.0014,
+      "lattice_a_nm": 0.74901,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 33.99
+    }
+  ],
+  "chemical_system": "Hf-Na-O-P",
+  "target_formula": "Na4HfP2O9",
+  "analysis_timestamp": "2025-12-06T17:00:49.837564",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

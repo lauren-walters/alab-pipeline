@@ -1,0 +1,435 @@
+# generated using pymatgen
+data_1559442
+loop_
+ _publ_author_name
+  'Habekost, S.'
+  'Christensen, A. Norlund'
+  'Hazell, R. G.'
+_publ_section_title
+;
+A Single-Crystal X-Ray Investigation of the Structures of
+La3(OH)(CrO4)4.3.5 H2O and La2(CrO4)3.7 H2O
+;
+_journal_name_full   'Acta Chemica Scandinavica'
+_journal_page_first   6
+_journal_page_last   10
+_journal_paper_doi   10.3891/acta.chem.scand.45-0006
+_journal_volume   45
+_journal_year   1991
+_chemical_formula_sum   'Cr3 H14 La2 O19'
+_chemical_formula_weight   751.898
+_chemical_name_common   'La2(CrO4)3 . 7H2O'
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2yn'
+_space_group_name_H-M_alt   'P 1 21/n 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.88(1)
+_cell_angle_gamma   90.
+_cell_formula_units_Z   4
+_cell_length_a   10.600(1)
+_cell_length_b   19.317(2)
+_cell_length_c   8.188(1)
+_cell_volume   1676.4(3)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   7.1
+_exptl_crystal_density_diffrn   2.98
+_refine_ls_number_reflns   1694
+_refine_ls_R_factor_gt   0.075
+_refine_ls_wR_factor_gt   0.080
+_cod_data_source_file   Acta-Chem-Scand-1991-45-6-2.cif
+_cod_data_source_block   2
+_cod_original_sg_symbol_H-M   'P 21/n'
+_cod_database_code   1559442
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  1/2-x,1/2+y,1/2-z
+  3  -x,-y,-z
+  4  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  La1  La  Uiso  -0.06350(10)  0.00090(10)  0.2500(2)  1.000
+  0.0120(10)  .  .  .  .
+  La2  La  Uiso  0.24410(10)  0.24420(10)  0.3145(2)  1.000
+  0.0140(10)  .  .  .  .
+  Cr1  Cr  Uiso  -0.4465(4)  0.3539(2)  0.4526(5)  1.000  0.015(2)
+  .  .  .  .
+  Cr2  Cr  Uiso  -0.0735(4)  0.1483(2)  0.4583(5)  1.000  0.015(2)
+  .  .  .  .
+  Cr3  Cr  Uiso  0.2780(4)  0.0401(2)  0.3979(5)  1.000  0.019(2)  .
+  .  .  .
+  Ow1  O  Uiso  -0.2451(17)  -0.4961(11)  0.451(2)  1.000  0.025(10)
+  .  .  .  .
+  Ow2  O  Uiso  0.0575(19)  0.3083(10)  0.163(2)  1.000  0.026(11)
+  .  .  .  .
+  Ow3  O  Uiso  -0.233(2)  0.2649(10)  0.1351(18)  1.000  0.035(12)
+  .  .  .  .
+  Ow4  O  Uiso  0.4333(18)  0.1937(11)  0.161(2)  1.000  0.033(12)
+  .  .  .  .
+  Ow6  O  Uiso  0.185(2)  0.3592(11)  0.446(2)  1.000  0.044(14)  .
+  .  .  .
+  O11  O  Uiso  0.1483(19)  0.1700(9)  0.096(2)  1.000  0.024(11)  .
+  .  .  .
+  O12  O  Uiso  -0.3698(18)  0.3693(9)  0.285(2)  1.000  0.023(11)
+  .  .  .  .
+  O13  O  Uiso  0.4467(19)  0.2934(9)  0.428(2)  1.000  0.029(12)  .
+  .  .  .
+  O14  O  Uiso  0.0150(18)  -0.0690(8)  0.008(2)  1.000  0.017(9)  .
+  .  .  .
+  O21  O  Uiso  0.1739(18)  -0.1741(10)  0.408(2)  1.000  0.026(11)
+  .  .  .  .
+  O22  O  Uiso  -0.0102(18)  0.0750(8)  0.511(2)  1.000  0.018(9)  .
+  .  .  .
+  O23  O  Uiso  0.0345(17)  0.2077(10)  0.435(2)  1.000  0.028(12)
+  .  .  .  .
+  O24  O  Uiso  -0.1478(17)  0.1300(8)  0.2800(18)  1.000  0.014(9)
+  .  .  .  .
+  O31  O  Uiso  0.0854(18)  0.5123(9)  0.163(2)  1.000  0.024(11)  .
+  .  .  .
+  O32  O  Uiso  -0.2487(16)  -0.0067(9)  0.4200(19)  1.000
+  0.019(10)  .  .  .  .
+  O33  O  Uiso  0.3332(16)  0.5159(10)  0.238(2)  1.000  0.024(11)
+  .  .  .  .
+  O34  O  Uiso  0.2858(18)  0.1271(9)  0.415(2)  1.000  0.026(11)  .
+  .  .  .
+  Ow5  O  Uiso  -0.415(2)  0.1173(12)  0.370(2)  1.000  0.044(14)  .
+  .  .  .
+  Ow7  O  Uiso  -0.052(3)  0.4249(13)  0.359(3)  1.000  0.060(18)  .
+  .  .  .
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Cr  Cr  0.3209  0.6236
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  La  La  -0.2871  2.4523
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O14  La1  O22  148.5(6)  .  .  .  yes
+  O14  La1  O24  133.0(5)  .  .  .  yes
+  O14  La1  O32  133.7(6)  .  .  .  yes
+  O12  La1  O14  60.0(5)  2_445  .  .  yes
+  Ow1  La1  O14  77.3(6)  2_455  .  .  yes
+  O14  La1  O33  76.0(6)  .  .  2_545  yes
+  O14  La1  O14  63.7(5)  .  .  3_555  yes
+  O14  La1  O22  101.1(5)  .  .  3_556  yes
+  O22  La1  O24  58.8(5)  .  .  .  yes
+  O22  La1  O32  74.5(6)  .  .  .  yes
+  O12  La1  O22  131.4(5)  2_445  .  .  yes
+  Ow1  La1  O22  131.4(6)  2_455  .  .  yes
+  O22  La1  O33  72.7(6)  .  .  2_545  yes
+  O14  La1  O22  110.5(5)  3_555  .  .  yes
+  O22  La1  O22  68.3(5)  .  .  3_556  yes
+  O24  La1  O32  74.2(5)  .  .  .  yes
+  O12  La1  O24  144.9(6)  2_445  .  .  yes
+  Ow1  La1  O24  77.1(6)  2_455  .  .  yes
+  O24  La1  O33  102.7(6)  .  .  2_545  yes
+  O14  La1  O24  70.4(5)  3_555  .  .  yes
+  O22  La1  O24  124.4(5)  3_556  .  .  yes
+  O12  La1  O32  77.6(6)  2_445  .  .  yes
+  Ow1  La1  O32  74.6(5)  2_455  .  .  yes
+  O32  La1  O33  142.7(5)  .  .  2_545  yes
+  O14  La1  O32  133.0(6)  3_555  .  .  yes
+  O22  La1  O32  76.5(6)  3_556  .  .  yes
+  Ow1  La1  O12  75.5(6)  2_455  .  2_445  yes
+  O12  La1  O33  112.3(6)  2_445  .  2_545  yes
+  O12  La1  O14  117.7(5)  2_445  .  3_555  yes
+  O12  La1  O22  67.0(5)  2_445  .  3_556  yes
+  Ow1  La1  O33  142.1(5)  2_455  .  2_545  yes
+  Ow1  La1  O14  68.2(6)  2_455  .  3_555  yes
+  Ow1  La1  O22  136.5(6)  2_455  .  3_556  yes
+  O14  La1  O33  76.1(6)  3_555  .  2_545  yes
+  O22  La1  O33  75.3(6)  3_556  .  2_545  yes
+  O14  La1  O22  150.1(6)  3_555  .  3_556  yes
+  Ow2  La2  Ow4  122.3(5)  .  .  .  yes
+  Ow2  La2  Ow6  66.5(6)  .  .  .  yes
+  Ow2  La2  O11  68.7(6)  .  .  .  yes
+  Ow2  La2  O13  129.0(6)  .  .  .  yes
+  Ow2  La2  O23  70.0(6)  .  .  .  yes
+  Ow2  La2  O34  136.5(6)  .  .  .  yes
+  Ow2  La2  O21  68.7(6)  .  .  2_555  yes
+  Ow2  La2  Ow3  123.9(6)  .  .  4_555  yes
+  Ow4  La2  Ow6  137.2(7)  .  .  .  yes
+  Ow4  La2  O11  75.2(6)  .  .  .  yes
+  Ow4  La2  O13  69.9(6)  .  .  .  yes
+  Ow4  La2  O23  140.9(6)  .  .  .  yes
+  Ow4  La2  O34  71.1(6)  .  .  .  yes
+  Ow4  La2  O21  67.2(6)  .  .  2_555  yes
+  Ow3  La2  Ow4  113.6(6)  4_555  .  .  yes
+  Ow6  La2  O11  134.7(6)  .  .  .  yes
+  Ow6  La2  O13  74.3(6)  .  .  .  yes
+  Ow6  La2  O23  81.7(6)  .  .  .  yes
+  Ow6  La2  O34  135.1(6)  .  .  .  yes
+  Ow6  La2  O21  81.5(6)  .  .  2_555  yes
+  Ow3  La2  Ow6  70.0(6)  4_555  .  .  yes
+  O11  La2  O13  144.9(6)  .  .  .  yes
+  O11  La2  O23  76.8(6)  .  .  .  yes
+  O11  La2  O34  77.3(6)  .  .  .  yes
+  O11  La2  O21  89.0(6)  .  .  2_555  yes
+  Ow3  La2  O11  134.8(6)  4_555  .  .  yes
+  O13  La2  O23  135.0(5)  .  .  .  yes
+  O13  La2  O34  94.4(6)  .  .  .  yes
+  O13  La2  O21  74.6(6)  .  .  2_555  yes
+  Ow3  La2  O13  65.9(6)  4_555  .  .  yes
+  O23  La2  O34  76.6(6)  .  .  .  yes
+  O21  La2  O23  138.7(6)  2_555  .  .  yes
+  Ow3  La2  O23  70.3(6)  4_555  .  .  yes
+  O21  La2  O34  138.1(6)  2_555  .  .  yes
+  Ow3  La2  O34  65.8(6)  4_555  .  .  yes
+  Ow3  La2  O21  136.0(6)  4_555  .  2_555  yes
+  O12  Cr1  O13  112.3(9)  .  .  1_455  yes
+  O12  Cr1  O14  102.8(9)  .  .  2_455  yes
+  O11  Cr1  O12  110.7(10)  4_455  .  .  yes
+  O13  Cr1  O14  110.7(9)  1_455  .  2_455  yes
+  O11  Cr1  O13  108.0(9)  4_455  .  1_455  yes
+  O11  Cr1  O14  112.4(9)  4_455  .  2_455  yes
+  O22  Cr2  O23  110.9(9)  .  .  .  yes
+  O22  Cr2  O24  103.5(8)  .  .  .  yes
+  O21  Cr2  O22  111.3(9)  3_556  .  .  yes
+  O23  Cr2  O24  111.4(8)  .  .  .  yes
+  O21  Cr2  O23  109.4(9)  3_556  .  .  yes
+  O21  Cr2  O24  110.3(9)  3_556  .  .  yes
+  O31  Cr3  O34  108.1(9)  2_545  .  .  yes
+  O33  Cr3  O34  111.5(9)  2_545  .  .  yes
+  O32  Cr3  O34  108.8(8)  3_556  .  .  yes
+  O31  Cr3  O33  108.9(9)  2_545  .  2_545  yes
+  O31  Cr3  O32  109.1(9)  2_545  .  3_556  yes
+  O32  Cr3  O33  110.4(9)  3_556  .  2_545  yes
+  La2  O11  Cr1  159.2(11)  .  .  4_554  yes
+  La1  O12  Cr1  97.5(8)  2_455  .  .  yes
+  La2  O13  Cr1  154.2(10)  .  .  1_655  yes
+  La1  O14  Cr1  99.9(8)  .  .  2_445  yes
+  La1  O14  La1  116.3(6)  .  .  3_555  yes
+  La1  O14  Cr1  134.9(9)  3_555  .  2_445  yes
+  La2  O21  Cr2  154.4(11)  2_545  .  3_556  yes
+  La1  O22  Cr2  100.2(8)  .  .  .  yes
+  La1  O22  La1  111.7(6)  .  .  3_556  yes
+  La1  O22  Cr2  145.5(9)  3_556  .  .  yes
+  La2  O23  Cr2  149.0(10)  .  .  .  yes
+  La1  O24  Cr2  97.1(7)  .  .  .  yes
+  La1  O32  Cr3  134.7(9)  .  .  3_556  yes
+  La1  O33  Cr3  138.4(9)  2_555  .  2_555  yes
+  La2  O34  Cr3  152.2(10)  .  .  .  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  La1  O14  2.548(17)  .  .  yes
+  La1  O22  2.626(16)  .  .  yes
+  La1  O24  2.662(16)  .  .  yes
+  La1  O32  2.428(17)  .  .  yes
+  La1  O12  2.652(18)  .  2_445  yes
+  La1  Ow1  2.593(17)  .  2_455  yes
+  La1  O33  2.459(17)  .  2_545  yes
+  La1  O14  2.548(16)  .  3_555  yes
+  La1  O22  2.558(16)  .  3_556  yes
+  La2  Ow2  2.629(19)  .  .  yes
+  La2  Ow4  2.575(19)  .  .  yes
+  La2  Ow6  2.55(2)  .  .  yes
+  La2  O11  2.496(17)  .  .  yes
+  La2  O13  2.514(19)  .  .  yes
+  La2  O23  2.544(18)  .  .  yes
+  La2  O34  2.445(17)  .  .  yes
+  La2  O21  2.572(18)  .  2_555  yes
+  La2  Ow3  2.638(15)  .  4_555  yes
+  Cr1  O12  1.633(18)  .  .  yes
+  Cr1  O13  1.637(19)  .  1_455  yes
+  Cr1  O14  1.690(17)  .  2_455  yes
+  Cr1  O11  1.602(19)  .  4_455  yes
+  Cr2  O22  1.623(17)  .  .  yes
+  Cr2  O23  1.634(19)  .  .  yes
+  Cr2  O24  1.686(16)  .  .  yes
+  Cr2  O21  1.617(18)  .  3_556  yes
+  Cr3  O34  1.688(18)  .  .  yes
+  Cr3  O31  1.630(19)  .  2_545  yes
+  Cr3  O33  1.675(17)  .  2_545  yes
+  Cr3  O32  1.658(16)  .  3_556  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O22  La1  O14  Cr1  121.1(10)  .  .  .  2_445  no
+  O22  La1  O14  La1  -86.5(11)  .  .  .  3_555  no
+  O24  La1  O14  Cr1  -139.2(7)  .  .  .  2_445  no
+  O24  La1  O14  La1  13.3(12)  .  .  .  3_555  no
+  O32  La1  O14  Cr1  -27.0(12)  .  .  .  2_445  no
+  O32  La1  O14  La1  125.4(8)  .  .  .  3_555  no
+  O12  La1  O14  Cr1  -0.2(7)  2_445  .  .  2_445  no
+  O12  La1  O14  La1  152.2(10)  2_445  .  .  3_555  no
+  Ow1  La1  O14  Cr1  -80.7(8)  2_455  .  .  2_445  no
+  Ow1  La1  O14  La1  71.7(8)  2_455  .  .  3_555  no
+  O33  La1  O14  Cr1  126.4(9)  2_545  .  .  2_445  no
+  O33  La1  O14  La1  -81.2(8)  2_545  .  .  3_555  no
+  O14  La1  O14  Cr1  -152.4(10)  3_555  .  .  2_445  no
+  O14  La1  O14  La1  0.0(7)  3_555  .  .  3_555  no
+  O22  La1  O14  Cr1  54.8(9)  3_556  .  .  2_445  no
+  O22  La1  O14  La1  -152.8(7)  3_556  .  .  3_555  no
+  O14  La1  O22  Cr2  118.3(10)  .  .  .  .  no
+  O14  La1  O22  La1  -75.3(12)  .  .  .  3_556  no
+  O24  La1  O22  Cr2  -4.3(7)  .  .  .  .  no
+  O24  La1  O22  La1  162.1(10)  .  .  .  3_556  no
+  O32  La1  O22  Cr2  -85.0(9)  .  .  .  .  no
+  O32  La1  O22  La1  81.4(7)  .  .  .  3_556  no
+  O12  La1  O22  Cr2  -142.2(7)  2_445  .  .  .  no
+  O12  La1  O22  La1  24.2(11)  2_445  .  .  3_556  no
+  Ow1  La1  O22  Cr2  -32.8(12)  2_455  .  .  .  no
+  Ow1  La1  O22  La1  133.6(7)  2_455  .  .  3_556  no
+  O33  La1  O22  Cr2  113.0(9)  2_545  .  .  .  no
+  O33  La1  O22  La1  -80.6(8)  2_545  .  .  3_556  no
+  O14  La1  O22  Cr2  45.6(10)  3_555  .  .  .  no
+  O14  La1  O22  La1  -148.0(7)  3_555  .  .  3_556  no
+  O22  La1  O22  Cr2  -166.4(10)  3_556  .  .  .  no
+  O22  La1  O22  La1  0.0(6)  3_556  .  .  3_556  no
+  O14  La1  O24  Cr2  -138.9(7)  .  .  .  .  no
+  O22  La1  O24  Cr2  4.1(6)  .  .  .  .  no
+  O32  La1  O24  Cr2  85.2(7)  .  .  .  .  no
+  O12  La1  O24  Cr2  123.1(9)  2_445  .  .  .  no
+  Ow1  La1  O24  Cr2  162.6(8)  2_455  .  .  .  no
+  O33  La1  O24  Cr2  -56.3(8)  2_545  .  .  .  no
+  O14  La1  O24  Cr2  -126.3(9)  3_555  .  .  .  no
+  O22  La1  O24  Cr2  24.4(10)  3_556  .  .  .  no
+  O14  La1  O32  Cr3  98.5(13)  .  .  .  3_556  no
+  O22  La1  O32  Cr3  -64.9(12)  .  .  .  3_556  no
+  O24  La1  O32  Cr3  -126.3(13)  .  .  .  3_556  no
+  O12  La1  O32  Cr3  74.9(13)  2_445  .  .  3_556  no
+  Ow1  La1  O32  Cr3  153.1(14)  2_455  .  .  3_556  no
+  O33  La1  O32  Cr3  -35.8(19)  2_545  .  .  3_556  no
+  O14  La1  O32  Cr3  -168.6(10)  3_555  .  .  3_556  no
+  O22  La1  O32  Cr3  5.9(12)  3_556  .  .  3_556  no
+  O14  La1  O12  Cr1  0.2(7)  .  .  2_445  2_445  no
+  O22  La1  O12  Cr1  -143.3(7)  .  .  2_445  2_445  no
+  O24  La1  O12  Cr1  123.5(9)  .  .  2_445  2_445  no
+  O32  La1  O12  Cr1  160.7(9)  .  .  2_445  2_445  no
+  O14  La1  O33  Cr3  -161.4(16)  .  .  2_545  .  no
+  O22  La1  O33  Cr3  15.7(14)  .  .  2_545  .  no
+  O24  La1  O33  Cr3  66.9(16)  .  .  2_545  .  no
+  O32  La1  O33  Cr3  -14(2)  .  .  2_545  .  no
+  O12  La1  O33  Cr3  -112.7(15)  2_445  .  2_545  .  no
+  Ow1  La1  O33  Cr3  152.3(13)  2_455  .  2_545  .  no
+  O14  La1  O33  Cr3  132.8(16)  3_555  .  2_545  .  no
+  O22  La1  O33  Cr3  -55.7(15)  3_556  .  2_545  .  no
+  O14  La1  O14  La1  0.0(7)  .  .  3_555  3_555  no
+  O14  La1  O14  Cr1  -139.9(16)  .  .  3_555  4_554  no
+  O22  La1  O14  La1  146.2(7)  .  .  3_555  3_555  no
+  O22  La1  O14  Cr1  6.3(15)  .  .  3_555  4_554  no
+  O24  La1  O14  La1  -169.8(9)  .  .  3_555  3_555  no
+  O24  La1  O14  Cr1  50.4(13)  .  .  3_555  4_554  no
+  O32  La1  O14  La1  -126.3(8)  .  .  3_555  3_555  no
+  O32  La1  O14  Cr1  93.9(15)  .  .  3_555  4_554  no
+  O14  La1  O22  La1  149.0(7)  .  .  3_556  3_556  no
+  O14  La1  O22  Cr2  -6.9(19)  .  .  3_556  3_556  no
+  O22  La1  O22  La1  0.0(6)  .  .  3_556  3_556  no
+  O22  La1  O22  Cr2  -156(2)  .  .  3_556  3_556  no
+  O24  La1  O22  La1  -18.6(10)  .  .  3_556  3_556  no
+  O24  La1  O22  Cr2  -174.5(16)  .  .  3_556  3_556  no
+  O32  La1  O22  La1  -78.4(7)  .  .  3_556  3_556  no
+  O32  La1  O22  Cr2  125.7(19)  .  .  3_556  3_556  no
+  Ow2  La2  O11  Cr1  -4(3)  .  .  .  4_554  no
+  Ow4  La2  O11  Cr1  -138(3)  .  .  .  4_554  no
+  Ow6  La2  O11  Cr1  5(3)  .  .  .  4_554  no
+  O13  La2  O11  Cr1  -133(3)  .  .  .  4_554  no
+  O23  La2  O11  Cr1  69(3)  .  .  .  4_554  no
+  O34  La2  O11  Cr1  148(3)  .  .  .  4_554  no
+  O21  La2  O11  Cr1  -72(3)  2_555  .  .  4_554  no
+  Ow3  La2  O11  Cr1  113(3)  4_555  .  .  4_554  no
+  Ow2  La2  O13  Cr1  -12(3)  .  .  .  1_655  no
+  Ow4  La2  O13  Cr1  104(2)  .  .  .  1_655  no
+  Ow6  La2  O13  Cr1  -52(2)  .  .  .  1_655  no
+  O11  La2  O13  Cr1  98(2)  .  .  .  1_655  no
+  O23  La2  O13  Cr1  -113(2)  .  .  .  1_655  no
+  O34  La2  O13  Cr1  172(2)  .  .  .  1_655  no
+  O21  La2  O13  Cr1  33(2)  2_555  .  .  1_655  no
+  Ow3  La2  O13  Cr1  -127(2)  4_555  .  .  1_655  no
+  Ow2  La2  O23  Cr2  108.7(19)  .  .  .  .  no
+  Ow4  La2  O23  Cr2  -8(2)  .  .  .  .  no
+  Ow6  La2  O23  Cr2  176.6(19)  .  .  .  .  no
+  O11  La2  O23  Cr2  36.8(18)  .  .  .  .  no
+  O13  La2  O23  Cr2  -125.6(17)  .  .  .  .  no
+  O34  La2  O23  Cr2  -43.0(18)  .  .  .  .  no
+  O21  La2  O23  Cr2  109.7(19)  2_555  .  .  .  no
+  Ow3  La2  O23  Cr2  -111.8(19)  4_555  .  .  .  no
+  Ow2  La2  O34  Cr3  40(3)  .  .  .  .  no
+  Ow4  La2  O34  Cr3  -78(2)  .  .  .  .  no
+  Ow6  La2  O34  Cr3  143.2(19)  .  .  .  .  no
+  O11  La2  O34  Cr3  1(2)  .  .  .  .  no
+  O13  La2  O34  Cr3  -145(2)  .  .  .  .  no
+  O23  La2  O34  Cr3  80(2)  .  .  .  .  no
+  O21  La2  O34  Cr3  -73(2)  2_555  .  .  .  no
+  Ow3  La2  O34  Cr3  154(2)  4_555  .  .  .  no
+  Ow2  La2  O21  Cr2  -154(2)  .  .  2_555  4_554  no
+  Ow4  La2  O21  Cr2  -12(2)  .  .  2_555  4_554  no
+  Ow6  La2  O21  Cr2  138(2)  .  .  2_555  4_554  no
+  O11  La2  O21  Cr2  -86(2)  .  .  2_555  4_554  no
+  O13  La2  O21  Cr2  62(2)  .  .  2_555  4_554  no
+  O23  La2  O21  Cr2  -155(2)  .  .  2_555  4_554  no
+  O34  La2  O21  Cr2  -17(3)  .  .  2_555  4_554  no
+  O13  Cr1  O12  La1  118.6(8)  1_455  .  .  2_455  no
+  O14  Cr1  O12  La1  -0.5(9)  2_455  .  .  2_455  no
+  O11  Cr1  O12  La1  -120.6(8)  4_455  .  .  2_455  no
+  O12  Cr1  O13  La2  -68(2)  .  .  1_455  1_455  no
+  O12  Cr1  O14  La1  0.5(10)  .  .  2_455  2_455  no
+  O12  Cr1  O14  La1  -143.6(13)  .  .  2_455  4_455  no
+  O12  Cr1  O11  La2  -122(3)  .  .  4_455  4_455  no
+  O23  Cr2  O22  La1  -113.5(8)  .  .  .  .  no
+  O23  Cr2  O22  La1  89.1(18)  .  .  .  3_556  no
+  O24  Cr2  O22  La1  6.0(9)  .  .  .  .  no
+  O24  Cr2  O22  La1  -151.3(17)  .  .  .  3_556  no
+  O21  Cr2  O22  La1  124.5(8)  3_556  .  .  .  no
+  O21  Cr2  O22  La1  -33(2)  3_556  .  .  3_556  no
+  O22  Cr2  O23  La2  48(2)  .  .  .  .  no
+  O24  Cr2  O23  La2  -67(2)  .  .  .  .  no
+  O21  Cr2  O23  La2  171.3(17)  3_556  .  .  .  no
+  O22  Cr2  O24  La1  -5.9(9)  .  .  .  .  no
+  O23  Cr2  O24  La1  113.3(8)  .  .  .  .  no
+  O21  Cr2  O24  La1  -125.0(8)  3_556  .  .  .  no
+  O22  Cr2  O21  La2  114(2)  .  .  3_556  4_455  no
+  O23  Cr2  O21  La2  -9(3)  .  .  3_556  4_455  no
+  O24  Cr2  O21  La2  -132(2)  .  .  3_556  4_455  no
+  O31  Cr3  O34  La2  101(2)  2_545  .  .  .  no
+  O33  Cr3  O34  La2  -19(2)  2_545  .  .  .  no
+  O32  Cr3  O34  La2  -141(2)  3_556  .  .  .  no
+  O34  Cr3  O33  La1  -80.2(16)  .  .  2_545  .  no
+  O31  Cr3  O33  La1  160.6(14)  2_545  .  2_545  .  no
+  O32  Cr3  O33  La1  40.9(18)  3_556  .  2_545  .  no
+  O34  Cr3  O32  La1  74.9(14)  .  .  3_556  3_556  no

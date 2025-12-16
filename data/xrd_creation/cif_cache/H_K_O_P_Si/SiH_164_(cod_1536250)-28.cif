@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_1536250
+loop_
+ _publ_author_name
+  'Dahn, J.R.'
+  'Way, B.M.'
+  'Tse, J.S.'
+  'Fuller, E.'
+_publ_section_title
+'Structures of siloxene and layered polysilane (Si6 H6)'
+_journal_name_full
+'Physical Review, Serie 3. B - Condensed Matter (18,1978-)'
+_journal_page_first   17872
+_journal_page_last   17877
+_journal_volume   48
+_journal_year   1993
+_chemical_formula_sum   'H Si'
+_chemical_name_systematic   'Si H'
+_space_group_IT_number   147
+_symmetry_space_group_name_Hall   '-P 3'
+_symmetry_space_group_name_H-M   'P -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   2
+_cell_length_a   3.83
+_cell_length_b   3.83
+_cell_length_c   5.4
+_cell_volume   68.600
+_citation_journal_id_ASTM   PRBMDO
+_cod_data_source_file   Dahn_PRBMDO_1993_1883.cif
+_cod_data_source_block   H1Si1
+_cod_original_cell_volume   68.59966
+_cod_original_formula_sum   'H1 Si1'
+_cod_database_code   1536250
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  -x,-y,-z
+  y,-x+y,-z
+  x-y,x,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Si1  Si  0.3333  0.6667  0.075  1  0.0
+  H1  H  0.3333  0.6667  0.28  1  0.0

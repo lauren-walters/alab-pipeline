@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6688a601c69f10c6d7bf5721",
+  "experiment_name": "PG_2652-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mn-O-Zr",
+  "target_formula": "ZrMnO3",
+  "analysis_timestamp": "2025-12-06T15:31:38.392351",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

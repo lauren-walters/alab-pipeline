@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_8000215
+loop_
+ _publ_author_name
+  'Chen, X.'
+  'Yamanaka, S.'
+_publ_section_title
+;
+Single-crystal X-ray structural refinement of the "tetragonal" C60
+polymer
+;
+_journal_name_full   'Chemical Physics Letters'
+_journal_page_first   501
+_journal_page_last   508
+_journal_volume   360
+_journal_year   2002
+_chemical_formula_sum   C60
+_space_group_IT_number   71
+_symmetry_space_group_name_Hall   '-I 2 2'
+_symmetry_space_group_name_H-M   'I m m m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   9.026
+_cell_length_b   9.083
+_cell_length_c   15.077
+_cell_volume   1236.060
+_citation_journal_id_ASTM   CHPLBC
+_cod_data_source_file   Chen_CHPLBC_2002_1665.cif
+_cod_data_source_block   C60
+_cod_original_cell_volume   1236.06
+_cod_database_code   8000215
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  x,-y,-z
+  -x,y,-z
+  -x,-y,-z
+  x,y,-z
+  -x,y,z
+  x,-y,z
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z+1/2
+  x+1/2,y+1/2,-z+1/2
+  -x+1/2,y+1/2,z+1/2
+  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  C1  C  0.0807  0.253  0.1698  1  0.0
+  C5  C  0.2866  0.081  0.15  1  0.0
+  C7  C  0.4111  0.0873  0  1  0.0
+  C9  C  0  0.4133  0.0518  1  0.0
+  C6  C  0.3336  0.1592  0.0779  1  0.0
+  C3  C  0.1573  0.1284  0.1973  1  0.0
+  C8  C  0.0757  0  0.2269  1  0.0
+  C2  C  0.1308  0.3352  0.0958  1  0.0
+  C4  C  0.2518  0.2855  0.0483  1  0.0

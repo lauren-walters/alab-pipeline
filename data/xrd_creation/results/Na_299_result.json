@@ -1,0 +1,31 @@
+{
+  "experiment_id": "6675ff71a48e4d40d5e80a02",
+  "experiment_name": "Na_299",
+  "success": true,
+  "error": null,
+  "rwp": 22.41,
+  "rp": 13.24,
+  "rexp": 2.73,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "Na2O2_225_(cod_2310821)-None",
+      "spacegroup": "F4/m-32/m",
+      "weight_fraction": 0.1185,
+      "weight_fraction_error": 0.0029,
+      "lattice_a_nm": 0.5147,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 16.22
+    }
+  ],
+  "chemical_system": "Cr-Na-O-P",
+  "target_formula": "Na4CrP2O9",
+  "analysis_timestamp": "2025-12-06T14:02:10.430698",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_1011360
+loop_
+ _publ_author_name
+  'Stackelberg, M von'
+  'Paulus, R'
+_publ_section_title
+;
+Untersuchungen ueber die Kristallstruktur der Nitride und Phosphide
+zweiwertiger Metalle.
+;
+_journal_coden_ASTM   ZPCBAL
+_journal_name_full
+;
+Zeitschrift fuer Physikalische Chemie, Abteilung B: Chemie der
+Elementarprozesse, Aufbau der Materie
+;
+_journal_page_first   305
+_journal_page_last   322
+_journal_volume   22
+_journal_year   1933
+_chemical_formula_structural   'Mg3 P2'
+_chemical_formula_sum   'Mg3 P2'
+_chemical_name_systematic   'Magnesium phosphide'
+_space_group_IT_number   206
+_symmetry_cell_setting   cubic
+_symmetry_Int_Tables_number   206
+_symmetry_space_group_name_Hall   '-I 2b 2c 3'
+_symmetry_space_group_name_H-M   'I a -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   16
+_cell_length_a   12.01(1)
+_cell_length_b   12.01(1)
+_cell_length_c   12.01(1)
+_cell_volume   1732.3
+_exptl_crystal_density_meas   2.06
+_cod_database_code   1011360
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,-y,1/2-z
+  1/2-x,y,-z
+  -x,1/2-y,z
+  y,z,x
+  -y,1/2-z,x
+  y,-z,1/2-x
+  1/2-y,z,-x
+  z,x,y
+  1/2-z,x,-y
+  -z,1/2-x,y
+  z,-x,1/2-y
+  -x,-y,-z
+  -x,y,1/2+z
+  1/2+x,-y,z
+  x,1/2+y,-z
+  -y,-z,-x
+  y,1/2+z,-x
+  -y,z,1/2+x
+  1/2+y,-z,x
+  -z,-x,-y
+  1/2+z,-x,y
+  z,1/2+x,-y
+  -z,x,1/2+y
+  1/2+x,1/2+y,1/2+z
+  1/2+x,1/2-y,-z
+  -x,1/2+y,1/2-z
+  1/2-x,-y,1/2+z
+  1/2+y,1/2+z,1/2+x
+  1/2-y,-z,1/2+x
+  1/2+y,1/2-z,-x
+  -y,1/2+z,1/2-x
+  1/2+z,1/2+x,1/2+y
+  -z,1/2+x,1/2-y
+  1/2-z,-x,1/2+y
+  1/2+z,1/2-x,-y
+  1/2-x,1/2-y,1/2-z
+  1/2-x,1/2+y,z
+  x,1/2-y,1/2+z
+  1/2+x,y,1/2-z
+  1/2-y,1/2-z,1/2-x
+  1/2+y,z,1/2-x
+  1/2-y,1/2+z,x
+  y,1/2-z,1/2+x
+  1/2-z,1/2-x,1/2-y
+  z,1/2-x,1/2+y
+  1/2+z,x,1/2-y
+  1/2-z,1/2+x,y
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  P1  P3-  8  b  0.25  0.25  0.25  1.  0  d
+  P2  P3-  24  d  -0.025(5)  0.  0.25  1.  0  d
+  Mg1  Mg2+  48  e  0.385(5)  0.145(5)  0.380(2)  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  P3-  -3.000
+  Mg2+  2.000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139036611

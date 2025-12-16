@@ -1,0 +1,57 @@
+{
+  "experiment_id": "65b2b309d84e296e51f0fcc9",
+  "experiment_name": "Na_203",
+  "success": true,
+  "error": null,
+  "rwp": 31.77,
+  "rp": 25.27,
+  "rexp": 2.78,
+  "num_phases": 3,
+  "phases": [
+    {
+      "phase_name": "Na15.8Ti4P8O36_67_(cod_1536772)-None",
+      "spacegroup": "C2/m2/m2/a",
+      "weight_fraction": 0.1902,
+      "weight_fraction_error": 0.0055,
+      "lattice_a_nm": 0.70646,
+      "lattice_b_nm": 1.58795,
+      "lattice_c_nm": 0.75008,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 45.15
+    },
+    {
+      "phase_name": "NaO2_58_(cod_4124631)-0",
+      "spacegroup": "P2_1/n2_1/n2/m",
+      "weight_fraction": 0.1288,
+      "weight_fraction_error": 0.0072,
+      "lattice_a_nm": 0.42928,
+      "lattice_b_nm": 0.5538,
+      "lattice_c_nm": 0.34744,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 84.19
+    },
+    {
+      "phase_name": "Na2Ti9O19_12_(cod_2310730)-33",
+      "spacegroup": "C12/m1",
+      "weight_fraction": 0.0492,
+      "weight_fraction_error": 0.0038,
+      "lattice_a_nm": 1.23136,
+      "lattice_b_nm": 0.37695,
+      "lattice_c_nm": 1.5756,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 104.096,
+      "lattice_gamma_deg": null,
+      "r_phase": 24.7
+    }
+  ],
+  "chemical_system": "Na-O-P-Ti",
+  "target_formula": "Na4TiP2O9",
+  "analysis_timestamp": "2025-12-06T17:07:15.930803",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

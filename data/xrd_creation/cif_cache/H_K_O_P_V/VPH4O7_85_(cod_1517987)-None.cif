@@ -1,0 +1,145 @@
+# generated using pymatgen
+data_1517987
+loop_
+ _publ_author_name
+  'Tachez, Michel'
+  'Theobald, Francois'
+  'Bernard, Jean'
+  'Hewat, Alan W.'
+_publ_section_title
+;
+Intercalation of water molecules in a layer structure VOPO4. Crystal
+structure of VOPO4.2D2O
+;
+_journal_name_full   'Revue de Chimie Minerale'
+_journal_page_first   291
+_journal_page_last   300
+_journal_volume   19
+_journal_year   1982
+_chemical_formula_sum   'D4 O7 P V'
+_chemical_formula_weight   201.95
+_space_group_IT_number   85
+_symmetry_cell_setting   tetragonal
+_symmetry_Int_Tables_number   85
+_symmetry_space_group_name_Hall   'P 4ab -1ab'
+_symmetry_space_group_name_H-M   'P 4/n :1'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   2
+_cell_length_a   6.2154(2)
+_cell_length_b   6.2154(2)
+_cell_length_c   7.4029(7)
+_cell_measurement_temperature   300
+_cell_volume   285.98(3)
+_diffrn_ambient_temperature   300
+_diffrn_measurement_device_type   Diffractometer
+_diffrn_radiation_type   neutron
+_diffrn_radiation_wavelength   1.909
+_diffrn_source   neutron
+_exptl_crystal_density_diffrn   2.345
+_pd_instr_location   Grenoble-D1A
+_pd_meas_2theta_range_inc   0.05000
+_pd_meas_2theta_range_max   160.00000
+_pd_meas_2theta_range_min   6.00000
+_pd_meas_number_of_points   3080
+_pd_meas_scan_method   step
+_refine_ls_number_reflns   288
+_refine_ls_R_I_factor   18.6
+_cod_data_source_file   VOPO4-2D2O.cif
+_cod_data_source_block   VOPO4-2D2O
+_cod_original_sg_symbol_H-M   'P 4/n:1'
+_cod_database_code   1517987
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  1/2-y,1/2+x,z
+  3  -x,-y,z
+  4  1/2+y,1/2-x,z
+  5  1/2-x,1/2-y,-z
+  6  y,-x,-z
+  7  1/2+x,1/2+y,-z
+  8  -y,x,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  P  -0.005(3)  -0.005(3)  0.203(13)  0.0000  0.0000  0.0000
+  O1  0.033(3)  0.0329(13)  0.106(9)  0.0000  0.0000  0.0000
+  O2  0.0209(10)  0.0209(10)  0.119(4)  0.0000  0.0000  0.0000
+  O3  0.037(3)  0.037(3)  0.184(15)  0.0000  0.0000  0.0000
+  D1  0.085(6)  0.085(6)  0.215(13)  0.0000  0.0000  0.0000
+  O4  0.018(8)  0.018(8)  0.3(3)  0.0000  0.0000  0.0000
+  D2  0.046(10)  0.046(10)  0.70(10)  0.0000  0.0000  0.0000
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  V  V  Uiso  0.00000  0.50000  0.56800  1.000  0.0063
+  P  P  Uani  0.00000  0.00000  0.50000  1.000  0.064(5)
+  O1  O  Uani  0.00000  0.50000  0.3750(10)  1.000  0.057(3)
+  O2  O  Uani  0.498(2)  0.6988(5)  0.3757(6)  1.000  0.0536(14)
+  O3  O  Uani  0.00000  0.50000  0.905(2)  1.000  0.086(5)
+  O4  O  Uani  0.00000  0.00000  0.092(4)  0.500  0.11(10)
+  D1  D  Uani  0.148(3)  0.480(10)  0.944(2)  0.500  0.128(5)
+  D2  D  Uani  0.551(3)  0.429(6)  0.062(16)  0.500  0.26(3)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  V  O2  102.55(13)  .  5_566  yes
+  O1  V  O2  102.55(13)  .  6_466  yes
+  O1  V  O2  102.55(13)  .  7_446  yes
+  O1  V  O2  102.55(13)  .  8_656  yes
+  O2  V  O2  87.3(5)  5_566  6_466  yes
+  O2  V  O2  154.90(19)  5_566  7_446  yes
+  O2  V  O2  87.3(5)  5_566  8_656  yes
+  O2  V  O2  87.3(5)  6_466  7_446  yes
+  O2  V  O2  154.90(19)  6_466  8_656  yes
+  O2  V  O2  87.3(5)  7_446  8_656  yes
+  O2  P  O2  106.7(2)  2_545  4_455  yes
+  O2  P  O2  110.9(6)  2_545  5_556  yes
+  O2  P  O2  110.9(6)  2_545  7_446  yes
+  O2  P  O2  110.9(6)  4_455  5_556  yes
+  O2  P  O2  110.9(6)  4_455  7_446  yes
+  O2  P  O2  106.7(2)  5_556  7_446  yes
+  V  O2  P  130.8(3)  5_566  2_555  yes
+  D1  O3  D1  85(5)  .  2_555  yes
+  D1  O3  D1  145(2)  .  3_565  yes
+  D1  O3  D1  85(5)  .  4_455  yes
+  D1  O3  D1  85(5)  2_555  3_565  yes
+  D1  O3  D1  145(2)  2_555  4_455  yes
+  D1  O3  D1  85(5)  3_565  4_455  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  V  O1  1.429(7)  .  yes
+  V  O2  1.918(3)  5_566  yes
+  V  O2  1.918(3)  6_466  yes
+  V  O2  1.918(3)  7_446  yes
+  V  O2  1.918(3)  8_656  yes
+  P  O2  1.541(4)  2_545  yes
+  P  O2  1.541(4)  4_455  yes
+  P  O2  1.541(4)  5_556  yes
+  P  O2  1.541(4)  7_446  yes
+  O3  D1  0.97(2)  .  yes
+  O3  D1  0.97(2)  2_555  yes
+  O3  D1  0.97(2)  3_565  yes
+  O3  D1  0.97(2)  4_455  yes

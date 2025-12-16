@@ -1,0 +1,31 @@
+{
+  "experiment_id": "668d5f7daa32321205b5630c",
+  "experiment_name": "Na_305",
+  "success": true,
+  "error": null,
+  "rwp": 29.68,
+  "rp": 19.88,
+  "rexp": 2.25,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.0915,
+      "weight_fraction_error": 0.0014,
+      "lattice_a_nm": 0.51134,
+      "lattice_b_nm": 0.51789,
+      "lattice_c_nm": 0.52847,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.215,
+      "lattice_gamma_deg": null,
+      "r_phase": 14.07
+    }
+  ],
+  "chemical_system": "Hf-Na-O-P",
+  "target_formula": "Na4HfP2O9",
+  "analysis_timestamp": "2025-12-06T15:10:55.792828",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

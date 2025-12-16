@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_9012950
+loop_
+ _publ_author_name
+  'Owen, E. A.'
+  'Madoc Jones, D.'
+_publ_section_title
+;
+Effect of grain size on the crystal structure of cobalt  Sample: at T
+= 18 C  Note: quenched from above 450 C
+;
+_journal_name_full   'Proceedings of the Physical Society of London'
+_journal_page_first   459
+_journal_page_last   466
+_journal_volume   67
+_journal_year   1954
+_chemical_compound_source   'synthetic rod'
+_chemical_formula_sum   Co
+_chemical_name_common   Cobalt
+_chemical_name_mineral   Cobalt
+_space_group_IT_number   194
+_symmetry_space_group_name_Hall   '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_length_a   2.5054
+_cell_length_b   2.5054
+_cell_length_c   4.0893
+_cell_formula_units_Z   2
+_cell_volume   22.230
+_database_code_amcsd   0015333
+_diffrn_ambient_temperature   291.15
+_exptl_crystal_density_diffrn   8.805
+_exptl_crystal_thermal_history   'quenched from above 450 C'
+_cod_database_code   9012950
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-x+y,1/2+z
+  x,x-y,1/2-z
+  -x+y,-x,1/2-z
+  x-y,x,1/2+z
+  -y,-x,z
+  y,x,-z
+  y,-x+y,-z
+  -y,x-y,z
+  x-y,-y,1/2+z
+  -x+y,y,1/2-z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  x,x-y,z
+  -x,-x+y,-z
+  x-y,x,-z
+  -x+y,-x,z
+  y,x,1/2+z
+  -y,-x,1/2-z
+  -y,x-y,1/2-z
+  y,-x+y,1/2+z
+  -x+y,y,z
+  x-y,-y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Co  0.33333  0.66667  0.25000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  94547
+  2  AMCSD  0015333

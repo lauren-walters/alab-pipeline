@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_8103499
+loop_
+ _publ_author_name
+  'Leclaire, A.'
+  'Chahboun, H.'
+  'Groult, D.'
+  'Raveau, B.'
+_publ_section_title   'The crystal structure of \b-NbPO~5~'
+_journal_name_full   'Zeitschrift f\"ur Kristallographie'
+_journal_page_first   277
+_journal_page_last   286
+_journal_paper_doi   10.1524/zkri.1986.177.3-4.277
+_journal_volume   177
+_journal_year   1986
+_chemical_formula_structural   'Nb O (P O4)'
+_chemical_formula_sum   'Nb O5 P'
+_chemical_name_systematic   'Niobium Oxide Phosphate(V) - Beta'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90.
+_cell_angle_beta   120.334(8)
+_cell_angle_gamma   90.
+_cell_formula_units_Z   8
+_cell_length_a   13.0969(16)
+_cell_length_b   5.2799(6)
+_cell_length_c   13.2281(16)
+_cell_volume   789.50(18)
+_cod_data_source_file   NbPO5_P_21_c_DC253.cif
+_cod_data_source_block   chateigner
+_cod_original_cell_volume   789.5
+_cod_original_formula_sum   'Nb1 O5 P1'
+_cod_database_code   8103499
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, -y+1/2, z+1/2'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, y, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_B_iso_or_equiv
+  Nb1  Nb5+  4  e  0.06240(3)  0.24193(10)  0.36515(4)  1.  0
+  Nb2  Nb5+  4  e  0.56275(3)  0.24986(10)  0.19715(4)  1.  0
+  P1  P5+  4  e  0.34538(10)  0.2583(4)  0.40791(11)  1.  0
+  P2  P5+  4  e  0.15434(10)  0.7657(4)  0.06304(11)  1.  0
+  O1  O2-  4  e  0.2144(3)  0.2480(11)  0.3705(4)  1.  0
+  O2  O2-  4  e  -.0821(4)  0.2357(13)  0.3760(5)  1.  0
+  O3  O2-  4  e  0.0083(4)  0.5365(8)  0.2687(4)  1.  0
+  O4  O2-  4  e  0.1356(4)  0.4714(8)  0.5094(4)  1.  0
+  O5  O2-  4  e  0.1190(5)  -.0600(9)  0.4706(5)  1.  0
+  O6  O2-  4  e  0.7145(3)  0.2319(10)  0.3445(4)  1.  0
+  O7  O2-  4  e  0.4187(4)  0.2796(9)  0.0408(4)  1.  0
+  O8  O2-  4  e  0.4970(4)  0.4685(8)  0.2645(5)  1.  0
+  O9  O2-  4  e  0.6306(4)  0.0235(9)  0.1222(5)  1.  0
+  O10  O2-  4  e  0.6269(5)  0.5578(9)  0.1562(6)  1.  0
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Nb5+  5
+  O2-  -2
+  P5+  5

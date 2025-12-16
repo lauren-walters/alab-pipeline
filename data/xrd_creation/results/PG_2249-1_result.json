@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6655381e83fdf76b50aaf20c",
+  "experiment_name": "PG_2249-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "C-Li-O-W",
+  "target_formula": "Li2W2CO9",
+  "analysis_timestamp": "2025-12-06T13:37:54.520915",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

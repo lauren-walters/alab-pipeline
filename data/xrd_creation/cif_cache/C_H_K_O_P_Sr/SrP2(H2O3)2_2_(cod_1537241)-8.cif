@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_1537241
+loop_
+ _publ_author_name
+  'Langer, V.'
+  'Mahmoudkhani, A.H.'
+_publ_section_title
+;
+Layered structures of calcium and strontium compounds: Synthesis,
+characterization and properties
+;
+_journal_name_full
+;
+5th International Conference of Solid State Chemistry (SSC-2002), 7-12
+July  2002, Bratislava, Slovak Republic
+;
+_journal_page_first   1
+_journal_page_last   1
+_journal_volume   2002
+_journal_year   2002
+_chemical_formula_sum   'H4 O6 P2 Sr'
+_chemical_name_systematic   'Sr (H2 P O3)2'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   97.782
+_cell_angle_beta   104.607
+_cell_angle_gamma   106.608
+_cell_formula_units_Z   2
+_cell_length_a   5.7981
+_cell_length_b   7.205
+_cell_length_c   8.075
+_cell_volume   304.884
+_citation_journal_id_ASTM   5CSSCG
+_cod_data_source_file   Langer_5CSSCG_2002_425.cif
+_cod_data_source_block   H4O6P2Sr1
+_cod_original_cell_volume   304.8836
+_cod_original_formula_sum   'H4 O6 P2 Sr1'
+_cod_database_code   1537241
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  H1  H+1  0.404  0.77  1.395  1  0.0
+  O4  O-2  0.7753  0.6396  0.5469  1  0.0
+  H4  H+1  0.775  0.56  0.466  1  0.0
+  H2  H+1  1.143  0.886  0.573  1  0.0
+  P2  P+3  1.0486  0.77046  0.6685  1  0.0
+  O5  O-2  1.2077  0.6391  0.7155  1  0.0
+  O1  O-2  1.0133  0.8934  0.8192  1  0.0
+  Sr1  Sr+2  0.66402  0.78603  0.9565  1  0.0
+  H3  H+1  -0.034  0.601  1.222  1  0.0
+  O6  O-2  0.4216  0.9271  1.1604  1  0.0
+  O2  O-2  0.4027  0.5757  1.1467  1  0.0
+  P1  P+3  0.32664  0.74222  1.22288  1  0.0
+  O3  O-2  0.0288  0.6847  1.1789  1  0.0

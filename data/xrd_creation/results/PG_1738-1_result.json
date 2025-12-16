@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6655361f83fdf76b50aaf03e",
+  "experiment_name": "PG_1738-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Hf-Nb-O",
+  "target_formula": "Hf2Nb2O9",
+  "analysis_timestamp": "2025-12-06T13:19:58.704494",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

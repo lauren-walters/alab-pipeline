@@ -1,0 +1,126 @@
+# generated using pymatgen
+data_9008302
+loop_
+ _publ_author_name
+  'Annehed, H.'
+  'Faelth, L.'
+  'Lincoln, F. J.'
+_publ_section_title
+'Crystal structure of synthetic makatite Na2Si4O8(OH)2(H2O)4'
+_journal_name_full   'Zeitschrift fur Kristallographie'
+_journal_page_first   203
+_journal_page_last   210
+_journal_volume   159
+_journal_year   1982
+_chemical_formula_sum   'H5 Na O7 Si2'
+_chemical_name_mineral   Makatite
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90.64
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   7.3881
+_cell_length_b   18.094
+_cell_length_c   9.5234
+_cell_volume   1273.011
+_database_code_amcsd   0010848
+_exptl_crystal_density_diffrn   2.047
+_cod_original_formula_sum   'Na Si2 O7 H5'
+_cod_database_code   9008302
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2-y,1/2+z
+  -x,1/2+y,1/2-z
+  -x,-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Na1  0.03705  0.02985  0.03675  0.00203  0.00677  -0.00175
+  Na2  0.04009  0.02156  0.04089  0.00339  0.00249  -0.00873
+  Na3  0.04037  0.02156  0.04135  -0.00474  0.00499  0.00524
+  Si1  0.01078  0.01161  0.01332  -0.00135  0.00356  -0.00262
+  Si2  0.01023  0.01327  0.01746  -0.00068  0.00356  -0.00087
+  Si3  0.01078  0.00995  0.01149  -0.00068  0.00285  -0.00087
+  Si4  0.01217  0.00995  0.01562  0.00135  0.00356  0.00000
+  O1  0.03235  0.01990  0.01378  -0.00068  0.00392  0.00262
+  O2  0.01991  0.01327  0.01975  0.00068  0.00071  -0.00262
+  O3  0.01161  0.01659  0.02848  0.00203  0.00499  0.00175
+  O4  0.03041  0.01824  0.01149  -0.00474  0.01354  -0.00349
+  O5  0.02488  0.00663  0.01103  -0.00406  0.00321  0.00000
+  O6  0.01023  0.02654  0.01700  -0.00203  -0.00463  0.00349
+  O-H7  0.01106  0.02985  0.02665  -0.00068  0.00285  0.00698
+  O-H8  0.01604  0.01824  0.02619  0.00271  0.00677  0.00175
+  O9  0.01300  0.00995  0.02573  0.00068  0.00036  -0.00349
+  O10  0.00498  0.01161  0.03721  -0.00745  -0.00428  0.00087
+  Wat11  0.02101  0.01990  0.03170  0.00339  0.00036  0.00262
+  Wat12  0.03235  0.02322  0.02159  0.00677  -0.00071  -0.00698
+  Wat13  0.04092  0.01990  0.03216  0.00542  -0.01426  -0.00087
+  Wat14  0.03705  0.02820  0.01746  -0.00271  0.00356  -0.00349
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Na1  0.50000  0.50000  0.00000  Na  0
+  Na2  0.00000  0.50000  0.00000  Na  0
+  Na3  0.74780  0.03240  0.12850  Na  0
+  Si1  0.28220  0.21430  0.18760  Si  0
+  Si2  0.69970  0.21820  0.17480  Si  0
+  Si3  0.77760  0.33880  0.38910  Si  0
+  Si4  0.20010  0.33490  0.39900  Si  0
+  O1  0.24210  0.22410  0.02240  O  0
+  O2  0.24760  0.29710  0.25070  O  0
+  O3  0.49310  0.19510  0.20500  O  0
+  O4  0.73070  0.22320  0.00640  O  0
+  O5  0.74290  0.30010  0.23580  O  0
+  O6  0.99020  0.35970  0.39920  O  0
+  O-H7  0.16190  0.15170  0.25850  O  1
+  O-H8  0.82400  0.15460  0.24440  O  1
+  O9  0.66620  0.41260  0.40750  O  0
+  O10  0.31750  0.40830  0.42020  O  0
+  Wat11  0.75060  0.41080  0.00290  O  2
+  Wat12  0.24500  0.40800  0.01870  O  2
+  Wat13  0.02960  0.01230  0.23360  O  2
+  Wat14  0.47140  0.02400  0.25290  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:51:18+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:21:10+03:00
+;
+Changed the following '_atom_site_aniso_label' values: 'OH7' -> 'O-H7'
+'OH8' -> 'O-H8'
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0010848

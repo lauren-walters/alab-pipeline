@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_1537622
+loop_
+ _publ_author_name
+  'Ahlzen, P.J.'
+  'Tellgren, R.'
+  'Rundqvist, S.'
+  'Andersson, Y.'
+_publ_section_title
+'Neutron diffraction studies of deuterated Ti3 P'
+_journal_name_full   'Journal of the Less-Common Metals'
+_journal_page_first   206
+_journal_page_last   212
+_journal_volume   172
+_journal_year   1991
+_chemical_formula_sum   'D P2 Ti6'
+_chemical_name_systematic   'Ti6 D P2'
+_space_group_IT_number   86
+_symmetry_space_group_name_Hall   'P 4n -1n'
+_symmetry_space_group_name_H-M   'P 42/n :1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.9971
+_cell_length_b   9.9971
+_cell_length_c   5.0138
+_cell_volume   501.089
+_citation_journal_id_ASTM   JCOMAH
+_cod_data_source_file   Ahlzen_JCOMAH_1991_86.cif
+_cod_data_source_block   D1P2Ti6
+_cod_original_cell_volume   501.0892
+_cod_original_sg_symbol_Hall   '-P 4bc (x+1/4,y+1/4,z+1/4)'
+_cod_original_formula_sum   'D1 P2 Ti6'
+_cod_database_code   1537622
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/2,x+1/2,z+1/2
+  -x,-y,z
+  y+1/2,-x+1/2,z+1/2
+  -x+1/2,-y+1/2,-z+1/2
+  y,-x,-z
+  x+1/2,y+1/2,-z+1/2
+  -y,x,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  D1  D  0  0.5  0.2839  0.74  0.0
+  D2  D  0.312  0.023  0.764  0.05  0.0
+  P1  P  0.2947  0.5406  0.2822  1  0.0
+  Ti2  Ti  0.36  0.5317  0.7786  1  0.0
+  Ti3  Ti  0.3194  0.7821  0.4873  1  0.0
+  Ti1  Ti  0.4131  0.8899  0.9688  1  0.0

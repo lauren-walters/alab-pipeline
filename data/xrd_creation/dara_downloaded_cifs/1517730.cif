@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_1517730
+loop_
+ _publ_author_name
+  'Zah-Letho, J.J.'
+  'Verbaere, A.'
+  'Jouanneaux, A.'
+  'Taulelle, F.'
+  'Piffard, Y.'
+  'Tournoux, M.'
+_publ_section_title
+;
+"Nb2-x P3-y O12", a novel Nb(V) oxophosphate with disordered cation
+vacancies in a Sc2 (W O4)3 - type structure
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   335
+_journal_page_last   342
+_journal_volume   116
+_journal_year   1995
+_chemical_formula_analytical   'Nb1.91 P2.82 H0.5 (O11.89 N0.11)'
+_chemical_formula_structural   'Nb1.91 P2.82 O12'
+_chemical_formula_sum   'Nb1.91 O12 P2.82'
+_chemical_name_systematic   'Niobium Phosphorus Oxide (1.9/2.8/12)'
+_space_group_IT_number   60
+_symmetry_Int_Tables_number   60
+_symmetry_space_group_name_Hall   '-P 2n 2ab'
+_symmetry_space_group_name_H-M   'P b c n'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   4
+_cell_length_a   12.0819(2)
+_cell_length_b   8.6848(1)
+_cell_length_c   8.7452(1)
+_cell_volume   917.62(2)
+_cod_data_source_file   Nb1_91P2_82H0.5_O12N_Pbcn_DC276.cif
+_cod_data_source_block   chateigner
+_cod_original_cell_volume   917.62
+_cod_database_code   1517730
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, -y, z+1/2'
+  2  '-x+1/2, y+1/2, z'
+  3  'x+1/2, y+1/2, -z+1/2'
+  4  '-x, -y, -z'
+  5  '-x, y, -z+1/2'
+  6  'x+1/2, -y+1/2, -z'
+  7  '-x+1/2, -y+1/2, z+1/2'
+  8  'x, y, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_B_iso_or_equiv
+  Nb1  Nb5+  8  d  0.3812(1)  0.2504(3)  0.4665(1)  0.955  0
+  0.85(4)
+  P1  P5+  4  c  0  0.4690(8)  0.25  0.94  0  1.10(9)
+  P2  P5+  8  d  0.3556(4)  0.3929(6)  0.1146(5)  0.94  0  1.10(9)
+  O1  O2-  8  d  0.144(1)  0.071(1)  0.095(1)  1.  0  1.1(1)
+  O2  O2-  8  d  0.0657(8)  0.362(1)  0.148(1)  1.  0  1.1(1)
+  O3  O2-  8  d  0.2716(8)  0.319(1)  0.006(1)  1.  0  1.1(1)
+  O4  O2-  8  d  0.4185(7)  0.068(1)  0.340(1)  1.  0  1.1(1)
+  O5  O2-  8  d  0.4671(8)  0.324(1)  0.066(1)  1.  0  1.1(1)
+  O6  O2-  8  d  0.3281(9)  0.356(1)  0.279(1)  1.  0  1.1(1)
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Nb5+  5
+  O2-  -2
+  P5+  5

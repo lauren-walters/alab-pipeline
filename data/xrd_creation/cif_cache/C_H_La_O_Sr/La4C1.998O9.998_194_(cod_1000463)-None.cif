@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_1000463
+loop_
+ _publ_author_name
+  'Attfield, J. P.'
+  'Ferey, G.'
+_publ_section_title
+;
+Structure determination of La2 O2 C O3-II and the unusual disordered
+phase La2 O2.52 (C O3)0.74 Li0.52 using powder diffraction
+;
+_journal_coden_ASTM   JSSCBI
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   132
+_journal_page_last   138
+_journal_paper_doi   10.1016/0022-4596(89)90232-6
+_journal_volume   82
+_journal_year   1989
+_chemical_formula_structural   'La2 O2 (C O3)'
+_chemical_formula_sum   'C La2 O5'
+_chemical_name_systematic   'Lanthanum dioxide carbonate'
+_space_group_IT_number   194
+_symmetry_cell_setting   hexagonal
+_symmetry_Int_Tables_number   194
+_symmetry_space_group_name_Hall   '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   2
+_cell_length_a   4.0755(6)
+_cell_length_b   4.0755(6)
+_cell_length_c   15.957(1)
+_cell_volume   229.5
+_refine_ls_R_factor_all   0.075
+_cod_database_code   1000463
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  y-x,-x,z
+  -y,-x,z
+  y-x,y,z
+  x,x-y,z
+  -x,-y,-z
+  y,y-x,-z
+  x-y,x,-z
+  y,x,-z
+  x-y,-y,-z
+  -x,y-x,-z
+  -x,-y,1/2+z
+  y,y-x,1/2+z
+  x-y,x,1/2+z
+  y,x,1/2+z
+  x-y,-y,1/2+z
+  -x,y-x,1/2+z
+  x,y,1/2-z
+  -y,x-y,1/2-z
+  y-x,-x,1/2-z
+  -y,-x,1/2-z
+  y-x,y,1/2-z
+  x,x-y,1/2-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_B_11
+ _atom_site_aniso_B_12
+ _atom_site_aniso_B_13
+ _atom_site_aniso_B_22
+ _atom_site_aniso_B_23
+ _atom_site_aniso_B_33
+  La1  0.224(2)  0.112  0.  0.224(2)  0.  0.336(1)
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  La1  La3+  4  f  0.33333  0.66667  0.09570(4)  1.  0  d
+  O1  O2-  4  f  0.33333  0.66667  0.5577(3)  1.  0  d
+  O2  O2-  4  e  0.  0.  0.1786(4)  1.  0  d
+  O3  O2-  6  h  0.235(2)  0.470(3)  0.25  0.333  0  d
+  C1  C4+  6  h  0.040(6)  0.080(9)  0.25  0.333  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  La3+  3.000
+  O2-  -2.000
+  C4+  4.000

@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_8103663
+loop_
+ _publ_author_name
+  'Liebau, F.'
+  'Hesse, K.F.'
+_publ_section_title
+;
+Die Kristallstruktur einer zweiten monoklinen Siliciumdiphosphatphase,
+Si  P2 O7 A IV, Mit oktaedrisch koordiniertem Silicium
+;
+_journal_name_full
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+;
+_journal_page_first   213
+_journal_page_last   224
+_journal_volume   133
+_journal_year   1971
+_chemical_formula_sum   'O7 P2 Si'
+_chemical_name_systematic   'Si (P2 O7)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   91.03
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.733
+_cell_length_b   12.019
+_cell_length_c   7.654
+_cell_volume   435.335
+_citation_journal_id_ASTM   ZEKGAX
+_cod_data_source_file   Liebau_ZEKGAX_1971_1020.cif
+_cod_data_source_block   O7P2Si1
+_cod_original_cell_volume   435.3345
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum   'O7 P2 Si1'
+_cod_database_code   8103663
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O6  O-2  0.495  0.7366  0.43  1  0.0
+  P1  P+5  0.6959  0.5178  0.1966  1  0.0
+  O5  O-2  0.8849  0.6856  0.6332  1  0.0
+  P2  P+5  0.7799  0.6969  0.448  1  0.0
+  O3  O-2  0.9154  0.436  0.1399  1  0.0
+  O7  O-2  0.971  0.7633  0.3356  1  0.0
+  Si1  Si+4  0.284  0.8495  0.3462  1  0.0
+  O1  O-2  0.7935  0.573  0.3772  1  0.0
+  O2  O-2  0.4302  0.4649  0.2363  1  0.0
+  O4  O-2  0.6654  0.6105  0.0648  1  0.0

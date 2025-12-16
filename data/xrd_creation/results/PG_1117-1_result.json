@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66a1ae8e2c329085120b48d3",
+  "experiment_name": "PG_1117-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Cu-Hf-O",
+  "target_formula": "HfCuO3",
+  "analysis_timestamp": "2025-12-06T15:09:37.797869",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_9008951
+loop_
+ _publ_author_name
+  'Wyckoff, R. W. G.'
+_publ_section_title
+'Second edition. Interscience Publishers, New York, New York'
+_journal_name_full   'Crystal Structures'
+_journal_page_first   85
+_journal_page_last   237
+_journal_volume   1
+_journal_year   1963
+_chemical_formula_structural   KSb
+_chemical_formula_sum   'K Sb'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   115.10
+_cell_angle_gamma   90
+_cell_length_a   7.18
+_cell_length_b   6.97
+_cell_length_c   13.40
+_cell_formula_units_Z   8
+_cell_volume   607.272
+_database_code_amcsd   0011629
+_exptl_crystal_density_diffrn   3.519
+_cod_database_code   9008951
+_amcsd_formula_title   KSb
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2-y,1/2+z
+  -x,1/2+y,1/2-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  K1  0.22600  0.40800  0.33000
+  K2  0.21900  0.66800  0.03200
+  Sb1  0.32500  0.89800  0.28700
+  Sb2  0.31900  0.17000  0.12400
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0011629

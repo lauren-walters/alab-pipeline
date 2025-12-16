@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_1532361
+loop_
+ _publ_author_name
+  'Stearns, L.A.'
+  'McMillan, P.F.'
+  'Gryko, J.'
+  'Ramachandran, G.K.'
+  'Diefenbacher, J.'
+_publ_section_title
+;
+Lithium monosilicide (Li Si), a low-dimensional silicon-based material
+prepared by high pressure synthesis: NMR and vibrational spectroscopy
+and  electrical properties characterization
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   251
+_journal_page_last   258
+_journal_volume   173
+_journal_year   2003
+_chemical_formula_sum   'Li Si'
+_space_group_IT_number   88
+_symmetry_space_group_name_Hall   '-I 4ad'
+_symmetry_space_group_name_H-M   'I 41/a :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   16
+_cell_length_a   9.354
+_cell_length_b   9.354
+_cell_length_c   5.746
+_cell_volume   502.760
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Stearns_JSSCBI_2003_1589.cif
+_cod_data_source_block   Li1Si1
+_cod_original_cell_volume   502.7596
+_cod_original_formula_sum   'Li1 Si1'
+_cod_database_code   1532361
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+3/4,x+1/4,z+1/4
+  -x+1/2,-y,z+1/2
+  y+3/4,-x+3/4,z+3/4
+  -x,-y,-z
+  y-3/4,-x-1/4,-z-1/4
+  x-1/2,y,-z-1/2
+  -y-3/4,x-3/4,-z-3/4
+  x+1/2,y+1/2,z+1/2
+  -y+5/4,x+3/4,z+3/4
+  -x+1,-y+1/2,z+1
+  y+5/4,-x+5/4,z+5/4
+  -x+1/2,-y+1/2,-z+1/2
+  y-1/4,-x+1/4,-z+1/4
+  x,y+1/2,-z
+  -y-1/4,x-1/4,-z-1/4
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Li1  Li  0.081  0.886  0.0602  1  0.0
+  Si1  Si  0.0111  0.9522  0.5937  1  0.0

@@ -1,0 +1,49 @@
+{
+  "migration_date": "2025-12-16T18:31:28.105308",
+  "version": "2.0",
+  "source": {
+    "type": "mongodb",
+    "uri": "mongodb://localhost:27017/",
+    "database": "temporary",
+    "collection": "release"
+  },
+  "output_directory": "/Users/silen/Desktop/Work/alab-pipeline/data/parquet",
+  "schema": {
+    "description": "Consolidated schema - all 1:1 tables merged into experiments.parquet",
+    "experiments_columns": 37,
+    "merged_tables": [
+      "experiments",
+      "heating_sessions",
+      "powder_recovery",
+      "xrd_measurements",
+      "sample_finalization",
+      "dosing_sessions"
+    ]
+  },
+  "datasets": {
+    "experiments": {
+      "rows": 592,
+      "file": "experiments.parquet"
+    },
+    "experiment_elements": {
+      "rows": 2666,
+      "file": "experiment_elements.parquet"
+    },
+    "powder_doses": {
+      "rows": 11069,
+      "file": "powder_doses.parquet"
+    },
+    "temperature_logs": {
+      "rows": 500997,
+      "file": "temperature_logs.parquet"
+    },
+    "xrd_data_points": {
+      "rows": 4780407,
+      "file": "xrd_data_points.parquet"
+    },
+    "workflow_tasks": {
+      "rows": 3074,
+      "file": "workflow_tasks.parquet"
+    }
+  }
+}

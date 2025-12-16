@@ -1,0 +1,31 @@
+{
+  "experiment_id": "6655361f83fdf76b50aaf029",
+  "experiment_name": "NSC_189",
+  "success": true,
+  "error": null,
+  "rwp": 4.37,
+  "rp": 3.23,
+  "rexp": 3.26,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "La2Si2O7_14_(cod_4004098)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.0016,
+      "weight_fraction_error": 0.0001,
+      "lattice_a_nm": 0.54168,
+      "lattice_b_nm": 0.88202,
+      "lattice_c_nm": 1.43508,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 112.13,
+      "lattice_gamma_deg": null,
+      "r_phase": 6.37
+    }
+  ],
+  "chemical_system": "La-Na-O-Si",
+  "target_formula": "Na6.6La2.0(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:15:19.108550",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,31 @@
+{
+  "experiment_id": "667a13d013800728dad6cf1c",
+  "experiment_name": "PG_2448-1",
+  "success": true,
+  "error": null,
+  "rwp": 26.4,
+  "rp": 17.98,
+  "rexp": 2.66,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "LiV2O5_62_(cod_1521119)-0",
+      "spacegroup": "P2_1/n2_1/m2_1/a",
+      "weight_fraction": 0.0784,
+      "weight_fraction_error": 0.0025,
+      "lattice_a_nm": 0.95694,
+      "lattice_b_nm": 1.14254,
+      "lattice_c_nm": 0.35499,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 37.11
+    }
+  ],
+  "chemical_system": "H-Li-O-V",
+  "target_formula": "Li2V2(H2O3)3",
+  "analysis_timestamp": "2025-12-06T14:53:10.248648",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

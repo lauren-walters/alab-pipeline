@@ -1,0 +1,93 @@
+# generated using pymatgen
+data_7101737
+loop_
+ _publ_author_name
+  'Beekman, Matt'
+  'Kaduk, James A'
+  'Huang, Qing'
+  'Wong-Ng, Winnie'
+  'Yang, Zhi'
+  'Wang, Dongli'
+  'Nolas, George S'
+_publ_section_title
+;
+Synthesis and crystal structure of Na1-xGe3+z: a novel zeolite-like
+framework phase in the Na-Ge system.
+;
+_journal_issue   8
+_journal_name_full   'Chemical communications (Cambridge, England)'
+_journal_page_first   837
+_journal_page_last   839
+_journal_paper_doi   10.1039/b614048c
+_journal_year   2007
+_chemical_formula_sum   'Ge3.24 Na'
+_chemical_formula_weight   258.53
+_chemical_name_common   'Na1-xGe3, neutron, RT'
+_chemical_name_systematic   ?
+_space_group_IT_number   175
+_symmetry_cell_setting   hexagonal
+_symmetry_space_group_name_Hall   '-P 6'
+_symmetry_space_group_name_H-M   'P 6/m'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   120.0
+_cell_formula_units_Z   8
+_cell_length_a   15.06406(32)
+_cell_length_b   15.06406
+_cell_length_c   3.96727(13)
+_cell_volume   779.662(26)
+_pd_block_id   2006-07-17T09:52|NAGE3_phase1|QHuang||
+_pd_phase_name   'Na1-xGe3, neutron, RT'
+_cod_data_source_file   b614048c.txt
+_cod_data_source_block   NAGE3RT_phase_1
+_cod_database_code   7101737
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  x-y,+x,+z
+  3  -y,x-y,+z
+  4  -x,-y,+z
+  5  y-x,-x,+z
+  6  +y,y-x,+z
+  -1  -x,-y,-z
+  -2  y-x,-x,-z
+  -3  +y,y-x,-z
+  -4  +x,+y,-z
+  -5  x-y,+x,-z
+  -6  -y,x-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_33
+  Na1'  0.103(14)  0.019(11)  0.0  0.051(10)  0.0  0.076(11)
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  Ge  Ge1  0.36894(32)  0.26661(29)  0.0  1.0  Uiso  0.0108(4)  6
+  Ge  Ge2  0.40687(34)  0.44816(31)  0.0  1.0  Uiso  0.0108(4)  6
+  Ge  Ge3  0.51863(34)  0.1518(4)  0.5  1.0  Uiso  0.0108(4)  6
+  Ge  Ge4  0.4842(4)  0.29957(33)  0.5  1.0  Uiso  0.0108(4)  6
+  Na  Na1  0.66667  0.33333  0.0  1.0  Uiso  0.038(5)  2
+  Na  Na1'  0.2596(13)  0.0682(13)  0.5  1.0  Uani  0.08534  6
+  Ge  Ge5'  0.1083(21)  0.0287(30)  0.140(5)  0.163(4)  Uiso
+  0.052(7)  12
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+  Ge  25.959
+  Na  8.0
+loop_
+ _pd_block_diffractogram_id
+  2006-07-17T09:52|NAGE3_H_01|QHuang|NCNR_BT1

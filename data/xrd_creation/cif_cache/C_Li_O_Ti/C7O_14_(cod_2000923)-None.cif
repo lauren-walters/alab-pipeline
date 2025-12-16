@@ -1,0 +1,120 @@
+# generated using pymatgen
+data_2000923
+loop_
+ _publ_author_name
+  'Brito, I.'
+  'Cataldo, F.'
+  'Astudillo, L.'
+  'Rivera, P.'
+_publ_section_title   'Structure of octabenzone'
+_journal_issue   5
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   934
+_journal_page_last   936
+_journal_paper_doi   10.1107/S0108270191011496
+_journal_volume   48
+_journal_year   1992
+_chemical_formula_moiety   'C21 H26 O3'
+_chemical_formula_sum   'C21 H26 O3'
+_chemical_formula_weight   326.4
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2yn'
+_space_group_name_H-M_alt   'P 1 21/n 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   98.48(4)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   10.1860(10)
+_cell_length_b   5.5460(10)
+_cell_length_c   33.232(2)
+_cell_volume   1856.8(4)
+_diffrn_radiation_type   Cu
+_diffrn_radiation_wavelength   1.5418
+_exptl_absorpt_coefficient_mu   0.574
+_exptl_crystal_density_diffrn   1.17
+_exptl_crystal_F_000   704
+_cod_data_source_file   al0492.cif
+_cod_data_source_block   al0492a
+_cod_depositor_comments
+;
+Adding counts of attached hydrogens according to the scheme, presented
+in the original publication. As a result, calculated chemical formula
+is the same as published one. Andrius Merkys 2015-09-15
+;
+_cod_original_cell_volume   1856.8(2)
+_cod_original_sg_symbol_H-M   'P 21/n'
+_cod_database_code   2000923
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x+1/2,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_attached_hydrogens
+  O1  .6439(2)  -.2528(4)  .51497(5)  .0600(10)  0
+  O2  1.0496(2)  .1061(4)  .40072(6)  .0760(10)  0
+  O3  1.0337(2)  -.2302(4)  .45230(6)  .0720(10)  1
+  C1  .9184(4)  -1.1890(8)  .72821(12)  .1010(10)  3
+  C2  .7795(4)  -1.1855(7)  .70632(11)  .091(2)  2
+  C3  .7448(3)  -.9694(6)  .67935(9)  .0670(10)  2
+  C4  .6032(4)  -.9682(6)  .65797(9)  .0730(10)  2
+  C5  .5641(3)  -.7509(6)  .63112(9)  .0670(10)  2
+  C6  .6488(3)  -.7114(5)  .59758(9)  .0610(10)  2
+  C7  .5987(3)  -.5081(5)  .56885(8)  .0590(10)  2
+  C8  .6967(3)  -.4497(5)  .54071(8)  .0570(10)  2
+  C9  .7190(3)  -.1649(5)  .48791(8)  .0500(10)  0
+  C10  .6630(3)  .0311(5)  .46463(8)  .0550(10)  1
+  C11  .7303(3)  .1325(5)  .43633(8)  .0540(10)  1
+  C12  .8562(3)  .0483(5)  .43019(8)  .0510(10)  0
+  C13  .9109(3)  -.1445(5)  .45503(8)  .0540(10)  0
+  C14  .8423(3)  -.2534(5)  .48310(8)  .0550(10)  1
+  C15  .8640(3)  .3107(5)  .36704(8)  .0560(10)  0
+  C16  .7422(3)  .2516(6)  .34445(9)  .0650(10)  1
+  C17  .6890(4)  .3935(7)  .31172(10)  .0830(10)  1
+  C18  .7551(5)  .5937(8)  .30184(12)  .090(2)  1
+  C19  .8754(5)  .6566(7)  .32438(13)  .090(2)  1
+  C20  .9304(4)  .5134(6)  .35643(11)  .0740(10)  1
+  C21  .9294(3)  .1506(5)  .40029(9)  .0580(10)  0
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  O1  C8  1.441(3)
+  O1  C9  1.355(4)
+  O2  C21  1.247(4)
+  O3  C13  1.354(4)
+  C1  C2  1.493(6)
+  C2  C3  1.507(5)
+  C3  C4  1.511(5)
+  C4  C5  1.517(5)
+  C5  C6  1.523(5)
+  C6  C7  1.516(4)
+  C7  C8  1.500(4)
+  C9  C10  1.406(4)
+  C9  C14  1.379(4)
+  C10  C11  1.364(4)
+  C11  C12  1.408(4)
+  C12  C13  1.414(4)
+  C12  C21  1.443(4)
+  C13  C14  1.383(4)
+  C15  C16  1.391(4)
+  C15  C20  1.385(5)
+  C15  C21  1.495(4)
+  C16  C17  1.387(5)
+  C17  C18  1.364(6)
+  C18  C19  1.383(6)
+  C19  C20  1.380(5)
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  15797

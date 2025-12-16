@@ -1,0 +1,199 @@
+# generated using pymatgen
+data_4001043
+loop_
+ _publ_author_name
+  'Djerdj, Igor'
+  'Cao, Minhua'
+  'Rocquefelte, Xavier'
+  "\<Cern\'y, Radovan"
+  "Jagli\<ci\'c, Zvonko"
+  'Ar\<con, Denis'
+  'Poto\<cnik, Anton'
+  'Gozzo, Fabia'
+  'Niederberger, Markus'
+_publ_section_title
+;
+Structural Characterization of a Nanocrystalline
+Inorganic&#x2212;Organic  Hybrid with Fiberlike Morphology and One-
+Dimensional Antiferromagnetic  Properties
+;
+_journal_issue   14
+_journal_name_full   'Chemistry of Materials'
+_journal_page_first   3356
+_journal_paper_doi   10.1021/cm901345h
+_journal_volume   21
+_journal_year   2009
+_chemical_formula_moiety   'C14 O5 V'
+_chemical_formula_sum   'C14 O5 V'
+_chemical_formula_weight   299.08
+_chemical_name_systematic   ?
+_space_group_IT_number   5
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   'C 2y'
+_symmetry_space_group_name_H-M   'C 1 2 1'
+_cell_angle_alpha   90.00000
+_cell_angle_beta   92.145(6)
+_cell_angle_gamma   90.00000
+_cell_formula_units_Z   4
+_cell_length_a   20.652(3)
+_cell_length_b   6.798(1)
+_cell_length_c   9.954(1)
+_cell_measurement_temperature   293
+_cell_volume   1396.5(3)
+_computing_structure_refinement   TOPAS
+_computing_structure_solution   FOX
+_diffrn_ambient_temperature   293
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   1.03469(2)
+_pd_char_colour   yellow
+_pd_instr_location   'Swiss Light Source'
+_pd_meas_2theta_range_inc   0.002001
+_pd_meas_2theta_range_max   49.99900
+_pd_meas_2theta_range_min   4.01500
+_pd_meas_number_of_points   22981
+_pd_proc_2theta_range_inc   0.002001
+_pd_proc_2theta_range_max   31.0000
+_pd_proc_2theta_range_min   4.0107
+_pd_proc_ls_background_function   'Chebyshev polynomials'
+_pd_proc_ls_pref_orient_corr   ?
+_pd_proc_ls_profile_function   pseudo-Voigt
+_pd_proc_ls_prof_wR_expected   1.28
+_pd_proc_ls_prof_wR_factor   2.66
+_pd_proc_wavelength   1.03469(2)
+_pd_spec_mounting   cappilary
+_pd_spec_mount_mode   transmission
+_pd_spec_shape   cylinder
+_pd_spec_size_axial   10
+_pd_spec_size_thick   0.5
+_refine_ls_number_parameters   76
+_refine_ls_number_reflns   130
+_refine_ls_number_restraints   45
+_refine_ls_R_I_factor   1.02
+_cod_data_source_file   cm901345h_si_003.cif
+_cod_data_source_block   vanadium_oxobenzoate
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Monoclinic' changed to 'monoclinic'
+according to /home/saulius/struct/CIF-dictionaries/cif_core.dic
+dictionary named 'cif_core.dic' version 2.4.2 from 2011-04-26.
+Automatic conversion script Id: cif_fix_values 1715 2011-07-08
+13:25:40Z adriana
+;
+_cod_original_cell_volume   1396.4(3)
+_cod_database_code   4001043
+_pd_proc_ls_prof_cr_factor   16.78
+_pd_proc_ls_prof_chi2   4.3
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_calc_flag
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+  V  V  0.7365(1)  0.8169(11)  0.9505(3)  1.000  4  c  d  Uiso
+  0.063(9)
+  O1a  O  0.7843(2)  0.3300(4)  0.8628(6)  1.000  4  c  d  Uiso
+  0.01(1)
+  O1b  O  0.6768(4)  0.2962(7)  0.961(1)  1.000  4  c  d  Uiso
+  0.01(1)
+  O2a  O  0.7668(5)  0.6524(2)  0.7976(6)  1.000  4  c  d  Uiso
+  0.01(1)
+  O2b  O  0.6530(3)  0.6689(3)  0.941(1)  1.000  4  c  d  Uiso
+  0.01(1)
+  O3  O  0.7544(7)  0.5662(38)  1.0189(10)  1.000  4  c  d  Uiso
+  0.032(9)
+  C1a  C  0.7800(7)  0.440(5)  0.7682(4)  1.000  4  c  d  Uiso
+  0.032(9)
+  C2a  C  0.8077(1)  0.3826(2)  0.637(1)  1.000  4  c  d  Uiso
+  0.032(9)
+  C3a  C  0.8110(1)  0.1698(2)  0.598(1)  1.000  4  c  d  Uiso
+  0.032(9)
+  C4a  C  0.8332(1)  0.1237(3)  0.493(1)  1.000  4  c  d  Uiso
+  0.032(9)
+  C5a  C  0.8561(1)  0.268(1)  0.4075(1)  1.000  4  c  d  Uiso
+  0.032(9)
+  C6a  C  0.8532(1)  0.459(3)  0.4426(8)  1.000  4  c  d  Uiso
+  0.032(9)
+  C7a  C  0.8309(1)  0.505(3)  0.5477(8)  1.000  4  c  d  Uiso
+  0.032(9)
+  C1b  C  0.630(1)  0.460(1)  0.930(2)  1.000  4  c  d  Uiso
+  0.032(9)
+  C2b  C  0.5735(4)  0.421(1)  0.8745(5)  1.000  4  c  d  Uiso
+  0.032(9)
+  C3b  C  0.5517(4)  0.2241(9)  0.865(1)  1.000  4  c  d  Uiso
+  0.032(9)
+  C4b  C  0.4864(5)  0.179(1)  0.800(1)  1.000  4  c  d  Uiso
+  0.032(9)
+  C5b  C  0.4442(5)  0.343(2)  0.7470(6)  1.000  4  c  d  Uiso
+  0.032(9)
+  C6b  C  0.4646(4)  0.527(3)  0.756(1)  1.000  4  c  d  Uiso
+  0.032(9)
+  C7b  C  0.5299(4)  0.572(3)  0.820(1)  1.000  4  c  d  Uiso
+  0.032(9)
+loop_
+ _atom_type_symbol
+ _atom_type_scat_Cromer_Mann_a1
+ _atom_type_scat_Cromer_Mann_b1
+ _atom_type_scat_Cromer_Mann_a2
+ _atom_type_scat_Cromer_Mann_b2
+ _atom_type_scat_Cromer_Mann_a3
+ _atom_type_scat_Cromer_Mann_b3
+ _atom_type_scat_Cromer_Mann_a4
+ _atom_type_scat_Cromer_Mann_b4
+ _atom_type_scat_Cromer_Mann_c
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  v  10.29710  6.86570  7.35110  0.43850  2.07030  26.89380  2.05710
+  102.47800  1.21990  0.26700  0.53000
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+  o-2  4.75800  7.83100  3.63700  30.05000  0.00000  0.00000
+  0.00000  0.00000  1.59400  0.00800  0.00600
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+  c  2.31000  20.84390  1.02000  10.20750  1.58860  0.56870  0.86500
+  51.65120  0.21560  0.00200  0.00200
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+  O3  V  O3  144.2(1)  4_657  1_555
+  O1b  V  O2b  138.9(3)  4_657  1_555
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  V  O3  1.73(3)  4_657
+  V  O3  1.87(3)  1_555
+  V  O1a  1.925(6)  4_657
+  V  O1b  1.971(9)  4_657
+  V  O2a  2.008(7)  1_555
+  V  O2b  1.996(7)  1_555

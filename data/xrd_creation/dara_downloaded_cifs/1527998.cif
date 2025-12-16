@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_1527998
+loop_
+ _publ_author_name
+  'Rodek, E.'
+  'Sterzel, W.'
+  'Theile, N.'
+_publ_section_title   'Kristalline Chrom(III)-Phosphat-Hexahydrate'
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first   42
+_journal_page_last   48
+_journal_volume   462
+_journal_year   1980
+_chemical_formula_sum   'Cr H12 O10 P'
+_chemical_name_systematic   'Cr (P O4) (H2 O)6'
+_space_group_IT_number   9
+_symmetry_space_group_name_Hall   'C -2yc'
+_symmetry_space_group_name_H-M   'C 1 c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   99.4
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   9.874
+_cell_length_b   6.891
+_cell_length_c   23.49
+_cell_volume   1576.839
+_citation_journal_id_ASTM   ZAACAB
+_cod_data_source_file   Rodek_ZAACAB_1980_958.cif
+_cod_data_source_block   H12Cr1O10P1
+_cod_original_formula_sum   'H12 Cr1 O10 P1'
+_cod_database_code   1527998
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,-y,z+1/2
+  x+1/2,y+1/2,z
+  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O16  O-2  0.2823  -0.2549  0.1212  1  0.0
+  O2  O-2  0.1885  -0.0355  -0.0214  1  0.0
+  O9  O-2  0.1029  0.1417  0.2179  1  0.0
+  O15  O-2  0.2602  0.0986  0.1385  1  0.0
+  P1  P+5  0.3565  -0.0557  0.1253  1  0.0
+  O17  O-2  0.7393  0.1043  0.364  1  0.0
+  Cr1  Cr+3  0  0.0049  0  1  0.0
+  Cr2  Cr+3  -0.0013  -0.0619  0.2498  1  0.0
+  O20  O-2  0.5084  -0.0548  0.3314  1  0.0
+  O5  O-2  -0.0301  0.1841  -0.0641  1  0.0
+  O7  O-2  -0.0994  -0.2661  0.286  1  0.0
+  O10  O-2  -0.1074  0.1427  0.2818  1  0.0
+  O11  O-2  -0.1371  -0.0556  0.1798  1  0.0
+  O4  O-2  -0.0801  -0.221  -0.0478  1  0.0
+  O8  O-2  0.1097  -0.2624  0.2195  1  0.0
+  P2  P+5  0.6367  -0.056  0.378  1  0.0
+  O12  O-2  0.1488  -0.0651  0.3195  1  0.0
+  O14  O-2  0.4002  -0.0119  0.0651  1  0.0
+  O18  O-2  0.7078  -0.2526  0.3845  1  0.0
+  O3  O-2  0.0394  -0.1841  0.0645  1  0.0
+  O6  O-2  0.0731  0.2061  0.0517  1  0.0
+  O1  O-2  -0.1849  0.0436  0.0202  1  0.0
+  O19  O-2  0.5905  -0.0113  0.4347  1  0.0
+  O13  O-2  0.4841  -0.0662  0.1748  1  0.0

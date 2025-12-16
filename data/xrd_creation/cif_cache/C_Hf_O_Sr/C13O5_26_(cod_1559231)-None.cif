@@ -1,0 +1,222 @@
+# generated using pymatgen
+data_1559231
+loop_
+ _publ_author_name
+  'Dale, Johannes'
+  'Fredriksen, Siw B.'
+  'Romming, Christian'
+_publ_section_title
+;
+The Conformation of
+cis-3,7-Bis(hydroxymethyl)-3,7-dimethyl-1,5,9-trioxacyclododecane
+;
+_journal_name_full   'Acta Chemica Scandinavica'
+_journal_page_first   799
+_journal_page_last   801
+_journal_paper_doi   10.3891/acta.chem.scand.46-0799
+_journal_volume   46
+_journal_year   1992
+_chemical_formula_sum   'C13 H26 O5'
+_chemical_formula_weight   262.35
+_chemical_name_common
+cis-3,7-Bis(hydroxymethyl)-3,7-dimethyl-1,5,9-trioxacyclododecane
+_space_group_IT_number   26
+_space_group_name_Hall   'P 2c -2'
+_space_group_name_H-M_alt   'P m c 21'
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   26
+_symmetry_space_group_name_Hall   'P 2c -2'
+_symmetry_space_group_name_H-M   'P m c 21'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   4
+_cell_length_a   17.674(6)
+_cell_length_b   9.765(3)
+_cell_length_c   8.117(2)
+_cell_volume   1400.9(7)
+_diffrn_ambient_temperature   143
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   0.089
+_exptl_crystal_density_diffrn   1.244
+_exptl_crystal_F_000   576
+_refine_ls_goodness_of_fit_ref   1.54
+_refine_ls_number_parameters   248
+_refine_ls_number_reflns   1112
+_refine_ls_R_factor_gt   0.055
+_refine_ls_wR_factor_gt   0.041
+_cod_data_source_file   Acta-Chem-Scand-1992-46-799.cif
+_cod_data_source_block   1
+_cod_original_cell_volume   1400.8(8)
+_cod_database_code   1559231
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,1/2+z
+  3  -x,y,z
+  4  x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  O11  O  Uiso  0.00000  0.3013(5)  0.3571(10)  1.000  0.0230  .  .
+  .  .
+  O21  O  Uiso  0.0870(3)  0.2806(4)  0.00530  1.000  0.0310  .  .
+  .  .
+  O31  O  Uiso  0.2286(2)  0.4404(4)  0.3664(7)  1.000  0.0250  .  .
+  .  .
+  C11  C  Uiso  0.0678(4)  0.3777(6)  0.3285(10)  1.000  0.0210  .
+  .  .  .
+  O12  O  Uiso  0.50000  0.1752(6)  0.7321(9)  1.000  0.0200  .  .
+  .  .
+  C21  C  Uiso  0.1314(4)  0.2763(6)  0.2838(10)  1.000  0.0180  .
+  .  .  .
+  O22  O  Uiso  0.4105(2)  0.2197(4)  1.0714(5)  1.000  0.0230  .  .
+  .  .
+  C31  C  Uiso  0.1079(4)  0.1907(6)  0.1354(9)  1.000  0.0220  .  .
+  .  .
+  O32  O  Uiso  0.2905(3)  0.3693(4)  0.6600(7)  1.000  0.0300  .  .
+  .  .
+  C41  C  Uiso  0.0727(4)  0.2137(7)  -0.1477(10)  1.000  0.0300  .
+  .  .  .
+  C51  C  Uiso  0.00000  0.1339(11)  -0.1559(15)  1.000  0.0310  .
+  .  .  .
+  C61  C  Uiso  0.2024(4)  0.3541(6)  0.2358(9)  1.000  0.0250  .  .
+  .  .
+  C71  C  Uiso  0.1463(4)  0.1796(7)  0.4297(11)  1.000  0.0260  .
+  .  .  .
+  C12  C  Uiso  0.4331(4)  0.0993(6)  0.7646(11)  1.000  0.0210  .
+  .  .  .
+  C22  C  Uiso  0.3667(4)  0.1948(6)  0.7934(10)  1.000  0.0200  .
+  .  .  .
+  C32  C  Uiso  0.3867(4)  0.2956(6)  0.9320(9)  1.000  0.0170  .  .
+  .  .
+  C42  C  Uiso  0.4270(4)  0.3032(7)  1.2118(9)  1.000  0.0250  .  .
+  .  .
+  C52  C  Uiso  0.50000  0.3809(10)  1.2039(13)  1.000  0.0260  .  .
+  .  .
+  C62  C  Uiso  0.3514(4)  0.2757(6)  0.6373(11)  1.000  0.0200  .
+  .  .  .
+  C72  C  Uiso  0.2973(4)  0.1098(7)  0.8404(11)  1.000  0.0260  .
+  .  .  .
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  C  0.0033  0.0016
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  C11  O11  C11  113.8(5)  .  .  3_555  yes
+  C31  O21  C41  114.2(5)  .  .  .  yes
+  O11  C11  C21  108.3(5)  .  .  .  yes
+  C12  O12  C12  112.7(6)  .  .  3_655  yes
+  C11  C21  C61  110.0(5)  .  .  .  no
+  C11  C21  C71  109.8(6)  .  .  .  no
+  C11  C21  C31  109.9(6)  .  .  .  no
+  C31  C21  C71  108.6(5)  .  .  .  no
+  C61  C21  C71  111.3(6)  .  .  .  no
+  C31  C21  C61  107.3(6)  .  .  .  no
+  C32  O22  C42  113.5(5)  .  .  .  yes
+  O21  C31  C21  108.6(5)  .  .  .  yes
+  O21  C41  C51  115.3(7)  .  .  .  yes
+  C41  C51  C41  117.3(8)  .  .  3_555  no
+  O31  C61  C21  111.8(6)  .  .  .  yes
+  O12  C12  C22  110.6(5)  .  .  .  yes
+  C12  C22  C32  109.2(6)  .  .  .  no
+  C12  C22  C62  109.2(6)  .  .  .  no
+  C12  C22  C72  109.0(5)  .  .  .  no
+  C32  C22  C62  108.6(5)  .  .  .  no
+  C32  C22  C72  110.5(6)  .  .  .  no
+  C62  C22  C72  110.4(6)  .  .  .  no
+  O22  C32  C22  108.6(5)  .  .  .  yes
+  O22  C42  C52  115.5(6)  .  .  .  yes
+  C42  C52  C42  118.9(7)  .  .  3_655  no
+  O32  C62  C22  111.2(6)  .  .  .  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  O11  C11  1.431(7)  .  .  yes
+  O11  C11  1.431(7)  .  3_555  yes
+  O21  C31  1.422(7)  .  .  yes
+  O21  C41  1.426(8)  .  .  yes
+  O31  C61  1.431(8)  .  .  yes
+  C11  C21  1.541(9)  .  .  no
+  O12  C12  1.420(8)  .  .  yes
+  O12  C12  1.420(8)  .  3_655  yes
+  C21  C31  1.524(10)  .  .  no
+  C21  C61  1.518(10)  .  .  no
+  C21  C71  1.537(11)  .  .  no
+  O22  C32  1.417(8)  .  .  yes
+  O22  C42  1.431(8)  .  .  yes
+  O32  C62  1.424(8)  .  .  yes
+  C41  C51  1.504(9)  .  .  no
+  C12  C22  1.517(9)  .  .  no
+  C22  C32  1.536(10)  .  .  no
+  C22  C62  1.518(11)  .  .  no
+  C22  C72  1.529(10)  .  .  no
+  C42  C52  1.498(9)  .  .  no
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  C11  O11  C11  C21  -154.0(7)  3_555  .  .  .  no
+  C41  O21  C31  C21  172.7(6)  .  .  .  .  no
+  C31  O21  C41  C51  73.1(8)  .  .  .  .  no
+  O11  C11  C21  C31  56.5(8)  .  .  .  .  no
+  O11  C11  C21  C61  174.4(6)  .  .  .  .  no
+  O11  C11  C21  C71  -62.8(8)  .  .  .  .  no
+  C12  O12  C12  C22  158.0(7)  3_655  .  .  .  no
+  C61  C21  C31  O21  -65.2(7)  .  .  .  .  no
+  C71  C21  C31  O21  174.4(5)  .  .  .  .  no
+  C11  C21  C61  O31  59.4(8)  .  .  .  .  no
+  C31  C21  C61  O31  178.9(5)  .  .  .  .  no
+  C71  C21  C61  O31  -62.5(7)  .  .  .  .  no
+  C11  C21  C31  O21  54.3(7)  .  .  .  .  no
+  C32  O22  C42  C52  -75.0(7)  .  .  .  .  no
+  C42  O22  C32  C22  -177.0(5)  .  .  .  .  no
+  O21  C41  C51  C41  66.5(11)  .  .  .  3_555  no
+  O12  C12  C22  C32  -55.1(8)  .  .  .  .  no
+  O12  C12  C22  C62  63.5(8)  .  .  .  .  no
+  O12  C12  C22  C72  -175.9(7)  .  .  .  .  no
+  C12  C22  C32  O22  -53.5(7)  .  .  .  .  no
+  C62  C22  C32  O22  -172.5(5)  .  .  .  .  no
+  C72  C22  C32  O22  66.4(7)  .  .  .  .  no
+  C12  C22  C62  O32  -178.6(5)  .  .  .  .  no
+  C32  C22  C62  O32  -59.6(7)  .  .  .  .  no
+  C72  C22  C62  O32  61.6(7)  .  .  .  .  no
+  O22  C42  C52  C42  -68.7(10)  .  .  .  3_655  no

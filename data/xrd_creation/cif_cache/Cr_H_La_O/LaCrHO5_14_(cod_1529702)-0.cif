@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_1529702
+loop_
+ _publ_author_name
+  'Bueno, I.'
+  'Parada, C.'
+  'Gutierrez-Puebla, E.'
+  'Monge, A.'
+  'Ruiz-Valero, C.'
+_publ_section_title
+'Synthesis, crystal growth, and structure of La (O H) Cr O4'
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   78
+_journal_page_last   83
+_journal_volume   78
+_journal_year   1989
+_chemical_formula_sum   'Cr H La O5'
+_chemical_name_systematic   'La (O H) (Cr O4)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   107.28
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.7234
+_cell_length_b   13.222
+_cell_length_c   7.019
+_cell_volume   418.571
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Bueno_JSSCBI_1989_1785.cif
+_cod_data_source_block   H1Cr1La1O5
+_cod_original_cell_volume   418.5708
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum   'H1 Cr1 La1 O5'
+_cod_database_code   1529702
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Cr1  Cr+6  0.47817  0.14932  0.38126  1  0.0
+  La1  La+3  0.63372  0.44372  0.29735  1  0.0
+  O3  O-2  0.3497  0.1641  0.5673  1  0.0
+  O4  O-2  0.2264  0.0967  0.1924  1  0.0
+  O5  O-2  0.1804  0.4184  0.4457  1  0.0
+  O2  O-2  0.5737  0.2591  0.3175  1  0.0
+  O1  O-2  0.7727  0.0698  0.4497  1  0.0
+  H1  H+1  0.182  0.346  0.48  1  0.0

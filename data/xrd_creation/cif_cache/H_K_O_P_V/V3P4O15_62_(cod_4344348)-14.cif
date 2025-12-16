@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_4344348
+loop_
+ _publ_author_name
+  'Johnson, J.W.'
+  'Johnston, D.C.'
+  'King, H.E.jr.'
+  'Brody, J.F.'
+  'Halbert, T.R.'
+  'Goshorn, D.P.'
+_publ_section_title
+;
+Structure and magnetic properties of V2 (V O) (P2 O7)2. A mixed-
+valence  vanadium(III,III,IV) pyrophosphate.
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   1646
+_journal_page_last   1648
+_journal_volume   27
+_journal_year   1988
+_chemical_formula_sum   'O15 P4 V3'
+_chemical_name_systematic   'V2 (V O) (P2 O7)2'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   17.459
+_cell_length_b   12.185
+_cell_length_c   5.2431
+_cell_volume   1115.406
+_citation_journal_id_ASTM   INOCAJ
+_cod_data_source_file   Johnson_INOCAJ_1988_999.cif
+_cod_data_source_block   O15P4V3
+_cod_database_code   4344348
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x,y+1/2,-z
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x-1/2,y-1/2,z-1/2
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.2169  0.1326  0.2673  1  0.0
+  O4  O-2  0.0798  0.1285  0.0106  1  0.0
+  O2  O-2  0.0935  0.1314  0.5346  1  0.0
+  P2  P+5  0.3061  0.1254  0.2333  1  0.0
+  O1  O-2  0.3427  0.0703  0.4559  1  0.0
+  O9  O-2  0.3344  0.25  0.2302  1  0.0
+  O8  O-2  0.2204  0.25  0.7361  1  0.0
+  V1  V+4  0.1716  0.25  0.4876  1  0.0
+  P1  P+5  0.036  0.1323  0.7629  1  0.0
+  O7  O-2  0.4961  0.25  0.7534  1  0.0
+  V2  V+3  0.12429  0.022  0.2437  1  0.0
+  O6  O-2  0.4742  0.0502  0.7735  1  0.0
+  O5  O-2  0.3249  0.0751  0.9803  1  0.0

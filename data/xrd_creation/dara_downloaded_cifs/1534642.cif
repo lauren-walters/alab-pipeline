@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_1534642
+loop_
+ _publ_author_name
+  'Liu, H.'
+  'Tse, J.S.'
+  'Hu, J.'
+  'Liu, Z.'
+  'Wang, L.'
+  'Weidner, D.J.'
+  'Chen, J.'
+  'Meng, Y.'
+  'Mao, H.-K.'
+  'Haeusermann, D.'
+_publ_section_title
+;
+Structural Refinement of the High-Pressure Phase of Aluminium
+Trihydroxide: In-Situ High-Pressure Angle Dispersive Synchrotron X-ray
+Diffraction and Theoretical Studies
+;
+_journal_name_full   'J. Phys. Chem. B'
+_journal_page_first   8857
+_journal_page_last   8860
+_journal_volume   109
+_journal_year   2005
+_chemical_formula_sum   'Al H3 O3'
+_chemical_name_systematic   'Al (O H)3'
+_space_group_IT_number   61
+_symmetry_space_group_name_Hall   '-P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P b c a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   8.6857
+_cell_length_b   5.0521
+_cell_length_c   9.4954
+_cell_volume   416.668
+_citation_journal_id_ASTM   JPCBFK
+_cod_data_source_file   Liu_JPCBFK_2005_1554.cif
+_cod_data_source_block   H3Al1O3
+_cod_original_cell_volume   416.6679
+_cod_original_formula_sum   'H3 Al1 O3'
+_cod_database_code   1534642
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x-1/2,y-1/2,z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O2  O-2  0.2981  0.7221  0.9006  1  0.0
+  O3  O-2  0.8201  0.1453  0.8925  1  0.0
+  O1  O-2  0.981  0.6394  0.8952  1  0.0
+  Al1  Al+3  0.3326  0.014  0.9947  1  0.0

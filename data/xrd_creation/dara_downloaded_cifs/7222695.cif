@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_7222695
+loop_
+ _publ_author_name
+  'Wendorff, M.'
+  'Roehr, C.'
+_publ_section_title
+;
+Neue Erdalkalimetall-reiche binaere Indide: Ca2 In, Sr28 In11 und Sr5
+In3
+;
+_journal_name_full
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie,
+Organische  Chemie (42,1987-)
+;
+_journal_page_first   619
+_journal_page_last   628
+_journal_volume   59
+_journal_year   2004
+_chemical_formula_sum   'In0.92 Sr2.33'
+_chemical_name_systematic   'Sr2.33 In0.92'
+_space_group_IT_number   44
+_symmetry_space_group_name_Hall   'I 2 -2'
+_symmetry_space_group_name_H-M   'I m m 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   24
+_cell_length_a   5.826
+_cell_length_b   66.878
+_cell_length_c   8.235
+_cell_volume   3208.613
+_citation_journal_id_ASTM   ZNBSEN
+_cod_data_source_file   Wendorff_ZNBSEN_2004_1453.cif
+_cod_data_source_block   In0.92Sr2.33
+_cod_database_code   7222695
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -x,y,z
+  x,-y,z
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sr8  Sr  0  0.29379  0.0679  1  0.0
+  In3  In  0  0.27308  0.4517  1  0.0
+  Sr1  Sr  0  0.04341  0.621  1  0.0
+  Sr3  Sr  0  0.11718  0.7711  1  0.0
+  Sr5  Sr  0  0.17643  0.8313  1  0.0
+  Sr7  Sr  0  0.23753  0.7461  1  0.0
+  Sr12  Sr  0  0.41676  0.1347  1  0.0
+  In4  In  0  0.36089  0.4364  1  0.0
+  Sr15  Sr  0  0  0.0001  1  0.0
+  Sr10  Sr  0  0.35352  0.0303  1  0.0
+  Sr9  Sr  0  0.31814  0.6459  1  0.0
+  Sr11  Sr  0  0.40398  0.6595  1  0.0
+  In1  In  0  0.09093  0.4085  1  0.0
+  In2  In  0  0.18018  0.4244  1  0.0
+  Sr13  Sr  0  0.46989  0.7903  1  0.0
+  Sr4  Sr  0  0.1366  0.2067  1  0.0
+  Sr6  Sr  0  0.22454  0.214  1  0.0
+  In5  In  0  0.45665  0.3917  1  0.0
+  In6  In  0  0  0.4128  1  0.0
+  Sr2  Sr  0  0.05959  0.0747  1  0.0
+  Sr14  Sr  0  0.5  0.1858  1  0.0

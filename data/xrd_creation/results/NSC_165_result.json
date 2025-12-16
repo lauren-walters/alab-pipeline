@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66478819c93ffe3bc3e81157",
+  "experiment_name": "NSC_165",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Ge-Hf-Na-O-Si-Ti-Zr",
+  "target_formula": "Na4.4Hf0.5Zr0.5Ti0.5Ge0.5(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:02:56.129578",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

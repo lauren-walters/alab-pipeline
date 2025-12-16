@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_2310411
+loop_
+ _publ_author_name
+  'Jamieson, P.B.'
+  'Dent Glasser, L.S.'
+_publ_section_title
+;
+Sodium Silicate Hydrates. II. The Crystal Structure of Na2 O (Si O2)
+(H2  O)9
+;
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   688
+_journal_page_last   693
+_journal_volume   20
+_journal_year   1966
+_chemical_formula_sum   'H18 Na2 O12 Si'
+_chemical_name_systematic   'Na2 H2 Si O4 (H2 O)8'
+_space_group_IT_number   73
+_symmetry_space_group_name_Hall   '-I 2b 2c'
+_symmetry_space_group_name_H-M   'I b c a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   11.74
+_cell_length_b   17.03
+_cell_length_c   11.6
+_cell_volume   2319.214
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Jamieson_ACCRA9_1966_1111.cif
+_cod_data_source_block   H18Na2O12Si1
+_cod_original_formula_sum   'H18 Na2 O12 Si1'
+_cod_database_code   2310411
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y+1/2,z
+  x,-y,-z+1/2
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,y-1/2,-z
+  -x,y,z-1/2
+  x,-y-1/2,z-1/2
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1,z+1/2
+  x+1/2,-y+1/2,-z+1
+  -x+1/2,y+1,-z+1
+  -x+1/2,-y+1/2,-z+1/2
+  x+1/2,y,-z+1/2
+  -x+1/2,y+1/2,z
+  x+1/2,-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0.1078  0.1607  0.2029  1  0.0
+  Na1  Na+1  0.1239  0.1822  0.4111  1  0.0
+  O2  O-2  0.4444  0.0564  0.3323  1  0.0
+  O3  O-2  0.1197  0.0365  0.4349  1  0.0
+  O5  O-2  0.4142  0.1774  0.0548  1  0.0
+  Si1  Si+4  0.3734  0  0.25  1  0.0
+  O1  O-2  0.2876  0.056  0.1695  1  0.0
+  O6  O-2  0.3272  0.1894  0.3848  1  0.0

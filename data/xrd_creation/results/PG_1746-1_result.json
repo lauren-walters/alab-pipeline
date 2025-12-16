@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13c713800728dad6cd38",
+  "experiment_name": "PG_1746-1",
+  "success": true,
+  "error": null,
+  "rwp": 13.56,
+  "rp": 9.94,
+  "rexp": 3.1,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.05277,
+      "weight_fraction_error": 0.00031,
+      "lattice_a_nm": 0.512039,
+      "lattice_b_nm": 0.518037,
+      "lattice_c_nm": 0.529332,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.2195,
+      "lattice_gamma_deg": null,
+      "r_phase": 19.94
+    },
+    {
+      "phase_name": "TiO2_136_(cod_9007432)-10",
+      "spacegroup": "P4_2/m2_1/n2/m",
+      "weight_fraction": 0.02698,
+      "weight_fraction_error": 0.00054,
+      "lattice_a_nm": 0.460595,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.297476,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 15.71
+    }
+  ],
+  "chemical_system": "Hf-O-Ti",
+  "target_formula": "HfTiO4",
+  "analysis_timestamp": "2025-12-06T14:10:05.210938",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

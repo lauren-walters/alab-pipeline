@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_1521473
+loop_
+ _publ_author_name
+  "Kuz'ma, Yu.B."
+  'Chikhrii, S.I.'
+  'Davydov, V.N.'
+_publ_section_title   'Refined crystal structure of Sn4 P3'
+_journal_name_full   'Neorganicheskie Materialy'
+_journal_page_first   17
+_journal_page_last   18
+_journal_volume   35
+_journal_year   1999
+_chemical_formula_sum   'P2.92 Sn4.008'
+_chemical_name_systematic   'Sn4.008 P2.92'
+_space_group_IT_number   166
+_symmetry_space_group_name_Hall   '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   3
+_cell_length_a   3.963
+_cell_length_b   3.963
+_cell_length_c   35.3
+_cell_volume   480.124
+_citation_journal_id_ASTM   NMATEI
+_cod_data_source_file   Kuzma_NMATEI_1999_557.cif
+_cod_data_source_block   P2.92Sn4.008
+_cod_original_cell_volume   480.1241
+_cod_database_code   1521473
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  y,x,-z
+  -x,-x+y,-z
+  x-y,-y,-z
+  -x,-y,-z
+  y,-x+y,-z
+  x-y,x,-z
+  -y,-x,z
+  x,x-y,z
+  -x+y,y,z
+  x+2/3,y+1/3,z+1/3
+  -y+2/3,x-y+1/3,z+1/3
+  -x+y+2/3,-x+1/3,z+1/3
+  y+2/3,x+1/3,-z+1/3
+  -x+2/3,-x+y+1/3,-z+1/3
+  x-y+2/3,-y+1/3,-z+1/3
+  -x+2/3,-y+1/3,-z+1/3
+  y+2/3,-x+y+1/3,-z+1/3
+  x-y+2/3,x+1/3,-z+1/3
+  -y+2/3,-x+1/3,z+1/3
+  x+2/3,x-y+1/3,z+1/3
+  -x+y+2/3,y+1/3,z+1/3
+  x+1/3,y+2/3,z+2/3
+  -y+1/3,x-y+2/3,z+2/3
+  -x+y+1/3,-x+2/3,z+2/3
+  y+1/3,x+2/3,-z+2/3
+  -x+1/3,-x+y+2/3,-z+2/3
+  x-y+1/3,-y+2/3,-z+2/3
+  -x+1/3,-y+2/3,-z+2/3
+  y+1/3,-x+y+2/3,-z+2/3
+  x-y+1/3,x+2/3,-z+2/3
+  -y+1/3,-x+2/3,z+2/3
+  x+1/3,x-y+2/3,z+2/3
+  -x+y+1/3,y+2/3,z+2/3
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P2  P  0  0  0  0.98  0.0
+  Sn2  Sn  0  0  0.28942  0.997  0.0
+  P1  P  0  0  0.429  0.97  0.0
+  Sn1  Sn  0  0  0.13405  1.007  0.0

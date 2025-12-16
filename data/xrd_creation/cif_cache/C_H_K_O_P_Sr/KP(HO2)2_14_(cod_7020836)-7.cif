@@ -1,0 +1,326 @@
+# generated using pymatgen
+data_7020836
+loop_
+ _publ_author_name
+  'Cai, Weizhao'
+  'Katrusiak, Andrzej'
+_publ_section_title
+'Structure of the high-pressure phase IV of KH2PO4 (KDP).'
+_journal_issue   4
+_journal_name_full
+'Dalton transactions (Cambridge, England : 2003)'
+_journal_page_first   863
+_journal_page_last   866
+_journal_paper_doi   10.1039/c2dt32131a
+_journal_volume   42
+_journal_year   2013
+_chemical_formula_moiety   'H2 O4 P, K'
+_chemical_formula_sum   'H2 K O4 P'
+_chemical_formula_weight   136.09
+_chemical_name_common   PotassiumDihydrogenPhosphate
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   91.53(7)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   4
+_cell_length_a   6.148(5)
+_cell_length_b   4.484(11)
+_cell_length_c   13.909(11)
+_cell_measurement_pressure   1110000
+_cell_measurement_reflns_used   1063
+_cell_measurement_temperature   296(2)
+_cell_measurement_theta_max   28.55
+_cell_measurement_theta_min   4.48
+_cell_volume   383.3(10)
+_computing_cell_refinement   'CrysAlis (Oxford Diffraction, 2004)'
+_computing_data_collection   'CrysAlis (Oxford Diffraction, 2004)'
+_computing_data_reduction   'CrysAlisRED (Oxford Diffraction, 2004)'
+_computing_molecular_graphics   'Mercury (Macrae et al., 2008)'
+_computing_publication_material   'SHELXL-97 (Sheldrick, 2008)'
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 2008)'
+_computing_structure_solution   'SHELXS-97 (Sheldrick, 2008)'
+_diffrn_ambient_temperature   296(2)
+_diffrn_measured_fraction_theta_full   0.176
+_diffrn_measured_fraction_theta_max   0.176
+_diffrn_measurement_device_type   'Kuma KM4CCD \k geometry'
+_diffrn_measurement_method
+;
+HP omega scans - for more details see: A. Budzianowski, A. Katrusiak
+in High-Pressure Crystallography (Eds.: A. Katrusiak, P. F. McMillan),
+Dordrecht: Kluwer Acad. Publ., 2004 pp.157-168
+;
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.2501
+_diffrn_reflns_av_sigmaI/netI   0.1382
+_diffrn_reflns_limit_h_max   8
+_diffrn_reflns_limit_h_min   -8
+_diffrn_reflns_limit_k_max   1
+_diffrn_reflns_limit_k_min   -1
+_diffrn_reflns_limit_l_max   17
+_diffrn_reflns_limit_l_min   -18
+_diffrn_reflns_number   1063
+_diffrn_reflns_theta_full   28.55
+_diffrn_reflns_theta_max   28.55
+_diffrn_reflns_theta_min   4.48
+_exptl_absorpt_coefficient_mu   1.661
+_exptl_absorpt_correction_T_max   0.6577
+_exptl_absorpt_correction_T_min   0.3528
+_exptl_absorpt_correction_type   analytical
+_exptl_absorpt_process_details
+;
+Katrusiak, A. (2003). REDSHABS - Program for correcting reflections
+intensities for DAC absorption, gasket shadowing and sample crystal
+absorption. Adam Mickiewicz University, Pozna\'n. Katrusiak, A.
+(2004). Z. Kristallogr. 219, 461-467
+;
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   2.358
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   triangle
+_exptl_crystal_F_000   272
+_exptl_crystal_size_max   0.35
+_exptl_crystal_size_mid   0.18
+_exptl_crystal_size_min   0.15
+_refine_diff_density_max   0.259
+_refine_diff_density_min   -0.264
+_refine_diff_density_rms   0.069
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.388
+_refine_ls_hydrogen_treatment   constr
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   56
+_refine_ls_number_reflns   172
+_refine_ls_number_restraints   36
+_refine_ls_restrained_S_all   1.261
+_refine_ls_R_factor_all   0.1589
+_refine_ls_R_factor_gt   0.1368
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0717P)^2^+4.4679P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.2738
+_refine_ls_wR_factor_ref   0.2888
+_reflns_number_gt   147
+_reflns_number_total   172
+_reflns_threshold_expression   >2sigma(I)
+_cod_data_source_file   c2dt32131a.txt
+_cod_data_source_block   KDP_1.11GPa_CSD-424767
+_cod_original_cell_volume   383.3(11)
+_cod_original_sg_symbol_H-M   P21/c
+_cod_database_code   7020836
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+  K1  K  0.7622(8)  0.508(3)  0.6259(3)  0.033(4)  Uani  1  1  d  U
+  P1  P  0.7468(12)  0.480(5)  0.8713(5)  0.052(5)  Uani  1  1  d  U
+  O1  O  0.662(2)  0.165(8)  0.8040(9)  0.022(5)  Uani  1  1  d  U
+  H1  H  0.7433  -0.0314  0.8054  0.034  Uiso  1  1  d  .
+  O2  O  0.849(3)  0.707(14)  0.8076(13)  0.067(7)  Uani  1  1  d  U
+  O3  O  0.542(2)  0.603(9)  0.9223(9)  0.036(6)  Uani  1  1  d  U
+  H2  H  0.5290  0.5182  0.9741  0.054  Uiso  0.50  1  calc  PR
+  O4  O  0.8972(17)  0.257(11)  0.9373(7)  0.018(5)  Uani  1  1  d
+  U
+  H3  H  0.9671  0.3542  0.9773  0.027  Uiso  0.50  1  calc  PR
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  K1  0.030(3)  0.036(13)  0.035(3)  0.006(3)  0.006(2)  -0.009(4)
+  P1  0.048(4)  0.054(13)  0.053(4)  0.005(6)  -0.008(4)  0.007(6)
+  O1  0.016(5)  0.023(13)  0.027(6)  -0.001(8)  -0.019(5)  0.006(9)
+  O2  0.062(9)  0.067(14)  0.072(8)  0.002(10)  -0.006(7)  0.003(10)
+  O3  0.036(7)  0.035(14)  0.037(7)  0.002(8)  0.015(5)  0.004(9)
+  O4  0.013(5)  0.017(13)  0.025(5)  -0.003(8)  0.012(4)  0.003(9)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  H  H  0.0000  0.0000
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  K  K  0.2009  0.2494
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+  O4  K1  O3  141.6(7)  2_756  2_646
+  O4  K1  O2  92.0(9)  2_756  .
+  O3  K1  O2  125.0(10)  2_646  .
+  O4  K1  O2  68.5(12)  2_756  2_746
+  O3  K1  O2  109.2(14)  2_646  2_746
+  O2  K1  O2  73.4(5)  .  2_746
+  O4  K1  O1  140.0(15)  2_756  2_656
+  O3  K1  O1  67.7(9)  2_646  2_656
+  O2  K1  O1  76.4(5)  .  2_656
+  O2  K1  O1  139.0(6)  2_746  2_656
+  O4  K1  O1  134.3(5)  2_756  .
+  O3  K1  O1  72.6(6)  2_646  .
+  O2  K1  O1  55.8(12)  .  .
+  O2  K1  O1  71.3(7)  2_746  .
+  O1  K1  O1  68.9(3)  2_656  .
+  O4  K1  O4  67.9(13)  2_756  4_565
+  O3  K1  O4  73.8(7)  2_646  4_565
+  O2  K1  O4  152.3(6)  .  4_565
+  O2  K1  O4  81.3(8)  2_746  4_565
+  O1  K1  O4  131.2(4)  2_656  4_565
+  O1  K1  O4  125.7(10)  .  4_565
+  O4  K1  O3  92.5(10)  2_756  2_656
+  O3  K1  O3  96.2(5)  2_646  2_656
+  O2  K1  O3  91.2(12)  .  2_656
+  O2  K1  O3  154.5(13)  2_746  2_656
+  O1  K1  O3  50.5(7)  2_656  2_656
+  O1  K1  O3  117.0(6)  .  2_656
+  O4  K1  O3  107.9(8)  4_565  2_656
+  O4  K1  P1  113.9(4)  2_756  .
+  O3  K1  P1  100.8(5)  2_646  .
+  O2  K1  P1  25.1(11)  .  .
+  O2  K1  P1  72.9(4)  2_746  .
+  O1  K1  P1  67.9(3)  2_656  .
+  O1  K1  P1  31.0(7)  .  .
+  O4  K1  P1  150.3(9)  4_565  .
+  O3  K1  P1  101.6(4)  2_656  .
+  O4  K1  P1  22.0(6)  2_756  2_756
+  O3  K1  P1  163.2(4)  2_646  2_756
+  O2  K1  P1  70.3(9)  .  2_756
+  O2  K1  P1  66.0(11)  2_746  2_756
+  O1  K1  P1  127.1(7)  2_656  2_756
+  O1  K1  P1  118.2(4)  .  2_756
+  O4  K1  P1  89.5(6)  4_565  2_756
+  O3  K1  P1  89.9(6)  2_656  2_756
+  P1  K1  P1  93.2(3)  .  2_756
+  O4  K1  P1  116.6(11)  2_756  2_656
+  O3  K1  P1  79.0(7)  2_646  2_656
+  O2  K1  P1  87.1(8)  .  2_656
+  O2  K1  P1  160.3(7)  2_746  2_656
+  O1  K1  P1  26.7(6)  2_656  2_656
+  O1  K1  P1  95.2(5)  .  2_656
+  O4  K1  P1  118.5(5)  4_565  2_656
+  O3  K1  P1  24.3(4)  2_656  2_656
+  P1  K1  P1  88.0(3)  .  2_656
+  P1  K1  P1  111.0(7)  2_756  2_656
+  O4  K1  P1  67.7(10)  2_756  2_746
+  O3  K1  P1  97.3(8)  2_646  2_746
+  O2  K1  P1  93.3(8)  .  2_746
+  O2  K1  P1  19.9(7)  2_746  2_746
+  O1  K1  P1  149.6(7)  2_656  2_746
+  O1  K1  P1  81.5(5)  .  2_746
+  O4  K1  P1  62.0(5)  4_565  2_746
+  O3  K1  P1  159.8(5)  2_656  2_746
+  P1  K1  P1  90.6(3)  .  2_746
+  P1  K1  P1  73.2(2)  2_756  2_746
+  P1  K1  P1  175.7(6)  2_656  2_746
+  O2  P1  O3  113(2)  .  .
+  O2  P1  O4  120.6(13)  .  .
+  O3  P1  O4  114.4(11)  .  .
+  O2  P1  O1  110.6(17)  .  .
+  O3  P1  O1  107.1(14)  .  .
+  O4  P1  O1  88(2)  .  .
+  O2  P1  K1  50.3(14)  .  .
+  O3  P1  K1  118.9(8)  .  .
+  O4  P1  K1  123.7(10)  .  .
+  O1  P1  K1  61.0(7)  .  .
+  O2  P1  K1  92.2(14)  .  2_746
+  O3  P1  K1  150.2(11)  .  2_746
+  O4  P1  K1  35.8(5)  .  2_746
+  O1  P1  K1  77.1(9)  .  2_746
+  K1  P1  K1  89.3(3)  .  2_746
+  O2  P1  K1  138.3(8)  .  2_646
+  O3  P1  K1  61.0(13)  .  2_646
+  O4  P1  K1  96.2(14)  .  2_646
+  O1  P1  K1  47.6(5)  .  2_646
+  K1  P1  K1  94.4(3)  .  2_646
+  K1  P1  K1  111.0(7)  2_746  2_646
+  O2  P1  K1  40.9(8)  .  2_756
+  O3  P1  K1  114.9(15)  .  2_756
+  O4  P1  K1  86.5(12)  .  2_756
+  O1  P1  K1  136.0(5)  .  2_756
+  K1  P1  K1  86.8(3)  .  2_756
+  K1  P1  K1  73.2(2)  2_746  2_756
+  K1  P1  K1  175.7(6)  2_646  2_756
+  P1  O1  K1  105.7(8)  .  2_646
+  P1  O1  K1  87.9(12)  .  .
+  K1  O1  K1  127.6(5)  2_646  .
+  P1  O2  K1  105(2)  .  .
+  P1  O2  K1  119.2(10)  .  2_756
+  K1  O2  K1  126.4(9)  .  2_756
+  P1  O3  K1  133.7(13)  .  2_656
+  P1  O3  K1  94.6(16)  .  2_646
+  K1  O3  K1  96.2(5)  2_656  2_646
+  P1  O4  K1  122.2(6)  .  2_746
+  P1  O4  K1  124.5(7)  .  4_566
+  K1  O4  K1  112.1(13)  2_746  4_566
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  K1  O4  2.55(2)  2_756
+  K1  O3  2.68(3)  2_646
+  K1  O2  2.72(3)  .
+  K1  O2  2.88(3)  2_746
+  K1  O1  2.897(17)  2_656
+  K1  O1  2.99(2)  .
+  K1  O4  3.02(2)  4_565
+  K1  O3  3.31(4)  2_656
+  K1  P1  3.419(9)  .
+  K1  P1  3.684(16)  2_756
+  K1  P1  3.778(17)  2_656
+  K1  P1  3.837(18)  2_746
+  P1  O2  1.50(5)  .
+  P1  O3  1.56(2)  .
+  P1  O4  1.63(4)  .
+  P1  O1  1.76(4)  .
+  P1  K1  3.684(16)  2_746
+  P1  K1  3.778(17)  2_646
+  P1  K1  3.837(18)  2_756
+  O1  K1  2.897(17)  2_646
+  O2  K1  2.88(3)  2_756
+  O3  K1  2.68(3)  2_656
+  O3  K1  3.31(4)  2_646
+  O4  K1  2.55(2)  2_746
+  O4  K1  3.02(2)  4_566
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139159169

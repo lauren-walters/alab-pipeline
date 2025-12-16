@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_2106760
+loop_
+ _publ_author_name
+  'Kato, K.'
+  'Saalfeld, H.'
+_publ_section_title   'Alkalifreies wasserhaltiges beta-Al2 O3'
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   1596
+_journal_page_last   1598
+_journal_volume   33
+_journal_year   1977
+_chemical_formula_sum   'Al22 H3.58 O34.79'
+_chemical_name_systematic   '(Al2 O3)11 (H2 O)1.79'
+_space_group_IT_number   194
+_symmetry_space_group_name_Hall   '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   1
+_cell_length_a   5.6
+_cell_length_b   5.6
+_cell_length_c   22.702
+_cell_volume   616.554
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Kato_ACBCAR_1977_1088.cif
+_cod_data_source_block   H3.58Al22O34.79
+_cod_original_cell_volume   616.5535
+_cod_original_formula_sum   'H3.58 Al22 O34.79'
+_cod_database_code   2106760
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x-y,x,z+1/2
+  -y,x-y,z
+  -x,-y,z+1/2
+  -x+y,-x,z
+  y,-x+y,z+1/2
+  -y,-x,-z+1/2
+  x-y,-y,-z
+  x,x-y,-z+1/2
+  y,x,-z
+  -x+y,y,-z+1/2
+  -x,-x+y,-z
+  -x,-y,-z
+  -x+y,-x,-z-1/2
+  y,-x+y,-z
+  x,y,-z-1/2
+  x-y,x,-z
+  -y,x-y,-z-1/2
+  y,x,z-1/2
+  -x+y,y,z
+  -x,-x+y,z-1/2
+  -y,-x,z
+  x-y,-y,z-1/2
+  x,x-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.1569  0.3138  0.04942  1  0.0
+  O2  O-2  0.5017  0.0034  0.14484  1  0.0
+  Al2  Al+3  0.3333  0.6667  0.02444  1  0.0
+  Al4  Al+3  0  0  0  1  0.0
+  Al3  Al+3  0.3333  0.6667  0.17296  1  0.0
+  O6  O-2  0.6474  0.2948  0.25  0.131  0.0
+  O4  O-2  0  0  0.14019  1  0.0
+  O5  O-2  0.3746  0.7492  0.25  0.333  0.0
+  Al1  Al+3  0.16776  0.33552  -0.10602  1  0.0
+  O3  O-2  0.3333  0.6667  -0.05536  1  0.0

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_9010242
+loop_
+ _publ_author_name
+  'Allan, D. R.'
+  'Marshall, W. G.'
+  'Pulham, C. R.'
+_publ_section_title
+;
+The high-pressure crystal structure of  potassium hydrogen carbonate
+(KHCO3)  Sample: P = 5.5 GPa
+;
+_journal_name_full   'American Mineralogist'
+_journal_page_first   1018
+_journal_page_last   1025
+_journal_paper_doi   10.2138/am.2007.2336
+_journal_volume   92
+_journal_year   2007
+_chemical_formula_structural   KHCO3
+_chemical_formula_sum   'C H K O3'
+_chemical_name_mineral   Kalicinite
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   95.109
+_cell_angle_beta   100.743
+_cell_angle_gamma   108.934
+_cell_length_a   6.1443
+_cell_length_b   5.2974
+_cell_length_c   4.2133
+_cell_formula_units_Z   2
+_cell_volume   125.784
+_database_code_amcsd   0004363
+_diffrn_ambient_pressure   5.5e+06
+_exptl_crystal_density_diffrn   2.643
+_cod_original_formula_sum   'K H C O3'
+_cod_database_code   9010242
+_amcsd_formula_title   KHCO3
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  K  0.29920  0.13430  0.29058
+  H  0.06590  0.69210  0.55240
+  C  0.23000  0.57370  0.90570
+  O1  0.20730  0.77740  0.74710
+  O2  0.10540  0.33260  0.76820
+  O3  0.36930  0.64050  0.17180
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0004363

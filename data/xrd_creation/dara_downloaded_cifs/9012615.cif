@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_9012615
+loop_
+ _publ_author_name
+  'Fujii, H.'
+  'Komura, S.'
+  'Takeda, T.'
+  'Okamoto, T.'
+  'Ito, Y.'
+  'Akimitsu, J.'
+_publ_section_title
+;
+Polarized neutron diffraction study of Fe2P single crystal  Sample: T
+= 295 K
+;
+_journal_name_full   'Journal of the Physical Society of Japan'
+_journal_page_first   1616
+_journal_page_last   1621
+_journal_paper_doi   10.1143/JPSJ.46.1616
+_journal_volume   46
+_journal_year   1979
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   'Fe2 P'
+_chemical_name_mineral   Barringerite
+_space_group_IT_number   189
+_symmetry_space_group_name_Hall   'P -6 -2'
+_symmetry_space_group_name_H-M   'P -6 2 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_length_a   5.868
+_cell_length_b   5.868
+_cell_length_c   3.458
+_cell_formula_units_Z   3
+_cell_volume   103.118
+_database_code_amcsd   0014170
+_diffrn_ambient_temperature   295
+_exptl_crystal_density_diffrn   6.892
+_cod_database_code   9012615
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-x+y,z
+  -x+y,-x,-z
+  y,x,-z
+  -y,x-y,z
+  x-y,-y,z
+  x,y,-z
+  -x,-x+y,-z
+  -x+y,-x,z
+  y,x,z
+  -y,x-y,-z
+  x-y,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Fe1  0.25500  0.00000  0.00000
+  Fe2  0.59600  0.00000  0.50000
+  P1  0.33333  0.66667  0.00000
+  P2  0.00000  0.00000  0.50000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0014170

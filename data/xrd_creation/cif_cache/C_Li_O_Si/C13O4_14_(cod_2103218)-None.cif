@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_2103218
+loop_
+ _publ_author_name
+  'Marsh, Richard E.'
+  'Kapon, Moshe'
+  'Hu, Shengzhi'
+  'Herbstein, Frank H.'
+_publ_section_title   'Some 60 new space-group corrections'
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   62
+_journal_page_last   77
+_journal_paper_doi   10.1107/S0108768101017128
+_journal_volume   58
+_journal_year   2002
+_chemical_formula_moiety   'C26 H38 O8'
+_chemical_formula_sum   'C26 H38 O8'
+_chemical_name_systematic   Tetra-t-butylbenzenetetracarboxylate
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90.00
+_cell_angle_beta   95.14
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   11.696
+_cell_length_b   10.450
+_cell_length_c   11.176
+_cell_volume   1360.474
+_cod_data_source_file   bm0047.cif
+_cod_data_source_block   CSD_CIF_Table_57S
+_cod_depositor_comments
+;
+Adding the _chemical_formula_moiety and _chemical_formula_sum data
+items  after consulting the original publication.  Antanas Vaitkus,
+2017-08-03
+;
+_cod_original_sg_symbol_H-M   P21/c
+_cod_database_code   2103218
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  O1,5  .1773  -.0462  -.2527
+  O2,6  .2638  .0946  -.1204
+  O3,7  -.0172  -.2800  -.2037
+  O4,8  .1553  -.2680  -.0949
+  C1,4  .0898  .0051  -.0743
+  C2,5  .0251  -.1058  -.0684
+  C3,6  -.0649  -.1107  .0053
+  C7,17  .1809  .0135  -.1607
+  C8,18  .3617  .1200  -.1918
+  C9,21  .3181  .1841  -.3095
+  C10,19  .4324  .2131  -.1123
+  C11,20  .4270  -.0008  -.2085
+  C12,22  .0506  -.2274  -.1339
+  C13,23  .2040  -.3883  -.1393
+  C14,26  .2133  -.3779  -.2732
+  C15,25  .3212  -.3903  -.0700
+  C16,24  .1310  -.5005  -.1053
+loop_
+ _atom_type_symbol
+  C
+  O

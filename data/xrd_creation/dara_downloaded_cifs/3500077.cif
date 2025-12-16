@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_3500077
+loop_
+ _publ_author_name
+  'Ismael Jimenez Calvo'
+_journal_name_full   'Personal communication to COD'
+_journal_year   2019
+_chemical_formula_sum   'Al H4 O6 P'
+_chemical_name_systematic   'Al (P O4) (H2 O)2'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   103.6
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   9.627
+_cell_length_b   9.587
+_cell_length_c   9.569
+_cell_volume   858.399
+_cod_data_source_file   AlPO4(H2O)2.cif
+_cod_depositor_comments
+;
+AlPO4.2H2O was crystallized from amorphous AlPO4 treated at 160
+Celsius degrees during 8 days in a closed teflon vessel.  Amorphous
+AlPO4 was precipitated from a solution of AlPO4 in H3PO4 10% by
+neutralization with NH4OH.  This monoclinic phase lose crystallization
+water between 130 Celsius degrees and 400 Celsius degrees.  The
+crystall have the same structure as GaPO4.2H2O in 2310449.cif of
+Mooney-Slater_ACCRA9_1966_1095.cif  and is somewhat less dense than
+variscite and metavariscite.  The structure was refined with TOPAS
+software.  Ismael Jimenez Calvo  10-03-10
+;
+_cod_database_code   3500077
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O12  O-2  0.3822  0.1926  0.0077  1  0.0
+  O10  O-2  0.3564  0.4326  0.4957  1  0.0
+  O2  O-2  0.1980  0.3003  0.2023  1  0.0
+  O1  O-2  0.1805  0.2388  0.4545  1  0.0
+  Al1  Al+3  0.1256  0.4673  0.1199  1  0.0
+  O8  O-2  0.2051  0.6199  0.8024  1  0.0
+  O6  O-2  0.1971  0.4167  0.9502  1  0.0
+  P1  P+5  0.1332  0.1888  0.2927  1  0.0
+  O7  O-2  0.1872  0.3686  0.7030  1  0.0
+  O3  O-2  0.9670  0.1739  0.2135  1  0.0
+  O9  O-2  0.0412  0.6375  1.0054  1  0.0
+  O5  O-2  0.9979  0.4871  0.7738  1  0.0
+  P2  P+5  0.1493  0.4701  0.8011  1  0.0
+  O4  O-2  0.2182  0.0588  0.2805  1  0.0
+  O11  O-2  0.0396  0.1269  0.8100  1  0.0
+  Al2  Al+3  0.3123  0.2702  0.6086  1  0.0

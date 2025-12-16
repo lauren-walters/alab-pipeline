@@ -1,0 +1,267 @@
+# generated using pymatgen
+data_2021443
+loop_
+ _publ_author_name
+  'Prateek Bhojane'
+  'Armel Le Bail'
+  'Parasharam M. Shirage'
+_publ_contact_author_address
+;
+Discipline of Metallurgy Engineering and Materials Science Indian
+Institute of Technology Indore Khandwa Road Simrol Indore 453 552
+India
+;
+_publ_contact_author_email   pmshirage@iiti.ac.in
+_publ_contact_author_name   'Parasharam M. Shirage'
+_publ_section_title
+;
+A quarter of a century after its synthesis and with >200 papers based
+on  its use, `Co(CO~3~)~0.5~(OH)\\cdot0.11H~2~O' proves to be
+Co~6~(CO~3~)~2~(OH)~8~\\cdotH~2~O from synchrotron powder diffraction
+data
+;
+_journal_coeditor_code   SK3716
+_journal_date_accepted   2018-12-14
+_journal_date_recd_electronic   2018-11-19
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica, Section C'
+_journal_page_first   61
+_journal_page_last   64
+_journal_paper_category   FA
+_journal_paper_doi   10.1107/S2053229618017734
+_journal_volume   75
+_journal_year   2019
+_chemical_formula_iupac   'Co6 (C O3)2 (O H)8, H2 O'
+_chemical_formula_moiety   'Co6, (CO 3)2, (O H)8, (H2 O)'
+_chemical_formula_sum   'C2 H10 Co6 O15'
+_chemical_formula_weight   627.69
+_chemical_name_common
+'Hexacobalt(II) bicarbonate octahydroxide monohydrate'
+_chemical_name_systematic
+'Hexacobalt(II) bis(carbonate) octahydroxide monohydrate'
+_space_group_IT_number   189
+_symmetry_cell_setting   hexagonal
+_symmetry_space_group_name_Hall   'P -6 -2'
+_symmetry_space_group_name_H-M   'P -6 2 m'
+_cell_angle_alpha   90.0000
+_cell_angle_beta   90.0000
+_cell_angle_gamma   120.000
+_cell_formula_units_Z   1
+_cell_length_a   10.3236(4)
+_cell_length_b   10.3236(4)
+_cell_length_c   3.12244(15)
+_cell_measurement_temperature   293
+_cell_volume   288.20(2)
+_computing_molecular_graphics   '<i>DIAMOND</i> (Brandenburg, 1999)'
+_computing_publication_material   '<i>publCIF</i> (Westrip, 2010)'
+_computing_structure_refinement
+'<i>FULLPROF</i> (Rodriguez-Carvajal, 1993)'
+_computing_structure_solution
+'<i>McMaille</i> (Le Bail, 2004) and <i>ESPOIR</i> (Le Bail, 2001)'
+_diffrn_ambient_temperature   293
+_diffrn_measurement_device_type   MAR345dif
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   0.8077
+_diffrn_source   synchrotron
+_exptl_absorpt_coefficient_mu   12.057
+_exptl_absorpt_correction_type   none
+_exptl_crystal_density_diffrn   3.617
+_exptl_crystal_F_000   304
+_pd_block_id   p-62m
+_pd_calc_method   'Rietveld Refinement'
+_pd_char_colour   'light pink'
+_pd_char_particle_morphology   'powder of nanoneedles'
+_pd_instr_location   India
+_pd_meas_2theta_range_inc   0.019610
+_pd_meas_2theta_range_max   58.98621
+_pd_meas_2theta_range_min   4.00000
+_pd_meas_number_of_points   2805
+_pd_meas_scan_method   step
+_pd_prep_temperature   293
+_pd_proc_2theta_range_inc   0.019610
+_pd_proc_2theta_range_max   58.8696
+_pd_proc_2theta_range_min   3.8834
+_pd_proc_ls_prof_R_factor   3.7141
+_pd_proc_ls_prof_wR_expected   2.4654
+_pd_proc_ls_prof_wR_factor   4.8270
+_pd_proc_wavelength   0.807700
+_pd_spec_mounting   'quartz capillary'
+_pd_spec_mount_mode   transmission
+_pd_spec_shape   cylinder
+_pd_spec_size_axial   0.5
+_pd_spec_size_equat   0.5
+_refine_ls_goodness_of_fit_all   1.9579
+_refine_ls_hydrogen_treatment   noref
+_refine_ls_number_parameters   50
+_refine_ls_number_reflns   171
+_refine_ls_number_restraints   0
+_refine_ls_shift/su_max   0
+_cod_data_source_file   sk3716sup1.cif
+_cod_data_source_block   I
+_cod_database_code   2021443
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x+y,-x,-z
+  3  -y,x-y,z
+  4  x,y,-z
+  5  -x+y,-x,z
+  6  -y,x-y,-z
+  7  y,x,z
+  8  x-y,-y,-z
+  9  -x,-x+y,z
+  10  y,x,-z
+  11  x-y,-y,z
+  12  -x,-x+y,-z
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Co  Co1  0.42427(12)  0.00000  0.00000  0.0180(4)  Uiso  .  .
+  1.000  .  .
+  Co  Co2  0.36174(19)  0.2336(2)  0.50000  0.0328(7)  Uiso  .  .
+  0.500  .  .
+  O  O1  0.5360(4)  0.2464(4)  0.00000  0.0278(9)  Uiso  .  .  1.000
+  .  .
+  O  O2  0.1908(5)  0.1908(5)  0.00000  0.0278(9)  Uiso  .  .  1.000
+  .  .
+  O  O3  0.5545(6)  0.00000  0.50000  0.0278(9)  Uiso  .  .  1.000
+  .  .
+  O  O4  0.2852(7)  0.00000  0.50000  0.0278(9)  Uiso  .  .  1.000
+  .  .
+  C  C1  0.66667  0.33333  0.00000  0.0278(9)  Uiso  .  .  1.000  .
+  .
+loop_
+ _atom_type_symbol
+ _atom_type_scat_Cromer_Mann_a1
+ _atom_type_scat_Cromer_Mann_a2
+ _atom_type_scat_Cromer_Mann_a3
+ _atom_type_scat_Cromer_Mann_a4
+ _atom_type_scat_Cromer_Mann_b1
+ _atom_type_scat_Cromer_Mann_b2
+ _atom_type_scat_Cromer_Mann_b3
+ _atom_type_scat_Cromer_Mann_b4
+ _atom_type_scat_Cromer_Mann_c
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Co  12.28410  7.34090  4.00340  2.34880  4.27910  0.27840
+  13.53590  71.16920  1.01180  0.29900  0.97300
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+  C  2.31000  1.02000  1.58860  0.86500  20.84390  10.20750  0.56870
+  51.65120  0.21560  0.00200  0.00200
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+  O  3.04850  2.28680  1.54630  0.86700  13.27710  5.70110  0.32390
+  32.90890  0.25080  0.00800  0.00600
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O1  Co1  O3  .  .  .  92.01(8)  yes
+  O1  Co1  O4  .  .  .  87.92(8)  yes
+  O1  Co1  O3  .  .  1_554  92.01(8)  yes
+  O1  Co1  O4  .  .  1_554  87.92(8)  yes
+  O1  Co1  O1  .  .  8_555  173.9(2)  yes
+  O3  Co1  O4  .  .  .  83.34(19)  yes
+  O3  Co1  O3  .  .  1_554  98.53(19)  yes
+  O3  Co1  O4  .  .  1_554  178.1(2)  yes
+  O1  Co1  O3  8_555  .  .  92.01(11)  yes
+  O3  Co1  O4  1_554  .  .  178.1(2)  yes
+  O4  Co1  O4  .  .  1_554  94.8(2)  yes
+  O1  Co1  O4  8_555  .  .  87.92(12)  yes
+  O3  Co1  O4  1_554  .  1_554  83.34(19)  yes
+  O1  Co1  O3  8_555  .  1_554  92.01(11)  yes
+  O1  Co1  O4  8_555  .  1_554  87.92(12)  yes
+  O2  Co2  O4  .  .  .  88.10(19)  yes
+  O2  Co2  O2  .  .  1_556  88.94(17)  yes
+  O2  Co2  O3  .  .  2_666  95.0(2)  yes
+  O2  Co2  O4  1_556  .  .  88.10(19)  yes
+  O3  Co2  O4  2_666  .  .  175.6(3)  yes
+  O2  Co2  O3  1_556  .  2_666  95.0(2)  yes
+  Co1  O1  C1  .  .  .  127.7(3)  yes
+  Co2  O2  Co2  .  .  1_554  88.9(2)  yes
+  Co2  O2  Co2  .  .  7_554  120.7(2)  yes
+  Co2  O2  Co2  .  .  7_555  61.87(10)  yes
+  Co2  O2  Co2  1_554  .  7_554  61.87(10)  yes
+  Co2  O2  Co2  1_554  .  7_555  120.7(2)  yes
+  Co2  O2  Co2  7_554  .  7_555  88.94(17)  yes
+  Co1  O3  Co1  .  .  1_556  98.5(3)  yes
+  Co1  O3  Co2  .  .  3_655  121.46(6)  yes
+  Co1  O3  Co2  .  .  9_655  121.46(6)  yes
+  Co1  O3  Co2  1_556  .  3_655  121.46(6)  yes
+  Co1  O3  Co2  1_556  .  9_655  121.46(6)  yes
+  Co2  O3  Co2  3_655  .  9_655  73.8(3)  yes
+  Co1  O4  Co2  .  .  .  97.59(11)  yes
+  Co1  O4  Co1  .  .  1_556  94.8(3)  yes
+  Co1  O4  Co2  .  .  8_556  97.60(12)  yes
+  Co1  O4  Co2  1_556  .  .  97.59(11)  yes
+  Co2  O4  Co2  .  .  8_556  157.5(4)  yes
+  Co1  O4  Co2  1_556  .  8_556  97.60(12)  yes
+  O1  C1  O1  .  .  2_665  120.0(4)  yes
+  O1  C1  O1  .  .  3_655  120.0(3)  yes
+  O1  C1  O1  2_665  .  3_655  120.0(4)  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Co1  O1  .  .  2.206(4)  yes
+  Co1  O3  .  .  2.060(4)  yes
+  Co1  O4  .  .  2.121(5)  yes
+  Co1  O3  .  1_554  2.060(4)  no
+  Co1  O4  .  1_554  2.121(5)  no
+  Co1  O1  .  8_555  2.206(4)  no
+  Co2  O1  .  .  2.335(4)  yes
+  Co2  O1  .  1_556  2.335(4)  no
+  Co2  O2  .  .  2.229(4)  yes
+  Co2  O4  .  .  2.130(2)  yes
+  Co2  O2  .  1_556  2.229(4)  no
+  Co2  O3  .  2_666  1.908(6)  yes
+  O1  C1  .  .  1.189(4)  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion
+ _geom_torsion_publ_flag
+  O3  Co1  O1  C1  .  .  .  .  49.31(13)  no
+  O4  Co1  O1  C1  .  .  .  .  132.56(15)  no
+  O1  Co1  O4  Co2  .  .  .  .  6.07(19)  no
+  O3  Co1  O4  Co2  .  .  .  .  98.33(17)  no
+  O2  Co2  O4  Co1  .  .  .  .  87.6(2)  no
+_cod_database_fobs_code   2021443

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_1540873
+loop_
+ _publ_author_name
+  'von Schnering, H.G.'
+  'Wichelhaus, W.'
+  'Nahrup, M.S.'
+_publ_section_title
+'Lanthandiphosphid La P2; Darstellung, Struktur und Eigenschaften'
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first   193
+_journal_page_last   201
+_journal_volume   412
+_journal_year   1975
+_chemical_formula_sum   'La P2'
+_space_group_IT_number   9
+_symmetry_space_group_name_Hall   'C -2yc'
+_symmetry_space_group_name_H-M   'C 1 c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   135.1
+_cell_angle_gamma   90
+_cell_formula_units_Z   16
+_cell_length_a   12.505
+_cell_length_b   13.942
+_cell_length_c   8.883
+_cell_volume   1093.186
+_citation_journal_id_ASTM   ZAACAB
+_cod_data_source_file   vonSchnering_ZAACAB_1975_284.cif
+_cod_data_source_block   La1P2
+_cod_original_formula_sum   'La1 P2'
+_cod_database_code   1540873
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,-y,z+1/2
+  x+1/2,y+1/2,z
+  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P4  P  0.9711  0.3805  0.4553  1  0.0
+  P8  P  0.6816  0.1358  0.5942  1  0.0
+  P5  P  0.8316  0.5052  0.2468  1  0.0
+  P1  P  0.8847  0.1168  0.1985  1  0.0
+  La3  La  0  0.0582  0  1  0.0
+  P6  P  0.8234  0.379  0.9093  1  0.0
+  La1  La  0.6016  0.0228  0.8061  1  0.0
+  La4  La  0.6783  0.2885  0.0589  1  0.0
+  P2  P  0.8407  0.1221  0.3989  1  0.0
+  P7  P  0.5357  0.2177  0.6023  1  0.0
+  P3  P  0.5648  0.3723  0.2394  1  0.0
+  La2  La  0.3712  0.2069  0.1486  1  0.0

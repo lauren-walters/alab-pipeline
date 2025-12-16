@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_9015209
+loop_
+ _publ_author_name
+  'Averbuch, M. T.'
+  'Guitel, J. C.'
+_publ_section_title
+'Un tripolyphosphate acide de fer Fe H2 P3 O10 . H2 O'
+_journal_issue   5
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   1613
+_journal_page_last   1615
+_journal_paper_doi   10.1107/S0567740877006669
+_journal_volume   33
+_journal_year   1977
+_chemical_formula_sum   'Fe O11 P3'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   112.10
+_cell_angle_gamma   90
+_cell_length_a   12.076
+_cell_length_b   8.443
+_cell_length_c   9.352
+_cell_formula_units_Z   4
+_cell_volume   883.453
+_database_code_amcsd   0015961
+_exptl_crystal_density_diffrn   2.442
+_cod_duplicate_entry   1008013
+_cod_original_formula_sum   'Fe P3 O11'
+_cod_database_code   9015209
+_amcsd_formula_title   'Fe H4 O11 P3'
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,z
+  x,-y,1/2+z
+  1/2+x,1/2-y,1/2+z
+  -x,y,1/2-z
+  1/2-x,1/2+y,1/2-z
+  -x,-y,-z
+  1/2-x,1/2-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Fe1  0.25000  0.25000  0.00000
+  P1  0.29050  0.56670  0.20600
+  P2  0.50000  0.37530  0.25000
+  O1  0.41820  0.48750  0.30340
+  O2  0.21200  0.44250  0.09730
+  O3  0.32050  0.70420  0.12410
+  O4  0.24110  0.61440  0.32400
+  O5  0.42650  0.28270  0.11030
+  O6  0.00000  0.44300  0.25000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0015961

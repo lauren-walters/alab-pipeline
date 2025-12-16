@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_9007582
+loop_
+ _publ_author_name
+  'Baur, W. H.'
+_publ_section_title
+;
+Reconstruction of local atomic environments in the disordered
+hydrogen-bonded crystal structures of paraelectric ammonium
+dihydrogen phosphate and potassium dihydrogen phosphate  Note: known
+as KDP  Note: polymorph of archerite
+;
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   2726
+_journal_page_last   2731
+_journal_paper_doi   10.1107/S0567740873007454
+_journal_volume   29
+_journal_year   1973
+_chemical_formula_structural   KH2PO4
+_chemical_formula_sum   'H2 K O4 P'
+_space_group_IT_number   19
+_symmetry_space_group_name_Hall   'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   7.434
+_cell_length_b   7.434
+_cell_length_c   6.945
+_cell_formula_units_Z   4
+_cell_volume   383.811
+_database_code_amcsd   0009495
+_exptl_crystal_density_diffrn   2.355
+_cod_original_formula_sum   'K P O4 H2'
+_cod_database_code   9007582
+_amcsd_formula_title   KH2PO4
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,1/2+y,1/2-z
+  1/2+x,1/2-y,-z
+  1/2-x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  K  0.00000  0.00000  0.50000
+  P  0.00000  0.00000  0.00000
+  O1  0.08970  0.15150  0.12560
+  O2  0.15570  0.91810  0.87430
+  O3  0.92620  0.85680  0.13030
+  O4  0.86180  0.08310  0.86990
+  H1  0.23200  0.14600  0.12800
+  H2  0.14600  0.77600  0.88200
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009495

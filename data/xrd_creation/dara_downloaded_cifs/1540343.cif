@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_1540343
+loop_
+ _publ_author_name
+  "Kuz'ma, Yu.B."
+  'Orishchin, S.V.'
+  'Glovyak, T.'
+  'Lomnitskaya, Ya.F.'
+_publ_section_title   'New phosphide Nb2 P and its crystal structure'
+_journal_name_full
+;
+Dopovidi Akademii Nauk Ukrains'koi RSR, Seriya B: Geologichni,
+Khimichni ta  Biologichni Nauki
+;
+_journal_page_first   47
+_journal_page_last   49
+_journal_volume   1988
+_journal_year   1988
+_chemical_formula_sum   'Nb2 P'
+_space_group_IT_number   51
+_symmetry_space_group_name_Hall   '-P 2a 2a'
+_symmetry_space_group_name_H-M   'P m m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   18
+_cell_length_a   18.079
+_cell_length_b   3.425
+_cell_length_c   13.858
+_cell_volume   858.095
+_citation_journal_id_ASTM   DANND6
+_cod_data_source_file   Kuzma_DANND6_1988_568.cif
+_cod_data_source_block   Nb2P1
+_cod_original_cell_volume   858.0953
+_cod_original_formula_sum   'Nb2 P1'
+_cod_database_code   1540343
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z
+  x+1/2,-y,-z
+  -x,y,-z
+  -x,-y,-z
+  x-1/2,y,-z
+  -x-1/2,y,z
+  x,-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Nb11  Nb  0.1216  0  0.5704  1  0.0
+  Nb9  Nb  0.25  0  0.5612  1  0.0
+  Nb1  Nb  0  0  0.5  1  0.0
+  Nb7  Nb  0.25  0  0.3878  1  0.0
+  Nb8  Nb  0.25  0.5  0.8898  1  0.0
+  P1  P  0.25  0  0.6891  1  0.0
+  Nb2  Nb  0.1375  0.5  0.0044  1  0.0
+  Nb6  Nb  0.25  0  0.1098  1  0.0
+  Nb12  Nb  0.0016  0.5  0.1628  1  0.0
+  P2  P  0.1049  0  0.1378  1  0.0
+  Nb3  Nb  0.1661  0.5  0.2413  1  0.0
+  Nb4  Nb  0.6621  0.5  0.2392  1  0.0
+  Nb10  Nb  0.0616  0  0.3437  1  0.0
+  P5  P  0.5463  0.5  0.3275  1  0.0
+  P4  P  0.1442  0.5  0.4304  1  0.0
+  P3  P  0.6037  0  0.1282  1  0.0
+  Nb5  Nb  0  0.5  0.5  1  0.0

@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_9012613
+loop_
+ _publ_author_name
+  'Kimoto, K.'
+  'Nishida, I.'
+_publ_section_title
+;
+An electron diffraction study on the crystal structure of  a new
+modification of chromium
+;
+_journal_name_full   'Journal of the Physical Society of Japan'
+_journal_page_first   744
+_journal_page_last   756
+_journal_paper_doi   10.1143/JPSJ.22.744
+_journal_volume   22
+_journal_year   1967
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   Cr
+_chemical_name_mineral   Chromium
+_space_group_IT_number   200
+_symmetry_space_group_name_Hall   '-P 2 2 3'
+_symmetry_space_group_name_H-M   'P m -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   4.588
+_cell_length_b   4.588
+_cell_length_c   4.588
+_cell_formula_units_Z   8
+_cell_volume   96.576
+_database_code_amcsd   0014168
+_exptl_crystal_density_diffrn   7.152
+_cod_original_sg_symbol_H-M   'P m 3'
+_cod_database_code   9012613
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  z,x,-y
+  z,-x,y
+  -z,x,y
+  -z,-x,-y
+  y,-z,-x
+  -y,-z,x
+  -y,z,-x
+  y,z,x
+  x,-y,z
+  -x,y,z
+  x,y,-z
+  -x,-y,-z
+  -z,-x,y
+  -z,x,-y
+  z,-x,-y
+  z,x,y
+  -y,z,x
+  y,z,-x
+  y,-z,x
+  -y,-z,-x
+  -x,y,-z
+  x,-y,-z
+  -x,-y,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr1  0.00000  0.00000  0.00000  1.00000
+  Cr2  0.50000  0.50000  0.50000  1.00000
+  Cr3  0.24800  0.04000  0.51000  0.25000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  22412
+  2  AMCSD  0014168

@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_2003109
+loop_
+ _publ_author_name
+  'Robert E. Dinnebier'
+_publ_section_title
+;
+Disorder determined by high-resolution powder diffraction: structure
+of pentamethylcyclopentadienyllithium
+;
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   35
+_journal_page_last   44
+_journal_paper_doi   10.1107/S0108768198007009
+_journal_volume   55
+_journal_year   1999
+_chemical_formula_sum   'C10 H15 Li'
+_chemical_formula_weight   142.17
+_space_group_crystal_system   trigonal
+_space_group_IT_number   160
+_space_group_name_Hall   'R 3 -2"'
+_space_group_name_H-M_alt   'R 3 m :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   3
+_cell_length_a   14.7711(5)
+_cell_length_b   14.7711(5)
+_cell_length_c   3.82206(6)
+_cell_measurement_temperature   293
+_cell_volume   722.19(4)
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   0.84979
+_exptl_crystal_density_diffrn   0.980
+_cod_data_source_file   se0236.cif
+_cod_data_source_block   Model
+_cod_depositor_comments
+;
+Updating space group information and adding the symmetry operation
+list.  Antanas Vaitkus,  2018-07-04
+;
+_cod_database_code   2003109
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -y,-x,z
+  5  x,x-y,z
+  6  -x+y,y,z
+  7  x+2/3,y+1/3,z+1/3
+  8  -y+2/3,x-y+1/3,z+1/3
+  9  -x+y+2/3,-x+1/3,z+1/3
+  10  -y+2/3,-x+1/3,z+1/3
+  11  x+2/3,x-y+1/3,z+1/3
+  12  -x+y+2/3,y+1/3,z+1/3
+  13  x+1/3,y+2/3,z+2/3
+  14  -y+1/3,x-y+2/3,z+2/3
+  15  -x+y+1/3,-x+2/3,z+2/3
+  16  -y+1/3,-x+2/3,z+2/3
+  17  x+1/3,x-y+2/3,z+2/3
+  18  -x+y+1/3,y+2/3,z+2/3
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+  Li  0.6666  0.3333  0.5  0.060  1
+  C11  0.714  0.427  0  0.062(2)  0.3333
+  C12  0.758  0.362  0  0.062(2)  0.1666
+  C13  0.677  0.258  0  0.062(2)  0.1666
+  C21  0.774  0.547  0  0.046(3)  0.3333
+  C22  0.876  0.400  0  0.046(3)  0.1666
+  C23  0.689  0.160  0  0.046(3)  0.1666

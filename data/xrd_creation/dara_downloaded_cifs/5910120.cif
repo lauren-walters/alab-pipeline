@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_5910120
+loop_
+ _publ_author_name
+  'Wyckoff, R. W. G.'
+_publ_section_title
+;
+Pages 237 & 241 from the second edition of Structure of Crystals by
+Wyckoff R W G.published by The Chemical Catalog Company, INC, New York
+in 1931.
+;
+_journal_name_full   'The second edition of Structure of Crystals'
+_journal_page_first   237
+_journal_page_last   241
+_journal_year   1931
+_chemical_formula_structural   LaC2
+_chemical_formula_sum   'C2 La'
+_chemical_name_systematic   'Lanthanum carbide'
+_space_group_IT_number   139
+_symmetry_cell_setting   tetragonal
+_symmetry_Int_Tables_number   139
+_symmetry_space_group_name_Hall   '-I 4 2'
+_symmetry_space_group_name_H-M   'I 4/m m m'
+_audit_creation_date   2005-02-11
+_audit_creation_method
+;
+Pages 237 & 241 from the second edition of Structure of Crystals by
+Wyckoff R W G.published by The Chemical Catalog Company, INC, New York
+in 1931.
+;
+_audit_update_record
+'created by Girish Upreti, Portland State University'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   3.92
+_cell_length_b   3.92
+_cell_length_c   6.55
+_cell_volume   100.650
+_cod_original_sg_symbol_H-M   'I4/m m m'
+_cod_original_formula_sum   'La C2'
+_cod_database_code   5910120
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x,z
+  y,-x,z
+  x,-y,-z
+  -x,y,-z
+  -x,-y,z
+  y,x,-z
+  -y,-x,-z
+  -x,-y,-z
+  y,-x,-z
+  -y,x,-z
+  -x,y,z
+  x,-y,z
+  x,y,-z
+  -y,-x,z
+  y,x,z
+  x+1/2,y+1/2,z+1/2
+  -y+1/2,x+1/2,z+1/2
+  y+1/2,-x+1/2,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  y+1/2,x+1/2,-z+1/2
+  -y+1/2,-x+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z+1/2
+  y+1/2,-x+1/2,-z+1/2
+  -y+1/2,x+1/2,-z+1/2
+  -x+1/2,y+1/2,z+1/2
+  x+1/2,-y+1/2,z+1/2
+  x+1/2,y+1/2,-z+1/2
+  -y+1/2,-x+1/2,z+1/2
+  y+1/2,x+1/2,z+1/2
+loop_
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_label
+  0.00000  0.00000  0.00000  La1
+  0.50000  0.50000  0.50000  La2
+  0.00000  0.00000  0.38000  C1
+  0.00000  0.00000  -0.38000  C2

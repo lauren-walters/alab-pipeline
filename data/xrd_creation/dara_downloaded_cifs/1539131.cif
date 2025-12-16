@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_1539131
+loop_
+ _publ_author_name
+  'Sugitani, M.'
+  'Kinomura, N.'
+  'Koizumi, M.'
+  'Kume, S.'
+_publ_section_title
+'Preparation and properties of a new iron phosphide Fe P4'
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   195
+_journal_page_last   201
+_journal_volume   26
+_journal_year   1978
+_chemical_formula_sum   'Fe P4'
+_space_group_IT_number   20
+_symmetry_space_group_name_Hall   'C 2c 2'
+_symmetry_space_group_name_H-M   'C 2 2 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.005
+_cell_length_b   10.213
+_cell_length_c   5.53
+_cell_volume   282.672
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Sugitani_JSSCBI_1978_29.cif
+_cod_data_source_block   Fe1P4
+_cod_original_cell_volume   282.6719
+_cod_original_formula_sum   'Fe1 P4'
+_cod_database_code   1539131
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z+1/2
+  x,-y,-z
+  -x,y,-z+1/2
+  x+1/2,y+1/2,z
+  -x+1/2,-y+1/2,z+1/2
+  x+1/2,-y+1/2,-z
+  -x+1/2,y+1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P2  P  0.2104  0.518  0.302  1  0.0
+  Fe1  Fe  0  0.1741  0.25  1  0.0
+  P1  P  0.1804  0.1824  0.6338  1  0.0

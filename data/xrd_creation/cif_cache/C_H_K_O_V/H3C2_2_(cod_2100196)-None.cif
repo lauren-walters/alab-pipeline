@@ -1,0 +1,202 @@
+# generated using pymatgen
+data_2100196
+loop_
+ _publ_author_name
+  'Stride, J.A.'
+_publ_section_title
+'Determination of the low-temperature structure of hexamethylbenzene'
+_journal_issue   2
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   200
+_journal_page_last   206
+_journal_paper_doi   10.1107/S0108768104034007
+_journal_volume   61
+_journal_year   2005
+_chemical_formula_moiety   C6(CD3)6
+_chemical_formula_sum   'C12 D18'
+_chemical_formula_weight   180.38
+_chemical_name_common   d-hexamethylbenzene
+_chemical_name_systematic   1,2,3,4,5,6-hexadeuteromethylbenzene
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_audit_creation_method   'from EXP file using GSAS2CIF'
+_cell_angle_alpha   103.816(12)
+_cell_angle_beta   98.460(12)
+_cell_angle_gamma   100.057(11)
+_cell_formula_units_Z   1
+_cell_length_a   5.2360(8)
+_cell_length_b   6.1845(8)
+_cell_length_c   7.9520(10)
+_cell_volume   241.36(6)
+_computing_structure_refinement   GSAS
+_diffrn_ambient_temperature   140
+_diffrn_radiation_type   'monchromatic beam'
+_diffrn_radiation_wavelength   1.594
+_exptl_absorpt_process_details
+;
+GSAS Absorption/surface roughness correction: function number 0  No
+correction is applied.
+;
+_refine_ls_goodness_of_fit_all   2.72
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   9
+_refine_ls_number_restraints   0
+_refine_ls_shift/su_max   0.07
+_refine_ls_shift/su_mean   0.02
+_reflns_number_total   950
+_cod_data_source_file   lc5016.cif
+_cod_data_source_block   HMB_publ
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+'/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (54 times). Automatic
+conversion script Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (54 times).
+'_geom_angle_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (27 times). Automatic
+conversion script Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana
+;
+_cod_database_code   2100196
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  -1  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+ _atom_site_type_symbol
+  C1  -0.56464  -0.61622  0.31929  0.00703  Uiso  1.0  C
+  C2  -0.67816  -0.43311  0.38692  0.02147  Uiso  1.0  C
+  C3  -0.61462  -0.31543  0.56751  0.0305  Uiso  1.0  C
+  C4  -0.64705  -0.74811  0.12358  0.01857  Uiso  1.0  C
+  C5  -0.87358  -0.35454  0.26333  0.01904  Uiso  1.0  C
+  C6  -0.75282  -0.1249  0.63785  0.03363  Uiso  1.0  C
+  D7  -0.50743  -0.68752  0.05756  0.03729  Uiso  1.0  D
+  D8  -0.82479  -0.70309  0.06974  0.11386  Uiso  1.0  D
+  D9  -0.68162  -0.92296  0.11284  0.07042  Uiso  1.0  D
+  D10  -0.86959  -0.17877  0.31978  0.11099  Uiso  1.0  D
+  D11  -0.06306  -0.4407  0.25243  0.06375  Uiso  1.0  D
+  D12  -0.81648  -0.3789  0.1412  0.06264  Uiso  1.0  D
+  D13  -0.95271  -0.17761  0.57953  0.07353  Uiso  1.0  D
+  D14  -0.64922  0.02753  0.62018  0.04368  Uiso  1.0  D
+  D15  -0.71106  -0.07869  0.77974  0.04463  Uiso  1.0  D
+loop_
+ _atom_type_symbol
+ _atom_type_scat_source
+  C  International_Tables_Vol_C
+  D  International_Tables_Vol_C
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  C2  C1  C3  1_555  -1_446  119.673(11)  n
+  C2  C1  C4  1_555  1_555  120.205(10)  n
+  C3  C1  C4  -1_446  1_555  120.056(10)  n
+  C1  C2  C3  1_555  1_555  121.372(10)  n
+  C1  C2  C5  1_555  1_555  120.182(11)  n
+  C3  C2  C5  1_555  1_555  118.441(10)  n
+  C1  C3  C2  -1_446  1_555  118.954(10)  n
+  C1  C3  C6  -1_446  1_555  121.115(10)  n
+  C2  C3  C6  1_555  1_555  119.847(10)  n
+  C1  C4  D7  1_555  1_555  108.440(13)  n
+  C1  C4  D8  1_555  1_555  107.995(12)  n
+  C1  C4  D9  1_555  1_555  108.967(13)  n
+  D7  C4  D8  1_555  1_555  104.555(11)  n
+  D7  C4  D9  1_555  1_555  116.201(10)  n
+  D8  C4  D9  1_555  1_555  110.352(12)  n
+  C2  C5  D10  1_555  1_555  108.938(13)  n
+  C2  C5  D11  1_555  1_455  110.885(11)  n
+  C2  C5  D12  1_555  1_555  108.120(10)  n
+  D10  C5  D11  1_555  1_455  106.135(13)  n
+  D10  C5  D12  1_555  1_555  110.962(11)  n
+  D11  C5  D12  1_455  1_555  111.782(13)  n
+  C3  C6  D13  1_555  1_555  108.318(13)  n
+  C3  C6  D14  1_555  1_555  108.172(11)  n
+  C3  C6  D15  1_555  1_555  109.511(11)  n
+  D13  C6  D14  1_555  1_555  117.010(11)  n
+  D13  C6  D15  1_555  1_555  115.003(12)  n
+  D14  C6  D15  1_555  1_555  98.309(14)  n
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  C1  C2  .  1_555  1.40118(19)  n
+  C1  C3  .  -1_446  1.39345(19)  n
+  C1  C4  .  1_555  1.5319(3)  n
+  C1  D7  .  1_555  2.0993(3)  n
+  C2  C1  .  1_555  1.40118(19)  n
+  C2  C3  .  1_555  1.4065(2)  n
+  C2  C5  .  1_555  1.5346(2)  n
+  C3  C1  .  -1_446  1.39345(19)  n
+  C3  C2  .  1_555  1.4065(2)  n
+  C3  C6  .  1_555  1.5255(2)  n
+  C3  D13  .  1_555  2.0994(3)  n
+  C4  C1  .  1_555  1.5319(3)  n
+  C4  D7  .  1_555  1.03040(14)  n
+  C4  D8  .  1_555  1.07568(15)  n
+  C4  D9  .  1_555  1.04518(15)  n
+  C5  C2  .  1_555  1.5346(2)  n
+  C5  D10  .  1_555  1.06765(16)  n
+  C5  D11  .  1_455  1.02167(16)  n
+  C5  D12  .  1_555  1.04237(14)  n
+  C6  C3  .  1_555  1.5255(2)  n
+  C6  D13  .  1_555  1.04051(18)  n
+  C6  D14  .  1_555  1.05350(15)  n
+  C6  D15  .  1_555  1.07429(16)  n
+  D7  C1  .  1_555  2.0993(3)  n
+  D7  C4  .  1_555  1.03040(14)  n
+  D7  D8  .  1_555  1.6661(2)  n
+  D7  D9  .  1_555  1.7621(2)  n
+  D8  C4  .  1_555  1.07568(15)  n
+  D8  D7  .  1_555  1.6661(2)  n
+  D8  D9  .  1_555  1.7411(2)  n
+  D8  D12  .  1_555  1.9398(3)  n
+  D9  C4  .  1_555  1.04518(15)  n
+  D9  D7  .  1_555  1.7621(2)  n
+  D9  D8  .  1_555  1.7411(2)  n
+  D10  C5  .  1_555  1.06765(16)  n
+  D10  D11  .  1_455  1.6703(3)  n
+  D10  D12  .  1_555  1.7386(3)  n
+  D11  C5  .  1_655  1.02167(16)  n
+  D11  D10  .  1_655  1.6703(3)  n
+  D11  D12  .  1_655  1.7090(2)  n
+  D12  C5  .  1_555  1.04237(14)  n
+  D12  D8  .  1_555  1.9398(3)  n
+  D12  D10  .  1_555  1.7386(3)  n
+  D12  D11  .  1_455  1.7090(2)  n
+  D13  C3  .  1_555  2.0994(3)  n
+  D13  C6  .  1_555  1.04051(18)  n
+  D13  D14  .  1_555  1.7855(3)  n
+  D13  D15  .  1_555  1.7837(3)  n
+  D14  C6  .  1_555  1.05350(15)  n
+  D14  D13  .  1_555  1.7855(3)  n
+  D14  D15  .  1_555  1.6097(2)  n
+  D15  C6  .  1_555  1.07429(16)  n
+  D15  D13  .  1_555  1.7837(3)  n
+  D15  D14  .  1_555  1.6097(2)  n
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  6914134

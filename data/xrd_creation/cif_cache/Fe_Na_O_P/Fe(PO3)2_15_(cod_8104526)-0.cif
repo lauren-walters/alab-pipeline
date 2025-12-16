@@ -1,0 +1,219 @@
+# generated using pymatgen
+data_8104526
+loop_
+ _publ_author_name
+  'Nord, Anders G.'
+  'Ericsson, T.'
+  'Werner, Per-Erik'
+_publ_section_title
+'The crystal structure of iron(II) tetrametaphosphate, Fe2P4O12'
+_journal_name_full   'Zeitschrift fur Kristallographie'
+_journal_page_first   83
+_journal_page_last   90
+_journal_paper_doi   10.1524/zkri.1990.192.14.83
+_journal_volume   192
+_journal_year   1990
+_chemical_formula_sum   'Fe2 O12 P4'
+_chemical_formula_weight   427.58
+_space_group_IT_number   15
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   118.77(1)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   11.942(2)
+_cell_length_b   8.370(2)
+_cell_length_c   9.936(2)
+_cell_volume   870.6(3)
+_diffrn_ambient_temperature   295
+_diffrn_radiation_probe   neutron
+_diffrn_radiation_wavelength   1.464
+_exptl_crystal_density_diffrn   3.262
+_pd_proc_ls_prof_R_factor   0.049
+_pd_proc_ls_prof_wR_factor   0.066
+_refine_ls_number_reflns   462
+_refine_ls_R_Fsqd_factor   0.046
+_cod_data_source_file   Zeit-Krist-1990-192-83-90.cif
+_cod_data_source_block   Fe2P4O12
+_cod_original_cell_volume   870.6(4)
+_cod_original_sg_symbol_H-M   'C 2/c'
+_cod_database_code   8104526
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,y,1/2-z
+  3  -x,-y,-z
+  4  x,-y,1/2+z
+  5  1/2+x,1/2+y,z
+  6  1/2-x,1/2+y,1/2-z
+  7  1/2-x,1/2-y,-z
+  8  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Fe1  Fe  Uiso  0.25000  0.25000  0.50000  1.000  0.0082(11)  .  .
+  .  .
+  Fe2  Fe  Uiso  0.00000  0.0510(10)  0.25000  1.000  0.0082(11)  .
+  .  .  .
+  P1  P  Uiso  0.1920(10)  0.4920(10)  0.1950(10)  1.000  0.0013(13)
+  .  .  .  .
+  P2  P  Uiso  0.0110(10)  0.2720(10)  -0.0240(10)  1.000
+  0.0013(13)  .  .  .  .
+  O1  O  Uiso  0.0770(10)  0.6150(10)  0.1550(10)  1.000  0.0137(9)
+  .  .  .  .
+  O2  O  Uiso  0.1350(10)  0.3690(10)  0.0560(10)  1.000  0.0137(9)
+  .  .  .  .
+  O3  O  Uiso  0.2210(10)  0.4210(10)  0.3390(10)  1.000  0.0137(9)
+  .  .  .  .
+  O4  O  Uiso  0.2950(10)  0.5770(10)  0.1770(10)  1.000  0.0137(9)
+  .  .  .  .
+  O5  O  Uiso  -0.0420(10)  0.2380(10)  0.0890(10)  1.000  0.0137(9)
+  .  .  .  .
+  O6  O  Uiso  0.0400(10)  0.1270(10)  -0.0920(10)  1.000  0.0137(9)
+  .  .  .  .
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O3  Fe1  O5  89.1(4)  .  .  2_555  yes
+  O3  Fe1  O4  92.9(3)  .  .  4_565  yes
+  O3  Fe1  O4  87.1(3)  .  .  6_545  yes
+  O3  Fe1  O3  180.00  .  .  7_556  yes
+  O3  Fe1  O5  90.9(4)  .  .  8_555  yes
+  O4  Fe1  O5  98.6(4)  4_565  .  2_555  yes
+  O4  Fe1  O5  81.4(4)  6_545  .  2_555  yes
+  O3  Fe1  O5  90.9(4)  7_556  .  2_555  yes
+  O5  Fe1  O5  180.00  2_555  .  8_555  yes
+  O4  Fe1  O4  180.00  4_565  .  6_545  yes
+  O3  Fe1  O4  87.1(3)  7_556  .  4_565  yes
+  O4  Fe1  O5  81.4(4)  4_565  .  8_555  yes
+  O3  Fe1  O4  92.9(3)  7_556  .  6_545  yes
+  O4  Fe1  O5  98.6(4)  6_545  .  8_555  yes
+  O3  Fe1  O5  89.1(4)  7_556  .  8_555  yes
+  O5  Fe2  O5  84.7(5)  .  .  2_555  yes
+  O5  Fe2  O6  94.3(3)  .  .  3_555  yes
+  O5  Fe2  O6  179.0(4)  .  .  4_555  yes
+  O4  Fe2  O5  81.8(4)  5_445  .  .  yes
+  O4  Fe2  O5  89.9(4)  6_545  .  .  yes
+  O5  Fe2  O6  179.0(5)  2_555  .  3_555  yes
+  O5  Fe2  O6  94.3(3)  2_555  .  4_555  yes
+  O4  Fe2  O5  89.9(4)  5_445  .  2_555  yes
+  O4  Fe2  O5  81.8(4)  6_545  .  2_555  yes
+  O6  Fe2  O6  86.6(5)  3_555  .  4_555  yes
+  O4  Fe2  O6  90.4(4)  5_445  .  3_555  yes
+  O4  Fe2  O6  97.9(5)  6_545  .  3_555  yes
+  O4  Fe2  O6  97.9(5)  5_445  .  4_555  yes
+  O4  Fe2  O6  90.4(4)  6_545  .  4_555  yes
+  O4  Fe2  O4  168.7(5)  5_445  .  6_545  yes
+  O1  P1  O2  104.0(8)  .  .  .  yes
+  O1  P1  O3  106.3(9)  .  .  .  yes
+  O1  P1  O4  108.6(7)  .  .  .  yes
+  O2  P1  O3  113.4(7)  .  .  .  yes
+  O2  P1  O4  103.6(8)  .  .  .  yes
+  O3  P1  O4  119.8(9)  .  .  .  yes
+  O2  P2  O5  110.4(7)  .  .  .  yes
+  O2  P2  O6  106.6(10)  .  .  .  yes
+  O1  P2  O2  102.0(7)  3_565  .  .  yes
+  O5  P2  O6  115.9(8)  .  .  .  yes
+  O1  P2  O5  111.9(10)  3_565  .  .  yes
+  O1  P2  O6  109.0(7)  3_565  .  .  yes
+  P1  O1  P2  139.2(9)  .  .  3_565  yes
+  P1  O2  P2  134.1(10)  .  .  .  yes
+  Fe1  O3  P1  160.2(7)  .  .  .  yes
+  Fe1  O4  P1  121.5(7)  4_564  .  .  yes
+  Fe2  O4  P1  139.2(7)  5_555  .  .  yes
+  Fe1  O4  Fe2  97.9(5)  4_564  .  5_555  yes
+  Fe2  O5  P2  130.4(7)  .  .  .  yes
+  Fe1  O5  Fe2  98.5(5)  2_555  .  .  yes
+  Fe1  O5  P2  118.3(6)  2_555  .  .  yes
+  Fe2  O6  P2  155.5(8)  3_555  .  .  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Fe1  O3  2.048(9)  .  .  yes
+  Fe1  O5  2.202(12)  .  2_555  yes
+  Fe1  O4  2.138(9)  .  4_565  yes
+  Fe1  O4  2.138(9)  .  6_545  yes
+  Fe1  O3  2.048(9)  .  7_556  yes
+  Fe1  O5  2.202(12)  .  8_555  yes
+  Fe2  O5  2.119(11)  .  .  yes
+  Fe2  O5  2.119(11)  .  2_555  yes
+  Fe2  O6  2.047(11)  .  3_555  yes
+  Fe2  O6  2.047(11)  .  4_555  yes
+  Fe2  O4  2.204(13)  .  5_445  yes
+  Fe2  O4  2.204(13)  .  6_545  yes
+  P1  O1  1.606(16)  .  .  yes
+  P1  O2  1.589(12)  .  .  yes
+  P1  O3  1.429(13)  .  .  yes
+  P1  O4  1.504(17)  .  .  yes
+  P2  O2  1.533(16)  .  .  yes
+  P2  O5  1.558(16)  .  .  yes
+  P2  O6  1.508(13)  .  .  yes
+  P2  O1  1.542(13)  .  3_565  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O3  Fe1  O5  Fe2  92.3(4)  .  .  2_555  .  no
+  O3  Fe1  O4  Fe2  -94.4(5)  .  .  6_545  .  no
+  O5  Fe2  O5  P2  125.3(9)  2_555  .  .  .  no
+  O6  Fe2  O5  P2  -54.3(9)  3_555  .  .  .  no
+  O4  Fe2  O5  P2  -144.1(9)  5_445  .  .  .  no
+  O4  Fe2  O5  P2  43.6(9)  6_545  .  .  .  no
+  O5  Fe2  O5  Fe1  -95.5(4)  .  .  2_555  .  no
+  O5  Fe2  O4  Fe1  89.7(4)  .  .  6_545  .  no
+  O2  P1  O1  P2  -56.2(15)  .  .  .  3_565  no
+  O3  P1  O1  P2  -176.2(11)  .  .  .  3_565  no
+  O4  P1  O1  P2  53.7(14)  .  .  .  3_565  no
+  O1  P1  O2  P2  -49.2(12)  .  .  .  .  no
+  O3  P1  O2  P2  65.9(14)  .  .  .  .  no
+  O4  P1  O2  P2  -162.6(9)  .  .  .  .  no
+  O1  P1  O4  Fe1  -36.4(9)  .  .  .  4_564  no
+  O1  P1  O4  Fe2  161.0(8)  .  .  .  5_555  no
+  O2  P1  O4  Fe1  73.7(8)  .  .  .  4_564  no
+  O2  P1  O4  Fe2  -88.8(10)  .  .  .  5_555  no
+  O3  P1  O4  Fe1  -158.7(7)  .  .  .  4_564  no
+  O3  P1  O4  Fe2  38.7(14)  .  .  .  5_555  no
+  O5  P2  O2  P1  -27.1(13)  .  .  .  .  no
+  O6  P2  O2  P1  -153.8(9)  .  .  .  .  no
+  O1  P2  O2  P1  91.9(11)  3_565  .  .  .  no
+  O2  P2  O5  Fe2  -86.4(9)  .  .  .  .  no
+  O2  P2  O5  Fe1  140.9(7)  .  .  .  2_555  no
+  O6  P2  O5  Fe2  35.0(13)  .  .  .  .  no
+  O6  P2  O5  Fe1  -97.8(9)  .  .  .  2_555  no
+  O1  P2  O5  Fe2  160.7(7)  3_565  .  .  .  no
+  O2  P2  O6  Fe2  -147.2(17)  .  .  .  3_555  no
+  O5  P2  O6  Fe2  89.5(18)  .  .  .  3_555  no
+  O2  P2  O1  P1  -101.6(14)  .  .  3_565  3_565  no
+  O5  P2  O1  P1  16.5(15)  .  .  3_565  3_565  no
+  O6  P2  O1  P1  145.9(12)  .  .  3_565  3_565  no

@@ -1,0 +1,91 @@
+# generated using pymatgen
+data_9009893
+loop_
+ _publ_author_name
+  'Ruszala, F. A.'
+  'Anderson, J. B.'
+  'Kostiner, E.'
+_publ_section_title
+;
+Crystal structures of two isomorphs of arsenoclasite: Co5(PO4)2(OH)4
+and  Mn5(PO4)2(OH)4 Locality: synthetic
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   2417
+_journal_page_last   2422
+_journal_paper_doi   10.1021/ic50175a051
+_journal_volume   16
+_journal_year   1977
+_chemical_compound_source   Synthetic
+_chemical_formula_structural   Co5(OH)4(PO4)2
+_chemical_formula_sum   'Co5 H4 O12 P2'
+_space_group_IT_number   19
+_symmetry_space_group_name_Hall   'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.903
+_cell_length_b   17.3970
+_cell_length_c   5.5154
+_cell_volume   854.255
+_database_code_amcsd   0012685
+_exptl_crystal_density_diffrn   4.297
+_cod_original_formula_sum   'Co5 P2 O12 H4'
+_cod_database_code   9009893
+_amcsd_formula_title   Co5(OH)4(PO4)2
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,1/2+y,1/2-z
+  1/2+x,1/2-y,-z
+  1/2-x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Co1  0.37720  0.12597  0.44630  0.00469  Co  0
+  Co2  0.38150  0.03206  0.95330  0.00494  Co  0
+  Co3  0.35660  0.22173  0.93090  0.00507  Co  0
+  Co4  0.74960  0.93130  0.76710  0.00557  Co  0
+  Co5  0.50660  0.82190  0.08640  0.00583  Co  0
+  P1  0.68010  0.12030  0.81060  0.00304  P  0
+  P2  0.42930  0.87180  0.62500  0.00329  P  0
+  O1  0.74220  0.85820  0.06790  0.00545  O  0
+  O2  0.50760  0.12270  0.77880  0.00519  O  0
+  O3  0.72770  0.17350  0.02130  0.00709  O  0
+  O4  0.72730  0.03990  0.89660  0.00595  O  0
+  O5  0.25570  0.87310  0.62030  0.00469  O  0
+  O6  0.49720  0.92930  0.81100  0.00849  O  0
+  O7  0.48430  0.89050  0.37110  0.00633  O  0
+  O8  0.48150  0.79280  0.72200  0.00697  O  0
+  O-H9  0.46660  0.21990  0.25310  0.00646  O  1
+  O-H10  0.26150  0.79720  0.12150  0.00659  O  1
+  O-H11  0.25760  0.04120  0.63850  0.00545  O  1
+  O-H12  0.51590  0.05120  0.26750  0.00583  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:52:16+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0012685

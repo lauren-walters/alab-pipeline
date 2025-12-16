@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66db38a34efa8b4b4dfcfba4",
+  "experiment_name": "PG_0920-1",
+  "success": true,
+  "error": null,
+  "rwp": 1.53,
+  "rp": 1.21,
+  "rexp": 1.36,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "KP(HO2)2_122_(cod_9010000)-5",
+      "spacegroup": "I-42d",
+      "weight_fraction": 0.12713,
+      "weight_fraction_error": 0.00065,
+      "lattice_a_nm": 0.745504,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.697683,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 2.83
+    },
+    {
+      "phase_name": "Co3O4_227_(cod_9005896)-0",
+      "spacegroup": "F4_1/d-32/m",
+      "weight_fraction": 0.06819,
+      "weight_fraction_error": 0.00042,
+      "lattice_a_nm": 0.808693,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 1.39
+    }
+  ],
+  "chemical_system": "Co-H-K-O-P",
+  "target_formula": "K3Co3P3(H3O8)2",
+  "analysis_timestamp": "2025-12-06T15:04:23.457481",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

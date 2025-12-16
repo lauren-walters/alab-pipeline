@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6671cb6bd3e1f98cc044828a",
+  "experiment_name": "Na_289",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Co-Na-O-P",
+  "target_formula": "Na4CoP2O9",
+  "analysis_timestamp": "2025-12-06T13:58:25.648776",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

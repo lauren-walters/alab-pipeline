@@ -1,0 +1,31 @@
+{
+  "experiment_id": "667a13c613800728dad6cd17",
+  "experiment_name": "PG_1743-1",
+  "success": true,
+  "error": null,
+  "rwp": 6.33,
+  "rp": 5.98,
+  "rexp": 2.31,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.20243,
+      "weight_fraction_error": 0.00042,
+      "lattice_a_nm": 0.511924,
+      "lattice_b_nm": 0.517994,
+      "lattice_c_nm": 0.529053,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.2358,
+      "lattice_gamma_deg": null,
+      "r_phase": 8.22
+    }
+  ],
+  "chemical_system": "Hf-O-Si",
+  "target_formula": "HfSiO4",
+  "analysis_timestamp": "2025-12-06T14:10:10.142739",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

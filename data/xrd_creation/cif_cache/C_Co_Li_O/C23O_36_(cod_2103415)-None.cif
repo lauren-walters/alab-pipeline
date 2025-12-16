@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_2103415
+loop_
+ _publ_author_name
+  'Herbstein, Frank H.'
+  'Hu, Shengzhi'
+  'Kapon, Moshe'
+_publ_section_title
+;
+Some errors from the crystallographic literature, some amplifications
+and a questionable result
+;
+_journal_issue   5
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   884
+_journal_page_last   892
+_journal_paper_doi   10.1107/S0108768102010261
+_journal_volume   58
+_journal_year   2002
+_chemical_formula_sum   'C23 H24 O'
+_chemical_name_systematic
+4-Methyl-2,6-bis(4-methylbenzylidene)cyclohexanone
+_space_group_IT_number   36
+_symmetry_space_group_name_Hall   'C 2c -2'
+_symmetry_space_group_name_H-M   'C m c 21'
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   4
+_cell_length_a   19.531
+_cell_length_b   11.459
+_cell_length_c   8.067
+_cell_volume   1805.441
+_diffrn_ambient_temperature   298
+_cod_data_source_file   bm0053.cif
+_cod_data_source_block   number_5
+_cod_original_cell_volume   1805.44
+_cod_original_sg_symbol_H-M   Cmc2(1)
+_cod_original_formula_sum   'C23 H24 O'
+_cod_database_code   2103415
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  'x, -y, z + 1/2'
+  '-x, y,  z'
+  '-x, -y, z + 1/2'
+  'x + 1/2, y + 1/2, z'
+  'x + 1/2, -y + 1/2, z + 1/2'
+  '-x + 1/2, y + 1/2,  z'
+  '-x + 1/2, -y + 1/2, z + 1/2'
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  O  0.0000  0.5088  -0.3432
+  C1  0.0000  0.4065  -0.3058
+  C4  0.0000  0.1612  -0.3557
+  C7  0.0000  0.0271  -0.3598
+  C2,6  -0.0660  0.3417  -0.2722
+  C3,5  -0.0637  0.2088  -0.2697
+  C8,16  -0.1219  0.4083  -0.2476
+  C9,17  -0.1911  0.3753  -0.2006
+  C10,18  -0.2086  0.2718  -0.1195
+  C11,19  -0.2760  0.2472  -0.0749
+  C12,20  -0.3287  0.3245  -0.1131
+  C13,21  -0.3115  0.4284  -0.1903
+  C14,22  -0.2447  0.4547  -0.2343
+  C15,23  -0.4024  0.2933  -0.0667

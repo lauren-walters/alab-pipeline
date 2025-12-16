@@ -1,0 +1,109 @@
+# generated using pymatgen
+data_4315113
+loop_
+ _publ_author_name
+  "Santiago Garc\'ia-Granda"
+  'Sergei A. Khainakov'
+  'Aranzazu Espina'
+  "Jos\'e R. Garc\'ia"
+  "Germ\'an R. Castro"
+  'Jo\~ao Rocha'
+  "Lu\'is Mafra"
+_publ_section_title
+;
+Revisiting the Thermal Decomposition of Layered \g-Titanium Phosphate
+and  Structural Elucidation of Its Intermediate Phases
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   2630
+_journal_page_last   2638
+_journal_paper_doi   10.1021/ic901254j
+_journal_volume   49
+_journal_year   2010
+_chemical_formula_moiety   'H2 O15 P4 Ti2'
+_chemical_formula_sum   'H2 O15 P4 Ti2'
+_chemical_formula_weight   451.64
+_chemical_name_systematic   ?
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_audit_creation_date   2008-10-26
+_audit_creation_method   'Materials Studio'
+_cell_angle_alpha   90.0000
+_cell_angle_beta   90.5900
+_cell_angle_gamma   90.0000
+_cell_formula_units_Z   2
+_cell_length_a   16.2710
+_cell_length_b   6.3190
+_cell_length_c   5.1220
+_cell_volume   526.598
+_cod_data_source_file   ic901254j_si_002.cif
+_cod_data_source_block   laminar
+_cod_original_cell_volume   526.60
+_cod_database_code   4315113
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+  Ti1  Ti  0.15263  0.73800  0.93000  0.00000  Uiso  1.00
+  P1  P  0.02944  0.66013  0.36182  0.00000  Uiso  1.00
+  P2  P  0.20772  0.23690  0.94350  0.00000  Uiso  1.00
+  O1  O  0.15601  0.04030  0.92200  0.00000  Uiso  1.00
+  O2  O  0.74790  0.25100  0.21120  0.00000  Uiso  1.00
+  O3  O  0.64530  0.07080  0.44300  0.00000  Uiso  1.00
+  O4  O  0.27516  0.27040  0.20650  0.00000  Uiso  1.00
+  O5  O  0.92033  0.42321  0.84999  0.00000  Uiso  1.00
+  O6  O  0.40612  0.31301  0.90423  0.00000  Uiso  1.00
+  O7  O  0.50032  0.00011  1.00137  0.00000  Uiso  1.00
+  O8  O  0.54185  0.30006  0.24810  0.00000  Uiso  1.00
+  H2  H  0.97418  0.96967  0.27662  0.00000  Uiso  1.00
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  Ti1  O1  1.911  1_565
+  Ti1  O2  1.781  3_666
+  Ti1  O3  1.956  4_455
+  Ti1  O4  2.201  2_556
+  Ti1  O6  2.009  2_556
+  Ti1  O5  1.935  3_667
+  P1  O5  1.463  3_666
+  P1  O6  1.855  2_556
+  P1  O7  1.329  4_454
+  P1  O8  1.559  2
+  P1  O7  1.325  2_556
+  P1  P1  2.654  3_566
+  P2  O1  1.504  .
+  P2  O2  1.366  4_455
+  P2  O3  1.584  4_455
+  P2  O4  1.742  1_556
+  O1  Ti1  1.911  1_545
+  O2  Ti1  1.781  3_666
+  O2  P2  1.366  4_554
+  O3  P2  1.584  4_554
+  O3  Ti1  1.956  4_554
+  O4  Ti1  2.201  2_546
+  O4  P2  1.742  1_554
+  O5  P1  1.463  3_666
+  O5  Ti1  1.935  3_667
+  O6  Ti1  2.009  2_546
+  O6  P1  1.855  2_546
+  O7  P1  1.329  4
+  O7  P1  1.325  2_546
+  O8  P1  1.559  2_545
+  O8  H2  1.110  2_645
+  H2  O8  1.110  2_655

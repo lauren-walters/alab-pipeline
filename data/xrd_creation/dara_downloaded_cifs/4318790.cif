@@ -1,0 +1,253 @@
+# generated using pymatgen
+data_4318790
+loop_
+ _publ_author_name
+  'Yanning Song'
+  'Peter Y. Zavalij'
+  'Masatsugu Suzuki'
+  'M. Stanley Whittingham'
+_publ_section_title
+;
+New Iron(III) Phosphate Phases: Crystal Structure and Electrochemical
+and  Magnetic Properties
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   5778
+_journal_page_last   5786
+_journal_paper_doi   10.1021/ic025688q
+_journal_volume   41
+_journal_year   2002
+_chemical_formula_moiety   'Fe P O4'
+_chemical_formula_sum   'Fe O4 P'
+_chemical_formula_weight   150.82
+_chemical_name_systematic   'Iron Phosphate'
+_space_group_IT_number   61
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P b c a'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   8
+_cell_length_a   8.6753(11)
+_cell_length_b   9.1708(12)
+_cell_length_c   9.4564(12)
+_cell_measurement_reflns_used   2992
+_cell_measurement_temperature   295(2)
+_cell_measurement_theta_max   60.636
+_cell_measurement_theta_min   4.695
+_cell_volume   752.35(17)
+_computing_cell_refinement   'SAINT (Bruker, 1999)'
+_computing_data_collection   'SMART (Bruker, 1999)'
+_computing_data_reduction   SAINT
+_computing_molecular_graphics
+'ORTEP-3 (Farrugia,1997), ATOMS (Dowty,1999)'
+_computing_publication_material   'SHELXL-97, ZCIF'
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution   'SHELXS-97 (Sheldrick, 1990)'
+_diffrn_ambient_temperature   295(2)
+_diffrn_measured_fraction_theta_full   0.995
+_diffrn_measured_fraction_theta_max   0.995
+_diffrn_measurement_device_type
+'Bruker SmartApex CCD area detector'
+_diffrn_measurement_method   '\w scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0344
+_diffrn_reflns_av_sigmaI/netI   0.0297
+_diffrn_reflns_limit_h_max   10
+_diffrn_reflns_limit_h_min   -10
+_diffrn_reflns_limit_k_max   11
+_diffrn_reflns_limit_k_min   -11
+_diffrn_reflns_limit_l_max   11
+_diffrn_reflns_limit_l_min   -11
+_diffrn_reflns_number   3392
+_diffrn_reflns_theta_full   26.35
+_diffrn_reflns_theta_max   26.35
+_diffrn_reflns_theta_min   3.89
+_diffrn_standards_decay_%   -0.45
+_exptl_absorpt_coefficient_mu   4.285
+_exptl_absorpt_correction_T_max   0.3576
+_exptl_absorpt_correction_T_min   0.2398
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   'SADABS (Sheldrick, 1996)'
+_exptl_crystal_colour   'pale yellow'
+_exptl_crystal_density_diffrn   2.663
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   pyramide
+_exptl_crystal_F_000   584
+_exptl_crystal_size_max   0.34
+_exptl_crystal_size_mid   0.26
+_exptl_crystal_size_min   0.24
+_refine_diff_density_max   0.909
+_refine_diff_density_min   -0.994
+_refine_diff_density_rms   0.220
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.001
+_refine_ls_hydrogen_treatment   constr
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   55
+_refine_ls_number_reflns   765
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.001
+_refine_ls_R_factor_all   0.0813
+_refine_ls_R_factor_gt   0.0783
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'1/[\s^2^(Fo^2^)+49.P], P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.1866
+_refine_ls_wR_factor_ref   0.1884
+_reflns_number_gt   712
+_reflns_number_total   765
+_reflns_threshold_expression   >2sigma(I)
+_cod_data_source_file   ic025688q_s2_4.cif
+_cod_data_source_block   Compound_D_FePO4_ortho
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Orthorhombic' changed to
+'orthorhombic' according to the built-in table from CIF Core
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+Automatic conversion script Id: cif_fix_values 1646 2011-03-28
+12:23:43Z adriana
+;
+_cod_database_code   4318790
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x+1/2, -y, z+1/2'
+  '-x, y+1/2, -z+1/2'
+  'x+1/2, -y+1/2, -z'
+  '-x, -y, -z'
+  'x-1/2, y, -z-1/2'
+  'x, -y-1/2, z-1/2'
+  '-x-1/2, y-1/2, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Fe1  Fe  0.56446(19)  0.28409(19)  0.39952(18)  0.0233(5)  Uani  1
+  1  d  .  .  .
+  P2  P  0.3794(3)  0.1168(3)  0.1764(3)  0.0223(7)  Uani  1  1  d
+  .  .  .
+  O1  O  0.3929(10)  0.1914(9)  0.3190(9)  0.0304(19)  Uani  1  1  d
+  .  .  .
+  O2  O  0.2270(10)  0.1558(10)  0.1065(10)  0.034(2)  Uani  1  1  d
+  .  .  .
+  O3  O  0.5157(9)  0.1641(10)  0.0820(9)  0.029(2)  Uani  1  1  d
+  .  .  .
+  O4  O  0.3854(10)  -0.0486(9)  0.1982(9)  0.032(2)  Uani  1  1  d
+  .  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Fe1  0.0184(8)  0.0237(9)  0.0276(9)  -0.0020(7)  0.0022(7)
+  0.0010(6)
+  P2  0.0179(14)  0.0239(14)  0.0250(14)  -0.0006(12)  -0.0004(12)
+  0.0011(11)
+  O1  0.023(4)  0.032(4)  0.036(5)  -0.008(4)  0.004(4)  0.001(4)
+  O2  0.025(5)  0.035(5)  0.042(5)  -0.007(4)  -0.004(4)  0.011(4)
+  O3  0.021(4)  0.041(5)  0.026(4)  0.007(4)  0.006(3)  -0.001(4)
+  O4  0.029(4)  0.027(4)  0.040(5)  -0.004(4)  0.003(4)  0.001(4)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+  Fe  Fe  0.3463  0.8444
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O2  Fe1  O3  111.8(4)  6_656  7_566  ?
+  O2  Fe1  O4  109.7(4)  6_656  3_655  ?
+  O3  Fe1  O4  108.0(4)  7_566  3_655  ?
+  O2  Fe1  O1  107.8(4)  6_656  .  ?
+  O3  Fe1  O1  108.4(4)  7_566  .  ?
+  O4  Fe1  O1  111.2(4)  3_655  .  ?
+  O1  P2  O2  110.3(5)  .  .  ?
+  O1  P2  O4  108.9(5)  .  .  ?
+  O2  P2  O4  108.7(5)  .  .  ?
+  O1  P2  O3  109.2(5)  .  .  ?
+  O2  P2  O3  110.4(5)  .  .  ?
+  O4  P2  O3  109.3(5)  .  .  ?
+  P2  O1  Fe1  128.8(5)  .  .  ?
+  P2  O2  Fe1  146.2(6)  .  6_556  ?
+  P2  O3  Fe1  142.3(6)  .  7_565  ?
+  P2  O4  Fe1  139.9(6)  .  3_645  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Fe1  O2  1.838(8)  6_656  ?
+  Fe1  O3  1.839(8)  7_566  ?
+  Fe1  O4  1.843(9)  3_655  ?
+  Fe1  O1  1.875(9)  .  ?
+  P2  O1  1.517(9)  .  ?
+  P2  O2  1.520(9)  .  ?
+  P2  O4  1.532(9)  .  ?
+  P2  O3  1.543(8)  .  ?
+  O2  Fe1  1.838(8)  6_556  ?
+  O3  Fe1  1.839(8)  7_565  ?
+  O4  Fe1  1.843(9)  3_645  ?
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O2  P2  O1  Fe1  -137.9(7)  .  .  .  .  ?
+  O4  P2  O1  Fe1  102.9(7)  .  .  .  .  ?
+  O3  P2  O1  Fe1  -16.4(8)  .  .  .  .  ?
+  O2  Fe1  O1  P2  -52.7(8)  6_656  .  .  .  ?
+  O3  Fe1  O1  P2  -173.9(6)  7_566  .  .  .  ?
+  O4  Fe1  O1  P2  67.5(8)  3_655  .  .  .  ?
+  O1  P2  O2  Fe1  19.7(13)  .  .  .  6_556  ?
+  O4  P2  O2  Fe1  139.1(11)  .  .  .  6_556  ?
+  O3  P2  O2  Fe1  -101.0(11)  .  .  .  6_556  ?
+  O1  P2  O3  Fe1  -139.6(9)  .  .  .  7_565  ?
+  O2  P2  O3  Fe1  -18.2(11)  .  .  .  7_565  ?
+  O4  P2  O3  Fe1  101.3(10)  .  .  .  7_565  ?
+  O1  P2  O4  Fe1  -155.6(8)  .  .  .  3_645  ?
+  O2  P2  O4  Fe1  84.2(9)  .  .  .  3_645  ?
+  O3  P2  O4  Fe1  -36.4(10)  .  .  .  3_645  ?

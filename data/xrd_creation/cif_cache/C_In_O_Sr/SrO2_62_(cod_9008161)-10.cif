@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_9008161
+loop_
+ _publ_author_name
+  'Barnighausen, H.'
+  'Beck, H.'
+  'Grueninger, H. W.'
+  'Rietschel, E. T.'
+  'Schultz, N.'
+_publ_section_title
+'Neue AB2-strukturtypen mit siebenfach koordiniertem kation'
+_journal_name_full   'Zeitschrift fur Kristallographie'
+_journal_page_first   430
+_journal_page_last   430
+_journal_paper_doi   10.1524/zkri.1969.128.16.424
+_journal_volume   128
+_journal_year   1969
+_chemical_formula_structural   Sr(OH)2
+_chemical_formula_sum   'H2 O2 Sr'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2c 2n'
+_symmetry_space_group_name_H-M   'P n a m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.889
+_cell_length_b   6.1202
+_cell_length_c   3.9184
+_cell_volume   237.152
+_database_code_amcsd   0010677
+_exptl_crystal_density_diffrn   3.407
+_cod_depositor_comments
+;
+Adding the _journal_paper_doi data item.  Antanas Vaitkus,  2017-07-14
+Adding the _cell_formula_units_Z data item.  Antanas Vaitkus,
+2017-07-14
+;
+_cod_original_formula_sum   'Sr (O2 H2)'
+_cod_database_code   9008161
+_amcsd_formula_title   Sr(OH)2
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  1/2-x,1/2+y,1/2+z
+  1/2+x,1/2-y,1/2-z
+  1/2+x,1/2-y,z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_attached_hydrogens
+ _atom_site_type_symbol
+  Sr  0.16130  0.09590  0.25000  0  Sr
+  O-H1  0.39500  0.34400  0.25000  1  O
+  O-H2  0.36900  -0.13500  0.25000  1  O
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:51:13+03:00
+;
+Derived atom types from atom names that follow the AMCSD naming
+convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0010677
+  2  PubChem  139207745

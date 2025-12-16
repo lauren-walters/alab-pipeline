@@ -1,0 +1,129 @@
+# generated using pymatgen
+data_8101639
+loop_
+ _publ_author_name
+  'K\"onigstein, Dagmar'
+  'Jansen, Martin'
+_publ_section_title
+'Crystal structure of strontium dihydrogenphosphate, Sr(H~2~PO~4~)~2~'
+_journal_issue   4
+_journal_name_full
+'Zeitschrift f\"ur Kristallographie - New Crystal Structures'
+_journal_page_first   696
+_journal_page_last   696
+_journal_volume   213
+_journal_year   1998
+_chemical_formula_analytical   'Sr1 P2 O8 H4'
+_chemical_formula_structural   'Sr (H2 P O4)2'
+_chemical_formula_sum   'H4 O8 P2 Sr'
+_chemical_formula_weight   281.59
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   103.98(2)
+_cell_angle_beta   96.97(2)
+_cell_angle_gamma   109.70(2)
+_cell_formula_units_Z   2
+_cell_length_a   6.7455(10)
+_cell_length_b   7.0833(10)
+_cell_length_c   7.8019(10)
+_cell_measurement_temperature   293(2)
+_cell_volume   332.07(8)
+_diffrn_ambient_temperature   293(2)
+_exptl_crystal_density_diffrn   2.816
+_refine_ls_R_factor_obs   0.0398
+_refine_ls_wR_factor_obs   0.0978
+_cod_database_code   8101639
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, -y, -z'
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Sr1  0.0098(2)  0.00827(14)  0.0088(2)  0.00393(12)  0.00324(12)
+  0.00281(12)
+  P1  0.0126(4)  0.0094(4)  0.0075(4)  0.0044(3)  0.0045(4)
+  0.0038(4)
+  O1  0.0121(12)  0.0117(12)  0.0171(14)  0.0029(11)  0.0027(11)
+  0.0047(10)
+  O2  0.0230(14)  0.0241(13)  0.0238(14)  0.0180(11)  0.0171(12)
+  0.0160(11)
+  O3  0.0159(13)  0.0110(12)  0.0147(13)  0.0044(10)  0.0074(11)
+  0.0022(11)
+  O4  0.0249(15)  0.0173(12)  0.0248(14)  0.0179(11)  0.0166(12)
+  0.0131(11)
+  P2  0.0094(4)  0.0082(4)  0.0112(4)  0.0045(3)  0.0040(4)
+  0.0043(3)
+  O5  0.0143(12)  0.0131(12)  0.0131(13)  0.0069(10)  0.0047(11)
+  0.0069(10)
+  O6  0.0160(14)  0.0141(13)  0.0081(13)  0.0054(11)  0.0015(11)
+  -0.0032(11)
+  O7  0.0186(14)  0.0141(13)  0.0098(13)  0.0062(11)  0.0034(11)
+  0.0016(11)
+  O8  0.0143(14)  0.0098(13)  0.025(2)  -0.0003(12)  0.0026(13)
+  0.0035(11)
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+  Sr1  Sr  0.23043(6)  0.20898(6)  0.91202(5)  0.00877(9)  Uani  1
+  P1  P  0.2091(2)  0.2928(2)  0.41763(14)  0.0094(2)  Uani  1
+  O1  O  0.3463(5)  0.6112(4)  0.0044(4)  0.0139(7)  Uani  1
+  O2  O  0.1114(5)  0.7009(5)  0.2176(4)  0.0186(7)  Uani  1
+  O3  O  0.3537(5)  0.2888(4)  0.2843(4)  0.0142(7)  Uani  1
+  O4  O  0.1371(5)  0.4759(4)  0.4222(4)  0.0177(7)  Uani  1
+  P2  P  0.2645(2)  0.77532(15)  0.08994(14)  0.0089(2)  Uani  1
+  O5  O  0.1365(5)  0.8564(4)  -0.0239(4)  0.0123(7)  Uani  1
+  O6  O  0.0205(5)  0.0828(4)  0.3796(4)  0.0149(8)  Uani  1
+  O7  O  0.3352(5)  0.3336(4)  0.6172(4)  0.0149(7)  Uani  1
+  O8  O  0.4789(5)  0.9622(5)  0.2118(5)  0.0178(8)  Uani  1
+  H3  H  0.1386(96)  0.6233(97)  0.2521(85)  0.037(19)  Uiso  1
+  H4  H  0.4759(93)  1.0763(93)  0.2612(81)  0.032(17)  Uiso  1
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  Sr1  O5  2.550(3)  1_546
+  Sr1  O1  2.572(3)  1_556
+  Sr1  O6  2.597(3)  2_556
+  Sr1  O1  2.626(3)  2_666
+  Sr1  O5  2.655(3)  2_566
+  Sr1  O2  2.736(3)  2_566
+  Sr1  O7  2.743(3)  .
+  Sr1  O8  2.783(3)  2_666
+  Sr1  O3  2.784(3)  1_556
+  Sr1  P2  3.3728(13)  2_666
+  Sr1  P2  3.3763(13)  2_566
+  Sr1  P2  3.7249(13)  1_546
+  P1  O3  1.511(3)  .
+  P1  O4  1.526(3)  .
+  P1  O6  1.529(3)  .
+  P1  O7  1.589(3)  .
+  O1  P2  1.499(3)  .
+  O1  Sr1  2.572(3)  1_554
+  O1  Sr1  2.626(3)  2_666
+  O2  P2  1.573(3)  .
+  O2  Sr1  2.736(3)  2_566
+  O3  Sr1  2.784(3)  1_554
+  P2  O5  1.503(3)  .
+  P2  O8  1.586(3)  .
+  P2  Sr1  3.3728(13)  2_666
+  P2  Sr1  3.3763(13)  2_566
+  P2  Sr1  3.7249(13)  1_564
+  O5  Sr1  2.550(3)  1_564
+  O5  Sr1  2.655(3)  2_566
+  O6  Sr1  2.597(3)  2_556
+  O8  Sr1  2.783(3)  2_666

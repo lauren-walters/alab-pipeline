@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_1007150
+loop_
+ _publ_author_name
+  'Durif, A'
+  'Averbuch-Pouchot, M T'
+_publ_section_title
+'Structure of strontium tetrametaphosphate hexahydrate'
+_journal_coden_ASTM   ACSCEE
+_journal_name_full   'Acta Crystallographica C (39,1983-)'
+_journal_page_first   927
+_journal_page_last   928
+_journal_volume   42
+_journal_year   1986
+_chemical_formula_structural   'Sr2 P4 O12 (H2 O)6'
+_chemical_formula_sum   'H12 O18 P4 Sr2'
+_chemical_name_systematic
+'Distrontium tetrametaphosphate hexahydrate'
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_Int_Tables_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   101.62(5)
+_cell_angle_beta   109.98(5)
+_cell_angle_gamma   95.65(5)
+_cell_formula_units_Z   1
+_cell_length_a   6.644(3)
+_cell_length_b   7.365(4)
+_cell_length_c   8.618(4)
+_cell_volume   381.7
+_refine_ls_R_factor_all   0.042
+_cod_database_code   1007150
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Sr1  Sr2+  2  i  0.59881(8)  0.25201(7)  0.69116(6)  1.  0  d
+  P1  P5+  2  i  0.2363(2)  0.1960(2)  0.2387(2)  1.  0  d
+  P2  P5+  2  i  0.8421(2)  0.9056(2)  0.1247(2)  1.  0  d
+  O1  O2-  2  i  0.0216(6)  0.8825(5)  0.8242(5)  1.  0  d
+  O2  O2-  2  i  0.7048(6)  0.8855(6)  0.9265(5)  1.  0  d
+  O3  O2-  2  i  0.7417(7)  0.5965(5)  0.7254(5)  1.  0  d
+  O4  O2-  2  i  0.6422(6)  0.8946(5)  0.6273(5)  1.  0  d
+  O5  O2-  2  i  0.0062(6)  0.2320(5)  0.8588(5)  1.  0  d
+  O6  O2-  2  i  0.3108(6)  0.0872(6)  0.7835(5)  1.  0  d
+  O7  O2-  2  i  0.7340(7)  0.5717(6)  0.3568(5)  1.  0  d
+  O8  O2-  2  i  0.7368(8)  0.4064(6)  0.0279(6)  1.  0  d
+  O9  O2-  2  i  0.8182(7)  0.2533(6)  0.4895(5)  1.  0  d
+  H1  H1+  2  i  0.74(1)  0.50(1)  0.27(1)  1.  0  d
+  H2  H1+  2  i  0.75(1)  0.52(1)  0.43(1)  1.  0  d
+  H3  H1+  2  i  0.78(1)  0.39(1)  0.12(1)  1.  0  d
+  H4  H1+  2  i  0.83(2)  0.50(1)  0.04(1)  1.  0  d
+  H5  H1+  2  i  0.03(1)  0.73(1)  0.47(1)  1.  0  d
+  H6  H1+  2  i  0.79(1)  0.15(1)  0.39(1)  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Sr2+  2.000
+  P5+  5.000
+  O2-  -2.000
+  H1+  1.000

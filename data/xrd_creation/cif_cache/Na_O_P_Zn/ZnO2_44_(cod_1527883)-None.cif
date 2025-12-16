@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_1527883
+loop_
+ _publ_author_name
+  'Norlund Christensen, A.'
+_publ_section_title   'The crystal structure of gamma- Zn (O H)2'
+_journal_name_full   'Acta Chemica Scandinavica (1-27,1973-42,1988)'
+_journal_page_first   2016
+_journal_page_last   2020
+_journal_volume   23
+_journal_year   1969
+_chemical_formula_sum   'H2 O2 Zn'
+_chemical_name_systematic   'Zn (O H)2'
+_space_group_IT_number   44
+_symmetry_space_group_name_Hall   'I 2 -2'
+_symmetry_space_group_name_H-M   'I m m 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   12
+_cell_length_a   23.07
+_cell_length_b   8.04
+_cell_length_c   3.3
+_cell_volume   612.093
+_citation_journal_id_ASTM   ACSAA4
+_cod_data_source_file   NorlundChristensen_ACSAA4_1969_1175.cif
+_cod_data_source_block   H2O2Zn1
+_cod_original_cell_volume   612.0932
+_cod_original_formula_sum   'H2 O2 Zn1'
+_cod_database_code   1527883
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -x,y,z
+  x,-y,z
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Zn2  Zn+2  0.2188  0  0.01  1  0.0
+  O3  O-2  0.2653  0  0.544  1  0.0
+  O4  O-2  0.0584  0  -0.049  1  0.0
+  O1  O-2  0.1732  0.2  -0.048  1  0.0
+  O2  O-2  0.0615  0.329  0.512  1  0.0
+  Zn1  Zn+2  0.0887  0.2226  0.0381  1  0.0

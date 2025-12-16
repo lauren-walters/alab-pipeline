@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_9014665
+loop_
+ _publ_author_name
+  'Sutor, D. J.'
+_publ_section_title
+'The crystal and molecular structure of newberyite, MgHPO4*3H2O'
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   418
+_journal_page_last   422
+_journal_paper_doi   10.1107/S0365110X67002889
+_journal_volume   23
+_journal_year   1967
+_chemical_compound_source   'Skipton Caves, Victoria, Australia'
+_chemical_formula_sum   'H7 Mg O7 P'
+_chemical_name_mineral   Newberyite
+_space_group_IT_number   61
+_symmetry_space_group_name_Hall   '-P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P b c a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   10.215
+_cell_length_b   10.681
+_cell_length_c   10.014
+_cell_volume   1092.592
+_database_code_amcsd   0009313
+_exptl_crystal_density_diffrn   2.120
+_cod_original_formula_sum   'Mg P O7 H7'
+_cod_database_code   9014665
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2-y,1/2+z
+  -x,1/2+y,1/2-z
+  1/2-x,1/2+y,z
+  1/2+x,1/2-y,-z
+  1/2+x,y,1/2-z
+  1/2-x,-y,1/2+z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Mg  0.29683  0.24666  0.08644  0.00912  Mg  0
+  P  -0.00897  0.13254  0.15364  0.00849  P  0
+  O3  -0.08849  0.20017  0.25682  0.01925  O  0
+  O4  -0.05097  0.16132  0.00892  0.01646  O  0
+  O5  0.14006  0.15337  0.16736  0.01406  O  0
+  O-H6  -0.03371  -0.01235  0.17864  0.01621  O  1
+  Wat7  0.16684  0.31363  -0.06051  0.02140  O  2
+  Wat8  0.24894  0.41417  0.18918  0.02039  O  2
+  Wat9  0.35504  0.09193  -0.03328  0.02736  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:55:21+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009313

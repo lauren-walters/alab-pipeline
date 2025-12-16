@@ -1,0 +1,86 @@
+# generated using pymatgen
+data_9016193
+loop_
+ _publ_author_name
+  'Vanhoyland, G.'
+  'Bouree, F.'
+  'Van Bael, M. K.'
+  'Mullens, J.'
+  'Van Poucke, L. C.'
+_publ_section_title
+;
+Structure determination and refinement of acid strontium oxalate from
+X-ray  and neutron powder diffraction  _cod_database_code 1000002
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   283
+_journal_page_last   288
+_journal_paper_doi   10.1006/jssc.2000.9057
+_journal_volume   157
+_journal_year   2001
+_chemical_formula_sum   'C3 H3 O7 Sr'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   97.60
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.341
+_cell_length_b   16.880
+_cell_length_c   5.7798
+_cell_volume   613.213
+_database_code_amcsd   0013996
+_exptl_crystal_density_diffrn   2.585
+_cod_duplicate_entry   1000002
+_cod_original_formula_sum   'Sr O7 C3 H3'
+_cod_database_code   9016193
+_amcsd_formula_title   'Strontium oxalate'
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2+y,1/2-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Sr  0.87860  0.41840  0.73850  Sr  0
+  O1  0.61710  0.22900  0.15970  O  0
+  O2  0.67490  0.28130  0.75320  O  0
+  Ow3  0.86130  0.56300  0.57150  O  0
+  O4  0.77590  0.50720  0.06790  O  0
+  O5  0.57340  0.16820  0.56610  O  0
+  O6  0.51390  0.55490  0.26120  O  0
+  O7  0.69780  0.34930  0.33150  O  0
+  C1  0.63000  0.23840  0.57650  C  0
+  C2  0.58490  0.51770  0.09120  C  0
+  C3  0.64950  0.27900  0.33780  C  0
+  Hw1  0.78040  0.07000  0.02190  H  0
+  Hw2  0.63170  0.10410  0.80190  H  0
+  H3  0.14730  0.24560  0.50270  H  0
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-23T09:21:37+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0013996

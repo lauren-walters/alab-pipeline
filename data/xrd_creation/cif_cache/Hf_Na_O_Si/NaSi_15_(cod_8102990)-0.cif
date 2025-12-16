@@ -1,0 +1,408 @@
+# generated using pymatgen
+data_8102990
+loop_
+ _publ_author_name
+  'Thorsten Goebel'
+  'Yurii Prots'
+  'Frank Haarmann'
+_publ_section_title
+;
+Refinement of the crystal structure of tetrasodium tetrasilicide,
+Na4Si4
+;
+_journal_issue   3
+_journal_name_full
+'Zeitschrift f\"ur Kristallographie - New Crystal Structures'
+_journal_page_first   187
+_journal_volume   223
+_journal_year   2008
+_chemical_formula_sum   'Na4 Si4'
+_chemical_formula_weight   204.32
+_chemical_name_systematic   'tetrasodium tetrasilicide'
+_space_group_IT_number   15
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   118.90(10)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   4
+_cell_length_a   12.1536(5)
+_cell_length_b   6.5452(5)
+_cell_length_c   11.1323(6)
+_cell_measurement_temperature   293(2)
+_cell_volume   775.3(8)
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   0.936
+_diffrn_measured_fraction_theta_max   0.936
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.012
+_diffrn_reflns_av_sigmaI/netI   0.017
+_diffrn_reflns_limit_h_max   17
+_diffrn_reflns_limit_h_min   -17
+_diffrn_reflns_limit_k_max   5
+_diffrn_reflns_limit_k_min   -9
+_diffrn_reflns_limit_l_max   16
+_diffrn_reflns_limit_l_min   -16
+_diffrn_reflns_number   2975
+_diffrn_reflns_theta_full   31.50
+_diffrn_reflns_theta_max   31.50
+_diffrn_reflns_theta_min   3.65
+_exptl_absorpt_coefficient_mu   0.879
+_exptl_crystal_colour   silver
+_exptl_crystal_density_diffrn   1.751
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   'irregular shaped'
+_exptl_crystal_F_000   400
+_exptl_crystal_size_max   0.060
+_exptl_crystal_size_mid   0.050
+_exptl_crystal_size_min   0.045
+_refine_diff_density_max   0.267
+_refine_diff_density_min   -0.363
+_refine_diff_density_rms   0.052
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.149
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   37
+_refine_ls_number_reflns   1204
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.149
+_refine_ls_R_factor_all   0.030
+_refine_ls_R_factor_gt   0.028
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0262P)^2^+0.4775P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.063
+_refine_ls_wR_factor_ref   0.064
+_reflns_number_gt   1139
+_reflns_number_total   1204
+_reflns_threshold_expression   >2sigma(I)
+_cod_data_source_file   409953.cff
+_cod_data_source_block   Na4Si4
+_cod_depositor_comments
+;
+2024-04-15 Formula fixed to be consistent with given Z
+miguel
+;
+_cod_original_formula_sum   'Na16 Si16'
+_cod_original_formula_weight   817.28
+_cod_original_cell_volume   775.27(8)
+_cod_original_sg_symbol_H-M   C12/c1
+_cod_database_code   8102990
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y, -z+1/2'
+  'x+1/2, y+1/2, z'
+  '-x+1/2, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, -y, z-1/2'
+  '-x+1/2, -y+1/2, -z'
+  'x+1/2, -y+1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Si1  Si  0.06080(3)  0.29241(5)  0.18781(3)  0.02495(10)  Uani  1
+  8  f  d  .  .  .
+  Si2  Si  0.09754(3)  0.03924(6)  0.35655(3)  0.03050(11)  Uani  1
+  8  f  d  .  .  .
+  Na1  Na  0.35040(5)  0.33807(10)  0.35883(6)  0.03935(16)  Uani  1
+  8  f  d  .  .  .
+  Na2  Na  0.36871(5)  0.09411(9)  0.04668(6)  0.03767(15)  Uani  1
+  8  f  d  .  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Si1  0.02293(16)  0.02552(18)  0.02963(17)  0.00553(11)
+  0.01526(13)  0.00043(11)
+  Si2  0.03044(19)  0.0374(2)  0.02310(16)  0.01208(13)  0.01249(13)
+  0.01505(14)
+  Na1  0.0325(3)  0.0564(4)  0.0291(3)  0.0047(2)  0.0148(2)
+  -0.0028(2)
+  Na2  0.0295(3)  0.0331(3)  0.0462(3)  0.0044(2)  0.0149(2)
+  0.0064(2)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Na  Na  0.0362  0.0249
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Si  Si  0.0817  0.0704
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  Si2  Si1  Si2  60.54(9)  .  2  ?
+  Si2  Si1  Si1  59.43(3)  .  2  ?
+  Si2  Si1  Si1  58.51(3)  2  2  ?
+  Si2  Si1  Na2  134.62(4)  .  3_455  ?
+  Si2  Si1  Na2  90.18(6)  2  3_455  ?
+  Si1  Si1  Na2  76.01(2)  2  3_455  ?
+  Si2  Si1  Na1  81.85(8)  .  .  ?
+  Si2  Si1  Na1  138.67(2)  2  .  ?
+  Si1  Si1  Na1  117.74(5)  2  .  ?
+  Na2  Si1  Na1  130.52(5)  3_455  .  ?
+  Si2  Si1  Na2  141.501(19)  .  7  ?
+  Si2  Si1  Na2  119.70(6)  2  7  ?
+  Si1  Si1  Na2  157.91(3)  2  7  ?
+  Na2  Si1  Na2  82.06(5)  3_455  7  ?
+  Na1  Si1  Na2  78.86(8)  .  7  ?
+  Si2  Si1  Na1  62.89(2)  .  4_545  ?
+  Si2  Si1  Na1  68.618(17)  2  4_545  ?
+  Si1  Si1  Na1  114.841(16)  2  4_545  ?
+  Na2  Si1  Na1  140.90(4)  3_455  4_545  ?
+  Na1  Si1  Na1  79.774(17)  .  4_545  ?
+  Na2  Si1  Na1  81.00(3)  7  4_545  ?
+  Si2  Si1  Na2  80.88(3)  .  4  ?
+  Si2  Si1  Na2  115.57(6)  2  4  ?
+  Si1  Si1  Na2  57.62(4)  2  4  ?
+  Na2  Si1  Na2  82.50(9)  3_455  4  ?
+  Na1  Si1  Na2  70.53(8)  .  4  ?
+  Na2  Si1  Na2  122.306(15)  7  4  ?
+  Na1  Si1  Na2  135.92(5)  4_545  4  ?
+  Si2  Si1  Na1  115.51(4)  .  8_455  ?
+  Si2  Si1  Na1  59.75(6)  2  8_455  ?
+  Si1  Si1  Na1  105.14(4)  2  8_455  ?
+  Na2  Si1  Na1  66.17(8)  3_455  8_455  ?
+  Na1  Si1  Na1  136.27(8)  .  8_455  ?
+  Na2  Si1  Na1  62.610(17)  7  8_455  ?
+  Na1  Si1  Na1  74.75(4)  4_545  8_455  ?
+  Na2  Si1  Na1  147.77(2)  4  8_455  ?
+  Si1  Si2  Si1  62.06(5)  .  2  ?
+  Si1  Si2  Si2  60.21(4)  .  2  ?
+  Si1  Si2  Si2  59.25(4)  2  2  ?
+  Si1  Si2  Na1  120.43(3)  .  7_556  ?
+  Si1  Si2  Na1  76.91(9)  2  7_556  ?
+  Si2  Si2  Na1  129.73(6)  2  7_556  ?
+  Si1  Si2  Na1  73.255(18)  .  4_545  ?
+  Si1  Si2  Na1  125.76(7)  2  4_545  ?
+  Si2  Si2  Na1  72.91(4)  2  4_545  ?
+  Na1  Si2  Na1  156.65(3)  7_556  4_545  ?
+  Si1  Si2  Na2  118.24(6)  .  6_556  ?
+  Si1  Si2  Na2  145.77(2)  2  6_556  ?
+  Si2  Si2  Na2  154.03(5)  2  6_556  ?
+  Na1  Si2  Na2  74.99(9)  7_556  6_556  ?
+  Na1  Si2  Na2  81.82(7)  4_545  6_556  ?
+  Si1  Si2  Na2  151.85(2)  .  4_545  ?
+  Si1  Si2  Na2  133.29(3)  2  4_545  ?
+  Si2  Si2  Na2  104.29(2)  2  4_545  ?
+  Na1  Si2  Na2  87.68(3)  7_556  4_545  ?
+  Na1  Si2  Na2  79.80(2)  4_545  4_545  ?
+  Na2  Si2  Na2  64.48(2)  6_556  4_545  ?
+  Si1  Si2  Na1  117.44(8)  .  3_445  ?
+  Si1  Si2  Na1  68.54(2)  2  3_445  ?
+  Si2  Si2  Na1  62.64(5)  2  3_445  ?
+  Na1  Si2  Na1  80.08(9)  7_556  3_445  ?
+  Na1  Si2  Na1  111.67(7)  4_545  3_445  ?
+  Na2  Si2  Na1  124.23(3)  6_556  3_445  ?
+  Na2  Si2  Na1  65.45(4)  4_545  3_445  ?
+  Si2  Na1  Si2  133.58(3)  7_556  4  ?
+  Si2  Na1  Si1  105.63(10)  7_556  .  ?
+  Si2  Na1  Si1  99.42(8)  4  .  ?
+  Si2  Na1  Si1  90.39(3)  7_556  4  ?
+  Si2  Na1  Si1  43.85(2)  4  4  ?
+  Si1  Na1  Si1  110.59(3)  .  4  ?
+  Si2  Na1  Si2  99.92(9)  7_556  3  ?
+  Si2  Na1  Si2  44.45(8)  4  3  ?
+  Si1  Na1  Si2  143.40(2)  .  3  ?
+  Si1  Na1  Si2  42.839(18)  4  3  ?
+  Si2  Na1  Si1  43.34(4)  7_556  8_556  ?
+  Si2  Na1  Si1  128.18(2)  4  8_556  ?
+  Si1  Na1  Si1  132.41(8)  .  8_556  ?
+  Si1  Na1  Si1  105.25(4)  4  8_556  ?
+  Si2  Na1  Si1  83.97(8)  3  8_556  ?
+  Si2  Na1  Na2  97.39(11)  7_556  2_655  ?
+  Si2  Na1  Na2  83.62(7)  4  2_655  ?
+  Si1  Na1  Na2  143.77(3)  .  2_655  ?
+  Si1  Na1  Na2  96.607(19)  4  2_655  ?
+  Si2  Na1  Na2  54.100(19)  3  2_655  ?
+  Si1  Na1  Na2  55.75(7)  8_556  2_655  ?
+  Si2  Na1  Na2  70.37(2)  7_556  6_556  ?
+  Si2  Na1  Na2  148.07(3)  4  6_556  ?
+  Si1  Na1  Na2  90.84(7)  .  6_556  ?
+  Si1  Na1  Na2  154.72(4)  4  6_556  ?
+  Si2  Na1  Na2  122.64(6)  3  6_556  ?
+  Si1  Na1  Na2  49.490(14)  8_556  6_556  ?
+  Na2  Na1  Na2  70.81(5)  2_655  6_556  ?
+  Si2  Na1  Na2  52.94(8)  7_556  4  ?
+  Si2  Na1  Na2  118.53(5)  4  4  ?
+  Si1  Na1  Na2  57.29(2)  .  4  ?
+  Si1  Na1  Na2  88.37(3)  4  4  ?
+  Si2  Na1  Na2  127.26(3)  3  4  ?
+  Si1  Na1  Na2  94.43(5)  8_556  4  ?
+  Na2  Na1  Na2  150.06(4)  2_655  4  ?
+  Na2  Na1  Na2  92.48(4)  6_556  4  ?
+  Si2  Na1  Na2  164.23(3)  7_556  .  ?
+  Si2  Na1  Na2  50.173(18)  4  .  ?
+  Si1  Na1  Na2  87.16(8)  .  .  ?
+  Si1  Na1  Na2  93.71(3)  4  .  ?
+  Si2  Na1  Na2  73.36(7)  3  .  ?
+  Si1  Na1  Na2  120.98(3)  8_556  .  ?
+  Na2  Na1  Na2  67.03(9)  2_655  .  ?
+  Na2  Na1  Na2  100.822(18)  6_556  .  ?
+  Na2  Na1  Na2  142.32(7)  4  .  ?
+  Si2  Na1  Na2  147.11(3)  7_556  7  ?
+  Si2  Na1  Na2  49.111(18)  4  7  ?
+  Si1  Na1  Na2  51.68(9)  .  7  ?
+  Si1  Na1  Na2  79.17(4)  4  7  ?
+  Si2  Na1  Na2  93.39(9)  3  7  ?
+  Si1  Na1  Na2  169.44(3)  8_556  7  ?
+  Na2  Na1  Na2  114.64(9)  2_655  7  ?
+  Na2  Na1  Na2  125.81(2)  6_556  7  ?
+  Na2  Na1  Na2  95.30(6)  4  7  ?
+  Na2  Na1  Na2  48.623(18)  .  7  ?
+  Si2  Na1  Na1  52.83(6)  7_556  5_666  ?
+  Si2  Na1  Na1  86.28(5)  4  5_666  ?
+  Si1  Na1  Na1  148.18(5)  .  5_666  ?
+  Si1  Na1  Na1  53.98(3)  4  5_666  ?
+  Si2  Na1  Na1  47.08(3)  3  5_666  ?
+  Si1  Na1  Na1  51.27(7)  8_556  5_666  ?
+  Na2  Na1  Na1  67.74(7)  2_655  5_666  ?
+  Na2  Na1  Na1  100.76(7)  6_556  5_666  ?
+  Na2  Na1  Na1  92.39(3)  4  5_666  ?
+  Na2  Na1  Na1  118.93(5)  .  5_666  ?
+  Na2  Na1  Na1  132.23(7)  7  5_666  ?
+  Si1  Na2  Si2  120.04(6)  3_545  6  ?
+  Si1  Na2  Si2  121.69(7)  3_545  4  ?
+  Si2  Na2  Si2  115.52(2)  6  4  ?
+  Si1  Na2  Si1  97.94(5)  3_545  7  ?
+  Si2  Na2  Si1  97.20(7)  6  7  ?
+  Si2  Na2  Si1  91.316(19)  4  7  ?
+  Si1  Na2  Na2  164.07(4)  3_545  7  ?
+  Si2  Na2  Na2  57.83(5)  6  7  ?
+  Si2  Na2  Na2  57.69(6)  4  7  ?
+  Si1  Na2  Na2  97.98(6)  7  7  ?
+  Si1  Na2  Si1  46.38(5)  3_545  4_545  ?
+  Si2  Na2  Si1  100.09(9)  6  4_545  ?
+  Si2  Na2  Si1  108.72(3)  4  4_545  ?
+  Si1  Na2  Si1  144.24(2)  7  4_545  ?
+  Na2  Na2  Si1  117.72(7)  7  4_545  ?
+  Si1  Na2  Na1  74.23(6)  3_545  2_655  ?
+  Si2  Na2  Na1  157.18(3)  6  2_655  ?
+  Si2  Na2  Na1  60.45(3)  4  2_655  ?
+  Si1  Na2  Na1  61.64(8)  7  2_655  ?
+  Na2  Na2  Na1  113.62(4)  7  2_655  ?
+  Si1  Na2  Na1  102.34(10)  4_545  2_655  ?
+  Si1  Na2  Na1  64.35(7)  3_545  6  ?
+  Si2  Na2  Na1  67.39(4)  6  6  ?
+  Si2  Na2  Na1  161.49(3)  4  6  ?
+  Si1  Na2  Na1  70.214(19)  7  6  ?
+  Na2  Na2  Na1  121.97(8)  7  6  ?
+  Si1  Na2  Na1  88.01(3)  4_545  6  ?
+  Na1  Na2  Na1  109.19(5)  2_655  6  ?
+  Si1  Na2  Na1  92.26(2)  3_545  4_545  ?
+  Si2  Na2  Na1  52.07(2)  6  4_545  ?
+  Si2  Na2  Na1  108.83(3)  4  4_545  ?
+  Si1  Na2  Na1  148.06(5)  7  4_545  ?
+  Na2  Na2  Na1  74.17(2)  7  4_545  ?
+  Si1  Na2  Na1  52.18(7)  4_545  4_545  ?
+  Na1  Na2  Na1  150.06(4)  2_655  4_545  ?
+  Na1  Na2  Na1  87.52(4)  6  4_545  ?
+  Si1  Na2  Na1  100.02(7)  3_545  .  ?
+  Si2  Na2  Na1  103.03(7)  6  .  ?
+  Si2  Na2  Na1  50.023(19)  4  .  ?
+  Si1  Na2  Na1  141.14(2)  7  .  ?
+  Na2  Na2  Na1  66.95(8)  7  .  ?
+  Si1  Na2  Na1  63.424(18)  4_545  .  ?
+  Na1  Na2  Na1  90.74(8)  2_655  .  ?
+  Na1  Na2  Na1  148.49(2)  6  .  ?
+  Na1  Na2  Na1  64.95(5)  4_545  .  ?
+  Si1  Na2  Na2  52.510(17)  3_545  5_655  ?
+  Si2  Na2  Na2  117.42(3)  6  5_655  ?
+  Si2  Na2  Na2  113.35(3)  4  5_655  ?
+  Si1  Na2  Na2  45.43(5)  7  5_655  ?
+  Na2  Na2  Na2  143.42(4)  7  5_655  ?
+  Si1  Na2  Na2  98.85(6)  4_545  5_655  ?
+  Na1  Na2  Na2  54.822(19)  2_655  5_655  ?
+  Na1  Na2  Na2  54.36(4)  6  5_655  ?
+  Na1  Na2  Na2  135.09(3)  4_545  5_655  ?
+  Na1  Na2  Na2  138.50(7)  .  5_655  ?
+  Si1  Na2  Na1  127.86(6)  3_545  7  ?
+  Si2  Na2  Na1  49.07(8)  6  7  ?
+  Si2  Na2  Na1  101.18(3)  4  7  ?
+  Si1  Na2  Na1  49.455(18)  7  7  ?
+  Na2  Na2  Na1  64.43(8)  7  7  ?
+  Si1  Na2  Na1  144.87(3)  4_545  7  ?
+  Na1  Na2  Na1  108.31(9)  2_655  7  ?
+  Na1  Na2  Na1  66.17(2)  6  7  ?
+  Na1  Na2  Na1  101.10(7)  4_545  7  ?
+  Na1  Na2  Na1  131.377(18)  .  7  ?
+  Na2  Na2  Na1  85.45(7)  5_655  7  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Si1  Si2  2.3797(7)  .  ?
+  Si1  Si2  2.4030(8)  2  ?
+  Si1  Si1  2.4655(14)  2  ?
+  Si1  Na2  2.876(2)  3_455  ?
+  Si1  Na1  3.102(3)  .  ?
+  Si1  Na2  3.2034(13)  7  ?
+  Si1  Na1  3.2892(8)  4_545  ?
+  Si1  Na2  3.3049(14)  4  ?
+  Si1  Na1  3.410(4)  8_455  ?
+  Si2  Si1  2.4030(8)  2  ?
+  Si2  Si2  2.411(4)  2  ?
+  Si2  Na1  3.0244(12)  7_556  ?
+  Si2  Na1  3.0576(10)  4_545  ?
+  Si2  Na2  3.060(4)  6_556  ?
+  Si2  Na2  3.0643(8)  4_545  ?
+  Si2  Na1  3.2909(7)  3_445  ?
+  Na1  Si2  3.0244(12)  7_556  ?
+  Na1  Si2  3.0576(10)  4  ?
+  Na1  Si1  3.2892(8)  4  ?
+  Na1  Si2  3.2909(7)  3  ?
+  Na1  Si1  3.410(4)  8_556  ?
+  Na1  Na2  3.4409(18)  2_655  ?
+  Na1  Na2  3.4604(9)  6_556  ?
+  Na1  Na2  3.7032(15)  4  ?
+  Na1  Na2  3.9271(10)  .  ?
+  Na1  Na2  4.006(5)  7  ?
+  Na1  Na1  4.068(4)  5_666  ?
+  Na2  Si1  2.876(2)  3_545  ?
+  Na2  Si2  3.060(4)  6  ?
+  Na2  Si2  3.0643(8)  4  ?
+  Na2  Si1  3.2034(13)  7  ?
+  Na2  Na2  3.2668(18)  7  ?
+  Na2  Si1  3.3049(14)  4_545  ?
+  Na2  Na1  3.4409(18)  2_655  ?
+  Na2  Na1  3.4604(9)  6  ?
+  Na2  Na1  3.7032(14)  4_545  ?
+  Na2  Na2  3.9985(17)  5_655  ?
+  Na2  Na1  4.006(5)  7  ?

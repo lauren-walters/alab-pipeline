@@ -1,0 +1,31 @@
+{
+  "experiment_id": "667a13cc13800728dad6ce56",
+  "experiment_name": "PG_2144-1",
+  "success": true,
+  "error": null,
+  "rwp": 31.32,
+  "rp": 20.07,
+  "rexp": 3.16,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "SnO2_136_(cod_5000224)-0",
+      "spacegroup": "P4_2/m2_1/n2/m",
+      "weight_fraction": 0.04454,
+      "weight_fraction_error": 0.00069,
+      "lattice_a_nm": 0.473829,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.318729,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 12.6
+    }
+  ],
+  "chemical_system": "H-La-O-Sn",
+  "target_formula": "LaSnH3O5",
+  "analysis_timestamp": "2025-12-06T14:39:53.653307",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

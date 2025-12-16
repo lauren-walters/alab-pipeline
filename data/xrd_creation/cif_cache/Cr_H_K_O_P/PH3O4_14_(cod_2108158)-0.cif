@@ -1,0 +1,196 @@
+# generated using pymatgen
+data_2108158
+loop_
+ _publ_author_name
+  'Bull, Craig L.'
+  'Funnell, Nicholas P.'
+  'Pulham, Colin R.'
+  'Marshall, William G.'
+  'Allan, David R.'
+_publ_section_title
+'A new high-pressure polymorph of phosphoric acid'
+_journal_coeditor_code   XK5045SUP1
+_journal_issue   6
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   1068
+_journal_page_last   1074
+_journal_paper_doi   10.1107/S205252061701441X
+_journal_volume   73
+_journal_year   2017
+_chemical_compound_source   'Sigma Aldrich'
+_chemical_formula_moiety   'H3 O4 P'
+_chemical_formula_sum   'H3 O4 P'
+_chemical_formula_weight   97.994
+_chemical_melting_point   315.5
+_chemical_name_common   'Phosphoric acid'
+_chemical_name_systematic   'Phosphoric acid'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   94.75(5)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   4
+_cell_length_a   5.707(2)
+_cell_length_b   4.820(2)
+_cell_length_c   11.436(2)
+_cell_measurement_pressure   0.5
+_cell_measurement_reflns_used   24
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   15.31
+_cell_measurement_theta_min   3.58
+_cell_volume   313.50(18)
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   0.197
+_diffrn_measured_fraction_theta_max   0.197
+_diffrn_measurement_device_type   'Nonius CAD4'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0858
+_diffrn_reflns_av_sigmaI/netI   0.0604
+_diffrn_reflns_limit_h_max   3
+_diffrn_reflns_limit_h_min   -3
+_diffrn_reflns_limit_k_max   8
+_diffrn_reflns_limit_k_min   -8
+_diffrn_reflns_limit_l_max   15
+_diffrn_reflns_limit_l_min   -15
+_diffrn_reflns_number   1255
+_diffrn_reflns_theta_full   39.07
+_diffrn_reflns_theta_max   39.07
+_diffrn_reflns_theta_min   3.58
+_exptl_absorpt_coefficient_mu   0.692
+_exptl_absorpt_correction_T_max   1.000
+_exptl_absorpt_correction_T_min   0.247
+_exptl_absorpt_correction_type   analytical
+_exptl_absorpt_process_details
+;
+Diamond anvil cell absorption correction: Absorb 6.0, R. J. Angel, J.
+Appl. Cryst., 2004, 37, 486-492
+;
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   2.076
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   block
+_exptl_crystal_F_000   200
+_exptl_crystal_size_max   0.2
+_exptl_crystal_size_mid   0.175
+_exptl_crystal_size_min   0.075
+_refine_diff_density_max   0.454
+_refine_diff_density_min   -0.532
+_refine_diff_density_rms   0.153
+_refine_ls_extinction_coef   0.11(5)
+_refine_ls_extinction_expression
+Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method   SHELXL
+_refine_ls_goodness_of_fit_ref   0.982
+_refine_ls_hydrogen_treatment   mixed
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   22
+_refine_ls_number_reflns   360
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   0.982
+_refine_ls_R_factor_all   0.0989
+_refine_ls_R_factor_gt   0.0720
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.1304P)^2^+1.4756P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.1860
+_refine_ls_wR_factor_ref   0.2169
+_reflns_number_gt   294
+_reflns_number_total   360
+_reflns_threshold_expression   >2sigma(I)
+_cod_data_source_file   xk5045sup1.cif
+_cod_data_source_block   Phosphoric_acid_I_0.5_GPa_S_xtal
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_chemical_melting_point' value '315.5 K' was changed to '315.5' - the
+value should be numeric and without a unit designator.
+'_symmetry_cell_setting' value 'Monoclinic' changed to 'monoclinic'
+according to /home/data/users/saulius/crontab/automatic-downloads/rss-
+feeds/IUCr/lib/dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 from 2011-04-26. Automatic conversion
+script Id: cif_fix_values 4973 2017-02-22 13:04:09Z antanas
+;
+_cod_original_cell_volume   313.49(18)
+_cod_original_sg_symbol_H-M   'P 21/c'
+_cod_database_code   2108158
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+  P1  P  0.2081(12)  0.3022(3)  0.13871(16)  0.0219(6)  Uiso  1  1
+  d  .
+  O1  O  0.285(2)  0.1660(9)  0.2524(5)  0.0327(12)  Uiso  1  1  d
+  .
+  O2  O  0.324(2)  0.5937(9)  0.1276(4)  0.0295(11)  Uiso  1  1  d
+  .
+  H2  H  0.3613  0.6556  0.1933  0.035  Uiso  1  1  calc  R
+  O3  O  -0.073(3)  0.3353(11)  0.1180(5)  0.0351(14)  Uiso  1  1  d
+  .
+  H3  H  -0.1219  0.4148  0.1744  0.042  Uiso  1  1  calc  R
+  O4  O  0.275(2)  0.1373(9)  0.0298(4)  0.0289(11)  Uiso  1  1  d
+  .
+  H4  H  0.2660  -0.0295  0.0429  0.035  Uiso  1  1  calc  R
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  H  H  0.0000  0.0000
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  O1  P1  O4  113.7(5)
+  O1  P1  O2  111.8(6)
+  O4  P1  O2  105.2(4)
+  O1  P1  O3  112.9(6)
+  O4  P1  O3  103.8(6)
+  O2  P1  O3  108.7(5)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  P1  O1  1.489(7)
+  P1  O4  1.551(5)
+  P1  O2  1.562(7)
+  P1  O3  1.608(17)
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  1004

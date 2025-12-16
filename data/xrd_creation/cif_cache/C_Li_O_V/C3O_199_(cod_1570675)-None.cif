@@ -1,0 +1,126 @@
+# generated using pymatgen
+data_1570675
+loop_
+ _publ_author_name
+  'Ort&#xed;n-Rubio, Borja'
+  'Rostoll-Berenguer, Jaume'
+  'Vila, Carlos'
+  'Proserpio, Davide M.'
+  'Guillerm, Vincent'
+  'Juanhuix, Judith'
+  'Imaz, Inhar'
+  'Maspoch, Daniel'
+_publ_section_title
+;
+Net-clipping as a top-down approach for the prediction of topologies
+of  MOFs built from reduced-symmetry linkers.
+;
+_journal_issue   45
+_journal_name_full   'Chemical science'
+_journal_page_first   12984
+_journal_page_last   12994
+_journal_paper_doi   10.1039/d3sc04406h
+_journal_volume   14
+_journal_year   2023
+_chemical_formula_structural   icn22
+_chemical_formula_sum   'C3 O'
+_space_group_IT_number   199
+_space_group_name_Hall   'I 2b 2c 3'
+_space_group_name_H-M_alt   'I 21 3'
+_symmetry_Int_Tables_number   199
+_symmetry_space_group_name_H-M   'I 21 3'
+_audit_creation_date   2023-08-20
+_audit_creation_method   ToposPro
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   16
+_cell_length_a   4.09382
+_cell_length_b   4.09382
+_cell_length_c   4.09382
+_cell_volume   68.610
+_refine_ls_R_factor_all   0
+_cod_data_source_file   d3sc04406h1.cif
+_cod_data_source_block   22-TOPOS_icn22
+_cod_original_cell_volume   68.60982
+_cod_database_code   1570675
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,1/2-y,z
+  3  x,-y,1/2-z
+  4  1/2-x,y,-z
+  5  z,x,y
+  6  y,z,x
+  7  -z,1/2-x,y
+  8  1/2-y,z,-x
+  9  z,-x,1/2-y
+  10  -y,1/2-z,x
+  11  1/2-z,x,-y
+  12  y,-z,1/2-x
+  13  1/2+x,1/2+y,1/2+z
+  14  1/2-x,-y,1/2+z
+  15  1/2+x,1/2-y,-z
+  16  -x,1/2+y,1/2-z
+  17  1/2+z,1/2+x,1/2+y
+  18  1/2+y,1/2+z,1/2+x
+  19  1/2-z,-x,1/2+y
+  20  -y,1/2+z,1/2-x
+  21  1/2+z,1/2-x,-y
+  22  1/2-y,-z,1/2+x
+  23  -z,1/2+x,1/2-y
+  24  1/2+y,1/2-z,-x
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C1  C  24  0.02271  0.13065  0.34586  1.0000
+  C2  C  12  0.54525  0.00000  0.75000  1.0000
+  C3  C  12  0.25000  0.71005  0.00000  1.0000
+  O1  O  8  0.12299  0.12299  0.12299  1.0000
+  O2  O  8  0.06459  0.43541  0.56459  1.0000
+loop_
+ _topol_atom.id
+ _topol_atom.node_id
+ _topol_atom.atom_label
+ _topol_atom.element_symbol
+  1  1  C1  C
+  2  2  C2  C
+  3  3  C3  C
+  4  4  O1  O
+  5  5  O2  O
+loop_
+ _topol_node.id
+ _topol_node.label
+  1  C1
+  2  C2
+  3  C3
+  4  O1
+  5  O2
+loop_
+ _topol_link.node_id_1
+ _topol_link.node_id_2
+ _topol_link.distance
+ _topol_link.symop_id_1
+ _topol_link.translation_1_x
+ _topol_link.translation_1_y
+ _topol_link.translation_1_z
+ _topol_link.symop_id_2
+ _topol_link.translation_2_x
+ _topol_link.translation_2_y
+ _topol_link.translation_2_z
+ _topol_link.type
+ _topol_link.multiplicity
+ _topol_link.voronoi_solid_angle
+  1  1  0.9947  1  0  0  0  2  0  0  0  v  12  0.00
+  1  5  1.0013  1  0  0  0  2  0  0  0  v  24  0.00
+  1  4  1.0010  1  0  0  0  1  0  0  0  v  24  0.00
+  2  4  0.9991  1  0  0  0  4  0  0  1  v  24  0.00
+  2  3  1.0018  1  0  0  0  8  1  0  1  v  12  0.00
+  3  5  1.0003  1  0  0  0  6  0  0  0  v  24  0.00
+_cod_structure_determination_method   theoretical

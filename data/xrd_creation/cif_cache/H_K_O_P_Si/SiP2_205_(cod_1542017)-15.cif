@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_1542017
+loop_
+ _publ_author_name
+  'Osugi, J.'
+  'Namikawa, R.'
+  'Tanaka, Y.'
+_publ_section_title
+;
+Chemical reaction at high temperature and high pressure III. Reaction
+of  silicon and phosphorus at high temperature and high pressure
+;
+_journal_name_full   'Reviews of Physical Chemistry of Japan'
+_journal_page_first   35
+_journal_page_last   43
+_journal_volume   36
+_journal_year   1966
+_chemical_formula_sum   'P2 Si'
+_chemical_name_systematic   'Si P2'
+_space_group_IT_number   205
+_symmetry_space_group_name_Hall   '-P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P a -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.682
+_cell_length_b   5.682
+_cell_length_c   5.682
+_cell_volume   183.444
+_citation_journal_id_ASTM   RPCJAP
+_cod_data_source_file   Osugi_RPCJAP_1966_1663.cif
+_cod_data_source_block   P2Si1
+_cod_original_cell_volume   183.4441
+_cod_original_formula_sum   'P2 Si1'
+_cod_database_code   1542017
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z
+  -x,y+1/2,-z+1/2
+  z,x,y
+  -z+1/2,-x,y+1/2
+  z+1/2,-x+1/2,-y
+  -z,x+1/2,-y+1/2
+  y,z,x
+  y+1/2,-z+1/2,-x
+  -y,z+1/2,-x+1/2
+  -y+1/2,-z,x+1/2
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x-1/2,y-1/2,z
+  x,-y-1/2,z-1/2
+  -z,-x,-y
+  z-1/2,x,-y-1/2
+  -z-1/2,x-1/2,y
+  z,-x-1/2,y-1/2
+  -y,-z,-x
+  -y-1/2,z-1/2,x
+  y,-z-1/2,x-1/2
+  y-1/2,z,-x-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Si1  Si  0  0  0  1  0.0
+  P1  P  0.38  0.38  0.38  1  0.0

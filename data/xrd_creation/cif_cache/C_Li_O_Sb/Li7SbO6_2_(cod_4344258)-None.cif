@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_4344258
+loop_
+ _publ_author_name
+  'Muehle, C.'
+  'Dinnebier, R.E.'
+  'Jansen, M.'
+  'van Wuellen, L.'
+  'Schwering, G.'
+_publ_section_title
+;
+New insights into the structural and dynamical features of lithium
+hexaoxometallates Li7 M O6 (M= Nb, Ta, Sb, Bi)
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   874
+_journal_page_last   881
+_journal_volume   43
+_journal_year   2004
+_chemical_formula_sum   'Li7 O6 Sb'
+_chemical_name_systematic   'Li7 (Sb O6)'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   116.748
+_cell_angle_beta   119.63
+_cell_angle_gamma   62.779
+_cell_formula_units_Z   1
+_cell_length_a   5.4307
+_cell_length_b   5.8916
+_cell_length_c   5.385
+_cell_volume   127.469
+_citation_journal_id_ASTM   INOCAJ
+_cod_data_source_file   Muehle_INOCAJ_2004_1176.cif
+_cod_data_source_block   Li7O6Sb1
+_cod_original_cell_volume   127.4685
+_cod_original_formula_sum   'Li7 O6 Sb1'
+_cod_database_code   4344258
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.9115  0.2365  0.7796  1  0.0
+  O1  O-2  0.7708  0.7657  0.6224  1  0.0
+  Li2  Li+1  0.3482  -0.0325  0.6535  0.875  0.0
+  Sb1  Sb+5  0  0  0  1  0.0
+  Li4  Li+1  0.511  0.3573  0.7709  0.875  0.0
+  O2  O-2  0.3715  0.7699  0.9084  1  0.0
+  Li1  Li+1  0.1215  0.613  0.4943  0.875  0.0
+  Li3  Li+1  0.2426  0.3739  0.0992  0.875  0.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139143484

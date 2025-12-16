@@ -1,0 +1,17 @@
+{
+  "experiment_id": "650b63c52a740b74420c7c68",
+  "experiment_name": "Na_71",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Al-Ca-Na-O-P",
+  "target_formula": "Na5AlCa2P4O16",
+  "analysis_timestamp": "2025-12-06T16:25:12.213207",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

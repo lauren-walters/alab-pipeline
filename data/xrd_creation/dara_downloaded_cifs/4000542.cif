@@ -1,0 +1,117 @@
+# generated using pymatgen
+data_4000542
+loop_
+ _publ_author_name
+  'Chernaya, Victoria V.'
+  'Mitiaev, Alexander S.'
+  'Chizhov, Pavel S.'
+  'Dikarev, Evgeny V.'
+  'Shpanchenko, Roman V.'
+  'Antipov, Evgeny V.'
+  'Korolenko, Mikhail V.'
+  'Fabritchnyi, Pavel B.'
+_publ_section_title
+'Synthesis and Investigation of Tin(II) Pyrophosphate Sn~2~P~2~O~7~'
+_journal_coden_ASTM   CMATEX
+_journal_issue   2
+_journal_name_full   'Chemistry of Materials'
+_journal_page_first   284
+_journal_page_last   290
+_journal_paper_doi   10.1021/cm048463h
+_journal_volume   17
+_journal_year   2005
+_chemical_formula_moiety   'O14 P4 Sn4'
+_chemical_formula_structural   'Sn2 [P2 O7]'
+_chemical_formula_sum   'O28 P8 Sn8'
+_chemical_formula_weight   411.4
+_chemical_melting_point   870
+_chemical_name_common   'Tin(II) Pyrophosphate'
+_chemical_name_systematic   'Tin(II) Pyrophosphate'
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   102.911(8)
+_cell_angle_beta   99.303(8)
+_cell_angle_gamma   98.899(8)
+_cell_formula_units_Z   4
+_cell_length_a   5.2776(5)
+_cell_length_b   11.5413(12)
+_cell_length_c   11.6360(12)
+_cell_measurement_temperature   293
+_cell_volume   668.20(12)
+_diffrn_ambient_temperature   293
+_exptl_crystal_density_diffrn   4.0878
+_cod_database_code   4000542
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+ _atom_site_occupancy
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Sn1  Sn  0.27139(7)  0.50457(3)  0.14256(3)  Uani  0.01487(9)  2
+  1  d  .  .  .
+  Sn2  Sn  0.17735(7)  -0.15098(4)  -0.01932(3)  Uani  0.01607(9)  2
+  1  d  .  .  .
+  Sn3  Sn  0.69283(7)  -0.04478(4)  0.36751(4)  Uani  0.01730(10)  2
+  1  d  .  .  .
+  Sn4  Sn  0.23083(7)  0.36723(4)  0.47328(3)  Uani  0.01600(9)  2
+  1  d  .  .  .
+  P1  P  0.2856(3)  0.12027(12)  0.25155(12)  Uani  0.0120(3)  2  1
+  d  .  .  .
+  P2  P  0.6910(2)  0.33244(12)  0.25542(12)  Uani  0.0115(3)  2  1
+  d  .  .  .
+  P3  P  0.1857(3)  -0.26956(13)  0.35521(12)  Uani  0.0130(3)  2  1
+  d  .  .  .
+  P4  P  0.7946(3)  -0.26788(13)  0.14624(12)  Uani  0.0132(3)  2  1
+  d  .  .  .
+  O1  O  0.1438(9)  -0.3229(4)  -0.1599(4)  Uani  0.0200(12)  2  1
+  d  .  .  .
+  O2  O  0.6463(9)  -0.1752(5)  0.2002(4)  Uani  0.0262(14)  2  1  d
+  .  .  .
+  O3  O  0.8524(9)  -0.2539(5)  0.0254(4)  Uani  0.0212(12)  2  1  d
+  .  .  .
+  O4  O  0.8518(10)  0.3805(5)  0.3821(4)  Uani  0.0290(15)  2  1  d
+  .  .  .
+  O5  O  0.1745(9)  0.1951(4)  0.3470(4)  Uani  0.0226(13)  2  1  d
+  .  .  .
+  O6  O  0.4720(9)  0.4006(4)  0.2394(4)  Uani  0.0210(12)  2  1  d
+  .  .  .
+  O7  O  0.3567(9)  0.0067(4)  0.2806(5)  Uani  0.0223(13)  2  1  d
+  .  .  .
+  O8  O  0.0828(7)  -0.2416(4)  0.2283(4)  Uani  0.0160(10)  2  1  d
+  .  .  .
+  O9  O  0.8959(12)  -0.0863(5)  -0.1285(4)  Uani  0.0329(17)  2  1
+  d  .  .  .
+  O10  O  0.0357(9)  0.2663(5)  0.5777(4)  Uani  0.0233(13)  2  1  d
+  .  .  .
+  O11  O  0.4184(9)  -0.1667(5)  0.4196(4)  Uani  0.0243(13)  2  1
+  d  .  .  .
+  O12  O  0.6676(10)  0.6034(5)  0.1399(5)  Uani  0.0284(15)  2  1
+  d  .  .  .
+  O13  O  0.2682(11)  0.6088(4)  0.3237(4)  Uani  0.0261(15)  2  1
+  d  .  .  .
+  O14  O  0.5592(10)  0.1934(4)  0.2408(6)  Uani  0.0324(18)  2  1
+  d  .  .  .
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2021-10-23T06:45:00+03:00
+  'Updated bibliographic information.'

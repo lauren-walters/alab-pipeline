@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_5000203
+loop_
+ _publ_author_name
+  'Strieter, F. J.'
+  'Templeton, D. H.'
+_publ_section_title   'Crystal structure of butyric acid'
+_journal_issue   12
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   1240
+_journal_page_last   1244
+_journal_paper_doi   10.1107/S0365110X6200328X
+_journal_volume   15
+_journal_year   1962
+_chemical_formula_sum   'C4 H8 O2'
+_space_group_IT_number   12
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   111.45
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.01
+_cell_length_b   6.82
+_cell_length_c   10.14
+_cod_original_sg_symbol_H-M   'C 2/m'
+_cod_database_code   5000203
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  1/2+x,1/2+y,z
+  3  -x,y,-z
+  4  1/2-x,1/2+y,-z
+  5  -x,-y,-z
+  6  -1/2-x,-1/2-y,-z
+  7  x,-y,z
+  8  -1/2+x,-1/2-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  C3  C  0.15820  0.00000  -0.10140
+  C4  C  0.29320  0.00000  -0.17520
+  C5  C  0.20720  0.00000  -0.33530
+  C6  C  0.34710  0.00000  -0.40320
+  O1  O  0.23590  0.00000  0.03790
+  O2  O  -0.00130  0.00000  -0.16180
+loop_
+ _atom_type_symbol
+ _atom_type_radius_bond
+  C  0.68
+  O  0.68

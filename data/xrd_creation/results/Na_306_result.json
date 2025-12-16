@@ -1,0 +1,44 @@
+{
+  "experiment_id": "668d5f7daa32321205b56317",
+  "experiment_name": "Na_306",
+  "success": true,
+  "error": null,
+  "rwp": 20.77,
+  "rp": 14.11,
+  "rexp": 2.15,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "ZrO2_14_(cod_2300296)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.1217,
+      "weight_fraction_error": 0.0018,
+      "lattice_a_nm": 0.51341,
+      "lattice_b_nm": 0.521,
+      "lattice_c_nm": 0.53069,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.094,
+      "lattice_gamma_deg": null,
+      "r_phase": 22.34
+    },
+    {
+      "phase_name": "ZrP_225_(cod_9008780)-42",
+      "spacegroup": "F4/m-32/m",
+      "weight_fraction": 0.02,
+      "weight_fraction_error": 0.00072,
+      "lattice_a_nm": 0.52679,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 48.37
+    }
+  ],
+  "chemical_system": "Na-O-P-Zr",
+  "target_formula": "Na4ZrP2O9",
+  "analysis_timestamp": "2025-12-06T14:56:00.839004",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

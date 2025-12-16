@@ -1,0 +1,273 @@
+# generated using pymatgen
+data_7101735
+loop_
+ _publ_author_name
+  'Beekman, Matt'
+  'Kaduk, James A'
+  'Huang, Qing'
+  'Wong-Ng, Winnie'
+  'Yang, Zhi'
+  'Wang, Dongli'
+  'Nolas, George S'
+_publ_section_title
+;
+Synthesis and crystal structure of Na1-xGe3+z: a novel zeolite-like
+framework phase in the Na-Ge system.
+;
+_journal_issue   8
+_journal_name_full   'Chemical communications (Cambridge, England)'
+_journal_page_first   837
+_journal_page_last   839
+_journal_paper_doi   10.1039/b614048c
+_journal_year   2007
+_chemical_formula_sum   'Ge12.31 Na2.85'
+_chemical_formula_weight   959.05
+_chemical_name_common   'Na Ge3'
+_chemical_name_systematic   ?
+_space_group_IT_number   175
+_symmetry_cell_setting   hexagonal
+_symmetry_space_group_name_Hall   '-P 6'
+_symmetry_space_group_name_H-M   'P 6/m'
+_audit_creation_date   2006-06-17T08:48
+_audit_creation_method   'from EXP file using GSAS2CIF'
+_audit_update_record
+'2006-06-17T08:48 Initial CIF as created by GSAS2CIF'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   120.0
+_cell_formula_units_Z   2
+_cell_length_a   15.05399(5)
+_cell_length_b   15.05399
+_cell_length_c   3.968450(15)
+_cell_volume   778.852(5)
+_computing_structure_refinement   GSAS
+_pd_block_id   2006-06-17T08:48|NAGE3|James_A._Kaduk|ID32
+_pd_phase_name   'Na Ge3'
+_refine_ls_goodness_of_fit_all   1.47
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   28
+_refine_ls_number_restraints   8
+_refine_ls_shift/su_max   0.04
+_refine_ls_shift/su_mean   0.01
+_cod_data_source_file   b614048c.txt
+_cod_data_source_block   compound_1
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+'/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (56 times).
+'_geom_angle_publ_flag' value 'N' changed to 'n' according to
+'/home/saulius/struct/CIF-dictionaries/cif_core.dic' dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (106 times). Automatic
+conversion script Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius
+;
+_cod_database_code   7101735
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  x-y,+x,+z
+  3  -y,x-y,+z
+  4  -x,-y,+z
+  5  y-x,-x,+z
+  6  +y,y-x,+z
+  -1  -x,-y,-z
+  -2  y-x,-x,-z
+  -3  +y,y-x,-z
+  -4  +x,+y,-z
+  -5  x-y,+x,-z
+  -6  -y,x-y,-z
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  Ge  Ge1  0.37332(8)  0.26958(8)  0.0  1.0  Uiso  0.0115(4)  6
+  Ge  Ge2  0.40826(8)  0.44914(8)  0.0  1.0  Uiso  0.0106(4)  6
+  Ge  Ge3  0.52012(9)  0.15164(9)  0.5  1.0  Uiso  0.00521(32)  6
+  Ge  Ge4  0.48411(10)  0.30138(7)  0.5  1.0  Uiso  0.00714(31)  6
+  Na  Na5  0.66667  0.33333  0.0  1.0  Uiso  0.02  2
+  Na  Na6  0.2539(6)  0.0639(7)  0.5  0.617(9)  Uiso  0.0884(35)  6
+  Ge  Ge7  0.0  0.0  0.5  0.617(7)  Uiso  0.0884(35)  1
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  Ge2  Ge1  Ge4  91.95(4)  3_665  1_554  n
+  Ge2  Ge1  Ge4  91.95(4)  3_665  1_555  n
+  Ge4  Ge1  Ge4  106.29(5)  1_554  1_555  n
+  Ge1  Ge2  Ge2  104.17(7)  5_565  4_565  n
+  Ge1  Ge2  Ge3  120.46(4)  5_565  6_564  n
+  Ge1  Ge2  Ge3  120.46(4)  5_565  6_565  n
+  Ge2  Ge2  Ge3  100.09(5)  4_565  6_564  n
+  Ge2  Ge2  Ge3  100.09(5)  4_565  6_565  n
+  Ge3  Ge2  Ge3  107.20(6)  6_564  6_565  n
+  Ge2  Ge3  Ge2  107.20(6)  2_655  2_656  n
+  Ge2  Ge3  Ge4  112.53(4)  2_655  1_555  n
+  Ge2  Ge3  Ge4  100.93(5)  2_655  3_655  n
+  Ge2  Ge3  Na5  87.679(23)  2_655  1_555  n
+  Ge2  Ge3  Na5  163.16(4)  2_655  1_556  n
+  Ge2  Ge3  Ge4  112.53(4)  2_656  1_555  n
+  Ge2  Ge3  Ge4  100.93(5)  2_656  3_655  n
+  Ge2  Ge3  Na5  163.16(4)  2_656  1_555  n
+  Ge2  Ge3  Na5  87.679(23)  2_656  1_556  n
+  Ge4  Ge3  Ge4  121.15(9)  1_555  3_655  n
+  Ge4  Ge3  Na5  66.91(4)  1_555  1_555  n
+  Ge4  Ge3  Na5  66.91(4)  1_555  1_556  n
+  Ge4  Ge3  Na5  67.73(4)  3_655  1_555  n
+  Ge4  Ge3  Na5  67.73(4)  3_655  1_556  n
+  Na5  Ge3  Na5  76.593(27)  1_555  1_556  n
+  Ge1  Ge4  Ge1  106.29(5)  1_555  1_556  n
+  Ge1  Ge4  Ge3  104.32(4)  1_555  1_555  n
+  Ge1  Ge4  Ge3  111.06(4)  1_555  5_665  n
+  Ge1  Ge4  Na5  88.693(21)  1_555  1_555  n
+  Ge1  Ge4  Na5  164.13(4)  1_555  1_556  n
+  Ge1  Ge4  Ge3  104.32(4)  1_556  1_555  n
+  Ge1  Ge4  Ge3  111.06(4)  1_556  5_665  n
+  Ge1  Ge4  Na5  164.13(4)  1_556  1_555  n
+  Ge1  Ge4  Na5  88.693(21)  1_556  1_556  n
+  Ge3  Ge4  Ge3  118.85(9)  1_555  5_665  n
+  Ge3  Ge4  Na5  65.97(4)  1_555  1_555  n
+  Ge3  Ge4  Na5  65.97(4)  1_555  1_556  n
+  Ge3  Ge4  Na5  66.75(4)  5_665  1_555  n
+  Ge3  Ge4  Na5  66.75(4)  5_665  1_556  n
+  Na5  Ge4  Na5  75.948(30)  1_555  1_556  n
+  Ge3  Na5  Ge3  76.593(27)  1_554  1_555  n
+  Ge3  Na5  Ge3  85.636(20)  1_554  3_654  n
+  Ge3  Na5  Ge3  133.792(9)  1_554  3_655  n
+  Ge3  Na5  Ge3  85.635(20)  1_554  5_664  n
+  Ge3  Na5  Ge3  133.791(9)  1_554  5_665  n
+  Ge3  Na5  Ge4  47.115(25)  1_554  1_554  n
+  Ge3  Na5  Ge4  94.710(21)  1_554  1_555  n
+  Ge3  Na5  Ge4  45.519(25)  1_554  3_654  n
+  Ge3  Na5  Ge4  93.554(20)  1_554  3_655  n
+  Ge3  Na5  Ge4  103.723(14)  1_554  5_664  n
+  Ge3  Na5  Ge4  179.094(26)  1_554  5_665  n
+  Ge3  Na5  Ge3  133.792(9)  1_555  3_654  n
+  Ge3  Na5  Ge3  85.636(20)  1_555  3_655  n
+  Ge3  Na5  Ge3  133.791(9)  1_555  5_664  n
+  Ge3  Na5  Ge3  85.635(20)  1_555  5_665  n
+  Ge3  Na5  Ge4  94.710(21)  1_555  1_554  n
+  Ge3  Na5  Ge4  47.115(25)  1_555  1_555  n
+  Ge3  Na5  Ge4  93.554(20)  1_555  3_654  n
+  Ge3  Na5  Ge4  45.519(25)  1_555  3_655  n
+  Ge3  Na5  Ge4  179.094(26)  1_555  5_664  n
+  Ge3  Na5  Ge4  103.723(14)  1_555  5_665  n
+  Ge3  Na5  Ge3  76.593(27)  3_654  3_655  n
+  Ge3  Na5  Ge3  85.635(20)  3_654  5_664  n
+  Ge3  Na5  Ge3  133.791(9)  3_654  5_665  n
+  Ge3  Na5  Ge4  103.723(14)  3_654  1_554  n
+  Ge3  Na5  Ge4  179.094(26)  3_654  1_555  n
+  Ge3  Na5  Ge4  47.115(25)  3_654  3_654  n
+  Ge3  Na5  Ge4  94.711(21)  3_654  3_655  n
+  Ge3  Na5  Ge4  45.519(25)  3_654  5_664  n
+  Ge3  Na5  Ge4  93.554(20)  3_654  5_665  n
+  Ge3  Na5  Ge3  133.791(9)  3_655  5_664  n
+  Ge3  Na5  Ge3  85.635(20)  3_655  5_665  n
+  Ge3  Na5  Ge4  179.094(26)  3_655  1_554  n
+  Ge3  Na5  Ge4  103.723(14)  3_655  1_555  n
+  Ge3  Na5  Ge4  94.711(21)  3_655  3_654  n
+  Ge3  Na5  Ge4  47.115(25)  3_655  3_655  n
+  Ge3  Na5  Ge4  93.554(20)  3_655  5_664  n
+  Ge3  Na5  Ge4  45.519(25)  3_655  5_665  n
+  Ge3  Na5  Ge3  76.593(27)  5_664  5_665  n
+  Ge3  Na5  Ge4  45.519(25)  5_664  1_554  n
+  Ge3  Na5  Ge4  93.553(20)  5_664  1_555  n
+  Ge3  Na5  Ge4  103.723(14)  5_664  3_654  n
+  Ge3  Na5  Ge4  179.093(26)  5_664  3_655  n
+  Ge3  Na5  Ge4  47.115(25)  5_664  5_664  n
+  Ge3  Na5  Ge4  94.710(21)  5_664  5_665  n
+  Ge3  Na5  Ge4  93.553(20)  5_665  1_554  n
+  Ge3  Na5  Ge4  45.519(25)  5_665  1_555  n
+  Ge3  Na5  Ge4  179.093(26)  5_665  3_654  n
+  Ge3  Na5  Ge4  103.723(14)  5_665  3_655  n
+  Ge3  Na5  Ge4  94.710(21)  5_665  5_664  n
+  Ge3  Na5  Ge4  47.115(25)  5_665  5_665  n
+  Ge4  Na5  Ge4  75.948(30)  1_554  1_555  n
+  Ge4  Na5  Ge4  86.106(22)  1_554  3_654  n
+  Ge4  Na5  Ge4  133.575(10)  1_554  3_655  n
+  Ge4  Na5  Ge4  86.106(22)  1_554  5_664  n
+  Ge4  Na5  Ge4  133.575(10)  1_554  5_665  n
+  Ge4  Na5  Ge4  133.575(10)  1_555  3_654  n
+  Ge4  Na5  Ge4  86.106(22)  1_555  3_655  n
+  Ge4  Na5  Ge4  133.575(10)  1_555  5_664  n
+  Ge4  Na5  Ge4  86.106(22)  1_555  5_665  n
+  Ge4  Na5  Ge4  75.949(30)  3_654  3_655  n
+  Ge4  Na5  Ge4  86.106(22)  3_654  5_664  n
+  Ge4  Na5  Ge4  133.575(10)  3_654  5_665  n
+  Ge4  Na5  Ge4  133.575(10)  3_655  5_664  n
+  Ge4  Na5  Ge4  86.106(22)  3_655  5_665  n
+  Ge4  Na5  Ge4  75.949(30)  5_664  5_665  n
+  Na6  Na6  Na6  120.0  2_555  6_555  n
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Ge1  Ge2  2.4822(14)  3_665  n
+  Ge1  Ge4  2.4798(9)  1_554  n
+  Ge1  Ge4  2.4798(9)  1_555  n
+  Ge1  Na6  3.345(7)  1_554  n
+  Ge1  Na6  3.345(7)  1_555  n
+  Ge1  Na6  3.310(7)  2_554  n
+  Ge1  Na6  3.310(7)  2_555  n
+  Ge2  Ge1  2.4822(14)  5_565  n
+  Ge2  Ge2  2.3968(20)  4_565  n
+  Ge2  Ge3  2.4653(10)  6_564  n
+  Ge2  Ge3  2.4653(10)  6_565  n
+  Ge3  Ge2  2.4653(10)  2_655  n
+  Ge3  Ge2  2.4652(10)  2_656  n
+  Ge3  Ge4  2.5686(14)  1_555  n
+  Ge3  Ge4  2.4863(15)  3_655  n
+  Ge3  Na5  3.2018(10)  1_555  n
+  Ge3  Na5  3.2018(10)  1_556  n
+  Ge3  Na6  3.537(7)  1_555  n
+  Ge4  Ge1  2.4798(9)  1_555  n
+  Ge4  Ge1  2.4798(9)  1_556  n
+  Ge4  Ge3  2.5686(14)  1_555  n
+  Ge4  Ge3  2.4863(15)  5_665  n
+  Ge4  Na5  3.2248(11)  1_555  n
+  Ge4  Na5  3.2248(11)  1_556  n
+  Ge4  Na6  3.522(8)  1_555  n
+  Na5  Ge3  3.2018(10)  1_554  n
+  Na5  Ge3  3.2018(10)  1_555  n
+  Na5  Ge3  3.2017(10)  3_654  n
+  Na5  Ge3  3.2017(10)  3_655  n
+  Na5  Ge3  3.2018(10)  5_664  n
+  Na5  Ge3  3.2018(10)  5_665  n
+  Na5  Ge4  3.2248(11)  1_554  n
+  Na5  Ge4  3.2248(11)  1_555  n
+  Na5  Ge4  3.2248(11)  3_654  n
+  Na5  Ge4  3.2248(11)  3_655  n
+  Na5  Ge4  3.2248(11)  5_664  n
+  Na5  Ge4  3.2248(11)  5_665  n
+  Na5  Na5  3.968450(10)  1_554  n
+  Na5  Na5  3.968450(10)  1_556  n
+  Na6  Ge1  3.345(7)  1_555  n
+  Na6  Ge1  3.345(7)  1_556  n
+  Na6  Ge1  3.310(7)  6_555  n
+  Na6  Ge1  3.310(7)  6_556  n
+  Na6  Ge3  3.537(7)  1_555  n
+  Na6  Ge4  3.522(8)  1_555  n
+  Na6  Na6  3.968450(10)  1_554  n
+  Na6  Na6  3.968450(10)  1_556  n
+  Na6  Na6  3.444(7)  2_555  n
+  Na6  Na6  3.444(7)  6_555  n
+  Na6  Ge7  3.444(7)  1_555  n
+  Ge7  Na6  3.444(7)  1_555  n
+  Ge7  Na6  3.444(7)  2_555  n
+  Ge7  Na6  3.444(7)  3_555  n
+  Ge7  Na6  3.444(7)  4_555  n
+  Ge7  Na6  3.444(7)  5_555  n
+  Ge7  Na6  3.444(7)  6_555  n

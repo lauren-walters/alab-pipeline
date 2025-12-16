@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_8103741
+loop_
+ _publ_author_name
+  'Borowski, M.'
+  'Marler, B.'
+  'Gies, H.'
+_publ_section_title
+;
+The crystal structure determination of the crystalline layered silicic
+acid H-RUB-18
+;
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   233
+_journal_page_last   241
+_journal_volume   217
+_journal_year   2002
+_chemical_formula_sum   'H2 O9 Si4'
+_chemical_name_systematic   'Si4 O7 (O H)2'
+_space_group_IT_number   141
+_symmetry_space_group_name_Hall   'I 4bw 2bw -1bw'
+_symmetry_space_group_name_H-M   'I 41/a m d :1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   7.383
+_cell_length_b   7.383
+_cell_length_c   29.759
+_cell_volume   1622.124
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Borowski_ZEKRDZ_2002_1051.cif
+_cod_data_source_block   H2O9Si4
+_cod_original_sg_symbol_Hall   '-I 4bd 2 (x+1/2,y+1/4,z+1/8)'
+_cod_database_code   8103741
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x+1/2,z+1/4
+  -x+1/2,-y+1/2,z+1/2
+  y+1/2,-x,z+3/4
+  x,-y+1/2,-z+1/4
+  y+1/2,x+1/2,-z+1/2
+  -x+1/2,y,-z+3/4
+  -y,-x,-z
+  -x,-y+1/2,-z+1/4
+  y,-x,-z
+  x-1/2,y,-z-1/4
+  -y-1/2,x+1/2,-z-1/2
+  -x,y,z
+  -y-1/2,-x,z-1/4
+  x-1/2,-y+1/2,z-1/2
+  y,x+1/2,z+1/4
+  x+1/2,y+1/2,z+1/2
+  -y+1/2,x+1,z+3/4
+  -x+1,-y+1,z+1
+  y+1,-x+1/2,z+5/4
+  x+1/2,-y+1,-z+3/4
+  y+1,x+1,-z+1
+  -x+1,y+1/2,-z+5/4
+  -y+1/2,-x+1/2,-z+1/2
+  -x+1/2,-y+1,-z+3/4
+  y+1/2,-x+1/2,-z+1/2
+  x,y+1/2,-z+1/4
+  -y,x+1,-z
+  -x+1/2,y+1/2,z+1/2
+  -y,-x+1/2,z+1/4
+  x,-y+1,z
+  y+1/2,x+1,z+3/4
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Si2  Si+4  0  0.789  0.427  1  0.0
+  O4  O-2  0  0.757  0.264  1  0.0
+  O2  O-2  0.237  0.672  0.709  1  0.0
+  O3  O-2  0  0  0.588  1  0.0
+  Si1  Si+4  0.791  0.791  0  1  0.0
+  O1  O-2  0  0.657  0.383  1  0.0

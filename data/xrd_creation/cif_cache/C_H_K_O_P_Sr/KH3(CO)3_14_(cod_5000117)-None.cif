@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_5000117
+loop_
+ _publ_author_name
+  'Rach, W.'
+  'Kiel, G.'
+  'Gattow, G.'
+_publ_section_title
+;
+\"Uber Chalkogenolate. 187. Untersuchungen \"uber Salze der
+Pyruvins\"aure  2. Kristallstruktur von Kaliumpyruvat, Neubestimmung
+der Struktur  von Natriumpyruvat
+;
+_journal_issue   1
+_journal_name_full
+'Zeitschrift f\"ur anorganische und allgemeine Chemie'
+_journal_page_first   87
+_journal_page_last   95
+_journal_paper_doi   10.1002/zaac.19885630113
+_journal_volume   563
+_journal_year   1988
+_chemical_formula_sum   'C3 H3 K O3'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90.88(3)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   22.027(2)
+_cell_length_b   5.835(2)
+_cell_length_c   4.004(4)
+_cod_original_sg_symbol_H-M   'P 21/n'
+_cod_original_formula_sum   'C3 H3 K1 O3'
+_cod_database_code   5000117
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  1/2-x,1/2+y,1/2-z
+  3  -x,-y,-z
+  4  -1/2+x,-1/2-y,-1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  K1  K  0.19356(5)  0.1530(1)  0.0325(2)
+  O1  O  0.1922(1)  0.4679(5)  0.5313(9)
+  O2  O  0.1707(1)  0.8406(6)  0.5085(9)
+  O3  O  0.0879(1)  0.4191(7)  0.8831(12)
+  C1  C  0.1587(2)  0.6378(9)  0.5719(10)
+  C2  C  0.0956(2)  0.5914(8)  0.7214(12)
+  C3  C  0.0472(2)  0.7653(12)  0.6699(18)
+  H1  H  0.03670  0.77480  0.41950
+  H2  H  0.00920  0.71960  0.78770
+  H3  H  0.06360  0.91190  0.75110
+loop_
+ _atom_type_symbol
+ _atom_type_radius_bond
+  C  0.68
+  H  0.23
+  K  1.33
+  O  0.68

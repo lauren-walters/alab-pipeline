@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_2106032
+loop_
+ _publ_author_name
+  'Berndt, A.F.'
+  'Lamberg, R.'
+_publ_section_title   'The crystal structure of Sn H P O4'
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   1092
+_journal_page_last   1094
+_journal_volume   27
+_journal_year   1971
+_chemical_formula_sum   'H O4 P Sn'
+_chemical_name_systematic   'Sn (H P O4)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   98.68
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.576
+_cell_length_b   13.548
+_cell_length_c   5.785
+_cell_volume   354.537
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Berndt_ACBCAR_1971_1948.cif
+_cod_data_source_block   H1O4P1Sn1
+_cod_original_cell_volume   354.5371
+_cod_original_formula_sum   'H1 O4 P1 Sn1'
+_cod_database_code   2106032
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P+5  0.571  0.15  0.565  1  0.0
+  O4  O-2  0.795  0.221  0.689  1  0.0
+  O3  O-2  0.695  0.091  0.392  1  0.0
+  Sn1  Sn+2  0.0517  0.1571  0.11  1  0.0
+  O1  O-2  0.306  0.212  0.453  1  0.0
+  O2  O-2  0.472  0.077  0.748  1  0.0

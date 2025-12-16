@@ -1,0 +1,268 @@
+# generated using pymatgen
+data_2237421
+loop_
+ _publ_author_name
+  'Kulikov, Vladislav'
+  'Meyer, Gerd'
+_publ_section_title
+'Dihydronium tetrachromate(VI), (H~3~O)~2~Cr~4~O~13~'
+_journal_coeditor_code   WM2714
+_journal_issue   2
+_journal_name_full   'Acta Crystallographica Section E'
+_journal_page_first   i13
+_journal_paper_doi   10.1107/S1600536813001608
+_journal_volume   69
+_journal_year   2013
+_chemical_formula_iupac   '(H3 O)2 Cr4 O13'
+_chemical_formula_moiety   '3(H3 O +), Cr4 O13 2-'
+_chemical_formula_sum   'Cr4 H6 O15'
+_chemical_formula_weight   454.05
+_chemical_name_common   'dihydronium tetrachromate'
+_chemical_name_systematic   'Dihydronium tetrachromate(VI)'
+_space_group_IT_number   7
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   'P -2yc'
+_symmetry_space_group_name_H-M   'P 1 c 1'
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   91.888(18)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   8.9765(13)
+_cell_length_b   7.6431(8)
+_cell_length_c   9.3451(14)
+_cell_measurement_reflns_used   1754
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   28.15
+_cell_measurement_theta_min   1.9
+_cell_volume   640.80(15)
+_computing_cell_refinement   'IPDS (Stoe & Cie, 1997)'
+_computing_data_collection   'IPDS (Stoe & Cie, 1997)'
+_computing_data_reduction   'IPDS (Stoe & Cie, 1997)'
+_computing_molecular_graphics   'DIAMOND (Crystal Impact, 2012)'
+_computing_publication_material   'SHELXL97 (Sheldrick, 2008)'
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 2008)'
+_computing_structure_solution
+'SIR92 (Altomare <i>et al.</i>, 1993)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   0.946
+_diffrn_measured_fraction_theta_max   0.946
+_diffrn_measurement_device_type   'Stoe IPDS I'
+_diffrn_measurement_method   '\f scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0399
+_diffrn_reflns_av_sigmaI/netI   0.0338
+_diffrn_reflns_limit_h_max   11
+_diffrn_reflns_limit_h_min   -11
+_diffrn_reflns_limit_k_max   9
+_diffrn_reflns_limit_k_min   -9
+_diffrn_reflns_limit_l_max   12
+_diffrn_reflns_limit_l_min   -12
+_diffrn_reflns_number   5900
+_diffrn_reflns_theta_full   28.12
+_diffrn_reflns_theta_max   28.12
+_diffrn_reflns_theta_min   2.27
+_diffrn_standards_number   0
+_exptl_absorpt_coefficient_mu   3.374
+_exptl_absorpt_correction_T_max   0.3136
+_exptl_absorpt_correction_T_min   0.1205
+_exptl_absorpt_correction_type   numerical
+_exptl_absorpt_process_details
+;
+[<i>X-RED</i> (Stoe & Cie, 2001) and <i>X-SHAPE</i> (Stoe & Cie,
+1999)]
+;
+_exptl_crystal_colour   orange-red
+_exptl_crystal_density_diffrn   2.353
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   block
+_exptl_crystal_F_000   444
+_exptl_crystal_size_max   1.0
+_exptl_crystal_size_mid   0.4
+_exptl_crystal_size_min   0.2
+_refine_diff_density_max   0.694
+_refine_diff_density_min   -0.576
+_refine_ls_abs_structure_details   'Flack (1983), 1212 Friedel pairs'
+_refine_ls_abs_structure_Flack   0.53(4)
+_refine_ls_extinction_coef   0.083(5)
+_refine_ls_extinction_expression
+Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method   'SHELXL97 (Sheldrick, 2008)'
+_refine_ls_goodness_of_fit_ref   1.058
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   174
+_refine_ls_number_reflns   2696
+_refine_ls_number_restraints   2
+_refine_ls_restrained_S_all   1.058
+_refine_ls_R_factor_all   0.0432
+_refine_ls_R_factor_gt   0.0400
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0842P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.1072
+_refine_ls_wR_factor_ref   0.1100
+_reflns_number_gt   2497
+_reflns_number_total   2696
+_reflns_threshold_expression   I>2sigma(I)
+_cod_data_source_file   wm2714.cif
+_cod_data_source_block   I
+_cod_original_sg_symbol_H-M   'P c'
+_cod_database_code   2237421
+_cod_database_fobs_code   2237421
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+  Cr  Cr2  0.44108(9)  1.10692(11)  1.05710(8)  0.0219(2)  Uani  d
+  1  1
+  Cr  Cr1  0.12169(8)  0.92974(12)  1.17627(8)  0.0242(2)  Uani  d
+  1  1
+  Cr  Cr3  0.44219(9)  1.44260(12)  0.83187(8)  0.0263(2)  Uani  d
+  1  1
+  Cr  Cr4  0.78483(9)  1.42919(12)  0.79827(9)  0.0283(2)  Uani  d
+  1  1
+  O  O21  0.4560(6)  0.9751(8)  0.9295(4)  0.0437(12)  Uani  d  1  1
+  O  O31  0.4312(7)  1.3165(9)  0.7003(5)  0.0542(13)  Uani  d  1  1
+  O  O14  0.2882(5)  1.0642(5)  1.1542(4)  0.0324(9)  Uani  d  1  1
+  O  O33  0.6117(5)  1.5476(5)  0.8324(4)  0.0296(8)  Uani  d  1  1
+  O  O12  0.1024(6)  0.7916(8)  1.0473(6)  0.0497(12)  Uani  d  1  1
+  O  O22  0.5891(5)  1.0957(7)  1.1545(4)  0.0401(11)  Uani  d  1  1
+  O  O23  0.4224(5)  1.3239(6)  0.9907(4)  0.0334(9)  Uani  d  1  1
+  O  O43  0.9211(5)  1.5638(6)  0.8196(5)  0.0360(10)  Uani  d  1  1
+  O  O11  -0.0193(5)  1.0612(6)  1.1705(5)  0.0395(11)  Uani  d  1
+  1
+  O  O13  0.1342(5)  0.8307(8)  1.3278(6)  0.0522(14)  Uani  d  1  1
+  O  O42  0.7792(7)  1.3587(12)  0.6374(7)  0.074(2)  Uani  d  1  1
+  O  O32  0.3119(5)  1.5822(7)  0.8197(6)  0.0477(13)  Uani  d  1  1
+  O  O41  0.8015(6)  1.2744(8)  0.9121(7)  0.0595(16)  Uani  d  1  1
+  O  O1W  0.0967(6)  0.4158(8)  1.0652(6)  0.0469(12)  Uani  d  1  1
+  O  O2W  0.7959(6)  0.9005(7)  0.9169(5)  0.0456(12)  Uani  d  1  1
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Cr2  0.0205(3)  0.0256(4)  0.0197(3)  -0.0006(3)  0.0010(2)
+  0.0020(3)
+  Cr1  0.0221(4)  0.0208(5)  0.0296(4)  -0.0019(3)  0.0017(3)
+  0.0052(3)
+  Cr3  0.0235(4)  0.0274(5)  0.0278(4)  -0.0021(3)  0.0004(3)
+  0.0068(3)
+  Cr4  0.0255(4)  0.0222(5)  0.0374(4)  -0.0005(3)  0.0057(3)
+  -0.0052(3)
+  O21  0.047(3)  0.060(4)  0.0242(18)  0.010(2)  0.0025(17)
+  -0.0114(18)
+  O31  0.063(3)  0.062(4)  0.038(2)  -0.024(3)  0.0033(19)
+  -0.008(2)
+  O14  0.034(2)  0.029(3)  0.0349(19)  -0.0062(15)  0.0083(16)
+  0.0006(13)
+  O33  0.0289(19)  0.024(2)  0.036(2)  -0.0003(16)  0.0045(15)
+  0.0024(14)
+  O12  0.048(3)  0.035(3)  0.065(3)  -0.003(2)  -0.004(2)  -0.017(2)
+  O22  0.027(2)  0.058(3)  0.035(2)  -0.0030(18)  -0.0041(16)
+  0.0082(17)
+  O23  0.038(2)  0.028(2)  0.0344(19)  -0.0032(18)  0.0057(15)
+  0.0107(14)
+  O43  0.026(2)  0.036(3)  0.046(2)  -0.0044(15)  0.0092(17)
+  0.0016(16)
+  O11  0.030(2)  0.040(3)  0.049(2)  0.0044(16)  0.0039(18)
+  0.0018(17)
+  O13  0.038(2)  0.061(4)  0.057(3)  -0.010(2)  0.002(2)  0.034(3)
+  O42  0.059(4)  0.092(5)  0.071(4)  0.006(3)  0.007(3)  -0.047(4)
+  O32  0.029(3)  0.057(4)  0.057(3)  0.006(2)  -0.0039(19)  0.022(2)
+  O41  0.048(3)  0.034(3)  0.097(4)  0.002(2)  0.010(3)  0.026(3)
+  O1W  0.044(3)  0.051(3)  0.046(2)  0.007(2)  0.0014(19)
+  -0.0030(19)
+  O2W  0.043(3)  0.049(4)  0.044(2)  0.009(2)  -0.0039(19)
+  0.0003(19)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  H  H  0.0000  0.0000
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Cr  Cr  0.3209  0.6236
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  O21  Cr2  O22  108.1(3)
+  O21  Cr2  O14  111.9(2)
+  O22  Cr2  O14  111.0(2)
+  O21  Cr2  O23  110.1(3)
+  O22  Cr2  O23  108.5(2)
+  O14  Cr2  O23  107.3(2)
+  O13  Cr1  O12  110.7(3)
+  O13  Cr1  O11  110.8(3)
+  O12  Cr1  O11  108.6(3)
+  O13  Cr1  O14  109.3(2)
+  O12  Cr1  O14  110.6(2)
+  O11  Cr1  O14  106.8(2)
+  O31  Cr3  O32  109.3(3)
+  O31  Cr3  O33  108.9(3)
+  O32  Cr3  O33  109.7(3)
+  O31  Cr3  O23  110.0(3)
+  O32  Cr3  O23  108.3(2)
+  O33  Cr3  O23  110.7(2)
+  O41  Cr4  O42  112.2(4)
+  O41  Cr4  O43  109.7(3)
+  O42  Cr4  O43  109.5(4)
+  O41  Cr4  O33  108.1(2)
+  O42  Cr4  O33  109.3(3)
+  O43  Cr4  O33  108.0(2)
+  Cr2  O14  Cr1  147.5(3)
+  Cr3  O33  Cr4  121.6(2)
+  Cr3  O23  Cr2  140.1(3)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  Cr2  O21  1.570(4)
+  Cr2  O22  1.588(4)
+  Cr2  O14  1.701(4)
+  Cr2  O23  1.776(4)
+  Cr1  O13  1.606(4)
+  Cr1  O12  1.607(5)
+  Cr1  O11  1.615(5)
+  Cr1  O14  1.831(4)
+  Cr3  O31  1.563(6)
+  Cr3  O32  1.584(5)
+  Cr3  O33  1.720(5)
+  Cr3  O23  1.754(4)
+  Cr4  O41  1.595(5)
+  Cr4  O42  1.596(6)
+  Cr4  O43  1.606(5)
+  Cr4  O33  1.836(5)
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  30658328

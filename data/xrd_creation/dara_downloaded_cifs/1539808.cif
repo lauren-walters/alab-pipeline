@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_1539808
+loop_
+ _publ_author_name
+  'Evain, M.'
+  'Brec, R.'
+  'Fiechter, S.'
+  'Tributsch, H.'
+_publ_section_title   'Crystal structure of a new Fe P4 modification'
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   40
+_journal_page_last   46
+_journal_volume   71
+_journal_year   1987
+_chemical_formula_sum   'Fe P4'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   91.14
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   5.0543
+_cell_length_b   10.407
+_cell_length_c   11.069
+_cell_volume   582.115
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Evain_JSSCBI_1987_343.cif
+_cod_data_source_block   Fe1P4
+_cod_original_cell_volume   582.1152
+_cod_original_formula_sum   'Fe1 P4'
+_cod_database_code   1539808
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P4  P  0.0608  0.3973  0.02394  1  0.0
+  P2  P  0.2001  0.4275  0.21573  1  0.0
+  P3  P  0.0396  0.0926  0.04951  1  0.0
+  Fe1  Fe  0.25  0.25  0.5  1  0.0
+  Fe2  Fe  0  0.07601  0.25  1  0.0
+  P1  P  0.2997  0.2328  0.2921  1  0.0

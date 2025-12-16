@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_1512527
+loop_
+ _publ_author_name
+  'Lejaeghere, K.'
+  'Van Speybroeck, V.'
+  'Van Oost, G.'
+  'Cottenier, S.'
+_publ_section_title
+;
+Error Estimates for Solid-State Density-Functional Theory Predictions:
+An  Overview by Means of the Ground-State Elemental Crystals
+;
+_journal_issue   1
+_journal_name_full
+'Critical Reviews in Solid State and Materials Sciences'
+_journal_page_first   1
+_journal_paper_doi   10.1080/10408436.2013.772503
+_journal_volume   39
+_journal_year   2014
+_chemical_formula_sum   O
+_space_group_IT_number   12
+_symmetry_Int_Tables_number   12
+_symmetry_space_group_name_Hall   '-B 2'
+_symmetry_space_group_name_H-M   'B 1 1 2/m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120.41247
+_cell_formula_units_Z   4
+_cell_length_a   4.27163
+_cell_length_b   4.86933
+_cell_length_c   4.27682
+_cell_volume   76.717
+_cod_data_source_file   O.cif
+_cod_data_source_block   VESTA_phase_1
+_cod_original_sg_symbol_H-M   'B 2/m'
+_cod_struct_determination_method   theoretical
+_cod_database_code   1512527
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, -y, -z'
+  '-x, -y, z'
+  'x, y, -z'
+  'x+1/2, y, z+1/2'
+  '-x+1/2, -y, -z+1/2'
+  '-x+1/2, -y, z+1/2'
+  'x+1/2, y, -z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+  O0001  1.0  0.915504  0.853327  0.000000  Biso  1.000000  O

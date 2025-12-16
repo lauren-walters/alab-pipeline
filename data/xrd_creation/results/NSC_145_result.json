@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66471f2ce84e87556c098892",
+  "experiment_name": "NSC_145",
+  "success": false,
+  "error": "No peaks are detected in the pattern.",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Al-Na-O-P",
+  "target_formula": "Na3.3Al2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:46:38.326483",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

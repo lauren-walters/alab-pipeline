@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_4341103
+loop_
+ _publ_author_name
+  'Xu, J.'
+  'Chen, S.C.'
+  'Ramanujachary, K.V.'
+  'Greenblatt, M.'
+_publ_section_title
+'Synthesis, structure and physical properties of Nb18P2.5O50'
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   267
+_journal_page_last   270
+_journal_volume   33
+_journal_year   1994
+_chemical_formula_structural   'Nb18 (P2.5 O50)'
+_chemical_formula_sum   'Nb18 O50 P2.5'
+_chemical_name_systematic   'Niobium Phosphate'
+_space_group_IT_number   87
+_symmetry_Int_Tables_number   87
+_symmetry_space_group_name_Hall   '-I 4'
+_symmetry_space_group_name_H-M   'I 4/m'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   1
+_cell_length_a   15.593(1)
+_cell_length_b   15.593(1)
+_cell_length_c   3.8282(3)
+_cell_volume   930.79(11)
+_cod_data_source_file   Nb18P2_5O50_I4_m_DC275.cif
+_cod_data_source_block   chateigner
+_cod_original_cell_volume   930.79
+_cod_database_code   4341103
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-y, x, -z'
+  2  'y, -x, -z'
+  3  'x, y, -z'
+  4  '-x, -y, -z'
+  5  'y, -x, z'
+  6  '-y, x, z'
+  7  '-x, -y, z'
+  8  'x, y, z'
+  9  '-y+1/2, x+1/2, -z+1/2'
+  10  'y+1/2, -x+1/2, -z+1/2'
+  11  'x+1/2, y+1/2, -z+1/2'
+  12  '-x+1/2, -y+1/2, -z+1/2'
+  13  'y+1/2, -x+1/2, z+1/2'
+  14  '-y+1/2, x+1/2, z+1/2'
+  15  '-x+1/2, -y+1/2, z+1/2'
+  16  'x+1/2, y+1/2, z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_B_iso_or_equiv
+  Nb1  Nb4.86+  2  a  0  0  0  1.  0  1.55(5)
+  Nb2  Nb4.86+  8  h  0.21843(8)  0.10890(8)  0  1.  0  0.40(2)
+  Nb3  Nb4.86+  8  h  0.11428(8)  0.32977(8)  0  1.  0  0.45(2)
+  P1  P5+  4  d  0  0.5  0.25  0.625  0  1.5(1)
+  O1  O2-  8  h  0.1751(6)  0.2203(6)  0  1.  0  2.2(2)
+  O2  O2-  8  h  0.2820(7)  0.9885(6)  0  1.  0  2.1(2)
+  O3  O2-  8  h  0.2472(6)  0.3893(7)  0  1.  0  1.8(2)
+  O4  O2-  8  h  0.3543(6)  0.1561(7)  0  1.  0  2.1(2)
+  O5  O2-  8  h  0.0664(7)  0.4512(7)  0  1.  0  2.3(2)
+  O6  O2-  8  h  0.1169(6)  0.0518(7)  0  1.  0  1.9(2)
+  O7  O2-  2  b  0.5  0.5  0  1.  0  3.0(4)
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Nb4.86+  4.86
+  O2-  -2
+  P5+  5

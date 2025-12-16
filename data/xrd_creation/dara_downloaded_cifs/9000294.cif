@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_9000294
+loop_
+ _publ_author_name
+  'Cannillo, E.'
+  'Rossi, G.'
+  'Ungaretti, L.'
+_publ_section_title   'The crystal structure of elpidite'
+_journal_name_full   'American Mineralogist'
+_journal_page_first   106
+_journal_page_last   109
+_journal_volume   58
+_journal_year   1973
+_chemical_formula_sum   'H6 Na2 O18 Si6 Zr'
+_chemical_name_mineral   Elpidite
+_space_group_IT_number   57
+_symmetry_space_group_name_Hall   '-P 2c 2b'
+_symmetry_space_group_name_H-M   'P b c m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.14
+_cell_length_b   14.68
+_cell_length_c   14.65
+_cell_volume   1535.543
+_database_code_amcsd   0000303
+_exptl_crystal_density_diffrn   2.594
+_cod_original_formula_sum   'Zr Si6 Na2 O18 H6'
+_cod_database_code   9000294
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2-y,1/2+z
+  -x,1/2+y,1/2-z
+  -x,1/2+y,z
+  x,1/2-y,-z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  -x,-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Zr  0.00749  0.00218  0.00544  0.00000  0.00000  -0.00109
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Zr  0.49500  0.25000  0.50000  ?  Zr  0
+  Si1  0.77200  0.38540  0.64620  0.00507  Si  0
+  Si2  0.50860  0.04760  0.64130  0.00646  Si  0
+  Si3  0.21700  0.39280  0.64350  0.00621  Si  0
+  Na1  0.43620  0.22990  0.75000  0.02622  Na  0
+  Na2  -0.00270  0.25000  0.50000  0.02558  Na  0
+  O1  0.99660  0.40470  0.63920  0.01849  O  0
+  O2  0.71560  0.35380  0.75000  0.01684  O  0
+  O3  0.70770  0.30990  0.57720  0.01748  O  0
+  O4  0.67810  0.48250  0.62770  0.01938  O  0
+  O5  0.52850  0.07130  0.75000  0.01178  O  0
+  O6  0.49040  0.14050  0.58860  0.01520  O  0
+  O7  0.30290  0.48880  0.61190  0.00646  O  0
+  O8  0.28810  0.37700  0.75000  0.01001  O  0
+  O9  0.29280  0.30970  0.58230  0.01013  O  0
+  Wat1  0.01040  0.11300  0.58100  0.03306  O  2
+  Wat2  0.12330  0.18950  0.75000  0.03850  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:46:07+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0000303

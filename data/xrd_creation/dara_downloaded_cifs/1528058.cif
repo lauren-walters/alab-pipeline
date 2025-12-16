@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_1528058
+loop_
+ _publ_author_name
+  'Selte, K.'
+  'Kjekshus, A.'
+_publ_section_title   'Structural and magnetic properties of Fe P'
+_journal_name_full   'Acta Chemica Scandinavica (1-27,1973-42,1988)'
+_journal_page_first   1276
+_journal_page_last   1277
+_journal_volume   26
+_journal_year   1972
+_chemical_formula_sum   'Fe P'
+_space_group_IT_number   33
+_symmetry_space_group_name_Hall   'P 2c -2n'
+_symmetry_space_group_name_H-M   'P n a 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.193
+_cell_length_b   5.792
+_cell_length_c   3.099
+_cell_volume   93.211
+_citation_journal_id_ASTM   ACSAA4
+_cod_data_source_file   Selte_ACSAA4_1972_1215.cif
+_cod_data_source_block   Fe1P1
+_cod_original_cell_volume   93.21127
+_cod_original_formula_sum   'Fe1 P1'
+_cod_database_code   1528058
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Fe1  Fe+3  0.002  0.2004  0.25  1  0.0
+  P1  P-3  0.1912  0.5684  0.296  1  0.0

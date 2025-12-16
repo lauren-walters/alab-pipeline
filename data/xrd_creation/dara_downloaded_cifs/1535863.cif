@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_1535863
+loop_
+ _publ_author_name
+  'Nagornyi, P.G.'
+  'Kapshuk, A.A.'
+_publ_section_title
+'Synthesis and structure of a double phosphate K3Ti3P5O20'
+_journal_name_full   'Zhurnal Neorganicheskoi Khimii'
+_journal_page_first   11
+_journal_page_last   13
+_journal_volume   38
+_journal_year   1993
+_chemical_formula_sum   'K3 O20 P5 Ti3'
+_chemical_name_systematic   'K3 Ti3 (P O4)5'
+_space_group_IT_number   29
+_symmetry_space_group_name_Hall   'P -2bc -2c'
+_symmetry_space_group_name_H-M   'P c 21 b'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.288
+_cell_length_b   14.658
+_cell_length_c   18.059
+_cell_volume   1664.489
+_citation_journal_id_ASTM   ZNOKAQ
+_cod_data_source_file   Nagornyi_ZNOKAQ_1993_1440.cif
+_cod_data_source_block   K3O20P5Ti3
+_cod_original_sg_symbol_Hall   'P 2c -2ac (y,z,x)'
+_cod_database_code   1535863
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z
+  x,y+1/2,-z+1/2
+  -x,y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O17  O-2  0.1016  -0.0983  0.2297  1  0.0
+  P4  P+5  0.8635  0.0985  0.2802  1  0.0
+  O7  O-2  0.2614  0.1574  0.0622  1  0.0
+  Ti1  Ti+4  0.7505  0.25  0.1488  1  0.0
+  Ti3  Ti+4  0.7529  0.1174  0.4574  1  0.0
+  O10  O-2  0.4419  0.1143  0.4579  1  0.0
+  K2  K+1  0.3806  0.02  0.1545  1  0.0
+  P5  P+5  0.863  -0.0921  0.2271  1  0.0
+  P1  P+5  0.2577  0.3844  0.4943  1  0.0
+  O18  O-2  0.7441  -0.1208  0.1577  1  0.0
+  O19  O-2  0.7514  -0.1363  0.2939  1  0.0
+  O13  O-2  0.7536  0.078  0.3538  1  0.0
+  O9  O-2  0.0563  0.112  0.469  1  0.0
+  K1  K+1  0.3455  0.247  0.3231  1  0.0
+  O20  O-2  0.7474  0.2333  0.4279  1  0.0
+  O12  O-2  0.2698  0.1416  0.5876  1  0.0
+  Ti2  Ti+4  0.7541  0.3554  0.4475  1  0.0
+  O16  O-2  0.7908  0.0118  0.2297  1  0.0
+  O2  O-2  0.2644  0.4841  0.5119  1  0.0
+  O4  O-2  0.4368  0.3587  0.4426  1  0.0
+  O14  O-2  0.0976  0.1038  0.285  1  0.0
+  O1  O-2  0.2639  0.3263  0.5637  1  0.0
+  O15  O-2  0.7462  0.1773  0.2406  1  0.0
+  K3  K+1  0.3622  -0.0326  0.3535  1  0.0
+  O5  O-2  0.4391  0.2508  0.159  1  0.0
+  P3  P+5  0.2506  0.0898  0.5122  1  0.0
+  O6  O-2  0.0496  0.2467  0.152  1  0.0
+  O8  O-2  0.2577  0.3289  0.053  1  0.0
+  O11  O-2  0.2577  -0.0112  0.5305  1  0.0
+  P2  P+5  0.2525  0.245  0.105  1  0.0
+  O3  O-2  0.0572  0.3622  0.4481  1  0.0

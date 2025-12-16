@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66d9d4624efa8b4b4dfcfaec",
+  "experiment_name": "PG_1418-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "C-Fe-H-In-O",
+  "target_formula": "In2Fe2H8C4O15",
+  "analysis_timestamp": "2025-12-06T15:16:26.995131",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

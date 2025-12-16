@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_1001555
+loop_
+ _publ_author_name
+  'Benmoussa, A'
+  'Borel, M M'
+  'Grandin, A'
+  'Leclaire, A'
+  'Raveau, B'
+_publ_section_title
+;
+Langbeinite, a host lattice for "V~3~O" clusters: the trivalent
+vanadium phosphate K~11~V~15~P~18~O~73~
+;
+_journal_coden_ASTM   JSSCBI
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   314
+_journal_page_last   318
+_journal_paper_doi   10.1016/0022-4596(92)90039-X
+_journal_volume   97
+_journal_year   1992
+_chemical_formula_structural   'K7.333 (V10 P12 O48.667)'
+_chemical_formula_sum   'K7.333 O48.667 P12 V10'
+_chemical_name_systematic   'Potassium tecto-vanadatophosphate *'
+_space_group_IT_number   198
+_symmetry_cell_setting   cubic
+_symmetry_Int_Tables_number   198
+_symmetry_space_group_name_Hall   'P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P 21 3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   1
+_cell_length_a   9.896(1)
+_cell_length_b   9.896(1)
+_cell_length_c   9.896(1)
+_cell_volume   969.1
+_refine_ls_R_factor_all   0.03
+_cod_database_code   1001555
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  y,z,x
+  z,x,y
+  1/2+x,1/2-y,-z
+  1/2+y,1/2-z,-x
+  1/2+z,1/2-x,-y
+  -x,1/2+y,1/2-z
+  -y,1/2+z,1/2-x
+  -z,1/2+x,1/2-y
+  1/2-x,-y,1/2+z
+  1/2-y,-z,1/2+x
+  1/2-z,-x,1/2+y
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  P1  P5+  12  b  0.4804(1)  0.7101(1)  0.3753(1)  1.  0  d
+  V1  V3+  4  a  0.66315(8)  0.66315(8)  0.66315(8)  1.  0  d
+  V2  V3+  4  a  0.39579(9)  0.39579(9)  0.39579(9)  1.  0  d
+  V3  V3+  12  b  0.4674(5)  0.1742(5)  0.5895(5)  0.1667  0  d
+  K1  K1+  4  a  0.1812(2)  0.1812(2)  0.1812(2)  1.  0  d
+  K2  K1+  4  a  0.9562(2)  0.9562(2)  0.9562(2)  0.8333  0  d
+  O1  O2-  12  b  0.5993(5)  0.8337(4)  0.7494(5)  1.  0  d
+  O2  O2-  12  b  0.4552(5)  0.3018(4)  0.2300(4)  1.  0  d
+  O3  O2-  12  b  0.4905(4)  0.5632(4)  0.3288(4)  1.  0  d
+  O4  O2-  12  b  0.5599(5)  0.7336(4)  0.5061(4)  1.  0  d
+  O5  O2-  4  a  -0.016(3)  -0.016(3)  -0.016(3)  0.1667  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  P5+  5.000
+  V3+  3.000
+  K1+  1.000
+  O2-  -2.000

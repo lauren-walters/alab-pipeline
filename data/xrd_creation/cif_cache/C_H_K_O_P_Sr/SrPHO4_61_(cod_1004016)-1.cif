@@ -1,0 +1,101 @@
+# generated using pymatgen
+data_1004016
+loop_
+ _publ_author_name
+  'Ben Taher, L.'
+  'Smiri, L.'
+  'Laligant, Y.'
+  'Maisonneuve, V.'
+_publ_section_title
+;
+Investigation of th alkaline earth phosphates: synthesis and crystal
+structure of a new strontium hydrogen phosphate form
+;
+_journal_issue   2
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   428
+_journal_page_last   434
+_journal_paper_doi   10.1006/jssc.2000.8700
+_journal_volume   152
+_journal_year   2000
+_chemical_formula_structural   'Sr (H P O4)'
+_chemical_formula_sum   'H O4 P Sr'
+_chemical_name_systematic   'Strontium Hydrogenphosphate(V) - Gamma'
+_symmetry_Int_Tables_number   61
+_symmetry_space_group_name_H-M   'P b c a'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   16
+_cell_length_a   8.131(3)
+_cell_length_b   9.258(5)
+_cell_length_c   18.084(7)
+_cell_volume   1361.31
+_refine_ls_R_factor_all   0.039
+_cod_original_formula_sum   'H1 O4 P1 Sr1'
+_cod_database_code   1004016
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_type_symbol
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Sr1  Sr2+  0.0048(3)  0.0108(4)  0.0156(3)  -.0005(4)  -.0007(2)
+  -.0005(3)
+  Sr2  Sr2+  0.0057(3)  0.0092(3)  0.0153(3)  0.0004(4)  0.0000(3)
+  0.0003(3)
+  P1  P5+  0.0042(6)  0.0078(6)  0.0147(7)  -.0001(5)  0.0016(11)
+  0.0013(9)
+  P2  P5+  0.0033(7)  0.0077(8)  0.0147(7)  0.0002(7)  0.0002(7)
+  -.0003(7)
+  O1  O2-  0.0049(18)  0.0052(19)  0.0221(22)  0.0011(15)
+  0.0031(22)  -.0029(25)
+  O2  O2-  0.0099(28)  0.0154(32)  0.0179(24)  -.0037(25)
+  -.0084(22)  0.0041(23)
+  O3  O2-  0.0085(27)  0.0162(31)  0.0183(24)  -.0013(25)
+  0.0039(22)  0.0019(23)
+  O4  O2-  0.0052(20)  0.0114(20)  0.0180(21)  -.0004(16)
+  -.0018(24)  -.0049(27)
+  O5  O2-  0.0107(29)  0.0123(28)  0.0246(28)  -.0005(23)
+  -.0024(23)  0.0102(24)
+  O6  O2-  0.0070(24)  0.0109(25)  0.0247(27)  0.004(2)  -.0047(22)
+  0.0002(23)
+  O7  O2-  0.0100(22)  0.0144(25)  0.0178(24)  -.0007(22)
+  0.0101(20)  -.0043(23)
+  O8  O2-  0.0186(30)  0.0167(24)  -.0026(24)  0.0150(12)
+  -.0022(24)  -.0039(21)
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_U_iso_or_equiv
+  Sr1  Sr2+  8  c  0.1244(1)  0.3213(1)  0.12536(2)  1.  0  0
+  Sr2  Sr2+  8  c  0.86913(9)  0.6821(1)  0.11737(4)  1.  0  0
+  P1  P5+  8  c  0.2510(2)  0.0770(1)  0.0037(1)  1.  0  0
+  P2  P5+  8  c  0.5227(2)  0.4790(2)  0.2057(1)  1.  0  0
+  O1  O2-  8  c  0.0903(5)  0.1632(5)  0.0042(3)  1.  0  0
+  O2  O2-  8  c  0.3450(7)  0.1013(7)  0.0754(3)  1.  0  0
+  O3  O2-  8  c  0.3472(7)  0.1074(7)  -.0663(3)  1.  0  0
+  O4  O2-  8  c  0.2064(6)  -.0904(5)  0.0010(4)  1.  0  0
+  O5  O2-  8  c  0.5793(7)  0.6203(6)  0.1718(3)  1.  0  0
+  O6  O2-  8  c  0.6754(7)  0.3742(6)  0.2213(3)  1.  0  0
+  O7  O2-  8  c  0.4484(6)  0.5019(6)  0.2828(3)  1.  0  0
+  O8  O2-  8  c  0.4140(7)  0.3877(6)  0.1571(3)  1.  0  0
+  H1  H1+  8  c  0.097(6)  0.90(1)  0.009(7)  1.  0  0.040(31)
+  H2  H1+  8  c  0.76(8)  0.42(1)  0.215(7)  1.  0  0.080(48)
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  H1+  1
+  O2-  -2
+  P5+  5
+  Sr2+  2

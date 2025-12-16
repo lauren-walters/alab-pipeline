@@ -1,0 +1,742 @@
+# generated using pymatgen
+data_2013238
+loop_
+ _publ_author_name
+  'Harcharras, Mohamed'
+  'Goubitz, Kees'
+  'Ennaciri, Abdelaziz'
+  'Assaaoudi, Hassane'
+  'Schenk, Henk'
+_publ_section_title
+'KHCoP~2~O~7~&#x00B7;2H~2~O: a novel acidic pyrophosphate'
+_journal_issue   6
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   i57
+_journal_page_last   i58
+_journal_paper_doi   10.1107/S0108270103010084
+_journal_volume   59
+_journal_year   2003
+_chemical_formula_iupac   'K H Co P2 O7, 2H2 O'
+_chemical_formula_moiety   'K Co (H P2 O7), 2H2 O'
+_chemical_formula_sum   'Co H5 K O9 P2'
+_chemical_formula_weight   309.01
+_space_group_IT_number   62
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90.000
+_cell_angle_beta   90.000
+_cell_angle_gamma   90.000
+_cell_formula_units_Z   4
+_cell_length_a   15.4724(15)
+_cell_length_b   7.7881(8)
+_cell_length_c   6.4942(6)
+_cell_measurement_reflns_used   955
+_cell_measurement_temperature   250
+_cell_measurement_theta_max   27.48
+_cell_measurement_theta_min   2.63
+_cell_volume   782.55(13)
+_computing_cell_refinement
+'HKL Scalepack (Otwinowski & Minor, 1997)'
+_computing_data_collection   KappaCCD
+_computing_data_reduction
+'Denzo and Scalepack (Otwinowski & Minor, 1997)'
+_computing_molecular_graphics
+'PLATON (Spek, 2003), ORTEP (Johnson, 1970), PLUTON (Spek, 1991)'
+_computing_publication_material   'xtal BONDLA CIFIO PLATON'
+_computing_structure_refinement
+'xtal3.7 (Hall et al., 2000) CRYLSQ'
+_computing_structure_solution   'DIRDIF96 (Beurskens et al., 1996)'
+_diffrn_ambient_temperature   293
+_diffrn_measured_fraction_theta_full   1.0
+_diffrn_measured_fraction_theta_max   1.0
+_diffrn_measurement_device   'Nonius KappaCCD'
+_diffrn_measurement_method   \f-scans
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   'Mo K\a'
+_diffrn_radiation_wavelength   .71073
+_diffrn_reflns_av_R_equivalents   .041
+_diffrn_reflns_av_sigmaI/netI   .024
+_diffrn_reflns_limit_h_max   20
+_diffrn_reflns_limit_h_min   -15
+_diffrn_reflns_limit_k_max   8
+_diffrn_reflns_limit_k_min   -10
+_diffrn_reflns_limit_l_max   8
+_diffrn_reflns_limit_l_min   -7
+_diffrn_reflns_number   4664
+_diffrn_reflns_theta_full   27.48
+_diffrn_reflns_theta_max   27.48
+_diffrn_reflns_theta_min   2.63
+_diffrn_standards_number   0
+_exptl_absorpt_coefficient_mu   3.157
+_exptl_absorpt_correction_T_max   0.669
+_exptl_absorpt_correction_T_min   0.569
+_exptl_absorpt_correction_type   empirical
+_exptl_absorpt_process_details   'MULABS; Blessing, 1995'
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   2.623
+_exptl_crystal_density_meas   ?
+_exptl_crystal_description   plate
+_exptl_crystal_F_000   612
+_exptl_crystal_size_max   0.2
+_exptl_crystal_size_mid   0.2
+_exptl_crystal_size_min   0.04
+_refine_diff_density_max   .619
+_refine_diff_density_min   -.972
+_refine_ls_extinction_coef   163E1(12)
+_refine_ls_extinction_expression
+'Eq22 p292 Cryst. Comp. Munksgaard 1970'
+_refine_ls_extinction_method   'Zachariasen (1967)'
+_refine_ls_goodness_of_fit_all   1.378
+_refine_ls_goodness_of_fit_ref   1.374
+_refine_ls_hydrogen_treatment   constr
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   80
+_refine_ls_number_reflns   955
+_refine_ls_number_restraints   3
+_refine_ls_R_factor_all   .034
+_refine_ls_R_factor_gt   .034
+_refine_ls_shift/su_max   .042
+_refine_ls_shift/su_mean   .001
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'1/[900. + 0.01*(\s(F~o~^2^)^2^) + 0.01/(\s(F~o~^2^))]'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_all   .039
+_refine_ls_wR_factor_ref   .039
+_reflns_number_gt   955
+_reflns_number_observed   955
+_reflns_number_total   955
+_reflns_threshold_expression   'Fsqd >  .00 sig(Fsqd)'
+_cod_data_source_file   av1135.cif
+_cod_data_source_block   I
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_exptl_crystal_density_meas' value 'not measured' was changed to '?'
+- the value is perceived as not measured. Automatic conversion script
+Id: cif_fix_values 3008 2015-01-20 13:52:24Z robertas
+;
+_cod_original_cell_volume   782.56(14)
+_cod_original_sg_symbol_Hall   -p_2ac_2n
+_cod_original_formula_sum   'H5 Co K O9 P2'
+_cod_database_code   2013238
+_cod_database_fobs_code   2013238
+loop_
+ _symmetry_equiv_pos_as_xyz
+  +x,+y,+z
+  1/2-x,-y,1/2+z
+  1/2+x,1/2-y,1/2-z
+  -x,1/2+y,-z
+  -x,-y,-z
+  1/2+x,+y,1/2-z
+  1/2-x,1/2+y,1/2+z
+  +x,1/2-y,+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_calc_attached_atom
+ _atom_site_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Co  .30492(4)  .75000  .56152(11)  .0108(3)  Uani  ?  ?  1.00000
+  ?  ?
+  K  .53494(7)  .75000  .61789(19)  .0189(5)  Uani  ?  ?  1.00000  ?
+  ?
+  P  .13604(5)  .56130(10)  .36122(14)  .0106(4)  Uani  ?  ?
+  1.00000  ?  ?
+  O1  .1125(2)  .75000  .2732(6)  .0137(16)  Uani  ?  ?  1.00000  ?
+  ?
+  O2  .07528(13)  .5311(3)  .5457(4)  .0149(11)  Uani  ?  ?  1.00000
+  ?  ?
+  H2  .018(3)  .516(14)  .494(18)  .03500  Uiso  ?  ?  .50000  ?  ?
+  O3  .11494(12)  .4429(3)  .1864(4)  .0136(10)  Uani  ?  ?  1.00000
+  ?  ?
+  O4  .22892(13)  .5616(3)  .4301(4)  .0141(10)  Uani  ?  ?  1.00000
+  ?  ?
+  O5w  .3944(2)  .75000  .3090(6)  .0176(17)  Uani  ?  ?  1.00000  ?
+  ?
+  H5w  .404(3)  .656(3)  .218(5)  .03500  Uiso  ?  ?  1.00000  ?  ?
+  O6w  .2153(2)  .75000  .8164(6)  .0160(17)  Uani  ?  ?  1.00000  ?
+  ?
+  H6w  .233(3)  .663(4)  .912(5)  .03500  Uiso  ?  ?  1.00000  ?  ?
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Co  .0105(3)  .0087(3)  .0133(3)  .00000  -.0012(3)  .00000
+  K  .0156(5)  .0219(5)  .0191(6)  .00000  .0001(5)  .00000
+  P  .0102(3)  .0075(3)  .0140(4)  -.0005(3)  .0003(4)  -.0009(4)
+  O1  .0180(16)  .0101(12)  .0132(19)  .00000  -.0035(15)  .00000
+  O2  .0129(10)  .0168(10)  .0149(13)  -.0013(8)  .0005(10)
+  .0004(11)
+  O3  .0136(10)  .0113(8)  .0157(13)  -.0019(9)  -.0019(9)
+  -.0041(10)
+  O4  .0131(10)  .0082(9)  .0211(12)  .0002(8)  -.0034(10)
+  -.0027(11)
+  O5w  .0247(18)  .0140(14)  .0141(19)  .00000  .0044(16)  .00000
+  O6w  .0172(17)  .0115(14)  .0193(19)  .00000  -.0001(15)  .00000
+loop_
+ _atom_type_symbol
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Co  .299  .973  'Int Tables Vol IV Tables 2.2B and 2.3.1'
+  K  .179  .25  'Int Tables Vol IV Tables 2.2B and 2.3.1'
+  P  .09  .095  'Int Tables Vol IV Tables 2.2B and 2.3.1'
+  O  .008  .006  'Int Tables Vol IV Tables 2.2B and 2.3.1'
+  H  0  0  'Int Tables Vol IV Tables 2.2B and 2.3.1'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O4  Co  O4  '8 565'  .  .  90.58(9)  ?
+  O4  Co  O3  '8 565'  .  '2 565'  178.04(9)  ?
+  O4  Co  O3  '8 565'  .  7  89.29(8)  ?
+  O4  Co  O5w  '8 565'  .  .  92.96(9)  ?
+  O4  Co  O6w  '8 565'  .  .  87.21(9)  ?
+  O4  Co  K  '8 565'  .  .  127.49(6)  ?
+  O4  Co  O3  .  .  '2 565'  89.29(8)  ?
+  O4  Co  O3  .  .  7  178.04(9)  ?
+  O4  Co  O5w  .  .  .  92.96(9)  ?
+  O4  Co  O6w  .  .  .  87.21(9)  ?
+  O4  Co  K  .  .  .  127.49(6)  ?
+  O3  Co  O3  '2 565'  .  7  90.77(8)  ?
+  O3  Co  O5w  '2 565'  .  .  85.09(9)  ?
+  O3  Co  O6w  '2 565'  .  .  94.74(9)  ?
+  O3  Co  K  '2 565'  .  .  51.39(6)  ?
+  O3  Co  O5w  7  .  .  85.09(9)  ?
+  O3  Co  O6w  7  .  .  94.74(9)  ?
+  O3  Co  K  7  .  .  51.39(6)  ?
+  O5w  Co  O6w  .  .  .  179.76(14)  ?
+  O5w  Co  K  .  .  .  55.69(10)  ?
+  O6w  Co  K  .  .  .  124.07(10)  ?
+  O3  K  O3  7  .  '2 565'  64.92(6)  ?
+  O3  K  O1  7  .  '3 565'  119.86(8)  ?
+  O3  K  O6w  7  .  '3 566'  142.67(6)  ?
+  O3  K  O2  7  .  '6 556'  112.45(8)  ?
+  O3  K  O2  7  .  '3 566'  74.80(6)  ?
+  O3  K  O5w  7  .  .  59.92(7)  ?
+  O3  K  Co  7  .  .  36.10(5)  ?
+  O3  K  O1  '2 565'  .  '3 565'  119.86(8)  ?
+  O3  K  O6w  '2 565'  .  '3 566'  142.67(6)  ?
+  O3  K  O2  '2 565'  .  '6 556'  74.80(6)  ?
+  O3  K  O2  '2 565'  .  '3 566'  112.45(8)  ?
+  O3  K  O5w  '2 565'  .  .  59.92(7)  ?
+  O3  K  Co  '2 565'  .  .  36.10(5)  ?
+  O1  K  O6w  '3 565'  .  '3 566'  73.40(11)  ?
+  O1  K  O2  '3 565'  .  '6 556'  126.98(7)  ?
+  O1  K  O2  '3 565'  .  '3 566'  126.98(7)  ?
+  O1  K  O5w  '3 565'  .  .  72.60(10)  ?
+  O1  K  Co  '3 565'  .  .  109.42(8)  ?
+  O6w  K  O2  '3 566'  .  '6 556'  70.52(8)  ?
+  O6w  K  O2  '3 566'  .  '3 566'  70.52(8)  ?
+  O6w  K  O5w  '3 566'  .  .  146.00(11)  ?
+  O6w  K  Co  '3 566'  .  .  177.18(9)  ?
+  O2  K  O2  '6 556'  .  '3 566'  73.75(7)  ?
+  O2  K  O5w  '6 556'  .  .  133.08(6)  ?
+  O2  K  Co  '6 556'  .  .  107.30(5)  ?
+  O2  K  O5w  '3 566'  .  .  133.08(6)  ?
+  O2  K  Co  '3 566'  .  .  107.30(5)  ?
+  O5w  K  Co  .  .  .  36.82(7)  ?
+  O1  P  O2  '3 565'  '3 565'  '3 565'  106.01(15)  yes
+  O1  P  O3  '3 565'  '3 565'  '3 565'  104.03(16)  yes
+  O1  P  O4  '3 565'  '3 565'  '3 565'  108.56(14)  yes
+  O2  P  O3  '3 565'  '3 565'  '3 565'  111.23(12)  yes
+  O2  P  O4  '3 565'  '3 565'  '3 565'  110.59(13)  yes
+  O3  P  O4  '3 565'  '3 565'  '3 565'  115.72(12)  yes
+  P  O1  P  6  '3 565'  '3 565'  130.5(2)  yes
+  P  O1  K  6  '3 565'  .  114.54(12)  ?
+  P  O1  K  '3 565'  '3 565'  .  114.54(12)  ?
+  H2  O2  P  '3 566'  '3 566'  '3 566'  108(6)  ?
+  H2  O2  K  '3 566'  '3 566'  .  98(6)  ?
+  P  O2  K  '3 566'  '3 566'  .  129.84(11)  ?
+  H2  H2  O2  7  '3 566'  '3 566'  148(19)  ?
+  P  O3  Co  '2 565'  '2 565'  .  126.96(12)  ?
+  P  O3  K  '2 565'  '2 565'  .  129.15(11)  ?
+  Co  O3  K  .  '2 565'  .  92.51(8)  ?
+  P  O4  Co  .  .  .  131.87(13)  ?
+  H5w  O5w  H5w  .  .  '8 565'  101(3)  ?
+  H5w  O5w  Co  .  .  .  125(2)  ?
+  H5w  O5w  K  .  .  .  108(2)  ?
+  H5w  O5w  Co  '8 565'  .  .  125(2)  ?
+  H5w  O5w  K  '8 565'  .  .  108(2)  ?
+  Co  O5w  K  .  .  .  87.49(12)  ?
+  H6w  O6w  H6w  '8 565'  .  .  90(3)  ?
+  H6w  O6w  Co  '8 565'  .  .  108(2)  ?
+  H6w  O6w  K  '8 565'  .  '3 466'  101(2)  ?
+  H6w  O6w  Co  .  .  .  108(2)  ?
+  H6w  O6w  K  .  .  '3 466'  101(2)  ?
+  Co  O6w  K  .  .  '3 466'  138.64(16)  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Co  O3  .  '2 565'  2.110(2)  yes
+  Co  O3  .  7  2.110(2)  yes
+  Co  O4  .  .  2.065(2)  yes
+  Co  O4  .  '8 565'  2.065(2)  yes
+  Co  O5w  .  .  2.146(4)  yes
+  Co  O6w  .  .  2.159(4)  yes
+  Co  K  .  .  3.5778(12)  ?
+  K  O3  .  7  2.798(2)  ?
+  K  O3  .  '2 565'  2.798(2)  ?
+  K  O1  .  '3 565'  2.809(4)  ?
+  K  O6w  .  '3 566'  2.823(3)  ?
+  K  O2  .  '6 556'  2.840(3)  ?
+  K  O2  .  '3 566'  2.840(3)  ?
+  K  O5w  .  .  2.958(4)  ?
+  P  O1  '3 565'  '3 565'  1.618(2)  yes
+  P  O2  '3 565'  '3 565'  1.541(2)  yes
+  P  O3  '3 565'  '3 565'  1.499(2)  yes
+  P  O4  '3 565'  '3 565'  1.505(2)  yes
+  O2  H2  '3 566'  '3 566'  .96(6)  ?
+  H2  H2  '3 566'  7  .61(9)  ?
+  O5w  H5w  .  .  0.96(3)  ?
+  O5w  H5w  .  '8 565'  0.96(3)  ?
+  O6w  H6w  .  '8 565'  0.96(3)  ?
+  O6w  H6w  .  .  0.96(3)  ?
+loop_
+ _geom_contact_atom_site_label_1
+ _geom_contact_atom_site_label_2
+ _geom_contact_distance
+ _geom_contact_site_symmetry_1
+ _geom_contact_site_symmetry_2
+  H6w  H6w  1.35(4)  .  '8 565'
+  H5w  H5w  1.47(4)  .  '8 565'
+  O2  H2  1.51(6)  '3 566'  7
+  O4  H6w  1.85(3)  .  '2 564'
+  O2  H5w  1.86(3)  '3 566'  '4 656'
+  P  H2  2.05(7)  '3 565'  '3 565'
+  H2  H5w  2.31(10)  '3 566'  '4 656'
+  O2  O2  2.453(3)  '3 566'  7
+  O1  O3  2.458(2)  '3 565'  6
+  O1  O3  2.458(2)  '3 565'  '3 565'
+  H2  H5w  2.49(9)  '3 566'  '8 566'
+  O2  O4  2.504(3)  '3 566'  '3 566'
+  O2  O3  2.509(3)  '3 566'  '3 566'
+  O1  O2  2.524(4)  '3 565'  '3 565'
+  O1  O2  2.524(4)  '3 565'  6
+  O1  O4  2.537(3)  '3 565'  6
+  O1  O4  2.537(3)  '3 565'  '3 565'
+  O3  O4  2.544(3)  '2 565'  '2 565'
+  H2  O3  2.56(10)  '3 566'  '3 566'
+  Co  H6w  2.62(3)  .  '8 565'
+  Co  H6w  2.62(3)  .  .
+  P  H2  2.63(6)  '3 565'  '7 554'
+  O4  O6w  2.679(3)  .  '2 564'
+  P  H6w  2.69(4)  '3 565'  '4 656'
+  O1  H2  2.74(10)  '3 565'  '3 565'
+  O1  H2  2.74(10)  '3 565'  6
+  Co  H5w  2.81(4)  .  .
+  Co  H5w  2.81(4)  .  '8 565'
+  O2  O5w  2.818(3)  '3 566'  '4 656'
+  O3  O5w  2.878(4)  '2 565'  .
+  O3  H6w  2.89(4)  '2 565'  .
+  O4  O6w  2.914(4)  .  .
+  P  H5w  2.93(3)  '3 565'  '4 655'
+  O3  O4  2.934(3)  '2 565'  .
+  O4  O4  2.935(3)  .  '8 565'
+  H2  O3  2.94(9)  '3 566'  7
+  P  P  2.9393(11)  '3 565'  6
+  O3  O3  3.004(3)  '2 565'  7
+  O4  O5w  3.054(4)  .  .
+  O1  H6w  3.08(3)  '3 565'  '6 556'
+  O1  H6w  3.08(3)  '3 565'  '3 566'
+  O3  H6w  3.08(3)  '2 565'  '2 564'
+  K  H2  3.12(11)  .  '3 566'
+  K  H2  3.12(11)  .  '6 556'
+  O4  H5w  3.13(4)  .  .
+  O3  O6w  3.141(3)  '2 565'  .
+  O2  H5w  3.15(3)  '3 566'  '5 676'
+  K  H6w  3.15(4)  .  '6 556'
+  K  H6w  3.15(4)  .  '3 566'
+  O3  H5w  3.15(3)  '2 565'  .
+  O4  H6w  3.16(3)  .  '7 544'
+  H2  O5w  3.21(10)  '3 566'  '4 656'
+  O4  H6w  3.23(3)  .  .
+  Co  P  3.2404(10)  .  '2 565'
+  Co  P  3.2404(10)  .  7
+  O4  H5w  3.25(4)  .  '2 565'
+  O1  H2  3.26(9)  '3 565'  '7 554'
+  O1  H2  3.26(9)  '3 565'  '2 564'
+  Co  P  3.2679(10)  .  '8 565'
+  Co  P  3.2679(10)  .  .
+  O2  O6w  3.270(4)  '3 566'  '3 566'
+  H2  O5w  3.29(10)  '3 566'  '1 556'
+  O2  H5w  3.30(4)  '3 566'  '8 566'
+  P  O4  3.300(2)  '3 565'  6
+  H5w  H6w  3.30(5)  .  '1 554'
+  K  H2  3.31(11)  .  7
+  K  H2  3.31(11)  .  '2 565'
+  O1  H5w  3.31(4)  '3 565'  '8 565'
+  O1  H5w  3.31(4)  '3 565'  .
+  H2  O4  3.31(5)  '3 566'  '3 566'
+  K  O3  3.341(2)  .  6
+  K  O3  3.341(2)  .  '3 565'
+  P  O6w  3.354(2)  '3 565'  '4 656'
+  O1  O6w  3.366(5)  '3 565'  '3 566'
+  K  H5w  3.38(4)  .  '8 565'
+  K  H5w  3.38(4)  .  .
+  P  H6w  3.38(3)  '3 565'  '3 566'
+  H2  H5w  3.38(11)  '3 566'  '5 676'
+  H2  H5w  3.40(10)  '3 566'  '1 556'
+  P  O2  3.402(2)  '3 565'  '7 554'
+  O2  O2  3.409(3)  '3 566'  '6 556'
+  Co  H6w  3.41(3)  .  '7 554'
+  Co  H6w  3.41(3)  .  '2 564'
+  O1  O5w  3.417(5)  '3 565'  .
+  O2  O3  3.425(3)  '3 566'  7
+  O2  H6w  3.44(4)  '3 566'  '4 657'
+  O4  O4  3.448(3)  .  '2 564'
+  O4  O4  3.448(3)  .  '2 565'
+  Co  O4  3.448(2)  .  7
+  Co  O4  3.448(2)  .  '2 565'
+  O4  H6w  3.46(3)  .  '1 554'
+  K  H5w  3.47(3)  .  '5 666'
+  K  H5w  3.47(3)  .  '4 656'
+  H5w  H6w  3.50(5)  .  '2 564'
+  Co  O1  3.517(3)  .  .
+  P  O2  3.521(2)  '3 565'  6
+  O3  H6w  3.52(3)  '2 565'  '8 565'
+  P  O6w  3.522(3)  '3 565'  '3 565'
+  O3  H5w  3.55(3)  '2 565'  '1 556'
+  O2  H6w  3.56(4)  '3 566'  '3 566'
+  H5w  H6w  3.59(5)  .  '8 564'
+  P  O4  3.622(2)  '3 565'  '4 656'
+  O5w  H6w  3.65(4)  .  '8 564'
+  O5w  H6w  3.65(4)  .  '1 554'
+  O2  H2  3.65(11)  '3 566'  '6 556'
+  P  H5w  3.70(4)  '3 565'  '8 565'
+  O3  H5w  3.71(4)  '2 565'  '5 666'
+  H5w  O6w  3.71(3)  .  '2 564'
+  P  H6w  3.72(3)  '3 565'  '5 676'
+  O3  O6w  3.730(4)  '2 565'  '2 564'
+  O4  H5w  3.75(4)  .  '8 565'
+  K  P  3.7800(14)  .  6
+  K  P  3.7800(14)  .  '3 565'
+  O3  H5w  3.79(3)  '2 565'  '8 565'
+  O4  H6w  3.79(3)  .  '8 565'
+  P  O5w  3.815(3)  '3 565'  '4 655'
+  O1  O2  3.824(3)  '3 565'  '7 554'
+  O1  O2  3.824(3)  '3 565'  '2 564'
+  O5w  H6w  3.84(3)  .  '7 554'
+  O5w  H6w  3.84(3)  .  '2 564'
+  P  H2  3.86(10)  '3 565'  6
+  O1  O6w  3.870(5)  '3 565'  '3 565'
+  H2  O4  3.90(5)  '3 566'  7
+  K  P  3.9209(12)  .  7
+  K  P  3.9209(12)  .  '2 565'
+  P  H6w  3.92(3)  '3 565'  '6 556'
+  K  O2  3.927(2)  .  7
+  K  O2  3.927(2)  .  '2 565'
+  Co  O2  3.942(2)  .  '8 565'
+  Co  O2  3.942(2)  .  .
+  O4  O5w  3.948(4)  .  '2 565'
+  P  H6w  3.96(3)  '3 565'  '3 565'
+  P  H5w  3.97(3)  '3 565'  '5 675'
+  H5w  O6w  3.98(4)  .  '1 554'
+  O2  H5w  3.99(3)  '3 566'  '1 556'
+  O4  H6w  3.99(3)  .  '8 564'
+  O2  O4  3.991(3)  '3 566'  '4 656'
+  O3  H6w  3.99(3)  '2 565'  '7 544'
+  O2  O5w  4.005(4)  '3 566'  '1 556'
+  K  P  4.0062(14)  .  '3 566'
+  K  P  4.0062(14)  .  '6 556'
+  P  O6w  4.023(4)  '3 565'  '3 566'
+  O2  O4  4.034(3)  '3 566'  '6 556'
+  P  O3  4.038(2)  '3 565'  6
+  K  O5w  4.0722(11)  .  '4 646'
+  K  O5w  4.0722(11)  .  '4 656'
+  P  O3  4.100(2)  '3 565'  '6 565'
+  O1  O4  4.107(4)  '3 565'  '5 666'
+  O1  O4  4.107(4)  '3 565'  '4 656'
+  K  O1  4.132(4)  .  '3 566'
+  P  O5w  4.166(3)  '3 565'  .
+  O3  O5w  4.167(3)  '2 565'  '4 646'
+  O3  O4  4.174(3)  '2 565'  '8 565'
+  O2  O6w  4.184(3)  '3 566'  '4 657'
+  Co  O6w  4.2185(15)  .  '2 574'
+  Co  O6w  4.2185(15)  .  '2 564'
+  O5w  O6w  4.232(5)  .  '1 554'
+  P  H5w  4.24(4)  '3 565'  .
+  O5w  O6w  4.2485(19)  .  '2 574'
+  O5w  O6w  4.2485(19)  .  '2 564'
+  O4  O6w  4.252(4)  .  '1 554'
+  Co  O2  4.256(2)  .  '2 565'
+  Co  O2  4.256(2)  .  7
+  O2  O3  4.262(3)  '3 566'  '3 565'
+  P  O5w  4.273(3)  '3 565'  '3 565'
+  O5w  O6w  4.305(5)  .  .
+  P  H5w  4.31(4)  '3 565'  '3 565'
+  O3  O5w  4.316(4)  '2 565'  '1 556'
+  K  K  4.3218(8)  .  '4 646'
+  K  K  4.3218(8)  .  '4 656'
+  Co  O1  4.3226(16)  .  '2 565'
+  Co  O1  4.3226(16)  .  '2 575'
+  P  O4  4.351(2)  '3 565'  '4 655'
+  P  O5w  4.354(3)  '3 565'  '4 656'
+  O1  O5w  4.368(5)  '3 565'  '3 565'
+  P  H2  4.37(10)  '3 565'  '2 564'
+  O2  O2  4.379(3)  '3 566'  '6 566'
+  K  H2  4.38(11)  .  6
+  K  H2  4.38(11)  .  '3 565'
+  P  O3  4.394(2)  '3 565'  '4 655'
+  K  O4  4.397(2)  .  '5 666'
+  K  O4  4.397(2)  .  '4 656'
+  Co  O2  4.410(2)  .  '2 564'
+  Co  O2  4.410(2)  .  '7 554'
+  Co  H6w  4.41(3)  .  '1 554'
+  Co  H6w  4.41(3)  .  '8 564'
+  K  O4  4.447(2)  .  '6 556'
+  K  O4  4.447(2)  .  '3 566'
+  K  H5w  4.45(3)  .  '8 566'
+  K  H5w  4.45(3)  .  '1 556'
+  Co  O3  4.505(2)  .  '8 565'
+  Co  O3  4.505(2)  .  .
+  K  H2  4.62(11)  .  '2 564'
+  K  H2  4.62(11)  .  '7 554'
+  K  O1  4.6246(19)  .  '2 575'
+  K  O1  4.6246(19)  .  '2 565'
+  K  O2  4.638(3)  .  '7 554'
+  K  O2  4.638(3)  .  '2 564'
+  Co  K  4.6672(13)  .  '3 466'
+  K  O2  4.676(3)  .  6
+  K  O2  4.676(3)  .  '3 565'
+  P  P  4.6779(11)  '3 565'  '7 554'
+  Co  K  4.7603(8)  .  '4 646'
+  Co  K  4.7603(8)  .  '4 656'
+  Co  O4  4.793(2)  .  '7 554'
+  Co  O4  4.793(2)  .  '2 564'
+  K  H5w  4.84(3)  .  '4 646'
+  K  H5w  4.84(3)  .  '5 676'
+  P  P  4.8488(12)  '3 565'  '6 565'
+  K  O4  4.881(3)  .  6
+  K  O4  4.881(3)  .  '3 565'
+  P  P  4.8879(12)  '3 565'  '4 655'
+  P  P  4.8879(12)  '3 565'  '4 656'
+  K  O5w  4.987(4)  .  '1 556'
+  K  H6w  5.09(4)  .  '8 565'
+  K  H6w  5.09(4)  .  .
+  K  O4  5.105(2)  .  .
+  K  O4  5.105(2)  .  '8 565'
+  K  O6w  5.110(3)  .  .
+  K  O4  5.164(2)  .  7
+  K  O4  5.164(2)  .  '2 565'
+  K  O3  5.260(3)  .  '6 556'
+  K  O3  5.260(3)  .  '3 566'
+  K  P  5.6401(13)  .  '5 666'
+  K  P  5.6401(13)  .  '4 656'
+  Co  K  6.0759(14)  .  '3 465'
+  K  K  6.4003(14)  .  '4 647'
+  K  K  6.4003(14)  .  '4 657'
+  K  K  6.4942(18)  .  '1 554'
+  K  K  6.4942(18)  .  '1 556'
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion
+  O3  Co  K  O1  '2 565'  .  .  '3 565'  114.36(8)
+  O3  Co  K  O2  '2 565'  .  .  '3 566'  -104.58(10)
+  O3  Co  K  O3  '2 565'  .  .  '2 565'  .00(11)
+  O3  Co  K  O5w  '2 565'  .  .  .  114.36(8)
+  O3  Co  K  O6w  '2 565'  .  .  '3 566'  -65.64(9)
+  O3  Co  K  O2  '2 565'  .  .  '6 556'  -26.70(9)
+  O3  Co  K  O3  '2 565'  .  .  7  -131.29(12)
+  O4  Co  K  O1  .  .  .  '3 565'  63.60(9)
+  O4  Co  K  O2  .  .  .  '3 566'  -155.34(10)
+  O4  Co  K  O3  .  .  .  '2 565'  -50.76(12)
+  O4  Co  K  O5w  .  .  .  .  63.60(9)
+  O4  Co  K  O6w  .  .  .  '3 566'  -116.40(10)
+  O4  Co  K  O2  .  .  .  '6 556'  -77.46(11)
+  O4  Co  K  O3  .  .  .  7  177.95(12)
+  O5w  Co  K  O1  .  .  .  '3 565'  -.00005
+  O5w  Co  K  O2  .  .  .  '3 566'  141.06(5)
+  O5w  Co  K  O3  .  .  .  '2 565'  -114.36(8)
+  O5w  Co  K  O5w  .  .  .  .  .00006
+  O5w  Co  K  O6w  .  .  .  '3 566'  180.000(5)
+  O5w  Co  K  O2  .  .  .  '6 556'  -141.06(5)
+  O5w  Co  K  O3  .  .  .  7  114.36(8)
+  O6w  Co  K  O1  .  .  .  '3 565'  180.0000
+  O6w  Co  K  O2  .  .  .  '3 566'  -38.94(5)
+  O6w  Co  K  O3  .  .  .  '2 565'  65.64(8)
+  O6w  Co  K  O5w  .  .  .  .  180.0000
+  O6w  Co  K  O6w  .  .  .  '3 566'  .000(6)
+  O6w  Co  K  O2  .  .  .  '6 556'  38.94(5)
+  O6w  Co  K  O3  .  .  .  7  -65.64(8)
+  O3  Co  K  O1  7  .  .  '3 565'  -114.36(8)
+  O3  Co  K  O2  7  .  .  '3 566'  26.70(9)
+  O3  Co  K  O3  7  .  .  '2 565'  131.29(12)
+  O3  Co  K  O5w  7  .  .  .  -114.36(8)
+  O3  Co  K  O6w  7  .  .  '3 566'  65.64(9)
+  O3  Co  K  O2  7  .  .  '6 556'  104.58(10)
+  O3  Co  K  O3  7  .  .  7  .00(11)
+  O4  Co  K  O1  '8 565'  .  .  '3 565'  -63.60(9)
+  O4  Co  K  O2  '8 565'  .  .  '3 566'  77.46(11)
+  O4  Co  K  O3  '8 565'  .  .  '2 565'  -177.95(12)
+  O4  Co  K  O5w  '8 565'  .  .  .  -63.60(9)
+  O4  Co  K  O6w  '8 565'  .  .  '3 566'  116.40(10)
+  O4  Co  K  O2  '8 565'  .  .  '6 556'  155.34(10)
+  O4  Co  K  O3  '8 565'  .  .  7  50.76(12)
+  K  Co  O3  K  .  .  '2 565'  .  .00(3)
+  K  Co  O3  P  .  .  '2 565'  '2 565'  145.5(2)
+  O4  Co  O3  K  .  .  '2 565'  .  142.08(9)
+  O4  Co  O3  P  .  .  '2 565'  '2 565'  -72.45(17)
+  O5w  Co  O3  K  .  .  '2 565'  .  49.05(8)
+  O5w  Co  O3  P  .  .  '2 565'  '2 565'  -165.48(17)
+  O6w  Co  O3  K  .  .  '2 565'  .  -130.78(8)
+  O6w  Co  O3  P  .  .  '2 565'  '2 565'  14.69(17)
+  O3  Co  O3  K  7  .  '2 565'  .  -35.96(8)
+  O3  Co  O3  P  7  .  '2 565'  '2 565'  109.51(17)
+  O4  Co  O3  K  '8 565'  .  '2 565'  .  56(2)
+  O4  Co  O3  P  '8 565'  .  '2 565'  '2 565'  -159(2)
+  K  Co  O4  P  .  .  .  .  -166.27(14)
+  O3  Co  O4  P  '2 565'  .  .  .  156.5(2)
+  O5w  Co  O4  P  .  .  .  .  -118.5(2)
+  O6w  Co  O4  P  .  .  .  .  61.7(2)
+  O3  Co  O4  P  7  .  .  .  -112(2)
+  O4  Co  O4  P  '8 565'  .  .  .  -25.5(2)
+  K  Co  O5w  K  .  .  .  .  -.00006
+  K  Co  O5w  H5w  .  .  .  .  110(3)
+  K  Co  O5w  H5w  .  .  .  '8 565'  -110(3)
+  O3  Co  O5w  K  '2 565'  .  .  .  -45.60(6)
+  O3  Co  O5w  H5w  '2 565'  .  .  .  65(3)
+  O3  Co  O5w  H5w  '2 565'  .  .  '8 565'  -156(3)
+  O4  Co  O5w  K  .  .  .  .  -134.64(6)
+  O4  Co  O5w  H5w  .  .  .  .  -24(3)
+  O4  Co  O5w  H5w  .  .  .  '8 565'  115(3)
+  O6w  Co  O5w  K  .  .  .  .  -.003(3)
+  O6w  Co  O5w  H5w  .  .  .  .  110(3)
+  O6w  Co  O5w  H5w  .  .  .  '8 565'  -110(3)
+  O3  Co  O5w  K  7  .  .  .  45.60(6)
+  O3  Co  O5w  H5w  7  .  .  .  156(3)
+  O3  Co  O5w  H5w  7  .  .  '8 565'  -65(3)
+  O4  Co  O5w  K  '8 565'  .  .  .  134.64(6)
+  O4  Co  O5w  H5w  '8 565'  .  .  .  -115(3)
+  O4  Co  O5w  H5w  '8 565'  .  .  '8 565'  24(3)
+  K  Co  O6w  H6w  .  .  .  .  -48(2)
+  K  Co  O6w  K  .  .  .  '3 466'  180.0000(15)
+  K  Co  O6w  H6w  .  .  .  '8 565'  48(2)
+  O3  Co  O6w  H6w  '2 565'  .  .  .  -2(2)
+  O3  Co  O6w  K  '2 565'  .  .  '3 466'  -134.41(6)
+  O3  Co  O6w  H6w  '2 565'  .  .  '8 565'  93(2)
+  O4  Co  O6w  H6w  .  .  .  .  87(2)
+  O4  Co  O6w  K  .  .  .  '3 466'  -45.36(6)
+  O4  Co  O6w  H6w  .  .  .  '8 565'  -177(2)
+  O5w  Co  O6w  H6w  .  .  .  .  -48(2)
+  O5w  Co  O6w  K  .  .  .  '3 466'  -179.997(3)
+  O5w  Co  O6w  H6w  .  .  .  '8 565'  48(2)
+  O3  Co  O6w  H6w  7  .  .  .  -93(2)
+  O3  Co  O6w  K  7  .  .  '3 466'  134.41(6)
+  O3  Co  O6w  H6w  7  .  .  '8 565'  2(2)
+  O4  Co  O6w  H6w  '8 565'  .  .  .  177(2)
+  O4  Co  O6w  K  '8 565'  .  .  '3 466'  45.36(6)
+  O4  Co  O6w  H6w  '8 565'  .  .  '8 565'  -87(2)
+  K  Co  O3  K  .  .  7  .  .00(3)
+  O3  Co  O3  K  '2 565'  .  7  .  35.96(8)
+  O4  Co  O3  K  .  .  7  .  -56(2)
+  O5w  Co  O3  K  .  .  7  .  -49.05(9)
+  O6w  Co  O3  K  .  .  7  .  130.78(8)
+  O4  Co  O3  K  '8 565'  .  7  .  -142.08(9)
+  Co  K  O1  P  .  .  '3 565'  '3 565'  93.30(16)
+  Co  K  O1  P  .  .  '3 565'  6  -93.30(16)
+  O2  K  O1  P  '3 566'  .  '3 565'  '3 565'  -38.0(2)
+  O2  K  O1  P  '3 566'  .  '3 565'  6  135.39(14)
+  O3  K  O1  P  '2 565'  .  '3 565'  '3 565'  131.53(15)
+  O3  K  O1  P  '2 565'  .  '3 565'  6  -55.1(2)
+  O5w  K  O1  P  .  .  '3 565'  '3 565'  93.30(16)
+  O5w  K  O1  P  .  .  '3 565'  6  -93.30(16)
+  O6w  K  O1  P  '3 566'  .  '3 565'  '3 565'  -86.70(16)
+  O6w  K  O1  P  '3 566'  .  '3 565'  6  86.70(16)
+  O2  K  O1  P  '6 556'  .  '3 565'  '3 565'  -135.39(14)
+  O2  K  O1  P  '6 556'  .  '3 565'  6  38.0(2)
+  O3  K  O1  P  7  .  '3 565'  '3 565'  55.1(2)
+  O3  K  O1  P  7  .  '3 565'  6  -131.53(15)
+  Co  K  O2  H2  .  .  '3 566'  '3 566'  11(7)
+  Co  K  O2  P  .  .  '3 566'  '3 566'  132.57(14)
+  O1  K  O2  H2  '3 565'  .  '3 566'  '3 566'  143(7)
+  O1  K  O2  P  '3 565'  .  '3 566'  '3 566'  -95.33(16)
+  O3  K  O2  H2  '2 565'  .  '3 566'  '3 566'  -27(7)
+  O3  K  O2  P  '2 565'  .  '3 566'  '3 566'  94.48(15)
+  O5w  K  O2  H2  .  .  '3 566'  '3 566'  42(7)
+  O5w  K  O2  P  .  .  '3 566'  '3 566'  163.62(14)
+  O6w  K  O2  H2  '3 566'  .  '3 566'  '3 566'  -168(7)
+  O6w  K  O2  P  '3 566'  .  '3 566'  '3 566'  -45.55(15)
+  O2  K  O2  H2  '6 556'  .  '3 566'  '3 566'  -93(7)
+  O2  K  O2  P  '6 556'  .  '3 566'  '3 566'  29.06(15)
+  O3  K  O2  H2  7  .  '3 566'  '3 566'  27(7)
+  O3  K  O2  P  7  .  '3 566'  '3 566'  148.50(16)
+  Co  K  O3  Co  .  .  '2 565'  .  .00(3)
+  Co  K  O3  P  .  .  '2 565'  '2 565'  -144.3(2)
+  O1  K  O3  Co  '3 565'  .  '2 565'  .  -82.15(9)
+  O1  K  O3  P  '3 565'  .  '2 565'  '2 565'  133.57(14)
+  O2  K  O3  Co  '3 566'  .  '2 565'  .  88.82(9)
+  O2  K  O3  P  '3 566'  .  '2 565'  '2 565'  -55.46(17)
+  O5w  K  O3  Co  .  .  '2 565'  .  -39.12(7)
+  O5w  K  O3  P  .  .  '2 565'  '2 565'  176.61(18)
+  O6w  K  O3  Co  '3 566'  .  '2 565'  .  175.76(13)
+  O6w  K  O3  P  '3 566'  .  '2 565'  '2 565'  31.5(2)
+  O2  K  O3  Co  '6 556'  .  '2 565'  .  153.60(9)
+  O2  K  O3  P  '6 556'  .  '2 565'  '2 565'  9.33(15)
+  O3  K  O3  Co  7  .  '2 565'  .  29.26(7)
+  O3  K  O3  P  7  .  '2 565'  '2 565'  -115.01(17)
+  Co  K  O5w  Co  .  .  .  .  .00006
+  Co  K  O5w  H5w  .  .  .  .  -126(2)
+  Co  K  O5w  H5w  .  .  .  '8 565'  126(2)
+  O1  K  O5w  Co  '3 565'  .  .  .  -180.0000
+  O1  K  O5w  H5w  '3 565'  .  .  .  54(2)
+  O1  K  O5w  H5w  '3 565'  .  .  '8 565'  -54(2)
+  O2  K  O5w  Co  '3 566'  .  .  .  -55.25(9)
+  O2  K  O5w  H5w  '3 566'  .  .  .  179(2)
+  O2  K  O5w  H5w  '3 566'  .  .  '8 565'  71(2)
+  O3  K  O5w  Co  '2 565'  .  .  .  38.33(6)
+  O3  K  O5w  H5w  '2 565'  .  .  .  -88(2)
+  O3  K  O5w  H5w  '2 565'  .  .  '8 565'  164(2)
+  O6w  K  O5w  Co  '3 566'  .  .  .  -180.0000
+  O6w  K  O5w  H5w  '3 566'  .  .  .  54(2)
+  O6w  K  O5w  H5w  '3 566'  .  .  '8 565'  -54(2)
+  O2  K  O5w  Co  '6 556'  .  .  .  55.25(9)
+  O2  K  O5w  H5w  '6 556'  .  .  .  -71(2)
+  O2  K  O5w  H5w  '6 556'  .  .  '8 565'  -179(2)
+  O3  K  O5w  Co  7  .  .  .  -38.33(6)
+  O3  K  O5w  H5w  7  .  .  .  -164(2)
+  O3  K  O5w  H5w  7  .  .  '8 565'  88(2)
+  Co  K  O3  Co  .  .  7  .  .00(3)
+  O1  K  O3  Co  '3 565'  .  7  .  82.15(9)
+  O2  K  O3  Co  '3 566'  .  7  .  -153.60(9)
+  O3  K  O3  Co  '2 565'  .  7  .  -29.26(7)
+  O5w  K  O3  Co  .  .  7  .  39.12(7)
+  O6w  K  O3  Co  '3 566'  .  7  .  -175.76(13)
+  O2  K  O3  Co  '6 556'  .  7  .  -88.82(9)
+  O2  P  O1  K  '3 565'  '3 565'  '3 565'  .  -112.01(16)
+  O2  P  O1  P  '3 565'  '3 565'  '3 565'  6  75.9(3)
+  O4  P  O1  K  '3 565'  '3 565'  '3 565'  .  129.15(15)
+  O4  P  O1  P  '3 565'  '3 565'  '3 565'  6  -42.9(3)
+  O3  P  O1  K  '3 565'  '3 565'  '3 565'  .  5.38(18)
+  O3  P  O1  P  '3 565'  '3 565'  '3 565'  6  -166.7(2)
+  K  O2  H2  H2  .  '3 566'  '3 566'  7  -7E1(4)
+  P  O2  H2  H2  '3 566'  '3 566'  '3 566'  7  15E1(3)

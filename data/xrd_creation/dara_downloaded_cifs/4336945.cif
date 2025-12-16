@@ -1,0 +1,245 @@
+# generated using pymatgen
+data_4336945
+loop_
+ _publ_author_name
+  'Kunimitsu Kataoka'
+  'Norihito Kijima'
+  'Junji Akimoto'
+_publ_section_title
+;
+Ion-Exchange Synthesis, Crystal Structure, and Physical Properties of
+Hydrogen Titanium Oxide H2Ti3O7
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   13861
+_journal_page_last   13864
+_journal_paper_doi   10.1021/ic401144k
+_journal_volume   52
+_journal_year   2013
+_chemical_formula_sum   'H2 O7 Ti3'
+_chemical_formula_weight   257.65
+_space_group_IT_number   12
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   12
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   101.414(3)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   16.0380(8)
+_cell_length_b   3.7533(1)
+_cell_length_c   9.1982(3)
+_cell_measurement_temperature   300
+_cell_volume   542.74(4)
+_computing_structure_refinement   Jana2006
+_diffrn_radiation_probe   neutron
+_diffrn_radiation_wavelength   1.8478
+_exptl_crystal_density_diffrn   3.152
+_exptl_crystal_F_000   496
+_pd_meas_2theta_range_inc   0.05
+_pd_meas_2theta_range_max   156.950
+_pd_meas_2theta_range_min   7.000
+_pd_meas_number_of_points   3000
+_pd_proc_2theta_range_inc   0.05
+_pd_proc_2theta_range_max   156.95
+_pd_proc_2theta_range_min   7
+_pd_proc_ls_background_function   '20 Legendre polynoms'
+_pd_proc_ls_prof_R_factor   0.0197
+_refine_ls_goodness_of_fit_all   1.9008
+_refine_ls_number_constraints   9
+_refine_ls_R_factor_all   0.0108
+_refine_ls_R_factor_gt   0.0108
+_refine_ls_weighting_scheme   sigma
+_refine_ls_wR_factor_all   0.0260
+_refine_ls_wR_factor_gt   0.0260
+_cod_data_source_file   ic401144k_si_001.cif
+_cod_data_source_block   H2Ti3O7
+_cod_depositor_comments
+;
+The following automatic conversions were performed: data name
+'_atom_site_site_symmetry_mutiplicity' was replaced with
+'_atom_site_site_symmetry_multiplicity' as specified in the
+replacement file 'data/replacement-values/replacement_tags.lst'.
+Automatic conversion script Id: cif_correct_tags 9268 2022-04-12
+08:56:07Z antanas
+;
+_cod_original_cell_volume   542.736(39)
+_cod_original_sg_symbol_H-M   'C 2/m'
+_cod_database_code   4336945
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_site_symmetry_multiplicity
+ _atom_site_occupancy
+ _atom_site_calc_flag
+  H1  H  0.4720(12)  0.5  0.4578(23)  Uiso  0.059(4)  4  1  d
+  H2  H  0.5439(13)  0.5  0.1850(21)  Uiso  0.059(4)  4  1  d
+  Ti1  Ti  0.2333(8)  0  0.2236(14)  Uiso  0.0023(14)  4  1  d
+  Ti2  Ti  0.1643(9)  0  0.4992(14)  Uiso  0.0023(14)  4  1  d
+  Ti3  Ti  0.1259(8)  0  0.8291(11)  Uiso  0.0023(14)  4  1  d
+  O1  O  0.1694(5)  0  0.0316(10)  Uiso  0.0048(4)  4  1  d
+  O2  O  0.1345(5)  0  0.3205(10)  Uiso  0.0048(4)  4  1  d
+  O3  O  0.0740(7)  0  0.5943(11)  Uiso  0.0048(4)  4  1  d
+  O4  O  0.0091(5)  0  0.8553(9)  Uiso  0.0048(4)  4  1  d
+  O5  O  0.3512(5)  0  0.1746(8)  Uiso  0.0048(4)  4  1  d
+  O6  O  0.2964(5)  0  0.4616(10)  Uiso  0.0048(4)  4  1  d
+  O7  O  0.2394(5)  0  0.7513(9)  Uiso  0.0048(4)  4  1  d
+loop_
+ _atom_type_symbol
+ _atom_type_scat_length_neutron
+ _atom_type_scat_source
+  H  -3.739  International_Tables_Vol_C
+  Ti  -3.438  International_Tables_Vol_C
+  O  5.803  International_Tables_Vol_C
+loop_
+ _diffrn_ambient_temperature
+  300
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+  H1  H1  Ti2  2_656  6_556  125(2)
+  H1  H1  O3  2_656  5_555  4.1(13)
+  H1  H1  O3  2_656  6_556  171(3)
+  Ti2  H1  O3  6_556  5_555  128.7(12)
+  Ti2  H1  O3  6_556  6_556  45.9(15)
+  O3  H1  O3  5_555  6_556  175(2)
+  O2  H2  O4  5_555  6_556  160(2)
+  O1  Ti1  O2  .  .  95.1(7)
+  O1  Ti1  O5  .  .  98.7(7)
+  O1  Ti1  O6  .  .  173.8(9)
+  O1  Ti1  O7  .  6_546  100.5(4)
+  O1  Ti1  O7  .  6_556  100.5(4)
+  O2  Ti1  O5  .  .  166.2(7)
+  O2  Ti1  O6  .  .  78.7(6)
+  O2  Ti1  O7  .  6_546  97.5(5)
+  O2  Ti1  O7  .  6_556  97.5(5)
+  O5  Ti1  O6  .  .  87.5(5)
+  O5  Ti1  O7  .  6_546  80.1(5)
+  O5  Ti1  O7  .  6_556  80.1(5)
+  O6  Ti1  O7  .  6_546  80.4(4)
+  O6  Ti1  O7  .  6_556  80.4(4)
+  O7  Ti1  O7  6_546  6_556  152.9(7)
+  H1  Ti2  O2  6_546  .  94.3(8)
+  H1  Ti2  O3  6_546  .  18.2(6)
+  H1  Ti2  O6  6_546  .  179.1(8)
+  H1  Ti2  O6  6_546  6_546  104.3(5)
+  H1  Ti2  O6  6_546  6_556  104.3(5)
+  H1  Ti2  O7  6_546  .  98.4(8)
+  O2  Ti2  O3  .  .  112.5(9)
+  O2  Ti2  O6  .  .  86.6(7)
+  O2  Ti2  O6  .  6_546  101.7(5)
+  O2  Ti2  O6  .  6_556  101.7(5)
+  O2  Ti2  O7  .  .  167.3(10)
+  O3  Ti2  O6  .  .  160.9(8)
+  O3  Ti2  O6  .  6_546  99.5(5)
+  O3  Ti2  O6  .  6_556  99.5(5)
+  O3  Ti2  O7  .  .  80.3(6)
+  O6  Ti2  O6  .  6_546  75.5(5)
+  O6  Ti2  O6  .  6_556  75.5(5)
+  O6  Ti2  O7  .  .  80.7(5)
+  O6  Ti2  O6  6_546  6_556  141.2(8)
+  O6  Ti2  O7  6_546  .  75.1(4)
+  O6  Ti2  O7  6_556  .  75.1(4)
+  O1  Ti3  O3  1_556  .  179.4(9)
+  O1  Ti3  O4  1_556  .  93.2(6)
+  O1  Ti3  O5  1_556  6_546  89.0(4)
+  O1  Ti3  O5  1_556  6_556  89.0(4)
+  O1  Ti3  O7  1_556  .  99.5(6)
+  O3  Ti3  O4  .  .  86.2(6)
+  O3  Ti3  O5  .  6_546  91.1(4)
+  O3  Ti3  O5  .  6_556  91.1(4)
+  O3  Ti3  O7  .  .  81.2(5)
+  O4  Ti3  O5  .  6_546  101.3(5)
+  O4  Ti3  O5  .  6_556  101.3(5)
+  O4  Ti3  O7  .  .  167.3(6)
+  O5  Ti3  O5  6_546  6_556  157.4(8)
+  O5  Ti3  O7  6_546  .  79.1(5)
+  O5  Ti3  O7  6_556  .  79.1(5)
+  Ti1  O1  Ti3  .  1_554  168.9(8)
+  H2  O2  Ti1  5_445  .  108.3(9)
+  H2  O2  Ti2  5_445  .  140.8(11)
+  Ti1  O2  Ti2  .  .  111.0(7)
+  H1  O3  H1  5_445  6_546  5.4(18)
+  H1  O3  Ti2  5_445  .  110.6(9)
+  H1  O3  Ti3  5_445  .  142.4(10)
+  H1  O3  Ti2  6_546  .  116.0(19)
+  H1  O3  Ti3  6_546  .  137(2)
+  Ti2  O3  Ti3  .  .  107.0(7)
+  H2  O4  Ti3  6_546  .  147.9(16)
+  Ti1  O5  Ti3  .  6_546  101.2(5)
+  Ti1  O5  Ti3  .  6_556  101.2(5)
+  Ti3  O5  Ti3  6_546  6_556  157.4(7)
+  Ti1  O6  Ti2  .  .  83.7(5)
+  Ti1  O6  Ti2  .  6_546  104.2(4)
+  Ti1  O6  Ti2  .  6_556  104.2(4)
+  Ti2  O6  Ti2  .  6_546  104.5(5)
+  Ti2  O6  Ti2  .  6_556  104.5(5)
+  Ti2  O6  Ti2  6_546  6_556  141.2(6)
+  Ti1  O7  Ti1  6_546  6_556  152.9(6)
+  Ti1  O7  Ti2  6_546  .  100.1(4)
+  Ti1  O7  Ti3  6_546  .  98.7(5)
+  Ti1  O7  Ti2  6_556  .  100.1(4)
+  Ti1  O7  Ti3  6_556  .  98.7(5)
+  Ti2  O7  Ti3  .  .  91.5(5)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+  H1  O3  6_556  0.80(2)
+  H2  O4  6_556  0.86(2)
+  Ti1  Ti2  .  2.96(2)
+  Ti1  Ti3  6_546  3.048(15)
+  Ti1  Ti3  6_556  3.048(15)
+  Ti1  O1  .  1.85(2)
+  Ti1  O2  .  1.97(2)
+  Ti1  O5  .  2.03(2)
+  Ti1  O7  6_546  1.931(3)
+  Ti1  O7  6_556  1.931(3)
+  Ti2  O2  .  1.62(1)
+  Ti2  O3  .  1.83(1)
+  Ti2  O6  .  2.21(2)
+  Ti2  O6  6_546  1.990(4)
+  Ti2  O6  6_556  1.990(4)
+  Ti2  O7  .  2.39(2)
+  Ti3  O1  1_556  1.86(2)
+  Ti3  O3  .  2.16(2)
+  Ti3  O4  .  1.93(2)
+  Ti3  O5  6_546  1.914(3)
+  Ti3  O5  6_556  1.914(3)
+  Ti3  O7  .  2.08(1)
+loop_
+ _geom_hbond_atom_site_label_D
+ _geom_hbond_atom_site_label_H
+ _geom_hbond_atom_site_label_A
+ _geom_hbond_site_symmetry_D
+ _geom_hbond_site_symmetry_A
+ _geom_hbond_distance_DH
+ _geom_hbond_distance_HA
+ _geom_hbond_distance_DA
+ _geom_hbond_angle_DHA
+  O4  H2  O2  6_556  5_555  0.86(2)  1.72(2)  2.539(11)  160(2)
+loop_
+ _pd_proc_ls_profile_function
+  Pseudo-Voigt

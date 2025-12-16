@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_1530813
+loop_
+ _publ_author_name
+  'Sotofte, I.'
+  'Fu, D.C.'
+_publ_section_title
+'Redetermination of the Crystal Structure of Na3 Sc2 (P O4)3'
+_journal_name_full   'Solid State Ionics'
+_journal_page_first   307
+_journal_page_last   310
+_journal_volume   26
+_journal_year   1988
+_chemical_formula_sum   'Na1.2 O12 P3 Sc2'
+_chemical_name_systematic   'Na1.2 Sc2 (P O4)3'
+_space_group_IT_number   167
+_symmetry_space_group_name_Hall   '-R 3 2"c'
+_symmetry_space_group_name_H-M   'R -3 c :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   6
+_cell_length_a   8.93
+_cell_length_b   8.93
+_cell_length_c   22.245
+_cell_volume   1536.264
+_citation_journal_id_ASTM   SSIOD3
+_cod_data_source_file   Sotofte_SSIOD3_1988_1750.cif
+_cod_data_source_block   Na1.2O12P3Sc2
+_cod_original_cell_volume   1536.265
+_cod_database_code   1530813
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  y,x,-z+1/2
+  -x,-x+y,-z+1/2
+  x-y,-y,-z+1/2
+  -x,-y,-z
+  y,-x+y,-z
+  x-y,x,-z
+  -y,-x,z-1/2
+  x,x-y,z-1/2
+  -x+y,y,z-1/2
+  x+2/3,y+1/3,z+1/3
+  -y+2/3,x-y+1/3,z+1/3
+  -x+y+2/3,-x+1/3,z+1/3
+  y+2/3,x+1/3,-z+5/6
+  -x+2/3,-x+y+1/3,-z+5/6
+  x-y+2/3,-y+1/3,-z+5/6
+  -x+2/3,-y+1/3,-z+1/3
+  y+2/3,-x+y+1/3,-z+1/3
+  x-y+2/3,x+1/3,-z+1/3
+  -y+2/3,-x+1/3,z-1/6
+  x+2/3,x-y+1/3,z-1/6
+  -x+y+2/3,y+1/3,z-1/6
+  x+1/3,y+2/3,z+2/3
+  -y+1/3,x-y+2/3,z+2/3
+  -x+y+1/3,-x+2/3,z+2/3
+  y+1/3,x+2/3,-z+7/6
+  -x+1/3,-x+y+2/3,-z+7/6
+  x-y+1/3,-y+2/3,-z+7/6
+  -x+1/3,-y+2/3,-z+2/3
+  y+1/3,-x+y+2/3,-z+2/3
+  x-y+1/3,x+2/3,-z+2/3
+  -y+1/3,-x+2/3,z+1/6
+  x+1/3,x-y+2/3,z+1/6
+  -x+y+1/3,y+2/3,z+1/6
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O2  O  0.4745  0.1605  0.7446  1  0.0
+  Na2  Na  0  0  0  0.153  0.0
+  O1  O  0.1856  -0.0235  0.6946  1  0.0
+  P1  P  0.2951  0  0.75  1  0.0
+  Sc1  Sc  0  0  0.6487  1  0.0
+  Na1  Na  0.6372  0  0.75  0.347  0.0

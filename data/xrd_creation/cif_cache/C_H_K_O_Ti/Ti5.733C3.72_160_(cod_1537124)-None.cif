@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_1537124
+loop_
+ _publ_author_name
+  "Kukol', V.V."
+  'Khaenko, B.V.'
+  'Gnitetskii, O.A.'
+_publ_section_title
+;
+Existence and regular arrangement of metal vacancies in ordered
+modification of titanium carbide
+;
+_journal_name_full   Kristallografiya
+_journal_page_first   75
+_journal_page_last   78
+_journal_volume   40
+_journal_year   1995
+_chemical_formula_sum   'C3.72 Ti5.73'
+_chemical_name_systematic   'Ti5.73 C3.72'
+_space_group_IT_number   144
+_symmetry_space_group_name_Hall   'P 31'
+_symmetry_space_group_name_H-M   'P 31'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   1
+_cell_length_a   3.06
+_cell_length_b   3.06
+_cell_length_c   14.91
+_cell_volume   120.907
+_citation_journal_id_ASTM   KRISAJ
+_cod_data_source_file   Kukol_KRISAJ_1995_1471.cif
+_cod_data_source_block   C3.72Ti5.73
+_cod_original_cell_volume   120.9069
+_cod_database_code   1537124
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z+1/3
+  -x+y,-x,z+2/3
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  C1  C  0.6667  0  0.8333  1  0.0
+  Ti1  Ti  0  0.6667  -0.0879  0.911  0.0
+  Ti2  Ti  0.6667  0  0.0882  1  0.0
+  C2  C  0.6667  0  0.3333  0.24  0.0

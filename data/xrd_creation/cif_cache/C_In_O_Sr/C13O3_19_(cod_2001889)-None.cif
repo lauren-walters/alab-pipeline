@@ -1,0 +1,126 @@
+# generated using pymatgen
+data_2001889
+loop_
+ _publ_author_name
+  'King, Jnr, J. A.'
+  'Bryant, Jnr, G. L.'
+_publ_section_title   'Structure of diphenyl carbonate'
+_journal_issue   3
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   550
+_journal_page_last   551
+_journal_paper_doi   10.1107/S0108270192007571
+_journal_volume   49
+_journal_year   1993
+_chemical_formula_sum   'C13 H10 O3'
+_chemical_formula_weight   214.2
+_space_group_crystal_system   orthorhombic
+_space_group_IT_number   19
+_space_group_name_Hall   'P 2ac 2ab'
+_space_group_name_H-M_alt   'P 21 21 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.062(2)
+_cell_length_b   7.2420(10)
+_cell_length_c   23.375(4)
+_cell_volume   1026.2(4)
+_diffrn_radiation_type   Mo
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   0.092
+_exptl_crystal_density_diffrn   1.387
+_exptl_crystal_F_000   448
+_cod_data_source_file   st1002.cif
+_cod_data_source_block   st1002_structure_1_of_1
+_cod_depositor_comments
+;
+Updating space group information and adding the symmetry operation
+list.  Antanas Vaitkus,  2018-06-18  Marking attached hydrogen atoms.
+Antanas Vaitkus,  2017-08-02
+;
+_cod_original_cell_volume   1026.2
+_cod_original_sg_symbol_H-M   'P 212121'
+_cod_database_code   2001889
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  x+1/2,-y+1/2,-z
+  4  -x,y+1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_attached_hydrogens
+  C(1)  .0151(3)  .8859(3)  .36510(10)  .0180(10)  0
+  O(1)  -.1381(2)  .9822(2)  .37630(10)  .0220(10)  0
+  O(2)  .1966(2)  .8564(2)  .39680(10)  .0210(10)  0
+  C(2)  .2078(3)  .9374(3)  .45170(10)  .0180(10)  0
+  C(3)  .4029(3)  1.0273(3)  .46450(10)  .0200(10)  1
+  C(4)  .4322(4)  1.0945(3)  .51980(10)  .0220(10)  1
+  C(5)  .2707(4)  1.0688(3)  .56080(10)  .0230(10)  1
+  C(6)  .0762(4)  .9774(3)  .54680(10)  .0220(10)  1
+  C(7)  .0434(3)  .9103(3)  .49140(10)  .0200(10)  1
+  O(3)  .0457(2)  .7841(2)  .31800(10)  .0250(10)  0
+  C(8)  -.1266(3)  .7732(3)  .27730(10)  .0180(10)  0
+  C(9)  -.3322(4)  .7066(3)  .29200(10)  .0220(10)  1
+  C(10)  -.4859(4)  .6763(3)  .24920(10)  .0240(10)  1
+  C(11)  -.4319(3)  .7131(3)  .19250(10)  .0240(10)  1
+  C(12)  -.2261(4)  .7827(3)  .17880(10)  .0250(10)  1
+  C(13)  -.0699(3)  .8133(3)  .22140(10)  .0210(10)  1
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  O(1)  C(1)  O(2)  127.5(2)
+  O(1)  C(1)  O(3)  127.8(2)
+  O(2)  C(1)  O(3)  104.7(2)
+  C(1)  O(2)  C(2)  118.4(2)
+  O(2)  C(2)  C(3)  115.7(2)
+  O(2)  C(2)  C(7)  121.2(2)
+  C(3)  C(2)  C(7)  122.7(2)
+  C(2)  C(3)  C(4)  118.4(2)
+  C(3)  C(4)  C(5)  120.4(2)
+  C(4)  C(5)  C(6)  120.0(2)
+  C(5)  C(6)  C(7)  120.3(2)
+  C(1)  O(3)  C(8)  118.8(2)
+  O(3)  C(8)  C(13)  116.1(2)
+  C(8)  C(9)  C(10)  118.8(2)
+  C(10)  C(11)  C(12)  120.2(2)
+  C(8)  C(13)  C(12)  118.3(2)
+  C(2)  C(7)  C(6)  118.2(2)
+  O(3)  C(8)  C(9)  121.2(2)
+  C(9)  C(8)  C(13)  122.3(2)
+  C(9)  C(10)  C(11)  120.0(2)
+  C(11)  C(12)  C(13)  120.4(2)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  C(1)  O(1)  1.191(3)
+  C(1)  O(2)  1.345(2)
+  C(1)  O(3)  1.337(2)
+  O(2)  C(2)  1.411(2)
+  C(2)  C(3)  1.383(3)
+  C(2)  C(7)  1.377(3)
+  C(3)  C(4)  1.392(3)
+  C(4)  C(5)  1.383(3)
+  C(5)  C(6)  1.391(3)
+  C(6)  C(7)  1.396(3)
+  O(3)  C(8)  1.415(2)
+  C(8)  C(9)  1.380(3)
+  C(8)  C(13)  1.380(3)
+  C(9)  C(10)  1.385(3)
+  C(10)  C(11)  1.390(3)
+  C(11)  C(12)  1.383(3)
+  C(12)  C(13)  1.392(3)
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  7597

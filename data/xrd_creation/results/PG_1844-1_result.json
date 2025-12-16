@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13c813800728dad6cd6f",
+  "experiment_name": "PG_1844-1",
+  "success": true,
+  "error": null,
+  "rwp": 8.72,
+  "rp": 5.99,
+  "rexp": 3.35,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "SnO2_136_(cod_5000224)-0",
+      "spacegroup": "P4_2/m2_1/n2/m",
+      "weight_fraction": 0.0312,
+      "weight_fraction_error": 0.00015,
+      "lattice_a_nm": 0.473893,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.318771,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 17.45
+    },
+    {
+      "phase_name": "In2O3_206_(cod_2310009)-0",
+      "spacegroup": "I2_1/a-3",
+      "weight_fraction": 0.02634,
+      "weight_fraction_error": 0.00015,
+      "lattice_a_nm": 1.012093,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 12.28
+    }
+  ],
+  "chemical_system": "In-O-Sn",
+  "target_formula": "In2Sn2O7",
+  "analysis_timestamp": "2025-12-06T14:12:54.667895",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

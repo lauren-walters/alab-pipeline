@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13cc13800728dad6ce40",
+  "experiment_name": "PG_2141-1",
+  "success": true,
+  "error": null,
+  "rwp": 26.35,
+  "rp": 20.19,
+  "rexp": 3.0,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "Sb2O3_227_(cod_1011218)-5",
+      "spacegroup": "F4_1/d-32/m",
+      "weight_fraction": 0.0483,
+      "weight_fraction_error": 0.0011,
+      "lattice_a_nm": 1.11588,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 18.3
+    },
+    {
+      "phase_name": "LaSb_225_(cod_9008661)-0",
+      "spacegroup": "F4/m-32/m",
+      "weight_fraction": 0.02077,
+      "weight_fraction_error": 0.0005,
+      "lattice_a_nm": 0.646253,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 27.98
+    }
+  ],
+  "chemical_system": "H-La-O-Sb",
+  "target_formula": "La2Sb2(H2O3)3",
+  "analysis_timestamp": "2025-12-06T14:38:15.182809",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

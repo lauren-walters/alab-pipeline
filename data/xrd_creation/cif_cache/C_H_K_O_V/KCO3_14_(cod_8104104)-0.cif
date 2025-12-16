@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_8104104
+loop_
+ _publ_author_name
+  'Dinnebier, R.E.'
+  'Vensky, S.'
+  'Jansen, M.'
+  'Stephens, P.'
+_publ_section_title
+;
+Crystal structure of K2 (C2 O6) - first proof of existence and
+constitution of a peroxodicarbonate ion
+;
+_journal_name_full
+'Zeitschrift fuer Kristallographie, Supplement Issue'
+_journal_page_first   42
+_journal_page_last   42
+_journal_volume   19
+_journal_year   2002
+_chemical_formula_sum   'C2 K2 O6'
+_chemical_name_systematic   'K2 (C2 O6)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   111.239
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.38052
+_cell_length_b   10.76409
+_cell_length_c   7.11671
+_cell_volume   598.383
+_citation_journal_id_ASTM   ZKSUP2
+_cod_data_source_file   Dinnebier_ZKSUP2_2002_543.cif
+_cod_data_source_block   C2K2O6
+_cod_original_cell_volume   598.3834
+_cod_database_code   8104104
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  K2  K+1  0.3025  0.6609  0.7799  1  0.0
+  O6  O-2  0.4343  0.9387  0.6738  1  0.0
+  O2  O-1  0.6985  0.9261  0.8821  1  0.0
+  O5  O-2  0.9213  0.959  0.7023  1  0.0
+  C2  C+4  0.9501  0.8742  0.8338  1  0.0
+  K1  K+1  0.1959  0.41019  0.1972  1  0.0
+  O3  O-2  0.5643  0.7676  0.6516  1  0.0
+  O4  O-2  1.0846  0.8097  0.8782  1  0.0
+  C1  C+4  0.5712  0.8726  0.739  1  0.0
+  O1  O-1  0.8503  0.8464  0.933  1  0.0

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_9000451
+loop_
+ _publ_author_name
+  'Moore, P. B.'
+  'Araki, T.'
+_publ_section_title
+;
+The Fe3(H2O)n[PO4]2 homologous series. II. The crystal structure of
+Fe3(H2O)[PO4]2
+;
+_journal_name_full   'American Mineralogist'
+_journal_page_first   454
+_journal_page_last   459
+_journal_volume   60
+_journal_year   1975
+_chemical_formula_structural   'Fe3 (H2 O) (P O4)2'
+_chemical_formula_sum   'Fe3 H2 O9 P2'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   117.6
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.431
+_cell_length_b   10.066
+_cell_length_c   8.040
+_cell_volume   676.401
+_database_code_amcsd   0000462
+_exptl_crystal_density_diffrn   3.687
+_cod_original_formula_sum   'Fe3 P2 O9 H2'
+_cod_database_code   9000451
+_amcsd_formula_title   Fe3(H2O)[PO4]2
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Fe1  0.03150  0.13590  0.41300  0.01039  Fe  0
+  Fe2  0.43860  0.87710  0.07490  0.00874  Fe  0
+  Fe3  0.28130  0.12410  0.26280  0.00773  Fe  0
+  P1  0.67400  0.08730  0.37860  0.00621  P  0
+  P2  0.13430  0.83200  0.02620  0.00697  P  0
+  O1  0.80350  0.18760  0.39500  0.00912  O  0
+  O2  0.74850  -0.02920  0.51720  0.00849  O  0
+  O3  0.53400  0.15660  0.41100  0.00988  O  0
+  O4  0.59930  0.03080  0.17470  0.01001  O  0
+  O5  -0.01880  0.87130  -0.14910  0.01064  O  0
+  O6  0.25330  0.94970  0.11130  0.00988  O  0
+  O7  0.09090  0.77400  0.17230  0.01153  O  0
+  O8  0.23420  0.73280  -0.02550  0.01026  O  0
+  Wat  0.07150  0.08250  0.68400  0.01241  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:46:19+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0000462

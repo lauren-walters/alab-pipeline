@@ -1,0 +1,31 @@
+{
+  "experiment_id": "667a13cb13800728dad6cdfe",
+  "experiment_name": "PG_2043-1",
+  "success": true,
+  "error": null,
+  "rwp": 7.01,
+  "rp": 5.97,
+  "rexp": 2.24,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "KP(HO2)2_122_(cod_9010000)-5",
+      "spacegroup": "I-42d",
+      "weight_fraction": 0.11435,
+      "weight_fraction_error": 0.00083,
+      "lattice_a_nm": 0.746531,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.698423,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 8.54
+    }
+  ],
+  "chemical_system": "H-K-O-P-Si",
+  "target_formula": "KSiP(HO3)2",
+  "analysis_timestamp": "2025-12-06T14:32:21.488663",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

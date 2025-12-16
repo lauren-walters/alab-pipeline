@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_1566644
+loop_
+ _publ_author_name
+  'La Placa, S. J.'
+  'Hamilton, W. C.'
+  'Kamb, B.'
+  'Prakash, A.'
+_publ_section_title
+'On a nearly proton-ordered structure for ice IX'
+_journal_name_full   'The Journal of Chemical Physics'
+_journal_page_first   567
+_journal_volume   58
+_journal_year   1973
+_chemical_formula_structural   'D2 O'
+_chemical_formula_sum   'D2 O'
+_chemical_name_common   'ice IX'
+_space_group_IT_number   92
+_space_group_name_Hall   'P 4abw 2nw'
+_space_group_name_H-M_alt   'P 41 21 2'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   12
+_cell_length_a   6.73(1)
+_cell_length_b   6.73(1)
+_cell_length_c   6.83(1)
+_cell_volume   309.4(8)
+_diffrn_ambient_temperature   110.
+_exptl_crystal_density_diffrn   1.29
+_cod_data_source_file   iceIX_LaPlaca.cif
+_cod_data_source_block   iceIII_LaPlaca1973
+_cod_original_cell_volume   309.35
+_cod_original_formula_sum   'D2 O1'
+_cod_database_code   1566644
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  'x+1/2, -y+1/2, -z+3/4'
+  2  '-x+1/2, y+1/2, -z+1/4'
+  3  '-y, -x, -z+1/2'
+  4  'y, x, -z'
+  5  'y+1/2, -x+1/2, z+3/4'
+  6  '-y+1/2, x+1/2, z+1/4'
+  7  '-x, -y, z+1/2'
+  8  'x, y, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_B_iso_or_equiv
+ _atom_site_occupancy
+  O1  O2-  8  b  0.1092(3)  0.3015(3)  0.2858(4)  .  1.
+  O2  O2-  4  a  0.3926(3)  0.3926(3)  0  .  1.
+  D1  D1+  8  b  -.0124(3)  0.3321(3)  0.2137(4)  .  0.949(9)
+  D2  D1+  8  b  0.1138(3)  0.1577(3)  0.2968(4)  .  0.966(7)
+  D3  D1+  8  b  0.3002(4)  0.3594(3)  0.1057(4)  .  0.966(7)
+  D4  D1+  8  b  0.218(12)  0.3289(79)  0.181(11)  1.16(6)  0.034(7)
+  D5  D1+  8  b  0.1344(50)  0.3930(72)  0.3866(77)  1.16(6)
+  0.051(9)
+  D6  D1+  8  b  0.3687(75)  0.549(12)  -.0216(98)  1.16(6)
+  0.034(7)
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  O2-  -2
+  D1+  1
+loop_
+ _citation_id
+ _citation_doi
+ _citation_year
+  1  10.1063/1.1679238  1973

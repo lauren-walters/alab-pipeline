@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_2310645
+loop_
+ _publ_author_name
+  'Ondik, H.M.'
+_publ_section_title
+;
+The structures of anhydrous sodium trimetaphosphate Na3 P3 O9 and the
+monohydrate Na3 P3 O9 (H2 O)
+;
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   226
+_journal_page_last   232
+_journal_volume   18
+_journal_year   1965
+_chemical_formula_sum   'Na3 O9 P3'
+_chemical_name_systematic   'Na3 P3 O9'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2n 2a'
+_symmetry_space_group_name_H-M   'P m c n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.928
+_cell_length_b   13.214
+_cell_length_c   7.708
+_cell_volume   807.495
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Ondik_ACCRA9_1965_1861.cif
+_cod_data_source_block   Na3O9P3
+_cod_original_cell_volume   807.4946
+_cod_original_sg_symbol_Hall   '-P 2ac 2n (y,z,x)'
+_cod_database_code   2310645
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  x+1/2,-y,-z
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+  x-1/2,y-1/2,-z-1/2
+  -x-1/2,y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.25  0.027  0.1685  1  0.0
+  O4  O-2  0.0926  0.1094  0.9272  1  0.0
+  O2  O-2  0.75  0.0527  0.1387  1  0.0
+  Na2  Na+1  0.4946  0.0735  0.3177  1  0.0
+  P2  P+5  0.0676  0.1713  0.7466  1  0.0
+  O5  O-2  0.0365  0.0986  0.6048  1  0.0
+  O3  O-2  0.25  0.2233  0.7261  1  0.0
+  Na1  Na+1  0.75  0.2241  0.0356  1  0.0
+  O6  O-2  -0.0573  0.2522  0.7815  1  0.0
+  P1  P+5  0.25  0.0381  -0.0232  1  0.0

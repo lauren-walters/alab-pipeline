@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_9013889
+loop_
+ _publ_author_name
+  'Ito, T.'
+  'Mori, H.'
+_publ_section_title   'The crystal structure of ludlamite'
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   412
+_journal_page_last   416
+_journal_paper_doi   10.1107/S0365110X51001367
+_journal_volume   4
+_journal_year   1951
+_chemical_compound_source   'Ashio, Japan'
+_chemical_formula_sum   'Fe3 H8 O12 P2'
+_chemical_name_mineral   Ludlamite
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   10.45
+_cell_length_b   4.65
+_cell_length_c   9.25
+_cell_volume   449.481
+_database_code_amcsd   0009144
+_exptl_crystal_density_diffrn   3.174
+_cod_original_sg_symbol_H-M   'P 21/a'
+_cod_original_formula_sum   'Fe3 P2 O12 H8'
+_cod_database_code   9013889
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Fe1  0.00000  0.00000  0.00000  Fe  0
+  Fe2  0.17000  0.08000  0.32800  Fe  0
+  P  0.45500  0.96000  0.23300  P  0
+  O1  0.03600  0.82000  0.19800  O  0
+  O2  0.40800  0.19000  0.10200  O  0
+  O3  0.32500  0.86000  0.29000  O  0
+  O4  0.03500  0.38000  0.36000  O  0
+  Wat1  0.16200  0.27000  0.11200  O  2
+  Wat2  0.33200  0.38000  0.44600  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:54:45+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009144

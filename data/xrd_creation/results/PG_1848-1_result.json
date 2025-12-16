@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13c813800728dad6cd9b",
+  "experiment_name": "PG_1848-1",
+  "success": true,
+  "error": null,
+  "rwp": 5.51,
+  "rp": 4.15,
+  "rexp": 2.87,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "In2O3_206_(cod_2310009)-0",
+      "spacegroup": "I2_1/a-3",
+      "weight_fraction": 0.09804,
+      "weight_fraction_error": 0.00048,
+      "lattice_a_nm": 1.01213,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 3.69
+    },
+    {
+      "phase_name": "V3.8366O9.74788_59_(cod_3000430)-None",
+      "spacegroup": "P2_1/m2_1/m2/n",
+      "weight_fraction": 0.0757,
+      "weight_fraction_error": 0.00058,
+      "lattice_a_nm": 0.356557,
+      "lattice_b_nm": 1.151487,
+      "lattice_c_nm": 0.437294,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 12.55
+    }
+  ],
+  "chemical_system": "In-O-V",
+  "target_formula": "VInO4",
+  "analysis_timestamp": "2025-12-06T14:16:06.703966",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

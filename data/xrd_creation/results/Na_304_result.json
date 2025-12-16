@@ -1,0 +1,31 @@
+{
+  "experiment_id": "668d5f7daa32321205b56301",
+  "experiment_name": "Na_304",
+  "success": true,
+  "error": null,
+  "rwp": 22.42,
+  "rp": 16.47,
+  "rexp": 2.68,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "Na2Ta4O11_167_(cod_1518102)-0",
+      "spacegroup": "R-32/c",
+      "weight_fraction": 0.01172,
+      "weight_fraction_error": 0.00044,
+      "lattice_a_nm": 0.62114,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 3.6643,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 20.12
+    }
+  ],
+  "chemical_system": "Na-O-P-Ta",
+  "target_formula": "Na3TaP2O9",
+  "analysis_timestamp": "2025-12-06T14:57:34.052403",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

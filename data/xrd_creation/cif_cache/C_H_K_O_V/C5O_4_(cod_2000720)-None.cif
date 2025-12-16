@@ -1,0 +1,215 @@
+# generated using pymatgen
+data_2000720
+loop_
+ _publ_author_name
+  'Rychlewska, U.'
+  "Szczepa\'nska, B."
+  'Serkerov, S. V.'
+_publ_section_title
+'Two eudesmanolide-type sesquiterpene lactones from <i>Umbelliferae</i>'
+_journal_issue   8
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   1543
+_journal_page_last   1547
+_journal_paper_doi   10.1107/S0108270192004268
+_journal_volume   48
+_journal_year   1992
+_chemical_formula_sum   'C20 H26 O4'
+_chemical_formula_weight   330.43
+_space_group_crystal_system   monoclinic
+_space_group_IT_number   4
+_space_group_name_Hall   'P 2yb'
+_space_group_name_H-M_alt   'P 1 21 1'
+_atom_type_scat_source   IntTabIV
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.920(10)
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   2
+_cell_length_a   8.0350(10)
+_cell_length_b   7.2080(10)
+_cell_length_c   15.887(3)
+_cell_measurement_reflns_used   15
+_cell_measurement_temperature   292
+_cell_measurement_theta_max   14.1
+_cell_measurement_theta_min   8.7
+_cell_volume   920.0(2)
+_diffrn_measurement_device   'Syntax P21'
+_diffrn_measurement_method   \q/2\q
+_diffrn_radiation_type   CuK\a
+_diffrn_radiation_wavelength   1.54178
+_diffrn_reflns_av_R_equivalents   0.025
+_diffrn_reflns_limit_h_max   10
+_diffrn_reflns_limit_h_min   0
+_diffrn_reflns_limit_k_max   9
+_diffrn_reflns_limit_k_min   -9
+_diffrn_reflns_limit_l_max   18
+_diffrn_reflns_limit_l_min   -18
+_diffrn_reflns_number   2710
+_diffrn_reflns_theta_max   58
+_diffrn_standards_decay_%   .0
+_diffrn_standards_interval_count   98
+_diffrn_standards_number   2
+_exptl_absorpt_coefficient_mu   0.62
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour   Colourless
+_exptl_crystal_density_diffrn   1.193
+_exptl_crystal_density_meas   1.12
+_exptl_crystal_description   Needle
+_exptl_crystal_size_max   0.54
+_exptl_crystal_size_mid   0.15
+_exptl_crystal_size_min   0.1
+_refine_diff_density_max   0.22
+_refine_diff_density_min   -0.22
+_refine_ls_extinction_coef   0.6(4)x10^-6^
+_refine_ls_extinction_method   F^*^~c~=F~c~(1-xF^2^~c~/sin\q)
+_refine_ls_goodness_of_fit_obs   3.1
+_refine_ls_hydrogen_treatment   refU
+_refine_ls_number_parameters   231
+_refine_ls_number_reflns   2155
+_refine_ls_R_factor_obs   0.041
+_refine_ls_shift/esd_max   0.49
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   'w = 1/[\s^2^(F)+0.0001F^2^]'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_obs   0.051
+_reflns_number_observed   2156
+_reflns_number_total   2491
+_reflns_observed_criterion   I>=1.96\s(I)
+_cod_data_source_file   na1003.cif
+_cod_data_source_block   na1003b
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_refine_ls_weighting_scheme' value '1/[\s^2^(F)+0.0001F^2^]' was
+changed to 'calc'. New tag '_refine_ls_weighting_details' was created.
+The value of the new tag was set to 'w = 1/[\s^2^(F)+0.0001F^2^]'.
+Automatic conversion script Id: cif_fix_values 3143 2015-03-26
+13:38:13Z robertas
+;
+_cod_database_code   2000720
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_attached_hydrogens
+  C(1)  C  .5282(4)  .2000(5)  .7872(2)  .00610(10)  1
+  C(2)  C  .3880(4)  .2514(5)  .7281(2)  .00680(10)  1
+  C(3)  C  .3890(4)  .2110(5)  .6471(2)  .00660(10)  1
+  C(4)  C  .5252(4)  .1129(5)  .6072(2)  .00590(10)  0
+  C(5)  C  .6642(3)  .0430(5)  .6657(2)  .00500(10)  1
+  C(6)  C  .8261(3)  .0040(5)  .6199(2)  .00520(10)  1
+  C(7)  C  .9794(3)  -.0159(5)  .6765(2)  .00530(10)  1
+  C(8)  C  .9282(4)  -.0694(5)  .7651(2)  .00620(10)  2
+  C(9)  C  .8271(4)  .0913(6)  .8026(2)  .00680(10)  2
+  C(10)  C  .6938(4)  .1730(5)  .7413(2)  .00560(10)  0
+  C(11)  C  1.0820(3)  -.1632(5)  .6291(2)  .00580(10)  1
+  C(12)  C  .9532(4)  -.2713(6)  .5833(2)  .00610(10)  0
+  C(13)  C  1.2053(5)  -.2797(6)  .6801(2)  .0086(2)  3
+  C(14)  C  .7477(4)  .3679(5)  .7113(2)  .00780(10)  3
+  C(15)  C  .5209(5)  .0840(6)  .5240(2)  .0082(2)  2
+  C(16)  C  .3746(4)  .0227(5)  .8879(2)  .00620(10)  0
+  C(17)  C  .3482(4)  -.1675(6)  .9223(2)  .00670(10)  0
+  C(18)  C  .2258(5)  -.2019(7)  .9738(2)  .00860(10)  1
+  C(19)  C  .0980(5)  -.0765(7)  1.0060(3)  .0100(2)  3
+  C(20)  C  .4706(6)  -.3180(6)  .8952(3)  .0092(2)  3
+  O(1)  O  .4882(2)  .0197(4)  .82650(10)  .00620(10)  0
+  O(6)  O  .8087(2)  -.1771  .57790(10)  .00620(10)  0
+  O(12)  O  .9650(3)  -.4243(4)  .55220(10)  .00840(10)  0
+  O(16)  O  .3075(3)  .1629(5)  .9100(2)  .00880(10)  0
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  C(10)  C(1)  O(1)  106.5(3)
+  C(2)  C(1)  O(1)  108.4(2)
+  C(2)  C(1)  C(10)  112.4(3)
+  C(1)  C(2)  C(3)  122.6(3)
+  C(2)  C(3)  C(4)  123.2(3)
+  C(3)  C(4)  C(15)  119.9(3)
+  C(3)  C(4)  C(5)  116.3(3)
+  C(5)  C(4)  C(15)  123.8(3)
+  C(4)  C(5)  C(10)  112.1(2)
+  C(4)  C(5)  C(6)  113.0(3)
+  C(6)  C(5)  C(10)  111.2(2)
+  C(5)  C(6)  O(6)  107.7(2)
+  C(5)  C(6)  C(7)  115.1(2)
+  C(7)  C(6)  O(6)  104.8(2)
+  C(6)  C(7)  C(11)  102.1(2)
+  C(6)  C(7)  C(8)  110.0(2)
+  C(8)  C(7)  C(11)  115.5(3)
+  C(7)  C(8)  C(9)  108.6(3)
+  C(8)  C(9)  C(10)  113.9(3)
+  C(5)  C(10)  C(9)  110.8(3)
+  C(1)  C(10)  C(9)  110.1(3)
+  C(1)  C(10)  C(5)  108.8(2)
+  C(9)  C(10)  C(14)  110.1(3)
+  C(5)  C(10)  C(14)  110.7(3)
+  C(1)  C(10)  C(14)  106.2(3)
+  C(7)  C(11)  C(13)  117.8(3)
+  C(7)  C(11)  C(12)  103.1(2)
+  C(12)  C(11)  C(13)  114.6(3)
+  C(11)  C(12)  O(12)  128.4(3)
+  C(11)  C(12)  O(6)  111.2(3)
+  O(6)  C(12)  O(12)  120.4(3)
+  O(1)  C(16)  O(16)  122.6(3)
+  C(17)  C(16)  O(16)  126.8(3)
+  C(17)  C(16)  O(1)  110.6(3)
+  C(16)  C(17)  C(20)  116.9(3)
+  C(16)  C(17)  C(18)  120.9(4)
+  C(18)  C(17)  C(20)  122.2(4)
+  C(17)  C(18)  C(19)  129.6(4)
+  C(1)  O(1)  C(16)  116.5(3)
+  C(6)  O(6)  C(12)  110.0(2)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  C(1)  C(2)  1.501(4)
+  C(1)  C(10)  1.540(5)
+  C(1)  O(1)  1.479(4)
+  C(2)  C(3)  1.320(4)
+  C(3)  C(4)  1.457(5)
+  C(4)  C(5)  1.527(4)
+  C(4)  C(15)  1.338(4)
+  C(5)  C(6)  1.527(4)
+  C(5)  C(10)  1.539(5)
+  C(6)  C(7)  1.520(4)
+  C(6)  O(6)  1.472(4)
+  C(7)  C(8)  1.522(4)
+  C(7)  C(11)  1.547(4)
+  C(8)  C(9)  1.540(5)
+  C(9)  C(10)  1.552(5)
+  C(10)  C(14)  1.548(5)
+  C(11)  C(12)  1.478(5)
+  C(11)  C(13)  1.522(5)
+  C(12)  O(6)  1.347(4)
+  C(12)  O(12)  1.213(5)
+  C(16)  C(17)  1.492(6)
+  C(16)  O(1)  1.347(4)
+  C(16)  O(16)  1.200(5)
+  C(17)  C(18)  1.313(5)
+  C(17)  C(20)  1.531(6)
+  C(18)  C(19)  1.466(6)
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2018-02-09T11:46:31+02:00
+  'Marked attached hydrogen atoms.'
+  2  'Vaitkus, Antanas'  2024-12-11T16:12:30+02:00
+  "Added the '_atom_site_type_symbol' data item."
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  97900337

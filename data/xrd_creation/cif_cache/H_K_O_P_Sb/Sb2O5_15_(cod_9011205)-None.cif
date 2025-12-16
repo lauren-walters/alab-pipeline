@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_9011205
+loop_
+ _publ_author_name
+  'Jansen, M.'
+_publ_section_title   'Die kristallstruktur von antimon(V)-oxid'
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   539
+_journal_page_last   542
+_journal_paper_doi   10.1107/S056774087900409X
+_journal_volume   35
+_journal_year   1979
+_chemical_formula_structural   Sb2O5
+_chemical_formula_sum   'O5 Sb2'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   103.91
+_cell_angle_gamma   90
+_cell_length_a   12.646
+_cell_length_b   4.7820
+_cell_length_c   5.4247
+_cell_formula_units_Z   4
+_cell_volume   318.429
+_database_code_amcsd   0009662
+_exptl_crystal_density_diffrn   6.748
+_cod_original_formula_sum   'Sb2 O5'
+_cod_database_code   9011205
+_amcsd_formula_title   Sb2O5
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,z
+  x,-y,1/2+z
+  1/2+x,1/2-y,1/2+z
+  -x,y,1/2-z
+  1/2-x,1/2+y,1/2-z
+  -x,-y,-z
+  1/2-x,1/2-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  Sb  0.13784  0.24090  0.27977  0.00700
+  O1  0.29710  0.07990  0.37520  0.00925
+  O2  0.39710  0.41470  0.05100  0.00963
+  O3  0.00000  0.41940  0.25000  0.00950
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  11535470
+  2  AMCSD  0009662

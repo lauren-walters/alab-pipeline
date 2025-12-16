@@ -1,0 +1,220 @@
+# generated using pymatgen
+data_1557954
+loop_
+ _publ_author_name
+  'Eberson, Lennart'
+  'Hartshorn, Michael P.'
+  'Robinson, Ward T.'
+  'Timmerman-Vaughan, David J.'
+_publ_section_title
+;
+Photochemical Nitration by Tetranitromethane. Part XXIV. Adduct
+Formation  in the Photochemical Reaction of
+1,4,6,7-Tetramethylnaphthalene; Some  Rearrangement Studies of  1,4,6,
+7-Tetramethyl-r-1-nitro-t-4-trinitromethyl-1,4-dihydronaphthalene  and
+Evidence for Inverted Spin Trapping of Trinitromethanide Ion
+;
+_journal_name_full   'Acta Chemica Scandinavica'
+_journal_page_first   571
+_journal_page_last   584
+_journal_paper_doi   10.3891/acta.chem.scand.49-0571
+_journal_volume   49
+_journal_year   1995
+_chemical_formula_sum   'C14 H18 O2'
+_chemical_formula_weight   218.28
+_chemical_name_common
+1,4,6,7-Tetramethy1-1,2-dihydronaphthalene-r-1,c-2-diol
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_cell_setting   triclinic
+_symmetry_Int_Tables_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   104.08(3)
+_cell_angle_beta   100.04(3)
+_cell_angle_gamma   94.96(3)
+_cell_formula_units_Z   2
+_cell_length_a   5.264(1)
+_cell_length_b   8.505(2)
+_cell_length_c   13.864(3)
+_cell_volume   587.4(2)
+_diffrn_ambient_temperature   130
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   0.081
+_exptl_crystal_density_diffrn   1.234
+_refine_ls_number_reflns   1798
+_refine_ls_R_factor_gt   0.043
+_refine_ls_wR_factor_ref   0.114
+_cod_data_source_file   Acta-Chem-Scand-1995-49-571-2.cif
+_cod_data_source_block   2
+_cod_database_code   1557954
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  O1  O  Uiso  0.7039(2)  0.38630(10)  0.92170(10)  1.000
+  0.0240(10)  .  .  .  .
+  O2  O  Uiso  0.1790(2)  0.45180(10)  0.87870(10)  1.000
+  0.0240(10)  .  .  .  .
+  C1  C  Uiso  0.4928(3)  0.2554(2)  0.87400(10)  1.000  0.0170(10)
+  .  .  .  .
+  C2  C  Uiso  0.2717(3)  0.3209(2)  0.81410(10)  1.000  0.0170(10)
+  .  .  .  .
+  C3  C  Uiso  0.3575(3)  0.3764(2)  0.72880(10)  1.000  0.0200(10)
+  .  .  .  .
+  C4  C  Uiso  0.5143(3)  0.2968(2)  0.67450(10)  1.000  0.0180(10)
+  .  .  .  .
+  C4A  C  Uiso  0.6150(3)  0.1535(2)  0.70240(10)  1.000  0.0170(10)
+  .  .  .  .
+  C5  C  Uiso  0.7365(3)  0.0445(2)  0.63860(10)  1.000  0.0190(10)
+  .  .  .  .
+  C6  C  Uiso  0.8487(3)  -0.0839(2)  0.66650(10)  1.000  0.0200(10)
+  .  .  .  .
+  C7  C  Uiso  0.8347(3)  -0.1076(2)  0.76240(10)  1.000  0.0210(10)
+  .  .  .  .
+  C8  C  Uiso  0.7101(3)  -0.0010(2)  0.82540(10)  1.000  0.0200(10)
+  .  .  .  .
+  C8A  C  Uiso  0.6014(3)  0.1292(2)  0.79860(10)  1.000  0.0160(10)
+  .  .  .  .
+  C9  C  Uiso  0.3669(3)  0.1894(2)  0.95590(10)  1.000  0.0220(10)
+  .  .  .  .
+  C10  C  Uiso  0.5998(3)  0.3510(2)  0.58810(10)  1.000  0.0240(10)
+  .  .  .  .
+  C11  C  Uiso  0.9956(3)  -0.1892(2)  0.59760(10)  1.000
+  0.0270(10)  .  .  .  .
+  C12  C  Uiso  0.9574(3)  -0.2426(2)  0.79790(10)  1.000
+  0.0290(10)  .  .  .  .
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  C  0.0033  0.0016
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  C1  C2  109.34(13)  .  .  .  yes
+  O1  C1  C8A  106.05(13)  .  .  .  yes
+  O1  C1  C9  111.73(11)  .  .  .  yes
+  C2  C1  C8A  108.25(11)  .  .  .  no
+  C2  C1  C9  105.18(12)  .  .  .  no
+  C8A  C1  C9  116.16(14)  .  .  .  no
+  O2  C2  C1  111.25(11)  .  .  .  yes
+  O2  C2  C3  109.97(14)  .  .  .  yes
+  C1  C2  C3  111.05(13)  .  .  .  no
+  C2  C3  C4  122.01(15)  .  .  .  no
+  C3  C4  C4A  118.66(14)  .  .  .  no
+  C3  C4  C10  122.35(15)  .  .  .  no
+  C4A  C4  C10  118.95(14)  .  .  .  no
+  C4  C4A  C5  122.19(13)  .  .  .  no
+  C4  C4A  C8A  119.53(14)  .  .  .  no
+  C5  C4A  C8A  118.20(15)  .  .  .  no
+  C4A  C5  C6  122.98(13)  .  .  .  no
+  C5  C6  C7  118.60(14)  .  .  .  no
+  C5  C6  C11  120.44(13)  .  .  .  no
+  C7  C6  C11  120.87(15)  .  .  .  no
+  C6  C7  C8  118.56(15)  .  .  .  no
+  C6  C7  C12  121.11(14)  .  .  .  no
+  C8  C7  C12  120.31(13)  .  .  .  no
+  C7  C8  C8A  123.09(13)  .  .  .  no
+  C1  C8A  C4A  119.41(15)  .  .  .  no
+  C1  C8A  C8  121.76(13)  .  .  .  no
+  C4A  C8A  C8  118.55(14)  .  .  .  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  O1  C1  1.443(2)  .  .  yes
+  O2  C2  1.429(2)  .  .  yes
+  C1  C2  1.535(2)  .  .  no
+  C1  C8A  1.530(2)  .  .  no
+  C1  C9  1.597(2)  .  .  no
+  C2  C3  1.499(2)  .  .  no
+  C3  C4  1.331(2)  .  .  no
+  C4  C4A  1.478(2)  .  .  no
+  C4  C10  1.507(2)  .  .  no
+  C4A  C5  1.397(2)  .  .  no
+  C4A  C8A  1.411(2)  .  .  no
+  C5  C6  1.389(2)  .  .  no
+  C6  C7  1.406(2)  .  .  no
+  C6  C11  1.508(2)  .  .  no
+  C7  C8  1.390(2)  .  .  no
+  C7  C12  1.507(2)  .  .  no
+  C8  C8A  1.388(2)  .  .  no
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O1  C1  C2  O2  -58.85(16)  .  .  .  .  no
+  O1  C1  C2  C3  64.00(16)  .  .  .  .  no
+  C8A  C1  C2  O2  -173.96(13)  .  .  .  .  no
+  C8A  C1  C2  C3  -51.11(18)  .  .  .  .  no
+  C9  C1  C2  O2  61.27(16)  .  .  .  .  no
+  C9  C1  C2  C3  -175.89(13)  .  .  .  .  no
+  O1  C1  C8A  C4A  -81.38(17)  .  .  .  .  no
+  O1  C1  C8A  C8  92.41(18)  .  .  .  .  no
+  C2  C1  C8A  C4A  35.9(2)  .  .  .  .  no
+  C2  C1  C8A  C8  -150.35(16)  .  .  .  .  no
+  C9  C1  C8A  C4A  153.83(14)  .  .  .  .  no
+  C9  C1  C8A  C8  -32.4(2)  .  .  .  .  no
+  O2  C2  C3  C4  161.37(14)  .  .  .  .  no
+  C1  C2  C3  C4  37.8(2)  .  .  .  .  no
+  C2  C3  C4  C4A  -2.6(2)  .  .  .  .  no
+  C2  C3  C4  C10  179.51(14)  .  .  .  .  no
+  C3  C4  C4A  C5  167.03(16)  .  .  .  .  no
+  C3  C4  C4A  C8A  -16.3(2)  .  .  .  .  no
+  C10  C4  C4A  C5  -15.0(2)  .  .  .  .  no
+  C10  C4  C4A  C8A  161.60(15)  .  .  .  .  no
+  C4  C4A  C5  C6  175.26(15)  .  .  .  .  no
+  C8A  C4A  C5  C6  -1.4(2)  .  .  .  .  no
+  C4  C4A  C8A  C1  -2.5(2)  .  .  .  .  no
+  C4  C4A  C8A  C8  -176.47(15)  .  .  .  .  no
+  C5  C4A  C8A  C1  174.28(15)  .  .  .  .  no
+  C5  C4A  C8A  C8  0.3(2)  .  .  .  .  no
+  C4A  C5  C6  C7  1.4(2)  .  .  .  .  no
+  C4A  C5  C6  C11  -175.11(15)  .  .  .  .  no
+  C5  C6  C7  C8  -0.3(2)  .  .  .  .  no
+  C5  C6  C7  C12  -178.74(15)  .  .  .  .  no
+  C11  C6  C7  C8  176.22(15)  .  .  .  .  no
+  C11  C6  C7  C12  -2.2(2)  .  .  .  .  no
+  C6  C7  C8  C8A  -0.8(2)  .  .  .  .  no
+  C12  C7  C8  C8A  177.66(15)  .  .  .  .  no
+  C7  C8  C8A  C1  -173.04(15)  .  .  .  .  no
+  C7  C8  C8A  C4A  0.8(2)  .  .  .  .  no

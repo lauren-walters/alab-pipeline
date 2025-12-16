@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_7221505
+loop_
+ _publ_author_name
+  'Schnabel, S.'
+  'Roehr, C.'
+_publ_section_title
+'Hydrates of Li3 V O4: synthesis and structural chemistry'
+_journal_name_full
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie,
+Organische  Chemie (42,1987-)
+;
+_journal_page_first   1235
+_journal_page_last   1245
+_journal_volume   62
+_journal_year   2007
+_chemical_formula_sum   'H12 Li3 O10 V'
+_chemical_name_systematic   'Li3 (V O4) (H2 O)6'
+_space_group_IT_number   146
+_symmetry_space_group_name_Hall   'R 3'
+_symmetry_space_group_name_H-M   'R 3 :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   3
+_cell_length_a   9.629
+_cell_length_b   9.629
+_cell_length_c   8.692
+_cell_volume   697.931
+_citation_journal_id_ASTM   ZNBSEN
+_cod_data_source_file   Schnabel_ZNBSEN_2007_1360.cif
+_cod_data_source_block   H12Li3O10V1
+_cod_original_cell_volume   697.9313
+_cod_original_formula_sum   'H12 Li3 O10 V1'
+_cod_database_code   7221505
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  x+2/3,y+1/3,z+1/3
+  -y+2/3,x-y+1/3,z+1/3
+  -x+y+2/3,-x+1/3,z+1/3
+  x+1/3,y+2/3,z+2/3
+  -y+1/3,x-y+2/3,z+2/3
+  -x+y+1/3,-x+2/3,z+2/3
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.094462  0.4174  0.07467  1  0.0
+  O4  O-2  0.463  0.29837  0.02905  1  0.0
+  Li1  Li+1  0.147  0.4426  0.2983  1  0.0
+  O1  O-2  0  0  0.2644  1  0.0
+  V1  V+5  0  0  0.06769  1  0.0
+  O2  O-2  0.14708  0.18135  0  1  0.0

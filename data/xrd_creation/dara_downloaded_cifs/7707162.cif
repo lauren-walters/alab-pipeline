@@ -1,0 +1,247 @@
+# generated using pymatgen
+data_7707162
+loop_
+ _publ_author_name
+  'Babaryk, Artem A.'
+  'Adawy, Alaa'
+  "Garc\'ia, In\'es"
+  'Trobajo, Camino'
+  'Amghouz, Zakariae'
+  'P Colodrero, Rosario M'
+  'Cabeza, Aurelio'
+  'Olivera-Pastor, Pascual'
+  "Bazaga-Garc\'ia, Montse"
+  "Dos Santos-G\'omez, Luc\'ia"
+_publ_section_title
+;
+Structural and proton conductivity studies of fibrous
+\p-Ti<sub>2</sub>O(PO<sub>4</sub>)<sub>2</sub>&#x00B7;2H<sub>2</sub>O:
+application in chitosan-based composite membranes.
+;
+_journal_issue   22
+_journal_name_full
+'Dalton transactions (Cambridge, England : 2003)'
+_journal_page_first   7667
+_journal_page_last   7677
+_journal_paper_doi   10.1039/d1dt00735a
+_journal_volume   50
+_journal_year   2021
+_chemical_formula_iupac   'Ti2 P2 O11 H4'
+_chemical_formula_moiety   '(Ti2 O) (P O4)2 (H2 O)2'
+_chemical_formula_sum   'H4 O11 P2 Ti2'
+_chemical_formula_weight   337.71
+_chemical_name_systematic
+'oxo-bis-titanium (iv) bis-phosphate dihydrate'
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2ybc'
+_space_group_name_H-M_alt   'P 1 21/c 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_audit_update_record
+;
+2020-12-25 deposited with the CCDC.     2021-04-21 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90
+_cell_angle_beta   115.3080(95)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.11214(16)
+_cell_length_b   14.49212(94)
+_cell_length_c   12.0453(11)
+_cell_measurement_temperature   100
+_cell_volume   806.74(11)
+_computing_structure_refinement   'TOPAS v.4.2 (Bruker AXS, 2009)'
+_diffrn_ambient_temperature   100
+_diffrn_detector   '12-analyzer scintillator'
+_diffrn_measurement_device_type
+'11-BM High Resolution Diffractometer'
+_diffrn_radiation_monochromator
+'double Si(111) with sagital focusing'
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_wavelength   0.457904
+_diffrn_source   synchrotron
+_diffrn_source_type   'Advanced Photon Source 11-BM (bending magnet)'
+_exptl_crystal_colour   white
+_exptl_crystal_density_diffrn   2.78424(45)
+_exptl_crystal_description   powder
+_exptl_crystal_F_000   664.0
+_exptl_crystal_recrystallization_method   'hydrothermal synthesis'
+_pd_char_colour   white
+_pd_instr_location
+'Advanced Photon Source, Argonne National Laboratory'
+_pd_meas_2theta_range_inc   0.001
+_pd_meas_2theta_range_max   31.05
+_pd_meas_2theta_range_min   2.000
+_pd_meas_scan_method   cont
+_pd_proc_ls_prof_R_factor   0.062
+_pd_proc_ls_prof_wR_expected   0.062
+_pd_proc_ls_prof_wR_factor   0.083
+_pd_spec_mounting   'mounted in 0.8 mm polyimide capillary'
+_pd_spec_shape   cylinder
+_pd_spec_size_axial   0.5
+_pd_spec_size_equat   0.4
+_pd_spec_size_thick   0.4
+_refine_ls_goodness_of_fit_all   1.347
+_refine_ls_matrix_type   full
+_refine_ls_number_restraints   20
+_refine_ls_R_I_factor   0.015
+_refine_ls_shift/su_max   0.001
+_reflns_number_gt   984
+_cod_data_source_file   d1dt00735a2.cif
+_cod_data_source_block   pi_TiP
+_cod_depositor_comments
+'Adding full bibliography for 7707162--7707163.cif.'
+_cod_original_sg_symbol_H-M   'P1 21/c 1'
+_cod_database_code   7707162
+loop_
+ _symmetry_equiv_pos_as_xyz
+  '-x, -y, -z'
+  '-x, y+1/2, -z+1/2'
+  'x, -y+1/2, z+1/2'
+  'x, y, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+  Ti1  Ti  0.05426(52)  0.03773(15)  0.31135(15)  1  4  Biso
+  0.435(31)
+  Ti2  Ti  0.56383(49)  0.17118(14)  0.05662(17)  1  4  Biso
+  0.435(31)
+  P1  P  0.60989(70)  0.46509(21)  0.35040(20)  1  4  Biso
+  0.435(31)
+  P2  P  0.26874(66)  0.62376(20)  0.03590(21)  1  4  Biso
+  0.435(31)
+  O1  O  0.14333(98)  0.63367(24)  0.30150(35)  1  4  Biso
+  0.435(31)
+  O2  O  0.36323(74)  0.04809(19)  0.05866(27)  1  4  Biso
+  0.435(31)
+  O3  O  0.30737(63)  0.46924(29)  0.23972(39)  1  4  Biso
+  0.435(31)
+  O4  O  0.13381(59)  0.53175(34)  0.68314(24)  1  4  Biso
+  0.435(31)
+  O5  O  0.65725(96)  0.37255(21)  0.42538(27)  1  4  Biso
+  0.435(31)
+  O6  O  0.41350(61)  0.11804(33)  0.35943(31)  1  4  Biso
+  0.435(31)
+  O7  O  0.7953(11)  0.45520(20)  0.05245(26)  1  4  Biso  0.435(31)
+  O8  O  0.04861(61)  0.62757(31)  0.09060(23)  1  4  Biso
+  0.435(31)
+  O9  O  0.74706(95)  0.28098(20)  0.02414(30)  1  4  Biso
+  0.435(31)
+  O10  O  0.4947(15)  0.25831(43)  0.19623(39)  1  4  Biso
+  0.435(31)
+  O11  O  0.1422(12)  0.29822(53)  0.40982(49)  1  4  Biso
+  0.435(31)
+  H1  H  0.04365  0.23863  0.39655  1  4  Biso  0.522(37)
+  H2  H  0.02025  0.34765  0.35972  1  4  Biso  0.522(37)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  Ti1  O3  90.25(1)  2_545  .  2_545  yes
+  O1  Ti1  O6  85.67(1)  2_545  .  .  yes
+  O1  Ti1  O7  165.45(1)  2_545  .  2_645  yes
+  O1  Ti1  O8  75.52(1)  2_545  .  2_545  yes
+  O1  Ti1  O4  92.11(1)  2_545  .  3_554  yes
+  O3  Ti1  O6  175.65(1)  2_545  .  .  yes
+  O3  Ti1  O7  86.07(1)  2_545  .  2_645  yes
+  O3  Ti1  O8  93.74(1)  2_545  .  2_545  yes
+  O3  Ti1  O4  88.78(1)  2_545  .  3_554  yes
+  O6  Ti1  O7  97.51(1)  .  .  2_645  yes
+  O6  Ti1  O8  83.77(1)  .  .  2_545  yes
+  O4  Ti1  O6  92.89(1)  3_554  .  .  yes
+  O7  Ti1  O8  90.66(1)  2_645  .  2_545  yes
+  O4  Ti1  O7  101.87(1)  3_554  .  2_645  yes
+  O4  Ti1  O8  167.37(1)  3_554  .  2_545  yes
+  O1  Ti2  O2  86.77(1)  2_645  .  .  yes
+  O1  Ti2  O10  78.07(1)  2_645  .  .  yes
+  O1  Ti2  O11  164.58(1)  2_645  .  3_554  yes
+  O1  Ti2  O5  106.19(1)  2_645  .  3_554  yes
+  O1  Ti2  O9  99.14(1)  2_645  .  .  yes
+  O2  Ti2  O10  103.82(1)  .  .  .  yes
+  O2  Ti2  O11  82.00(1)  .  .  3_554  yes
+  O2  Ti2  O5  91.37(1)  .  .  3_554  yes
+  O2  Ti2  O9  169.25(1)  .  .  .  yes
+  O10  Ti2  O11  94.34(1)  .  .  3_554  yes
+  O5  Ti2  O10  164.52(1)  3_554  .  .  yes
+  O9  Ti2  O10  86.27(1)  .  .  .  yes
+  O5  Ti2  O11  84.70(1)  3_554  .  3_554  yes
+  O9  Ti2  O11  93.68(1)  .  .  3_554  yes
+  O5  Ti2  O9  78.38(1)  3_554  .  .  yes
+  O2  P1  O3  108.83(1)  2_655  .  .  yes
+  O2  P1  O4  109.12(1)  2_655  .  1_666  yes
+  O2  P1  O5  107.54(1)  2_655  .  .  yes
+  O3  P1  O4  115.08(1)  .  .  1_666  yes
+  O3  P1  O5  112.18(1)  .  .  .  yes
+  O4  P1  O5  103.76(1)  1_666  .  .  yes
+  O6  P2  O9  104.55(1)  2_655  .  1_665  yes
+  O6  P2  O8  110.73(1)  2_655  .  .  yes
+  O6  P2  O7  111.41(1)  2_655  .  1_665  yes
+  O8  P2  O9  105.59(1)  .  .  1_665  yes
+  O7  P2  O9  113.43(1)  1_665  .  1_665  yes
+  O7  P2  O8  110.83(1)  1_665  .  .  yes
+  Ti1  O1  Ti2  150.02(1)  2_555  .  2_655  yes
+  Ti2  O2  P1  139.82(1)  .  .  2_645  yes
+  Ti1  O3  P1  138.77(1)  2_555  .  .  yes
+  Ti1  O4  P1  133.71(1)  3_555  .  1_666  yes
+  Ti2  O5  P1  135.45(1)  3_555  .  .  yes
+  Ti1  O6  P2  138.83(1)  .  .  2_645  yes
+  Ti1  O7  P2  166.97(1)  2_655  .  1_665  yes
+  Ti1  O8  P2  131.86(1)  2_555  .  .  yes
+  Ti2  O9  P2  151.82(1)  .  .  1_665  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Ti1  O1  1.9045(2)  .  2_545  yes
+  Ti1  O3  1.9517(2)  .  2_545  yes
+  Ti1  O6  2.0380(2)  .  .  yes
+  Ti1  O7  1.9065(2)  .  2_645  yes
+  Ti1  O8  1.9742(2)  .  2_545  yes
+  Ti1  O4  2.0251(2)  .  3_554  yes
+  Ti2  O1  1.8083(2)  .  2_645  yes
+  Ti2  O2  2.0630(2)  .  .  yes
+  Ti2  O10  2.2484(2)  .  .  yes
+  Ti2  O11  2.1704(2)  .  3_554  yes
+  Ti2  O5  1.9427(2)  .  3_554  yes
+  Ti2  O9  1.9687(2)  .  .  yes
+  P1  O2  1.5928(1)  .  2_655  yes
+  P1  O3  1.5524(1)  .  .  yes
+  P1  O4  1.5279(1)  .  1_666  yes
+  P1  O5  1.5767(1)  .  .  yes
+  P2  O6  1.5761(1)  .  2_655  yes
+  P2  O9  1.5445(1)  .  1_665  yes
+  P2  O8  1.5289(1)  .  .  yes
+  P2  O7  1.5004(1)  .  1_665  yes
+  O11  H1  0.9800  .  .  no
+  O11  H2  0.9700  .  .  no
+loop_
+ _geom_hbond_atom_site_label_D
+ _geom_hbond_atom_site_label_H
+ _geom_hbond_atom_site_label_A
+ _geom_hbond_distance_DH
+ _geom_hbond_distance_HA
+ _geom_hbond_distance_DA
+ _geom_hbond_angle_DHA
+ _geom_hbond_site_symmetry_A
+ _geom_hbond_publ_flag
+  O11  H1  O8  0.9800  1.7000  2.6577(2)  164.00  2_545  yes
+  O11  H1  O9  0.9800  2.5900  3.1100(3)  113.00  3_455  yes
+  O11  H2  O4  0.9700  1.9000  2.8224(3)  158.00  1_566  yes
+  O11  H2  O5  0.9700  2.3400  2.7819(3)  107.00  4_455  yes

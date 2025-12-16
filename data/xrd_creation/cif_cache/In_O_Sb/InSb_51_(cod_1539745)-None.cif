@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_1539745
+loop_
+ _publ_author_name
+  'Degtyareva, V.F.'
+  'Belash, I.T.'
+  'Chipenko, G.V.'
+  'Rashchupkin, V.I.'
+  'Ponyatovskii, E.G.'
+_publ_section_title   'Indium antimonide**'
+_journal_name_full   'Soviet Physics - Solid State (New York)'
+_journal_page_first   1712
+_journal_page_last   1715
+_journal_volume   25
+_journal_year   1983
+_chemical_formula_sum   'In Sb'
+_space_group_IT_number   25
+_symmetry_space_group_name_Hall   'P 2 -2'
+_symmetry_space_group_name_H-M   'P m m 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   1
+_cell_length_a   5.85
+_cell_length_b   2.99
+_cell_length_c   3.117
+_cell_volume   54.521
+_citation_journal_id_ASTM   SPSSA7
+_cod_data_source_file   Degtyareva_SPSSA7_1983_505.cif
+_cod_data_source_block   In1Sb1
+_cod_original_cell_volume   54.52101
+_cod_original_formula_sum   'In1 Sb1'
+_cod_database_code   1539745
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -x,y,z
+  x,-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  In2  In  0.5  0  0.25  0.5  0.0
+  Sb1  Sb  0  0  0  0.5  0.0
+  In1  In  0  0  0  0.5  0.0
+  Sb2  Sb  0.5  0  0.25  0.5  0.0

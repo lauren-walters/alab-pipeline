@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66d9d4624efa8b4b4dfcfafa",
+  "experiment_name": "PG_1321-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Fe-H-La-O",
+  "target_formula": "La2Fe2(H2O3)3",
+  "analysis_timestamp": "2025-12-06T15:15:26.648753",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

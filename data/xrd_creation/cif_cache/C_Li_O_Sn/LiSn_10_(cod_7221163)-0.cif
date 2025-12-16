@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_7221163
+loop_
+ _publ_author_name
+  'Mueller, W.'
+  'Schaefer, H.'
+_publ_section_title   'Die Kristallstruktur der Phase Li Sn'
+_journal_name_full
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie,
+Organische  Chemie (2,1947-32,1977)
+;
+_journal_page_first   246
+_journal_page_last   248
+_journal_volume   28
+_journal_year   1973
+_chemical_formula_sum   'Li Sn'
+_space_group_IT_number   10
+_symmetry_space_group_name_Hall   '-P 2y'
+_symmetry_space_group_name_H-M   'P 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   104.5
+_cell_angle_gamma   90
+_cell_formula_units_Z   3
+_cell_length_a   5.17
+_cell_length_b   3.18
+_cell_length_c   7.74
+_cell_volume   123.197
+_citation_journal_id_ASTM   ZENBAX
+_cod_data_source_file   Mueller_ZENBAX_1973_1002.cif
+_cod_data_source_block   Li1Sn1
+_cod_original_formula_sum   'Li1 Sn1'
+_cod_database_code   7221163
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z
+  -x,-y,-z
+  x,-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Li2  Li  0.263  0.5  0.336  1  0.0
+  Sn2  Sn  0.234  0  0.66  1  0.0
+  Li1  Li  0.5  0.5  0  1  0.0
+  Sn1  Sn  0  0  0  1  0.0

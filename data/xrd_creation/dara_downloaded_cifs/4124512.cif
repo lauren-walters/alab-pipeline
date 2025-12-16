@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_4124512
+loop_
+ _publ_author_name
+  'Petkov, V.'
+  'Trikalitis, P.N.'
+  'Bozin, E.S.'
+  'Kanatzidis, M.G.'
+  'Billinge, S.J.L.'
+  'Vogt, T.'
+_publ_section_title
+;
+Structure of V2 O5 * n(H2 O) xerogel solved by the atomic pair
+distribution function technique
+;
+_journal_name_full   'Journal of the American Chemical Society'
+_journal_page_first   10157
+_journal_page_last   10162
+_journal_volume   124
+_journal_year   2002
+_chemical_formula_sum   'H2 O6 V2'
+_chemical_name_systematic   'V2 O5 (H2 O)'
+_space_group_IT_number   12
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   88.65
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   11.722
+_cell_length_b   3.57
+_cell_length_c   11.52
+_cell_volume   481.950
+_citation_journal_id_ASTM   JACSAT
+_cod_data_source_file   Petkov_JACSAT_2002_323.cif
+_cod_data_source_block   H2O6V2
+_cod_original_cell_volume   481.9499
+_cod_database_code   4124512
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z
+  -x,-y,-z
+  x,-y,z
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.3955  0  0.1035  1  0.0
+  V1  V+5  0.9317  0  0.1303  1  0.0
+  O5  O-2  0.2018  0  0.2669  1  0.0
+  O6  O-2  0.6065  0  0.5085  1  0.0
+  V2  V+5  0.2227  0  0.1332  1  0.0
+  O4  O-2  0.9046  0  0.267  1  0.0
+  O2  O-2  0.07521  0  0.095  1  0.0
+  O3  O-2  0.7537  0  0.0658  1  0.0

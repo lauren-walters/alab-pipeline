@@ -1,0 +1,102 @@
+# generated using pymatgen
+data_2102117
+loop_
+ _publ_author_name
+  'Krogh Andersen, Anne Marie'
+  'Norby, Poul'
+_publ_section_title
+;
+<i>Ab initio</i> structure determination and Rietveld refinement of a
+high-temperature phase of zirconium hydrogen phosphate and a new
+polymorph of zirconium pyrophosphate from <i>in situ</i>  temperature-
+resolved powder diffraction data
+;
+_journal_issue   4
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   618
+_journal_page_last   625
+_journal_paper_doi   10.1107/S0108768100003645
+_journal_volume   56
+_journal_year   2000
+_chemical_formula_structural   Zr(HPO~4~)~2~
+_chemical_formula_sum   'H2 O8 P2 Zr'
+_chemical_formula_weight   283.18
+_chemical_name_common   'Zirconium Hydrogen Phosphate'
+_chemical_name_systematic   'Zirconium Bis(hydrogenortophosphate)'
+_space_group_IT_number   58
+_space_group_name_Hall   '-P 2 2n'
+_space_group_name_H-M_alt   'P n n m'
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2 2n'
+_symmetry_space_group_name_H-M   'P n n m'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   2
+_cell_length_a   8.1935(2)
+_cell_length_b   7.7090(2)
+_cell_length_c   5.40800(10)
+_cell_measurement_temperature   598
+_cell_volume   341.59(2)
+_computing_structure_refinement   GSAS
+_diffrn_measurement_device_type   'NSLS beamline X7B, BNL'
+_diffrn_radiation_source   'X-ray synchrotron'
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   .9336
+_diffrn_reflns_number   304
+_exptl_absorpt_coefficient_mu   1.04
+_exptl_absorpt_correction_type   none
+_exptl_crystal_density_diffrn   2.74
+_exptl_crystal_density_method   'not measured'
+_refine_ls_goodness_of_fit_all   2.34
+_refine_ls_hydrogen_treatment   udef
+_refine_ls_number_parameters   57
+_refine_ls_number_reflns   304
+_refine_ls_number_restraints   0
+_refine_ls_shift/su_max   .01
+_refine_ls_shift/su_mean   .01
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_scheme   sigma
+_reflns_number_gt   304
+_reflns_number_total   304
+_cod_data_source_file   os0045.cif
+_cod_database_code   2102117
+loop_
+ _symmetry_equiv_pos_as_xyz
+  +x,+y,+z
+  -x+1/2,+y+1/2,+z+1/2
+  +x+1/2,-y+1/2,+z+1/2
+  -x,-y,+z
+  -x,-y,-z
+  +x+1/2,-y+1/2,-z+1/2
+  -x+1/2,+y+1/2,-z+1/2
+  +x,+y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+  Zr  .0  .5  .0  .0290(10)  Uiso  1.0
+  P1  .3491(10)  .2442(11)  .0  .040(2)  Uiso  .5
+  P2  .2776(9)  .1612(9)  .0  .027(2)  Uiso  .5
+  O1  .3828(6)  .1475(7)  .7696(7)  .043(2)  Uiso  1.0
+  O2  .1881(9)  .3234(9)  .0  .032(3)  Uiso  1.0
+  O3  -.0170(3)  .0990(15)  .5  .100(6)  Uiso  .5
+  O4  .1479(12)  .016(2)  .0  .040(4)  Uiso  .5
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  .0106  .0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  H  H  .0000  .0000
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  .1023  .0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Zr  Zr  -2.9673  .5597
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'

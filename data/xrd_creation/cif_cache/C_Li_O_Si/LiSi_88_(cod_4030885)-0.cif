@@ -1,0 +1,116 @@
+# generated using pymatgen
+data_4030885
+loop_
+ _publ_author_name
+  'Evers, J.'
+  'Oehlinger, G.'
+  'Sextl, G.'
+_publ_section_title
+'LiSi, a unique Zintl phase - although stable; it long evaded synthesis'
+_journal_name_full
+'European Journal of Solid State and Inorganic Chemistry'
+_journal_page_first   773
+_journal_page_last   774
+_journal_volume   34
+_journal_year   1997
+_chemical_formula_sum   'Li Si'
+_chemical_formula_weight   35.0265
+_space_group_IT_number   88
+_symmetry_cell_setting   tetragonal
+_symmetry_Int_Tables_number   88
+_symmetry_space_group_name_Hall   '-I 4ad'
+_symmetry_space_group_name_H-M   'I 41/a :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   16
+_cell_length_a   9.353(1)
+_cell_length_b   9.353(1)
+_cell_length_c   5.743(1)
+_cell_volume   502.39(12)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   CuK\a
+_diffrn_radiation_wavelength   1.5418
+_exptl_absorpt_coefficient_mu   9.676
+_exptl_crystal_density_diffrn   1.85
+_exptl_crystal_density_meas   1.83
+_exptl_crystal_F_000   68
+_refine_ls_number_reflns   163
+_refine_ls_R_factor_gt   0.071
+_refine_ls_wR_factor_gt   0.071
+_cod_data_source_file   EJSSIC-1997-34-773-784-1.cif
+_cod_data_source_block   LiSi
+_cod_original_cell_volume   502.39(14)
+_cod_original_sg_symbol_H-M   'I 41/a'
+_cod_database_code   4030885
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  3/4-y,1/4+x,1/4+z
+  3  1/2-x,-y,1/2+z
+  4  3/4+y,3/4-x,3/4+z
+  5  -x,-y,-z
+  6  1/4+y,3/4-x,3/4-z
+  7  1/2+x,y,1/2-z
+  8  1/4-y,1/4+x,1/4-z
+  9  1/2+x,1/2+y,1/2+z
+  10  1/4-y,3/4+x,3/4+z
+  11  -x,1/2-y,z
+  12  1/4+y,1/4-x,1/4+z
+  13  1/2-x,1/2-y,1/2-z
+  14  3/4+y,1/4-x,1/4-z
+  15  x,1/2+y,-z
+  16  3/4-y,3/4+x,3/4-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Si  0.021(2)  0.019(2)  0.037(2)  0.0002(18)  -0.0005(17)
+  0.0002(15)
+  Li  0.052(19)  0.019(15)  0.055(19)  -0.001(11)  -0.001(14)
+  -0.011(11)
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Si  Si  Uani  0.1109(3)  0.9526(3)  0.5941(5)  1.000  0.0257(12)
+  .  .  .  .
+  Li  Li  Uani  0.082(2)  0.885(2)  0.058(4)  1.000  0.042(10)  .  .
+  .  .
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  Si  Si  Si  117.89(15)  5_576  .  10_654  yes
+  Si  Si  Si  107.17(14)  5_576  .  12_465  yes
+  Si  Si  Si  110.67(14)  10_654  .  12_465  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Si  Si  2.502(4)  .  5_576  yes
+  Si  Si  2.417(4)  .  10_654  yes
+  Si  Si  2.417(4)  .  12_465  yes

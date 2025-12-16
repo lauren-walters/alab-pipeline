@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_1535392
+loop_
+ _publ_author_name
+  'Thauern, H.'
+  'Glaum, R.'
+_publ_section_title
+;
+Beitraege zur Kristallchemie und zum thermischen Verhalten von
+wasserfreien Phosphaten. XXXIII. In2 P2 O7, ein
+Indium(I)-diphosphato-indat(III) und In4 (P2 O7)3 - Darstellung,
+Kristallisation und Kristallstrukturen
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first   479
+_journal_page_last   486
+_journal_volume   629
+_journal_year   2003
+_chemical_formula_sum   'In4 O21 P6'
+_chemical_name_systematic   'In4 (P2 O7)3'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   108.938
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   13.248
+_cell_length_b   9.7576
+_cell_length_c   13.442
+_cell_volume   1643.572
+_citation_journal_id_ASTM   ZAACAB
+_cod_data_source_file   Thauern_ZAACAB_2003_875.cif
+_cod_data_source_block   In4O21P6
+_cod_original_sg_symbol_Hall   '-P 2ybc (z,y,-x)'
+_cod_database_code   1535392
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z
+  -x,-y,-z
+  x-1/2,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O18  O-2  -0.01966  0.5166  0.23308  1  0.0
+  O19  O-2  0.72531  0.5521  0.49138  1  0.0
+  O7  O-2  -0.13047  0.311  0.22311  1  0.0
+  In3  In+3  0.019643  0.260246  0.022874  1  0.0
+  O21  O-2  0.09057  0.5884  0.02742  1  0.0
+  O6  O-2  0.04379  0.25611  -0.30674  1  0.0
+  O14  O-2  0.25248  0.4221  0.31977  1  0.0
+  O9  O-2  -0.12949  0.3108  -0.27862  1  0.0
+  P6  P+5  -0.17449  0.02991  -0.07568  1  0.0
+  In2  In+3  0.27979  0.727841  0.267666  1  0.0
+  O20  O-2  0.23227  0.5111  -0.03347  1  0.0
+  O12  O-2  0.28044  0.5854  0.15321  1  0.0
+  O11  O-2  -0.13603  -0.10887  -0.10387  1  0.0
+  O17  O-2  -0.22579  0.1072  -0.17434  1  0.0
+  P2  P+5  -0.01089  0.32594  -0.23458  1  0.0
+  O15  O-2  0.38675  1.0993  0.51094  1  0.0
+  O3  O-2  0.34886  0.62437  0.41576  1  0.0
+  O4  O-2  0.56929  0.6098  0.54232  1  0.0
+  O1  O-2  0.04077  0.2726  -0.12426  1  0.0
+  In4  In+3  0.22186  0.24358  0.233426  1  0.0
+  O5  O-2  0.0465  0.29003  0.19624  1  0.0
+  O13  O-2  0.17589  0.36803  0.09055  1  0.0
+  O8  O-2  0.34313  0.89548  0.39265  1  0.0
+  P1  P+5  -0.01659  0.35803  0.26087  1  0.0
+  O10  O-2  0.22271  1.1043  0.34871  1  0.0
+  P5  P+5  0.29808  1.02012  0.43408  1  0.0
+  O2  O-2  0.46124  0.8384  0.62283  1  0.0
+  O16  O-2  -0.08983  0.1026  0.0095  1  0.0
+  P4  P+5  0.19513  0.51698  0.06525  1  0.0
+  In1  In+3  0.481514  0.778883  0.479918  1  0.0
+  P3  P+5  0.32962  0.46917  0.42279  1  0.0

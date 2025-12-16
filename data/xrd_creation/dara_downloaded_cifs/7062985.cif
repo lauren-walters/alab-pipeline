@@ -1,0 +1,615 @@
+# generated using pymatgen
+data_7062985
+loop_
+ _publ_author_name
+  'Grosskreuz, Isabel'
+  'Krysiak, Ya\,sar'
+  'Gies, Hermann'
+  'Mugnaioli, Enrico'
+  'Marler, Bernd'
+_publ_section_title
+;
+Synthesis and real structure of RUB-11, a novel high-density silica
+zeolite based on magadiite layers
+;
+_journal_issue   9
+_journal_name_full   'New Journal of Chemistry'
+_journal_page_first   4030
+_journal_page_last   4042
+_journal_paper_doi   10.1039/D3NJ03424K
+_journal_volume   48
+_journal_year   2024
+_chemical_formula_moiety   'O30 Si15'
+_chemical_formula_structural   Si15O30
+_chemical_formula_sum   'O30 Si15'
+_chemical_formula_weight   900.84
+_chemical_name_common   RUB-11
+_chemical_name_systematic   RUB-11
+_space_group_IT_number   7
+_space_group_name_Hall   'P -2yc'
+_space_group_name_H-M_alt   'P 1 c 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   'P -2yc'
+_symmetry_space_group_name_H-M   'P 1 c 1'
+_audit_update_record
+;
+2023-07-02 deposited with the CCDC.     2024-01-26 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90.0000
+_cell_angle_beta   98.372(7)
+_cell_angle_gamma   90.0000
+_cell_formula_units_Z   2
+_cell_length_a   7.3929(6)
+_cell_length_b   7.3942(4)
+_cell_length_c   26.1786(13)
+_cell_measurement_temperature   293
+_cell_volume   1415.79(16)
+_computing_structure_refinement   FULLPROF
+_diffrn_ambient_temperature   293
+_diffrn_detector   BRAUN
+_diffrn_detector_area_resol_mean   6\%theta
+_diffrn_detector_type   'Position sensitive detector'
+_diffrn_measurement_device_type   'Siemens D5000'
+_diffrn_measurement_method   'Debye-Scherrer Geometry'
+_diffrn_radiation_monochromator   'Ge (111)'
+_diffrn_radiation_type   'Cu K\a'
+_diffrn_source   'X-ray tube'
+_diffrn_source_target   Cu
+_exptl_crystal_colour   colorless
+_exptl_crystal_density_diffrn   2.114
+_exptl_crystal_description   Powder
+_exptl_crystal_recrystallization_method   Hydrothermal
+_pd_char_colour   colourless
+_pd_char_particle_morphology   plate-like
+_pd_instr_location   ?
+_pd_meas_2theta_range_inc   0.007902
+_pd_meas_2theta_range_max   89.99610
+_pd_meas_2theta_range_min   5.04740
+_pd_meas_number_of_points   10754
+_pd_meas_scan_method   cont
+_pd_proc_2theta_range_inc   0.007902
+_pd_proc_2theta_range_max   89.9828
+_pd_proc_2theta_range_min   5.0341
+_pd_proc_ls_background_function
+'Linear interpolation between bgrd. points'
+_pd_proc_ls_pref_orient_corr   none
+_pd_proc_ls_profile_function
+'Thompson-Cox-Hastings pseudo-Voigt function'
+_pd_proc_ls_prof_R_factor   4.0932
+_pd_proc_ls_prof_wR_expected   1.8284
+_pd_proc_ls_prof_wR_factor   6.1468
+_pd_proc_wavelength   1.540600
+_pd_spec_mounting   ?
+_pd_spec_mount_mode   transmission
+_pd_spec_shape   cylinder
+_refine_ls_goodness_of_fit_all   3.3618
+_refine_ls_number_parameters   134
+_refine_ls_number_reflns   1303
+_refine_ls_number_restraints   180
+_refine_ls_R_I_factor   3.5417
+_cod_data_source_file   d3nj03424k2.cif
+_cod_data_source_block   RUB-11
+_cod_depositor_comments
+;
+The following automatic conversions were performed: data item
+'_symmetry_cell_setting' value 'Monoclinic' was changed to
+'monoclinic' in accordance with the
+/home/data/users/saulius/crontab/automatic-downloads/rss-
+feeds/RSC/lib/dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 last updated on 2011-04-26. Automatic
+conversion script Id: cif_fix_values 8170 2020-07-09 18:12:32Z antanas
+Adding full bibliography for 7062985.cif.
+;
+_cod_original_cell_volume   1415.8(1)
+_cod_original_sg_symbol_H-M   'P c'
+_cod_database_code   7062985
+_pd_proc_ls_prof_cr_factor   9.7156
+_pd_proc_ls_prof_cwr_factor   12.1078
+_pd_proc_ls_prof_cwr_expected   3.6016
+_pd_proc_ls_prof_chi2   11.3019
+_pd_proc_ls_prof_echi2   11.3708
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_adp_type
+ _atom_site_type_symbol
+  Si1  -0.2734(11)  0.1221(10)  0.6249(3)  0.01013  1.00000  Uiso
+  Si
+  Si2  0.3667(10)  0.1199(10)  0.3709(3)  0.01013  1.00000  Uiso  Si
+  Si3  0.2290(10)  0.6310(11)  0.6161(3)  0.01013  1.00000  Uiso  Si
+  Si4  0.6162(10)  0.1232(10)  0.2850(3)  0.01013  1.00000  Uiso  Si
+  Si5  0.0314(10)  0.1197(10)  0.2823(3)  0.01013  1.00000  Uiso  Si
+  Si6  -0.2768(10)  0.8343(10)  0.5400(3)  0.01013  1.00000  Uiso
+  Si
+  Si7  0.3763(10)  0.4194(10)  0.4575(3)  0.01013  1.00000  Uiso  Si
+  Si8  0.3851(10)  0.8386(10)  0.4549(3)  0.01013  1.00000  Uiso  Si
+  Si9  -0.2863(10)  0.4154(10)  0.5434(3)  0.01013  1.00000  Uiso
+  Si
+  Si10  0.1355(10)  0.9171(9)  0.5332(3)  0.01013  1.00000  Uiso  Si
+  Si11  0.1248(10)  0.3405(10)  0.5366(3)  0.01013  1.00000  Uiso
+  Si
+  Si12  0.5625(10)  0.5889(10)  0.7022(3)  0.01013  1.00000  Uiso
+  Si
+  Si13  0.4903(9)  0.1729(10)  0.7087(3)  0.01013  1.00000  Uiso  Si
+  Si14  0.0707(10)  0.1779(10)  0.7041(3)  0.01013  1.00000  Uiso
+  Si
+  Si15  -0.0147(10)  0.5889(10)  0.6983(3)  0.01013  1.00000  Uiso
+  Si
+  O1  0.162(3)  0.1279(9)  0.5527(6)  0.02026  1.00000  Uiso  O
+  O2  0.380(3)  0.6271(9)  0.4357(6)  0.02026  1.00000  Uiso  O
+  O3  0.8346(9)  0.147(3)  0.3022(6)  0.02026  1.00000  Uiso  O
+  O4  0.2012(17)  0.882(3)  0.4778(4)  0.02026  1.00000  Uiso  O
+  O5  -0.4568(20)  0.362(2)  0.5012(6)  0.02026  1.00000  Uiso  O
+  O6  0.563(3)  0.9209(15)  0.2634(4)  0.02026  1.00000  Uiso  O
+  O7  -0.310(3)  0.6262(9)  0.5556(7)  0.02026  1.00000  Uiso  O
+  O8  0.1984(17)  0.386(3)  0.4840(5)  0.02026  1.00000  Uiso  O
+  O9  0.035(3)  0.3862(11)  0.7202(6)  0.02026  1.00000  Uiso  O
+  O10  0.528(2)  0.146(3)  0.3374(5)  0.02026  1.00000  Uiso  O
+  O11  -0.306(3)  0.3114(18)  0.5946(5)  0.02026  1.00000  Uiso  O
+  O12  0.058(3)  0.9270(15)  0.2567(5)  0.02026  1.00000  Uiso  O
+  O13  0.391(3)  0.9217(15)  0.3984(4)  0.02026  1.00000  Uiso  O
+  O14  0.547(3)  0.3816(10)  0.7223(6)  0.02026  1.00000  Uiso  O
+  O15  0.1695(16)  0.115(3)  0.3353(5)  0.02026  1.00000  Uiso  O
+  O16  0.233(2)  0.779(2)  0.5727(6)  0.02026  1.00000  Uiso  O
+  O17  0.356(3)  0.2869(20)  0.4092(6)  0.02026  1.00000  Uiso  O
+  O18  0.219(3)  0.4474(18)  0.5838(6)  0.02026  1.00000  Uiso  O
+  O19  -0.4288(11)  0.8860(19)  0.4934(4)  0.02026  1.00000  Uiso  O
+  O20  -0.0718(11)  0.1270(19)  0.6554(4)  0.02026  1.00000  Uiso  O
+  O21  0.532(2)  0.2913(19)  0.2507(5)  0.02026  1.00000  Uiso  O
+  O22  0.074(2)  0.281(2)  0.2446(6)  0.02026  1.00000  Uiso  O
+  O23  -0.0927(11)  0.377(3)  0.5240(6)  0.02026  1.00000  Uiso  O
+  O24  -0.294(3)  0.9391(18)  0.5918(5)  0.02026  1.00000  Uiso  O
+  O25  0.0563(19)  0.643(3)  0.6469(5)  0.02026  1.00000  Uiso  O
+  O26  0.4180(18)  0.633(3)  0.6540(6)  0.02026  1.00000  Uiso  O
+  O27  0.626(2)  0.096(2)  0.6745(5)  0.02026  1.00000  Uiso  O
+  O28  -0.0788(12)  0.861(3)  0.5202(6)  0.02026  1.00000  Uiso  O
+  O29  0.7641(10)  0.615(3)  0.6853(6)  0.02026  1.00000  Uiso  O
+  O30  0.2726(9)  0.152(3)  0.6885(6)  0.02026  1.00000  Uiso  O
+loop_
+ _atom_type_symbol
+ _atom_type_scat_Cromer_Mann_a1
+ _atom_type_scat_Cromer_Mann_b1
+ _atom_type_scat_Cromer_Mann_a2
+ _atom_type_scat_Cromer_Mann_b2
+ _atom_type_scat_Cromer_Mann_a3
+ _atom_type_scat_Cromer_Mann_b3
+ _atom_type_scat_Cromer_Mann_a4
+ _atom_type_scat_Cromer_Mann_b4
+ _atom_type_scat_Cromer_Mann_c
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  si  6.29150  2.43860  3.03530  32.33370  1.98910  0.67850  1.54100
+  81.69370  1.14070  0.24400  0.33000
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+  o  3.04850  13.27710  2.28680  5.70110  1.54630  0.32390  0.86700
+  32.90890  0.25080  0.04700  0.03200
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  ?  ?  ?  ?  ?  ?  ?  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Si1  Si6  3.075(11)  1_545  ?
+  Si1  Si9  3.034(11)  1_555  ?
+  Si1  Si13  3.020(12)  1_455  ?
+  Si1  Si14  3.067(10)  1_555  ?
+  Si1  O11  1.610(15)  1_555  ?
+  Si1  O20  1.585(11)  1_555  ?
+  Si1  O24  1.602(15)  1_545  ?
+  Si1  O27  1.599(17)  1_455  ?
+  Si2  Si4  3.109(12)  1_555  ?
+  Si2  Si5  3.138(10)  1_555  ?
+  Si2  Si7  3.163(11)  1_555  ?
+  Si2  Si8  3.016(11)  1_545  ?
+  Si2  O10  1.592(17)  1_555  ?
+  Si2  O13  1.631(13)  1_545  ?
+  Si2  O15  1.612(13)  1_555  ?
+  Si2  O17  1.600(17)  1_555  ?
+  Si3  Si10  3.037(11)  1_555  ?
+  Si3  Si11  3.012(11)  1_555  ?
+  Si3  Si12  3.104(10)  1_555  ?
+  Si3  Si15  3.017(12)  1_555  ?
+  Si3  O16  1.581(17)  1_555  ?
+  Si3  O18  1.595(16)  1_555  ?
+  Si3  O25  1.609(17)  1_555  ?
+  Si3  O26  1.592(15)  1_555  ?
+  Si4  Si2  3.109(12)  1_555  ?
+  Si4  Si5  3.081(11)  1_655  ?
+  Si4  Si12  3.023(11)  2_564  ?
+  Si4  Si13  3.018(10)  2_554  ?
+  Si4  O3  1.621(10)  1_555  ?
+  Si4  O6  1.627(14)  1_545  ?
+  Si4  O10  1.611(17)  1_555  ?
+  Si4  O21  1.605(15)  1_555  ?
+  Si5  Si2  3.138(10)  1_555  ?
+  Si5  Si4  3.081(11)  1_455  ?
+  Si5  Si14  3.048(11)  2_554  ?
+  Si5  Si15  3.062(11)  2_564  ?
+  Si5  O3  1.628(13)  1_455  ?
+  Si5  O12  1.599(14)  1_545  ?
+  Si5  O15  1.599(14)  1_555  ?
+  Si5  O22  1.608(17)  1_555  ?
+  Si6  Si1  3.075(11)  1_565  ?
+  Si6  Si8  3.097(10)  1_455  ?
+  Si6  Si9  3.100(10)  1_555  ?
+  Si6  Si10  3.139(11)  1_555  ?
+  Si6  O7  1.620(12)  1_555  ?
+  Si6  O19  1.580(12)  1_555  ?
+  Si6  O24  1.583(16)  1_555  ?
+  Si6  O28  1.634(14)  1_555  ?
+  Si7  Si2  3.163(11)  1_555  ?
+  Si7  Si8  3.101(10)  1_555  ?
+  Si7  Si9  3.106(10)  1_655  ?
+  Si7  Si11  3.034(12)  1_555  ?
+  Si7  O2  1.640(11)  1_555  ?
+  Si7  O5  1.613(16)  1_655  ?
+  Si7  O8  1.593(16)  1_555  ?
+  Si7  O17  1.589(17)  1_555  ?
+  Si8  Si2  3.016(11)  1_565  ?
+  Si8  Si6  3.097(10)  1_655  ?
+  Si8  Si7  3.101(10)  1_555  ?
+  Si8  Si10  3.008(12)  1_555  ?
+  Si8  O2  1.641(11)  1_555  ?
+  Si8  O4  1.596(15)  1_555  ?
+  Si8  O13  1.608(14)  1_555  ?
+  Si8  O19  1.621(11)  1_655  ?
+  Si9  Si1  3.034(11)  1_555  ?
+  Si9  Si6  3.100(10)  1_555  ?
+  Si9  Si7  3.106(10)  1_455  ?
+  Si9  Si11  3.120(11)  1_555  ?
+  Si9  O5  1.600(16)  1_555  ?
+  Si9  O7  1.606(11)  1_555  ?
+  Si9  O11  1.570(16)  1_555  ?
+  Si9  O23  1.612(14)  1_555  ?
+  Si10  Si3  3.037(11)  1_555  ?
+  Si10  Si6  3.139(11)  1_555  ?
+  Si10  Si8  3.008(12)  1_555  ?
+  Si10  Si11  3.133(10)  1_565  ?
+  Si10  O1  1.643(10)  1_565  ?
+  Si10  O4  1.616(14)  1_555  ?
+  Si10  O16  1.554(16)  1_555  ?
+  Si10  O28  1.625(12)  1_555  ?
+  Si11  Si3  3.012(11)  1_555  ?
+  Si11  Si7  3.034(12)  1_555  ?
+  Si11  Si9  3.120(11)  1_555  ?
+  Si11  Si10  3.133(10)  1_545  ?
+  Si11  O1  1.640(11)  1_555  ?
+  Si11  O8  1.589(16)  1_555  ?
+  Si11  O18  1.545(17)  1_555  ?
+  Si11  O23  1.616(11)  1_555  ?
+  Si12  Si3  3.104(10)  1_555  ?
+  Si12  Si4  3.023(11)  2_565  ?
+  Si12  Si13  3.131(10)  1_555  ?
+  Si12  Si15  3.142(11)  1_655  ?
+  Si12  O14  1.630(12)  1_555  ?
+  Si12  O21  1.591(16)  2_565  ?
+  Si12  O26  1.564(16)  1_555  ?
+  Si12  O29  1.627(13)  1_555  ?
+  Si13  Si1  3.020(12)  1_655  ?
+  Si13  Si4  3.018(10)  2_555  ?
+  Si13  Si12  3.131(10)  1_555  ?
+  Si13  Si14  3.087(10)  1_555  ?
+  Si13  O6  1.611(13)  2_565  ?
+  Si13  O14  1.625(12)  1_555  ?
+  Si13  O27  1.547(17)  1_555  ?
+  Si13  O30  1.627(10)  1_555  ?
+  Si14  Si1  3.067(10)  1_555  ?
+  Si14  Si5  3.048(11)  2_555  ?
+  Si14  Si13  3.087(10)  1_555  ?
+  Si14  Si15  3.103(10)  1_555  ?
+  Si14  O9  1.628(12)  1_555  ?
+  Si14  O12  1.595(15)  2_565  ?
+  Si14  O20  1.577(12)  1_555  ?
+  Si14  O30  1.615(12)  1_555  ?
+  Si15  Si3  3.017(12)  1_555  ?
+  Si15  Si5  3.062(11)  2_565  ?
+  Si15  Si12  3.142(11)  1_455  ?
+  Si15  Si14  3.103(10)  1_555  ?
+  Si15  O9  1.628(12)  1_555  ?
+  Si15  O22  1.610(16)  2_565  ?
+  Si15  O25  1.566(17)  1_555  ?
+  Si15  O29  1.633(11)  1_455  ?
+  O1  Si10  1.643(10)  1_545  ?
+  O1  Si11  1.640(11)  1_555  ?
+  O1  O4  2.72(2)  1_545  ?
+  O1  O8  2.66(2)  1_555  ?
+  O1  O16  2.669(17)  1_545  ?
+  O1  O18  2.514(16)  1_555  ?
+  O1  O23  2.66(2)  1_555  ?
+  O1  O28  2.71(2)  1_545  ?
+  O2  Si7  1.640(11)  1_555  ?
+  O2  Si8  1.641(11)  1_555  ?
+  O2  O4  2.63(2)  1_555  ?
+  O2  O5  2.763(19)  1_655  ?
+  O2  O8  2.66(2)  1_555  ?
+  O2  O13  2.393(14)  1_555  ?
+  O2  O17  2.609(17)  1_555  ?
+  O2  O19  2.706(18)  1_655  ?
+  O3  Si4  1.621(10)  1_555  ?
+  O3  Si5  1.628(13)  1_655  ?
+  O3  O6  2.70(2)  1_545  ?
+  O3  O10  2.568(18)  1_555  ?
+  O3  O12  2.71(2)  1_645  ?
+  O3  O15  2.512(14)  1_655  ?
+  O3  O21  2.661(18)  1_555  ?
+  O3  O22  2.68(2)  1_655  ?
+  O4  Si8  1.596(15)  1_555  ?
+  O4  Si10  1.616(14)  1_555  ?
+  O4  O1  2.72(2)  1_565  ?
+  O4  O2  2.63(2)  1_555  ?
+  O4  O13  2.69(2)  1_555  ?
+  O4  O16  2.576(20)  1_555  ?
+  O4  O19  2.706(15)  1_655  ?
+  O4  O28  2.492(18)  1_555  ?
+  O5  Si7  1.613(16)  1_455  ?
+  O5  Si9  1.600(16)  1_555  ?
+  O5  O2  2.763(19)  1_455  ?
+  O5  O7  2.564(19)  1_555  ?
+  O5  O8  2.529(19)  1_455  ?
+  O5  O11  2.56(2)  1_555  ?
+  O5  O17  2.66(2)  1_455  ?
+  O5  O23  2.673(17)  1_555  ?
+  O6  Si4  1.627(14)  1_565  ?
+  O6  Si13  1.611(13)  2_564  ?
+  O6  O3  2.70(2)  1_565  ?
+  O6  O10  2.60(2)  1_565  ?
+  O6  O14  2.477(14)  2_564  ?
+  O6  O21  2.764(18)  1_565  ?
+  O6  O27  2.442(19)  2_564  ?
+  O6  O30  2.742(20)  2_564  ?
+  O7  Si6  1.620(12)  1_555  ?
+  O7  Si9  1.606(11)  1_555  ?
+  O7  O5  2.564(19)  1_555  ?
+  O7  O11  2.540(16)  1_555  ?
+  O7  O19  2.588(18)  1_555  ?
+  O7  O23  2.65(2)  1_555  ?
+  O7  O24  2.496(16)  1_555  ?
+  O7  O28  2.69(2)  1_555  ?
+  O8  Si7  1.593(16)  1_555  ?
+  O8  Si11  1.589(16)  1_555  ?
+  O8  O1  2.66(2)  1_555  ?
+  O8  O2  2.66(2)  1_555  ?
+  O8  O5  2.529(19)  1_655  ?
+  O8  O17  2.53(2)  1_555  ?
+  O8  O18  2.63(2)  1_555  ?
+  O8  O23  2.528(18)  1_555  ?
+  O9  Si14  1.628(12)  1_555  ?
+  O9  Si15  1.628(12)  1_555  ?
+  O9  O12  2.502(15)  2_565  ?
+  O9  O20  2.605(17)  1_555  ?
+  O9  O22  2.548(17)  2_565  ?
+  O9  O25  2.72(2)  1_555  ?
+  O9  O29  2.68(2)  1_455  ?
+  O9  O30  2.68(2)  1_555  ?
+  O10  Si2  1.592(17)  1_555  ?
+  O10  Si4  1.611(17)  1_555  ?
+  O10  O3  2.568(18)  1_555  ?
+  O10  O6  2.60(2)  1_545  ?
+  O10  O13  2.61(2)  1_545  ?
+  O10  O15  2.653(19)  1_555  ?
+  O10  O17  2.63(2)  1_555  ?
+  O10  O21  2.52(2)  1_555  ?
+  O11  Si1  1.610(15)  1_555  ?
+  O11  Si9  1.570(16)  1_555  ?
+  O11  O5  2.56(2)  1_555  ?
+  O11  O7  2.540(16)  1_555  ?
+  O11  O20  2.567(19)  1_555  ?
+  O11  O23  2.64(2)  1_555  ?
+  O11  O24  2.756(19)  1_545  ?
+  O11  O27  2.73(2)  1_455  ?
+  O11  O29  3.25(2)  1_455  ?
+  O12  Si5  1.599(14)  1_565  ?
+  O12  Si14  1.595(15)  2_564  ?
+  O12  O3  2.71(2)  1_465  ?
+  O12  O9  2.502(15)  2_564  ?
+  O12  O15  2.52(2)  1_565  ?
+  O12  O20  2.715(17)  2_564  ?
+  O12  O22  2.641(19)  1_565  ?
+  O12  O30  2.62(2)  2_564  ?
+  O13  Si2  1.631(13)  1_565  ?
+  O13  Si8  1.608(14)  1_555  ?
+  O13  O2  2.393(14)  1_555  ?
+  O13  O4  2.69(2)  1_555  ?
+  O13  O10  2.61(2)  1_565  ?
+  O13  O15  2.58(2)  1_565  ?
+  O13  O17  2.731(19)  1_565  ?
+  O13  O19  2.658(16)  1_655  ?
+  O14  Si12  1.630(12)  1_555  ?
+  O14  Si13  1.625(12)  1_555  ?
+  O14  O6  2.477(14)  2_565  ?
+  O14  O21  2.538(16)  2_565  ?
+  O14  O26  2.66(2)  1_555  ?
+  O14  O27  2.565(19)  1_555  ?
+  O14  O29  2.64(2)  1_555  ?
+  O14  O30  2.69(2)  1_555  ?
+  O15  Si2  1.612(13)  1_555  ?
+  O15  Si5  1.599(14)  1_555  ?
+  O15  O3  2.512(14)  1_455  ?
+  O15  O10  2.653(19)  1_555  ?
+  O15  O12  2.52(2)  1_545  ?
+  O15  O13  2.58(2)  1_545  ?
+  O15  O17  2.55(2)  1_555  ?
+  O15  O22  2.67(2)  1_555  ?
+  O16  Si3  1.581(17)  1_555  ?
+  O16  Si10  1.554(16)  1_555  ?
+  O16  O1  2.669(17)  1_565  ?
+  O16  O4  2.576(20)  1_555  ?
+  O16  O18  2.473(20)  1_555  ?
+  O16  O25  2.69(2)  1_555  ?
+  O16  O26  2.59(2)  1_555  ?
+  O16  O28  2.578(18)  1_555  ?
+  O17  Si2  1.600(17)  1_555  ?
+  O17  Si7  1.589(17)  1_555  ?
+  O17  O2  2.609(17)  1_555  ?
+  O17  O5  2.66(2)  1_655  ?
+  O17  O8  2.53(2)  1_555  ?
+  O17  O10  2.63(2)  1_555  ?
+  O17  O13  2.731(19)  1_545  ?
+  O17  O15  2.55(2)  1_555  ?
+  O18  Si3  1.595(16)  1_555  ?
+  O18  Si11  1.545(17)  1_555  ?
+  O18  O1  2.514(16)  1_555  ?
+  O18  O8  2.63(2)  1_555  ?
+  O18  O16  2.473(20)  1_555  ?
+  O18  O23  2.64(2)  1_555  ?
+  O18  O25  2.62(2)  1_555  ?
+  O18  O26  2.58(2)  1_555  ?
+  O19  Si6  1.580(12)  1_555  ?
+  O19  Si8  1.621(11)  1_455  ?
+  O19  O2  2.706(18)  1_455  ?
+  O19  O4  2.706(15)  1_455  ?
+  O19  O7  2.588(18)  1_555  ?
+  O19  O13  2.658(16)  1_455  ?
+  O19  O24  2.652(17)  1_555  ?
+  O19  O28  2.587(12)  1_555  ?
+  O20  Si1  1.585(11)  1_555  ?
+  O20  Si14  1.577(12)  1_555  ?
+  O20  O9  2.605(17)  1_555  ?
+  O20  O11  2.567(19)  1_555  ?
+  O20  O12  2.715(17)  2_565  ?
+  O20  O24  2.570(19)  1_545  ?
+  O20  O27  2.371(18)  1_455  ?
+  O20  O30  2.574(11)  1_555  ?
+  O21  Si4  1.605(15)  1_555  ?
+  O21  Si12  1.591(16)  2_564  ?
+  O21  O3  2.661(18)  1_555  ?
+  O21  O6  2.764(18)  1_545  ?
+  O21  O10  2.52(2)  1_555  ?
+  O21  O14  2.538(16)  2_564  ?
+  O21  O26  2.61(2)  2_564  ?
+  O21  O29  2.69(2)  2_564  ?
+  O22  Si5  1.608(17)  1_555  ?
+  O22  Si15  1.610(16)  2_564  ?
+  O22  O3  2.68(2)  1_455  ?
+  O22  O9  2.548(17)  2_564  ?
+  O22  O12  2.641(19)  1_545  ?
+  O22  O15  2.67(2)  1_555  ?
+  O22  O25  2.60(2)  2_564  ?
+  O22  O29  2.686(18)  2_464  ?
+  O23  Si9  1.612(14)  1_555  ?
+  O23  Si11  1.616(11)  1_555  ?
+  O23  O1  2.66(2)  1_555  ?
+  O23  O5  2.673(17)  1_555  ?
+  O23  O7  2.65(2)  1_555  ?
+  O23  O8  2.528(18)  1_555  ?
+  O23  O11  2.64(2)  1_555  ?
+  O23  O18  2.64(2)  1_555  ?
+  O24  Si1  1.602(15)  1_565  ?
+  O24  Si6  1.583(16)  1_555  ?
+  O24  O7  2.496(16)  1_555  ?
+  O24  O11  2.756(19)  1_565  ?
+  O24  O19  2.652(17)  1_555  ?
+  O24  O20  2.570(19)  1_565  ?
+  O24  O27  2.60(2)  1_465  ?
+  O24  O28  2.69(2)  1_555  ?
+  O25  Si3  1.609(17)  1_555  ?
+  O25  Si15  1.566(17)  1_555  ?
+  O25  O9  2.72(2)  1_555  ?
+  O25  O16  2.69(2)  1_555  ?
+  O25  O18  2.62(2)  1_555  ?
+  O25  O22  2.60(2)  2_565  ?
+  O25  O26  2.654(19)  1_555  ?
+  O25  O29  2.520(18)  1_455  ?
+  O26  Si3  1.592(15)  1_555  ?
+  O26  Si12  1.564(16)  1_555  ?
+  O26  O14  2.66(2)  1_555  ?
+  O26  O16  2.59(2)  1_555  ?
+  O26  O18  2.58(2)  1_555  ?
+  O26  O21  2.61(2)  2_565  ?
+  O26  O25  2.654(19)  1_555  ?
+  O26  O29  2.574(15)  1_555  ?
+  O27  Si1  1.599(17)  1_655  ?
+  O27  Si13  1.547(17)  1_555  ?
+  O27  O6  2.442(19)  2_565  ?
+  O27  O11  2.73(2)  1_655  ?
+  O27  O14  2.565(19)  1_555  ?
+  O27  O20  2.371(18)  1_655  ?
+  O27  O24  2.60(2)  1_645  ?
+  O27  O30  2.722(17)  1_555  ?
+  O28  Si6  1.634(14)  1_555  ?
+  O28  Si10  1.625(12)  1_555  ?
+  O28  O1  2.71(2)  1_565  ?
+  O28  O4  2.492(18)  1_555  ?
+  O28  O7  2.69(2)  1_555  ?
+  O28  O16  2.578(18)  1_555  ?
+  O28  O19  2.587(12)  1_555  ?
+  O28  O24  2.69(2)  1_555  ?
+  O29  Si12  1.627(13)  1_555  ?
+  O29  Si15  1.633(11)  1_655  ?
+  O29  O9  2.68(2)  1_655  ?
+  O29  O11  3.25(2)  1_655  ?
+  O29  O14  2.64(2)  1_555  ?
+  O29  O21  2.69(2)  2_565  ?
+  O29  O22  2.686(18)  2_665  ?
+  O29  O25  2.520(18)  1_655  ?
+  O29  O26  2.574(15)  1_555  ?
+  O30  Si13  1.627(10)  1_555  ?
+  O30  Si14  1.615(12)  1_555  ?
+  O30  O6  2.742(20)  2_565  ?
+  O30  O9  2.68(2)  1_555  ?
+  O30  O12  2.62(2)  2_565  ?
+  O30  O14  2.69(2)  1_555  ?
+  O30  O20  2.574(11)  1_555  ?
+  O30  O27  2.722(17)  1_555  ?
+loop_
+ _geom_contact_atom_site_label_1
+ _geom_contact_atom_site_label_2
+ _geom_contact_distance
+ _geom_contact_site_symmetry_1
+ _geom_contact_site_symmetry_2
+ _geom_contact_publ_flag
+  ?  ?  ?  ?  ?  ?
+loop_
+ _geom_hbond_atom_site_label_D
+ _geom_hbond_atom_site_label_H
+ _geom_hbond_atom_site_label_A
+ _geom_hbond_site_symmetry_D
+ _geom_hbond_site_symmetry_H
+ _geom_hbond_site_symmetry_A
+ _geom_hbond_distance_DH
+ _geom_hbond_distance_HA
+ _geom_hbond_distance_DA
+ _geom_hbond_angle_DHA
+ _geom_hbond_publ_flag
+  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion
+ _geom_torsion_publ_flag
+  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?

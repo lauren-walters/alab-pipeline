@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_9009215
+loop_
+ _publ_author_name
+  'Kamb, B.'
+_publ_section_title   'Structure of ice VI'
+_journal_name_full   Science
+_journal_page_first   205
+_journal_page_last   209
+_journal_paper_doi   10.1126/science.150.3693.205
+_journal_volume   150
+_journal_year   1965
+_chemical_formula_structural   H2O
+_chemical_formula_sum   'H2 O'
+_chemical_name_mineral   Ice
+_space_group_IT_number   137
+_symmetry_space_group_name_Hall   'P 4n 2n -1n'
+_symmetry_space_group_name_H-M   'P 42/n m c :1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   12
+_cell_length_a   6.27
+_cell_length_b   6.27
+_cell_length_c   5.79
+_cell_volume   227.622
+_database_code_amcsd   0015417
+_exptl_crystal_density_diffrn   1.577
+_cod_original_sg_symbol_H-M   'P 42/n m c'
+_cod_original_formula_sum   '(O H2)'
+_cod_database_code   9009215
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2-y,1/2-x,1/2+z
+  y,x,-z
+  y,-x,-z
+  1/2-y,1/2+x,1/2+z
+  x,-y,z
+  1/2-x,1/2+y,1/2-z
+  1/2+x,1/2+y,1/2-z
+  -x,-y,z
+  1/2+y,1/2+x,1/2+z
+  -y,-x,-z
+  -y,x,-z
+  1/2+y,1/2-x,1/2+z
+  -x,y,z
+  1/2+x,1/2-y,1/2-z
+  1/2-x,1/2-y,1/2-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Wat1  0.00000  0.27600  0.38200  O  2
+  Wat2  0.00000  0.00000  0.00000  O  2
+  Wat3  0.50000  0.50000  0.50000  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-23T09:14:06+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  937
+  2  AMCSD  0015417

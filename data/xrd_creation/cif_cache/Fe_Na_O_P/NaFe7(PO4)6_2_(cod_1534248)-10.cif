@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_1534248
+loop_
+ _publ_author_name
+  'Belokoneva, E.L.'
+  'Dimitrova, O.V.'
+  'Ruchkina, E.A.'
+_publ_section_title
+'Synthesis and crystal structure of new phosphate Na Fe4 Fe3 (P O4)6'
+_journal_name_full   Kristallografiya
+_journal_page_first   54
+_journal_page_last   58
+_journal_volume   48
+_journal_year   2003
+_chemical_formula_sum   'Fe7 Na O24 P6'
+_chemical_name_systematic   'Na Fe4 Fe3 (P O4)6'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   115.55
+_cell_angle_beta   101.55
+_cell_angle_gamma   101.12
+_cell_formula_units_Z   1
+_cell_length_a   6.495
+_cell_length_b   9.718
+_cell_length_c   8.014
+_cell_volume   424.231
+_citation_journal_id_ASTM   KRISAJ
+_cod_data_source_file   Belokoneva_KRISAJ_2003_422.cif
+_cod_data_source_block   Fe7Na1O24P6
+_cod_original_cell_volume   424.2307
+_cod_original_formula_sum   'Fe7 Na1 O24 P6'
+_cod_database_code   1534248
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O7  O-2  0.4087  0.3468  0.8956  1  0.0
+  P1  P+5  0.5395  0.7662  0.6196  1  0.0
+  O10  O-2  0.2929  0.0608  0.253  1  0.0
+  O8  O-2  0.1659  0.7055  0.0759  1  0.0
+  O5  O-2  0.7941  0.5347  0.8252  1  0.0
+  Fe3  Fe+2  0.5205  0.47556  0.1942  1  0.0
+  O11  O-2  0.5041  0.2951  0.2407  1  0.0
+  O4  O-2  0.9576  0.8342  0.3682  1  0.0
+  P2  P+5  0.742  0.8323  0.2423  1  0.0
+  O3  O-2  0.964  0.2415  0.1969  1  0.0
+  Na1  Na+1  0.5  0  0  1  0.0
+  Fe4  Fe+3  0.274  0.88843  0.3444  1  0.0
+  P3  P+5  0.0336  0.6274  0.8607  1  0.0
+  O1  O-2  0.6096  0.9139  0.3752  1  0.0
+  O6  O-2  0.8639  0.494  0.2616  1  0.0
+  O12  O-2  0.3603  0.3418  0.5256  1  0.0
+  Fe2  Fe+2  0.9936  0.71407  0.5255  1  0.0
+  Fe1  Fe+2  0  0  0  1  0.0
+  O9  O-2  0.683  0.2299  0.4914  1  0.0
+  O2  O-2  0.7971  0.8664  0.1791  1  0.0

@@ -1,0 +1,8 @@
+# DARA XRD Analysis Environment
+# Install: pip install -r requirements.txt
+
+dara-xrd>=0.1.0          # XRD refinement with BGMN
+pandas>=2.0.0            # Data handling
+pyarrow>=14.0.0          # Parquet support
+tqdm>=4.65.0             # Progress bars
+

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66e206249838a9e733a967a2",
+  "experiment_name": "PG_2438-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "H-Li-Nb-O",
+  "target_formula": "Li2Nb2(H2O3)3",
+  "analysis_timestamp": "2025-12-06T13:29:43.433811",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

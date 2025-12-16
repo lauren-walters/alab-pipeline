@@ -1,0 +1,17 @@
+{
+  "experiment_id": "668c66eae500f9b8dc625c64",
+  "experiment_name": "PG_2544-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mg-O-Sn",
+  "target_formula": "MgSnO3",
+  "analysis_timestamp": "2025-12-06T15:23:20.060036",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

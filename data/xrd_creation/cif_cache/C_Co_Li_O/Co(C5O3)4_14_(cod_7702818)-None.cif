@@ -1,0 +1,232 @@
+# generated using pymatgen
+data_7702818
+loop_
+ _publ_author_name
+  'Kumagai, Hitoshi'
+  'Oka, Yoshimi'
+  'Inoue, Katsuya'
+  'Kurmoo, Mohamedally'
+_publ_section_title
+;
+Hydrothermal synthesis, structure and magnetism of square-grid
+cobalt(ii)-carboxylate layered compounds with and without pillars
+;
+_journal_issue   18
+_journal_name_full
+'Journal of the Chemical Society, Dalton Transactions'
+_journal_page_first   3442
+_journal_paper_doi   10.1039/b202995b
+_journal_year   2002
+_chemical_formula_moiety   'C10 H10 Co O6'
+_chemical_formula_sum   'C10 H10 Co O6'
+_chemical_formula_weight   285.12
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2ybc'
+_space_group_name_H-M_alt   'P 1 21/c 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   101.948(5)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   11.3236(4)
+_cell_length_b   6.6084(4)
+_cell_length_c   7.2011(6)
+_cell_measurement_temperature   294
+_cell_volume   527.19(6)
+_computing_publication_material   CIFGEN_IN_OpenMoleN_(_1997)
+_computing_structure_refinement   LSFM_OpenMoleN_(_1997)
+_computing_structure_solution
+Direct_methods_(SIR,_Burla_et_al.,_1989)
+_diffrn_ambient_temperature   294
+_diffrn_measurement_details
+;
+2237 reflections were collected using program Collect ("Collect" Data
+collection software, Nonius B.V., 1998) The conditions were as follow
+: crystal to detector distance =  25. mm. Scan angle =  2.0 deg 1
+scans of   60 sec per frame. Data collection was divided into  2
+set(s) with the following starting angles and number of frames : Set 1
+Theta =    5.90 Omega =    0.00 Kappa =    0.00   90 frames Set 2
+Theta =   -4.70 Kappa = -169.50 Phi   =    0.00   22 frames Friedel
+pairs were averaged. Internal R = 0.04
+;
+_diffrn_measurement_device_type   KappaCCD
+_diffrn_measurement_method   '\p scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_type   Mo-K\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.040
+_diffrn_reflns_av_sigmaI/netI   0.333
+_diffrn_reflns_limit_h_max   9
+_diffrn_reflns_limit_h_min   -9
+_diffrn_reflns_limit_k_max   8
+_diffrn_reflns_limit_k_min   -7
+_diffrn_reflns_limit_l_max   14
+_diffrn_reflns_limit_l_min   -14
+_diffrn_reflns_number   2237
+_diffrn_reflns_theta_max   27.48
+_diffrn_reflns_theta_min   2.5
+_diffrn_source   xray_tube
+_diffrn_standards_decay_%   0
+_exptl_absorpt_coefficient_mu   1.642
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour   pink
+_exptl_crystal_density_diffrn   1.81
+_exptl_crystal_density_method   none
+_exptl_crystal_description   prism
+_exptl_crystal_F_000   294
+_exptl_crystal_size_max   0.15
+_exptl_crystal_size_mid   0.10
+_exptl_crystal_size_min   0.10
+_refine_diff_density_max   0.709
+_refine_diff_density_min   -0.647
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_all   1.078
+_refine_ls_goodness_of_fit_ref   1.049
+_refine_ls_hydrogen_treatment   noref
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   88
+_refine_ls_number_reflns   1061
+_refine_ls_number_restraints   3
+_refine_ls_R_factor_all   0.057
+_refine_ls_R_factor_gt   0.051
+_refine_ls_shift/esd_mean   0.000
+_refine_ls_shift/su_max   0.000
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_scheme   sigma
+_refine_ls_wR_factor_all   0.077
+_refine_ls_wR_factor_ref   0.071
+_reflns_number_gt   1061
+_reflns_number_total   1317
+_reflns_threshold_expression   >3.0\s(I)
+_cod_data_source_file   b202995b.txt
+_cod_data_source_block   690Cocarboxycinna
+_cod_original_cell_volume   527.2(1)
+_cod_database_code   7702818
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,1/2+y,1/2-z
+  -x,-y,-z
+  +x,1/2-y,1/2+z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+ _atom_site_aniso_type_symbol
+  CO  0.0136(3)  0.0139(4)  0.0167(3)  0.0019(3)  -0.0000(3)
+  0.0002(3)  Co
+  O1  0.014(1)  0.021(1)  0.018(1)  0.004(1)  0.002(1)  -0.002(1)  O
+  O2  0.022(1)  0.017(1)  0.025(1)  -0.002(1)  0.003(1)  0.001(1)  O
+  O3  0.013(1)  0.020(2)  0.031(2)  -0.000(1)  -0.001(1)  0.008(1)
+  O
+  C1  0.013(2)  0.021(2)  0.015(2)  0.004(2)  0.001(1)  0.000(2)  C
+  C2  0.016(2)  0.030(3)  0.027(2)  0.002(2)  0.001(2)  0.003(2)  C
+  C3  0.021(4)  0.027(5)  0.034(5)  0.009(4)  0.002(4)  0.011(4)  C
+  C4  0.013(4)  0.023(4)  0.039(5)  -0.000(4)  0.002(4)  -0.007(4)
+  C
+  C5  0.032(3)  0.038(3)  0.049(3)  -0.018(2)  -0.013(3)  0.000(3)
+  C
+  C6  0.022(2)  0.042(3)  0.043(3)  -0.012(2)  -0.008(2)  0.001(3)
+  C
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_type_symbol
+  CO  1.0000  0.0000  1.0000  0.0147(3)  0.500  Uani  Co
+  O1  0.9137(3)  0.0824(5)  1.2215(4)  0.017(1)  1.000  Uani  O
+  O2  1.0885(3)  0.2776(5)  1.0153(5)  0.021(1)  1.000  Uani  O
+  O3  1.1424(3)  -0.1088(5)  1.2094(5)  0.020(1)  1.000  Uani  O
+  C1  1.1659(4)  -0.2804(7)  1.2777(6)  0.016(2)  1.000  Uani  C
+  C2  1.2955(4)  -0.3296(8)  1.3568(7)  0.023(2)  1.000  Uani  C
+  C3  1.3850(9)  -0.195(2)  1.374(2)  0.027(5)  0.500  Uani  C
+  C4  0.5074(8)  -0.249(2)  0.948(2)  0.022(4)  0.500  Uani  C
+  C5  0.5452(5)  -0.070(1)  1.005(1)  0.039(3)  1.000  Uani  C
+  C6  0.6700(5)  -0.019(1)  1.0777(9)  0.034(3)  1.000  Uani  C
+loop_
+ _atom_type_symbol
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  0.002  0.002  International_Tables_Vol_IV_Table_2.3.1
+  H  0.000  0.000  International_Tables_Vol_IV_Table_2.3.1
+  Co  0.299  0.973  International_Tables_Vol_IV_Table_2.3.1
+  O  0.008  0.006  International_Tables_Vol_IV_Table_2.3.1
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+  O1  CO  O1  180.00  .  3_757
+  O1  CO  O2  91.5(1)  .  .
+  O1  CO  O2  88.5(1)  .  3_757
+  O1  CO  O3  87.3(1)  .  .
+  O1  CO  O3  92.7(1)  .  3_757
+  O1  CO  O2  88.5(1)  3_757  .
+  O1  CO  O2  91.5(1)  3_757  3_757
+  O1  CO  O3  92.7(1)  3_757  .
+  O1  CO  O3  87.3(1)  3_757  3_757
+  O2  CO  O2  180.00  .  3_757
+  O2  CO  O3  88.5(1)  .  .
+  O2  CO  O3  91.5(1)  .  3_757
+  O2  CO  O3  91.5(1)  3_757  .
+  O2  CO  O3  88.5(1)  3_757  3_757
+  O3  CO  O3  180.00  .  3_757
+  CO  O1  C1  128.6(3)  .  2_757
+  CO  O3  C1  132.0(3)  .  .
+  O1  C1  O3  123.7(4)  2_747  .
+  O1  C1  C2  118.7(4)  2_747  .
+  O3  C1  C2  117.5(4)  .  .
+  C1  C2  C3  123.9(6)  .  .
+  C1  C2  C6  121.3(5)  .  2_747
+  C3  C2  C6  114.8(6)  .  2_747
+  C2  C3  C4  121.7(9)  .  4_645
+  C3  C4  C5  125.8(9)  4_444  .
+  C4  C5  C5  114.2(7)  .  3_657
+  C4  C5  C6  124.4(7)  .  .
+  C5  C5  C6  121.4(7)  3_657  .
+  C2  C6  C5  122.1(6)  2_757  .
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  CO  O1  2.107(3)  .
+  CO  O1  2.107(3)  3_757
+  CO  O2  2.083(3)  .
+  CO  O2  2.083(3)  3_757
+  CO  O3  2.094(3)  .
+  CO  O3  2.094(3)  3_757
+  O1  C1  1.280(6)  2_757
+  O3  C1  1.243(6)  .
+  C1  C2  1.496(6)  .
+  C2  C3  1.33(1)  .
+  C2  C6  1.366(8)  2_747
+  C3  C4  1.43(1)  4_645
+  C4  C5  1.29(1)  .
+  C5  C5  1.37(1)  3_657
+  C5  C6  1.443(7)  .
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2022-05-07T04:42:00+03:00
+;
+Replaced the '&#x00A5;' sequences with backslash symbols ('\')  in
+multiple data values.
+;
+

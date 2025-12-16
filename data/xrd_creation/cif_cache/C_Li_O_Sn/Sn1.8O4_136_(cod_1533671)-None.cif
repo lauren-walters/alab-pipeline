@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_1533671
+loop_
+ _publ_author_name
+  'Toledo-Antonio, J.A.'
+  'Gutierrez-Baez, R.'
+  'Vazquez, A.'
+  'Sebastian, P.J.'
+_publ_section_title
+;
+Thermal stability and structural deformation of rutile Sn O2
+nanoparticles
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   241
+_journal_page_last   248
+_journal_volume   174
+_journal_year   2003
+_chemical_formula_sum   'H0.4 O2 Sn0.9'
+_chemical_name_systematic   'Sn0.9 (O1.6 (O H)0.4)'
+_space_group_IT_number   136
+_symmetry_space_group_name_Hall   '-P 4n 2n'
+_symmetry_space_group_name_H-M   'P 42/m n m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   4.733
+_cell_length_b   4.733
+_cell_length_c   3.1834
+_cell_volume   71.312
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Toledo-Antonio_JSSCBI_2003_131.cif
+_cod_data_source_block   H0.4O2Sn0.9
+_cod_original_cell_volume   71.31226
+_cod_database_code   1533671
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/2,x+1/2,z+1/2
+  -x,-y,z
+  y+1/2,-x+1/2,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  y,x,-z
+  -x+1/2,y+1/2,-z+1/2
+  -y,-x,-z
+  -x,-y,-z
+  y-1/2,-x-1/2,-z-1/2
+  x,y,-z
+  -y-1/2,x-1/2,-z-1/2
+  -x-1/2,y-1/2,z-1/2
+  -y,-x,z
+  x-1/2,-y-1/2,z-1/2
+  y,x,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.305  0.305  0  1  0.0
+  Sn1  Sn+4  0  0  0  0.9  0.0

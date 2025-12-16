@@ -1,0 +1,1969 @@
+# generated using pymatgen
+data_4030773
+loop_
+ _publ_author_name
+  'Schumann, H.'
+  'Zietzke, K.'
+  'Weimann, R.'
+_publ_section_title
+;
+Organometallic compounds of the lanthanides, 99. Synthesis and crystal
+structure of bis(cyclopentadienyl)rare earth acetates (Cp2LnO2CCH3)2
+(Cp  = C5H5, C5HMe4, C5Me5)
+;
+_journal_name_full
+'European Journal of Solid State and Inorganic Chemistry'
+_journal_page_first   121
+_journal_page_last   144
+_journal_volume   33
+_journal_year   1996
+_chemical_formula_sum   'C47 H66 La2 O4'
+_chemical_formula_weight   972.85
+_space_group_IT_number   4
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   4
+_symmetry_space_group_name_Hall   'P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21 1'
+_cell_angle_alpha   90
+_cell_angle_beta   121.231(14)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   16.318(2)
+_cell_length_b   13.985(3)
+_cell_length_c   11.242(3)
+_cell_volume   2193.7(9)
+_diffrn_ambient_temperature   210
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   1.961
+_exptl_crystal_density_diffrn   1.473
+_exptl_crystal_F_000   988
+_refine_ls_number_parameters   447
+_refine_ls_number_reflns   3834
+_refine_ls_R_factor_gt   0.0203
+_refine_ls_wR_factor_gt   0.0465
+_cod_data_source_file   EJSSIC-1996-33-121-144-2.cif
+_cod_data_source_block   C47H66La2O4
+_cod_original_cell_volume   2193.8(7)
+_cod_original_sg_symbol_H-M   'P 21'
+_cod_database_code   4030773
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,1/2+y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  La1  La  Uiso  0.11750(10)  0.59450(10)  0.29720(10)  1.000
+  0.180(10)
+  La2  La  Uiso  0.38220(10)  0.59730(10)  0.70250(10)  1.000
+  0.190(10)
+  O51  O  Uiso  0.4520(6)  0.6000(11)  0.5457(9)  1.000  0.29(2)
+  O52  O  Uiso  0.2948(5)  0.5974(12)  0.4181(8)  1.000  0.33(2)
+  O61  O  Uiso  0.0479(6)  0.6029(11)  0.4493(9)  1.000  0.031(2)
+  O62  O  Uiso  0.2032(5)  0.5998(10)  0.5826(7)  1.000  0.023(2)
+  C11  C  Uiso  0.1223(10)  0.3992(11)  0.2830(15)  1.000  0.26(3)
+  C12  C  Uiso  0.1248(9)  0.4281(9)  0.1604(13)  1.000  0.21(3)
+  C13  C  Uiso  0.0369(10)  0.4660(10)  0.0688(12)  1.000  0.22(3)
+  C14  C  Uiso  -0.0271(10)  0.4663(12)  0.1170(15)  1.000  0.29(3)
+  C15  C  Uiso  0.0272(9)  0.4134(10)  0.2579(14)  1.000  0.25(3)
+  C16  C  Uiso  0.2076(9)  0.4162(9)  0.1397(14)  1.000  0.42(4)
+  C17  C  Uiso  -0.0061(9)  0.5041(9)  -0.0813(12)  1.000  0.36(3)
+  C18  C  Uiso  -0.1260(10)  0.4823(11)  0.0547(16)  1.000  0.42(3)
+  C19  C  Uiso  -0.0082(10)  0.3795(10)  0.3431(13)  1.000  0.33(3)
+  C21  C  Uiso  -0.0004(8)  0.7190(10)  0.0776(13)  1.000  0.20(3)
+  C22  C  Uiso  -0.0096(8)  0.7538(10)  0.1919(13)  1.000  0.23(3)
+  C23  C  Uiso  0.0825(10)  0.7921(10)  0.2999(15)  1.000  0.29(4)
+  C24  C  Uiso  0.1479(11)  0.7906(10)  0.2505(14)  1.000  0.28(3)
+  C25  C  Uiso  0.0956(10)  0.7463(10)  0.1154(11)  1.000  0.23(3)
+  C26  C  Uiso  -0.0901(8)  0.7481(9)  0.2117(13)  1.000  0.32(3)
+  C27  C  Uiso  0.1033(10)  0.8380(10)  0.4295(15)  1.000  0.41(4)
+  C28  C  Uiso  0.2462(9)  0.8304(10)  0.3173(15)  1.000  0.38(4)
+  C29  C  Uiso  0.1415(11)  0.7309(12)  0.0270(14)  1.000  0.41(4)
+  C31  C  Uiso  0.4924(11)  0.4700(12)  0.9072(15)  1.000  0.37(4)
+  C32  C  Uiso  0.5021(11)  0.4435(11)  0.7991(16)  1.000  0.37(4)
+  C33  C  Uiso  0.4176(10)  0.4010(9)  0.7053(13)  1.000  0.26(3)
+  C34  C  Uiso  0.3572(9)  0.4095(11)  0.7500(15)  1.000  0.27(4)
+  C35  C  Uiso  0.4029(10)  0.4558(11)  0.8878(15)  1.000  0.31(4)
+  C36  C  Uiso  0.6038(9)  0.4444(12)  0.8001(14)  1.000  0.56(5)
+  C37  C  Uiso  0.3990(11)  0.3491(11)  0.5728(11)  1.000  0.41(4)
+  C38  C  Uiso  0.2604(10)  0.3629(12)  0.6861(13)  1.000  0.46(4)
+  C39  C  Uiso  0.3726(9)  0.4701(12)  0.9889(13)  1.000  0.29(3)
+  C41  C  Uiso  0.3807(11)  0.8001(12)  0.7310(16)  1.000  0.36(4)
+  C42  C  Uiso  0.3788(12)  0.7614(11)  0.8393(16)  1.000  0.38(4)
+  C43  C  Uiso  0.4707(10)  0.7200(11)  0.9349(14)  1.000  0.34(4)
+  C44  C  Uiso  0.5218(9)  0.7366(10)  0.8660(14)  1.000  0.24(3)
+  C45  C  Uiso  0.4697(12)  0.7758(12)  0.7479(15)  1.000  0.34(4)
+  C46  C  Uiso  0.2994(11)  0.7806(12)  0.8875(15)  1.000  0.60(5)
+  C47  C  Uiso  0.4939(10)  0.6962(10)  1.0786(13)  1.000  0.44(4)
+  C48  C  Uiso  0.6303(7)  0.6969(11)  0.9400(15)  1.000  0.41(4)
+  C49  C  Uiso  0.5080(11)  0.8043(13)  0.6494(15)  1.000  0.52(5)
+  C51  C  Uiso  0.3772(9)  0.6023(13)  0.4290(13)  1.000  0.030(3)
+  C52  C  Uiso  0.3829(7)  0.6146(12)  0.3011(11)  1.000  0.034(4)
+  C61  C  Uiso  0.1215(7)  0.5968(12)  0.5676(10)  1.000  0.018(3)
+  C62  C  Uiso  0.1085(9)  0.5874(15)  0.6900(12)  1.000  0.048(4)
+  C71  C  Uiso  0.2457(14)  0.1587(13)  0.2912(16)  0.500  0.040(4)
+  C72  C  Uiso  0.2482(10)  0.1236(11)  0.4156(12)  0.500  0.048(7)
+  C73  C  Uiso  0.3311(9)  0.0754(9)  0.5114(15)  0.500  0.065(9)
+  C74  C  Uiso  0.3393(9)  0.0383(9)  0.6319(14)  0.500  0.048(5)
+  C75  C  Uiso  0.2647(12)  0.0494(11)  0.6565(12)  0.500  0.046(5)
+  C76  C  Uiso  0.1819(10)  0.0976(14)  0.5607(16)  0.500  0.054(5)
+  C77  C  Uiso  0.1736(9)  0.1346(13)  0.4402(15)  0.500  0.069(15)
+  C711  C  Uiso  0.2260(17)  0.0569(19)  0.683(2)  0.500  0.054(7)
+  C721  C  Uiso  0.2433(11)  0.0817(13)  0.5728(14)  0.500  0.037(6)
+  C731  C  Uiso  0.1734(9)  0.1328(13)  0.4591(17)  0.500  0.038(8)
+  C741  C  Uiso  0.1872(11)  0.1565(11)  0.3507(13)  0.500  0.046(5)
+  C751  C  Uiso  0.2709(13)  0.1290(13)  0.3558(14)  0.500  0.052(6)
+  C761  C  Uiso  0.3407(10)  0.0779(14)  0.4694(17)  0.500  0.078(9)
+  C771  C  Uiso  0.3269(10)  0.0543(13)  0.5779(14)  0.500  0.023(5)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  C  0.0033  0.0016
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  La  La  -0.2871  2.4523
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O52  La1  O61  116.1(3)  yes
+  O52  La1  O62  67.5(3)  yes
+  O52  La1  C11  89.3(5)  yes
+  O52  La1  C12  86.9(5)  yes
+  O52  La1  C13  111.6(5)  yes
+  O52  La1  C14  135.2(5)  yes
+  O52  La1  C15  117.6(5)  yes
+  O52  La1  C21  123.0(4)  yes
+  O52  La1  C22  127.3(5)  yes
+  O52  La1  C23  99.4(5)  yes
+  O52  La1  C24  79.8(5)  yes
+  O52  La1  C25  93.3(5)  yes
+  O61  La1  O62  48.6(3)  yes
+  O61  La1  C11  97.1(5)  yes
+  O61  La1  C12  125.0(5)  yes
+  O61  La1  C13  119.2(5)  yes
+  O61  La1  C14  90.8(5)  yes
+  O61  La1  C15  76.5(5)  yes
+  O61  La1  C21  103.0(4)  yes
+  O61  La1  C22  75.9(4)  yes
+  O61  La1  C23  77.3(5)  yes
+  O61  La1  C24  105.2(5)  yes
+  O61  La1  C25  121.7(5)  yes
+  O62  La1  C11  94.7(4)  yes
+  O62  La1  C12  121.1(4)  yes
+  O62  La1  C13  142.0(4)  yes
+  O62  La1  C14  125.8(4)  yes
+  O62  La1  C15  96.5(4)  yes
+  O62  La1  C21  135.1(4)  yes
+  O62  La1  C22  106.5(4)  yes
+  O62  La1  C23  86.8(4)  yes
+  O62  La1  C24  98.9(4)  yes
+  O62  La1  C25  128.1(4)  yes
+  C11  La1  C12  30.3(4)  yes
+  C11  La1  C13  47.9(4)  yes
+  C11  La1  C14  50.4(5)  yes
+  C11  La1  C15  29.8(5)  yes
+  C11  La1  C21  126.4(4)  yes
+  C11  La1  C22  142.4(5)  yes
+  C11  La1  C23  171.1(5)  yes
+  C11  La1  C24  157.7(5)  yes
+  C11  La1  C25  134.5(4)  yes
+  C12  La1  C13  27.9(4)  yes
+  C12  La1  C14  48.7(5)  yes
+  C12  La1  C15  49.3(4)  yes
+  C12  La1  C21  103.6(4)  yes
+  C12  La1  C22  130.2(4)  yes
+  C12  La1  C23  151.3(4)  yes
+  C12  La1  C24  128.6(4)  yes
+  C12  La1  C25  104.4(4)  yes
+  C13  La1  C14  28.8(5)  yes
+  C13  La1  C15  48.4(4)  yes
+  C13  La1  C21  79.2(4)  yes
+  C13  La1  C22  102.9(4)  yes
+  C13  La1  C23  128.9(4)  yes
+  C13  La1  C24  118.7(4)  yes
+  C13  La1  C25  89.8(4)  yes
+  C14  La1  C15  31.7(4)  yes
+  C14  La1  C21  80.0(4)  yes
+  C14  La1  C22  92.4(4)  yes
+  C14  La1  C23  122.1(5)  yes
+  C14  La1  C24  129.3(4)  yes
+  C14  La1  C25  102.3(4)  yes
+  C15  La1  C21  110.6(4)  yes
+  C15  La1  C22  115.1(4)  yes
+  C15  La1  C23  141.3(5)  yes
+  C15  La1  C24  160.4(4)  yes
+  C15  La1  C25  133.8(4)  yes
+  C21  La1  C22  29.7(4)  yes
+  C21  La1  C23  49.7(4)  yes
+  C21  La1  C24  49.8(4)  yes
+  C21  La1  C25  29.7(4)  yes
+  C22  La1  C23  29.8(4)  yes
+  C22  La1  C24  48.5(5)  yes
+  C22  La1  C25  47.4(4)  yes
+  C23  La1  C24  29.1(5)  yes
+  C23  La1  C25  47.6(4)  yes
+  C24  La1  C25  29.2(4)  yes
+  O51  La2  O52  48.9(3)  yes
+  O51  La2  O62  116.3(3)  yes
+  O51  La2  C31  105.0(5)  yes
+  O51  La2  C32  78.5(5)  yes
+  O51  La2  C33  81.9(5)  yes
+  O51  La2  C34  108.2(5)  yes
+  O51  La2  C35  127.5(5)  yes
+  O51  La2  C41  95.5(5)  yes
+  O51  La2  C42  121.0(5)  yes
+  O51  La2  C43  115.8(5)  yes
+  O51  La2  C44  86.6(4)  yes
+  O51  La2  C45  75.1(5)  yes
+  O52  La2  O62  67.4(3)  yes
+  O52  La2  C31  134.6(5)  yes
+  O52  La2  C32  107.3(5)  yes
+  O52  La2  C33  89.6(4)  yes
+  O52  La2  C34  100.8(5)  yes
+  O52  La2  C35  131.7(5)  yes
+  O52  La2  C41  95.8(5)  yes
+  O52  La2  C42  119.8(5)  yes
+  O52  La2  C43  141.9(5)  yes
+  O52  La2  C44  120.9(4)  yes
+  O52  La2  C45  96.9(4)  yes
+  O62  La2  C31  122.6(5)  yes
+  O62  La2  C32  128.4(5)  yes
+  O62  La2  C33  101.3(5)  yes
+  O62  La2  C34  82.5(5)  yes
+  O62  La2  C35  93.9(5)  yes
+  O62  La2  C41  88.3(5)  yes
+  O62  La2  C42  86.2(5)  yes
+  O62  La2  C43  112.6(4)  yes
+  O62  La2  C44  131.4(4)  yes
+  O62  La2  C45  115.5(5)  yes
+  C31  La2  C32  28.8(5)  yes
+  C31  La2  C33  46.2(4)  yes
+  C31  La2  C34  46.5(5)  yes
+  C31  La2  C35  29.0(6)  yes
+  C31  La2  C41  126.5(5)  yes
+  C31  La2  C42  105.4(5)  yes
+  C31  La2  C43  79.5(4)  yes
+  C31  La2  C44  86.8(5)  yes
+  C31  La2  C45  112.3(5)  yes
+  C32  La2  C33  28.5(5)  yes
+  C32  La2  C34  47.0(5)  yes
+  C32  La2  C35  49.7(5)  yes
+  C32  La2  C41  141.7(5)  yes
+  C32  La2  C42  130.3(5)  yes
+  C32  La2  C43  101.2(5)  yes
+  C32  La2  C44  96.6(5)  yes
+  C32  La2  C45  116.1(6)  yes
+  C33  La2  C34  27.6(5)  yes
+  C33  La2  C35  49.2(4)  yes
+  C33  La2  C41  170.2(5)  yes
+  C33  La2  C42  150.0(4)  yes
+  C33  La2  C43  125.6(4)  yes
+  C33  La2  C44  125.1(4)  yes
+  C33  La2  C45  142.4(6)  yes
+  C34  La2  C35  31.0(4)  yes
+  C34  La2  C41  156.2(5)  yes
+  C34  La2  C42  129.3(5)  yes
+  C34  La2  C43  117.2(4)  yes
+  C34  La2  C44  132.9(4)  yes
+  C34  La2  C45  158.8(5)  yes
+  C35  La2  C41  129.1(5)  yes
+  C35  La2  C42  101.8(5)  yes
+  C35  La2  C43  86.2(4)  yes
+  C35  La2  C44  105.1(4)  yes
+  C35  La2  C45  130.7(4)  yes
+  C41  La2  C42  27.6(5)  yes
+  C41  La2  C43  47.3(4)  yes
+  C41  La2  C44  45.2(5)  yes
+  C41  La2  C45  28.8(6)  yes
+  C42  La2  C43  29.8(5)  yes
+  C42  La2  C44  46.6(5)  yes
+  C42  La2  C45  46.7(6)  yes
+  C43  La2  C44  29.1(5)  yes
+  C43  La2  C45  47.0(5)  yes
+  C44  La2  C45  26.1(4)  yes
+  La2  O51  C51  100.6(10)  yes
+  La1  O52  La2  113.1(3)  yes
+  La1  O52  C51  156.6(8)  yes
+  La2  O52  C51  90.2(7)  yes
+  La1  O61  C61  101.4(8)  yes
+  La1  O62  La2  111.9(3)  yes
+  La1  O62  C61  88.9(6)  yes
+  La2  O62  C61  159.0(7)  yes
+  La1  C11  C12  78.1(8)  yes
+  La1  C11  C15  79.3(9)  yes
+  C12  C11  C15  109.4(13)  no
+  La1  C12  C11  71.6(8)  yes
+  La1  C12  C13  76.5(8)  yes
+  La1  C12  C16  118.2(9)  yes
+  C11  C12  C13  106.7(14)  no
+  C11  C12  C16  126.0(13)  no
+  C13  C12  C16  127.3(13)  no
+  La1  C13  C12  75.6(7)  yes
+  La1  C13  C14  74.8(8)  yes
+  La1  C13  C17  120.3(8)  yes
+  C12  C13  C14  114.2(12)  no
+  C12  C13  C17  131.3(15)  no
+  C14  C13  C17  114.4(13)  no
+  La1  C14  C13  76.5(9)  yes
+  La1  C14  C15  75.3(8)  yes
+  La1  C14  C18  125.1(11)  yes
+  C13  C14  C15  104.4(13)  no
+  C13  C14  C18  134.5(14)  no
+  C15  C14  C18  119.2(15)  no
+  La1  C15  C11  71.0(8)  yes
+  La1  C15  C14  73.1(8)  yes
+  La1  C15  C19  123.1(9)  yes
+  C11  C15  C14  104.7(13)  no
+  C11  C15  C19  126.2(13)  no
+  C14  C15  C19  129.0(15)  no
+  La1  C21  C22  76.6(7)  yes
+  La1  C21  C25  76.2(7)  yes
+  C22  C21  C25  104.2(11)  no
+  La1  C22  C21  73.7(8)  yes
+  La1  C22  C23  74.2(8)  yes
+  La1  C22  C26  114.7(9)  yes
+  C21  C22  C23  109.0(13)  no
+  C21  C22  C26  129.6(12)  no
+  C23  C22  C26  121.3(12)  no
+  La1  C23  C22  76.0(8)  yes
+  La1  C23  C24  77.7(8)  yes
+  La1  C23  C27  119.8(9)  yes
+  C22  C23  C24  108.9(12)  no
+  C22  C23  C27  126.7(16)  no
+  C24  C23  C27  123.8(15)  no
+  La1  C24  C23  73.2(8)  yes
+  La1  C24  C25  73.7(8)  yes
+  La1  C24  C28  120.5(10)  yes
+  C23  C24  C25  105.1(15)  no
+  C23  C24  C28  128.6(13)  no
+  C25  C24  C28  126.1(16)  no
+  La1  C25  C21  74.1(8)  yes
+  La1  C25  C24  77.2(8)  yes
+  La1  C25  C29  116.0(9)  yes
+  C21  C25  C24  112.5(14)  no
+  C21  C25  C29  126.1(11)  no
+  C24  C25  C29  121.4(15)  no
+  La2  C31  C32  75.8(9)  yes
+  La2  C31  C35  77.2(9)  yes
+  C32  C31  C35  115.2(15)  no
+  La2  C32  C31  75.4(10)  yes
+  La2  C32  C33  78.9(9)  yes
+  La2  C32  C36  120.5(10)  yes
+  C31  C32  C33  105.7(17)  no
+  C31  C32  C36  125.1(15)  no
+  C33  C32  C36  128.1(14)  no
+  La2  C33  C32  72.6(9)  yes
+  La2  C33  C34  74.1(9)  yes
+  La2  C33  C37  121.0(8)  yes
+  C32  C33  C34  108.7(14)  no
+  C32  C33  C37  124.5(16)  no
+  C34  C33  C37  126.7(15)  no
+  La2  C34  C33  78.3(9)  yes
+  La2  C34  C35  74.9(9)  yes
+  La2  C34  C38  123.1(10)  yes
+  C33  C34  C35  111.6(14)  no
+  C33  C34  C38  125.8(14)  no
+  C35  C34  C38  121.7(14)  no
+  La2  C35  C31  73.8(9)  yes
+  La2  C35  C34  74.1(8)  yes
+  La2  C35  C39  121.8(11)  yes
+  C31  C35  C34  98.5(14)  no
+  C31  C35  C39  127.9(14)  no
+  C34  C35  C39  133.0(15)  no
+  La2  C41  C42  73.0(10)  yes
+  La2  C41  C45  72.9(10)  yes
+  C42  C41  C45  106.7(15)  no
+  La2  C42  C41  79.4(10)  yes
+  La2  C42  C43  76.6(9)  yes
+  La2  C42  C46  123.7(10)  yes
+  C41  C42  C43  109.5(18)  no
+  C41  C42  C46  128.0(16)  no
+  C43  C42  C46  120.5(13)  no
+  La2  C43  C42  73.6(8)  yes
+  La2  C43  C44  76.0(8)  yes
+  La2  C43  C47  126.0(10)  yes
+  C42  C43  C44  101.9(13)  no
+  C42  C43  C47  118.7(16)  no
+  C44  C43  C47  137.3(15)  no
+  La2  C44  C43  74.9(8)  yes
+  La2  C44  C45  75.0(10)  yes
+  La2  C44  C48  113.3(9)  yes
+  C43  C44  C45  112.1(16)  no
+  C43  C44  C48  117.4(12)  no
+  C45  C44  C48  130.3(16)  no
+  La2  C45  C41  78.3(10)  yes
+  La2  C45  C44  78.9(10)  yes
+  La2  C45  C49  116.7(10)  yes
+  C41  C45  C44  109.3(16)  no
+  C41  C45  C49  127.0(14)  no
+  C44  C45  C49  123.2(18)  no
+  O51  C51  O52  120.3(13)  yes
+  O51  C51  C52  120.0(14)  yes
+  O52  C51  C52  119.8(11)  yes
+  O61  C61  O62  120.6(10)  yes
+  O61  C61  C62  117.8(12)  yes
+  O62  C61  C62  121.6(10)  yes
+  C72  C71  C741  40.2(10)  no
+  C72  C71  C751  33(2)  no
+  C741  C71  C751  72(2)  no
+  C71  C72  C73  115.9(16)  no
+  C71  C72  C77  124.1(15)  no
+  C71  C72  C731  130.0(15)  no
+  C71  C72  C741  67.7(15)  no
+  C71  C72  C751  25.8(15)  no
+  C71  C72  C761  93.1(15)  no
+  C73  C72  C77  120.0(13)  no
+  C73  C72  C731  114.1(13)  no
+  C73  C72  C741  176(2)  no
+  C73  C72  C751  90.4(18)  no
+  C73  C72  C761  23.0(10)  no
+  C77  C72  C731  6.2(9)  no
+  C77  C72  C741  56.4(15)  no
+  C77  C72  C751  149.2(18)  no
+  C77  C72  C761  142.7(14)  no
+  C731  C72  C741  62.3(15)  no
+  C731  C72  C751  155.3(18)  no
+  C731  C72  C761  136.9(13)  no
+  C741  C72  C751  93.2(18)  no
+  C741  C72  C761  160.4(18)  no
+  C751  C72  C761  67.4(17)  no
+  C72  C73  C74  119.9(15)  no
+  C72  C73  C751  33.5(11)  no
+  C72  C73  C761  85(2)  no
+  C72  C73  C771  111(2)  no
+  C74  C73  C751  153.2(16)  no
+  C74  C73  C761  154(3)  no
+  C74  C73  C771  8.8(14)  no
+  C751  C73  C761  51(2)  no
+  C751  C73  C771  144(2)  no
+  C761  C73  C771  161(3)  no
+  C73  C74  C75  120.0(13)  no
+  C73  C74  C721  82.2(12)  no
+  C73  C74  C771  13(2)  no
+  C75  C74  C721  37.8(9)  no
+  C75  C74  C771  108(3)  no
+  C721  C74  C771  70(2)  no
+  C74  C75  C76  120.0(14)  no
+  C74  C75  C711  172(2)  no
+  C74  C75  C721  76.2(18)  no
+  C74  C75  C771  19.4(8)  no
+  C76  C75  C711  67(2)  no
+  C76  C75  C721  43.8(16)  no
+  C76  C75  C771  100.7(12)  no
+  C711  C75  C721  110(3)  no
+  C711  C75  C771  167(2)  no
+  C721  C75  C771  57.0(16)  no
+  C75  C76  C77  120.0(17)  no
+  C75  C76  C711  35.8(16)  no
+  C75  C76  C721  42.1(14)  no
+  C75  C76  C731  122.0(19)  no
+  C77  C76  C711  156(2)  no
+  C77  C76  C721  78.0(16)  no
+  C77  C76  C731  2.9(11)  no
+  C711  C76  C721  77.6(19)  no
+  C711  C76  C731  157(2)  no
+  C721  C76  C731  80.0(18)  no
+  C72  C77  C76  120.0(15)  no
+  C72  C77  C721  81.6(12)  no
+  C72  C77  C731  130(7)  no
+  C72  C77  C741  44.5(11)  no
+  C76  C77  C721  38.4(11)  no
+  C76  C77  C731  16(6)  no
+  C76  C77  C741  164.5(19)  no
+  C721  C77  C731  50(6)  no
+  C721  C77  C741  126.1(17)  no
+  C731  C77  C741  168(7)  no
+  C75  C711  C76  78(2)  no
+  C75  C711  C721  37.2(15)  no
+  C76  C711  C721  40.6(13)  no
+  C74  C721  C75  66.0(17)  no
+  C74  C721  C76  159.9(19)  no
+  C74  C721  C77  136.2(15)  no
+  C74  C721  C711  98.5(15)  no
+  C74  C721  C731  142.9(16)  no
+  C74  C721  C771  22.9(9)  no
+  C75  C721  C76  94(2)  no
+  C75  C721  C77  158(2)  no
+  C75  C721  C711  32.7(18)  no
+  C75  C721  C731  151(2)  no
+  C75  C721  C771  88.8(19)  no
+  C76  C721  C77  63.6(15)  no
+  C76  C721  C711  61.8(17)  no
+  C76  C721  C731  57.0(15)  no
+  C76  C721  C771  174.5(19)  no
+  C77  C721  C711  125.3(18)  no
+  C77  C721  C731  6.9(10)  no
+  C77  C721  C771  113.2(14)  no
+  C711  C721  C731  118.6(19)  no
+  C711  C721  C771  121.4(17)  no
+  C731  C721  C771  120.0(15)  no
+  C72  C731  C76  123.8(17)  no
+  C72  C731  C77  44(6)  no
+  C72  C731  C721  80.9(13)  no
+  C72  C731  C741  39.2(10)  no
+  C76  C731  C77  161(7)  no
+  C76  C731  C721  43.1(13)  no
+  C76  C731  C741  163(2)  no
+  C77  C731  C721  123(7)  no
+  C77  C731  C741  10(6)  no
+  C721  C731  C741  120.0(17)  no
+  C71  C741  C72  72.1(16)  no
+  C71  C741  C77  151.3(17)  no
+  C71  C741  C731  150.6(16)  no
+  C71  C741  C751  30.8(10)  no
+  C72  C741  C77  79.2(15)  no
+  C72  C741  C731  78.5(14)  no
+  C72  C741  C751  41.5(13)  no
+  C77  C741  C731  1.9(10)  no
+  C77  C741  C751  120.6(15)  no
+  C731  C741  C751  120.0(14)  no
+  C71  C751  C72  122(3)  no
+  C71  C751  C73  173(2)  no
+  C71  C751  C741  77(3)  no
+  C71  C751  C761  163(3)  no
+  C72  C751  C73  56.1(13)  no
+  C72  C751  C741  45.3(14)  no
+  C72  C751  C761  74.7(15)  no
+  C73  C751  C741  101.4(13)  no
+  C73  C751  C761  18.6(10)  no
+  C741  C751  C761  120.0(16)  no
+  C72  C761  C73  73(2)  no
+  C72  C761  C751  37.9(11)  no
+  C72  C761  C771  82.2(13)  no
+  C73  C761  C751  110(3)  no
+  C73  C761  C771  11.5(19)  no
+  C751  C761  C771  120.0(18)  no
+  C73  C771  C74  158(4)  no
+  C73  C771  C75  148(2)  no
+  C73  C771  C721  114(2)  no
+  C73  C771  C761  7.8(13)  no
+  C74  C771  C75  53(2)  no
+  C74  C771  C721  87(3)  no
+  C74  C771  C761  153(3)  no
+  C75  C771  C721  34.3(9)  no
+  C75  C771  C761  154.2(15)  no
+  C721  C771  C761  120.0(15)  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  La1  O52  2.478(9)  yes
+  La1  O61  2.498(10)  yes
+  La1  O62  2.757(7)  yes
+  La1  C11  2.739(15)  yes
+  La1  C12  2.826(13)  yes
+  La1  C13  2.837(13)  yes
+  La1  C14  2.816(16)  yes
+  La1  C15  2.847(15)  yes
+  La1  C21  2.811(13)  yes
+  La1  C22  2.850(14)  yes
+  La1  C23  2.825(14)  yes
+  La1  C24  2.883(15)  yes
+  La1  C25  2.838(13)  yes
+  La2  O51  2.547(10)  yes
+  La2  O52  2.744(8)  yes
+  La2  O62  2.503(9)  yes
+  La2  C31  2.722(16)  yes
+  La2  C32  2.726(17)  yes
+  La2  C33  2.802(13)  yes
+  La2  C34  2.752(16)  yes
+  La2  C35  2.764(15)  yes
+  La2  C41  2.856(17)  yes
+  La2  C42  2.779(16)  yes
+  La2  C43  2.818(14)  yes
+  La2  C44  2.832(15)  yes
+  La2  C45  2.788(18)  yes
+  O51  C51  1.246(16)  yes
+  O52  C51  1.287(19)  yes
+  O61  C61  1.250(14)  yes
+  O62  C61  1.255(16)  yes
+  C11  C12  1.46(2)  no
+  C11  C15  1.44(2)  no
+  C12  C13  1.37(2)  no
+  C12  C16  1.49(2)  no
+  C13  C14  1.40(2)  no
+  C13  C17  1.548(17)  no
+  C14  C15  1.55(2)  no
+  C14  C18  1.41(3)  no
+  C15  C19  1.43(2)  no
+  C21  C22  1.453(19)  no
+  C21  C25  1.45(2)  no
+  C22  C23  1.46(2)  no
+  C22  C26  1.44(2)  no
+  C23  C24  1.44(3)  no
+  C23  C27  1.46(2)  no
+  C24  C25  1.440(18)  no
+  C24  C28  1.48(2)  no
+  C25  C29  1.54(2)  no
+  C31  C32  1.36(2)  no
+  C31  C35  1.38(3)  no
+  C32  C33  1.36(2)  no
+  C32  C36  1.65(3)  no
+  C33  C34  1.32(2)  no
+  C33  C37  1.539(18)  no
+  C34  C35  1.48(2)  no
+  C34  C38  1.50(2)  no
+  C35  C39  1.47(2)  no
+  C41  C42  1.35(2)  no
+  C41  C45  1.41(3)  no
+  C42  C43  1.44(2)  no
+  C42  C46  1.67(3)  no
+  C43  C44  1.42(2)  no
+  C43  C47  1.493(19)  no
+  C44  C45  1.27(2)  no
+  C44  C48  1.62(2)  no
+  C45  C49  1.58(3)  no
+  C51  C52  1.498(18)  no
+  C61  C62  1.503(17)  no
+  C71  C72  1.46(2)  no
+  C71  C741  1.42(3)  no
+  C71  C751  0.75(2)  no
+  C72  C73  1.39(2)  no
+  C72  C77  1.39(2)  no
+  C72  C731  1.54(2)  no
+  C72  C741  0.99(2)  no
+  C72  C751  0.92(3)  no
+  C72  C761  1.45(3)  no
+  C73  C74  1.39(2)  no
+  C73  C751  1.68(2)  no
+  C73  C761  0.57(2)  no
+  C73  C771  0.84(2)  no
+  C74  C75  1.39(3)  no
+  C74  C771  0.58(2)  no
+  C74  C721  1.48(2)  no
+  C75  C771  1.66(3)  no
+  C75  C76  1.39(2)  no
+  C75  C721  0.93(2)  no
+  C75  C711  0.83(4)  no
+  C76  C77  1.39(2)  no
+  C76  C731  1.18(2)  no
+  C76  C711  1.31(3)  no
+  C76  C721  0.97(3)  no
+  C77  C721  1.52(2)  no
+  C77  C731  0.22(2)  no
+  C77  C741  1.18(2)  no
+  C711  C721  1.45(3)  no
+  C721  C771  1.39(3)  no
+  C721  C731  1.39(2)  no
+  C731  C741  1.39(2)  no
+  C741  C751  1.39(3)  no
+  C751  C761  1.39(2)  no
+  C761  C771  1.39(2)  no
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_publ_flag
+  O61  La1  O52  La2  3.9(8)  no
+  O61  La1  O52  C51  -171(3)  no
+  O62  La1  O52  La2  1.7(5)  no
+  O62  La1  O52  C51  -173(4)  no
+  C11  La1  O52  La2  -93.7(6)  no
+  C11  La1  O52  C51  91(3)  no
+  C12  La1  O52  La2  -123.9(6)  no
+  C12  La1  O52  C51  61(3)  no
+  C13  La1  O52  La2  -137.1(5)  no
+  C13  La1  O52  C51  48(4)  no
+  C14  La1  O52  La2  -117.1(6)  no
+  C14  La1  O52  C51  68(4)  no
+  C15  La1  O52  La2  -83.9(7)  no
+  C15  La1  O52  C51  101(3)  no
+  C21  La1  O52  La2  131.9(5)  no
+  C21  La1  O52  C51  -43(4)  no
+  C22  La1  O52  La2  95.7(6)  no
+  C22  La1  O52  C51  -79(3)  no
+  C23  La1  O52  La2  84.3(6)  no
+  C23  La1  O52  C51  -91(3)  no
+  C24  La1  O52  La2  105.9(6)  no
+  C24  La1  O52  C51  -69(3)  no
+  C25  La1  O52  La2  131.8(6)  no
+  C25  La1  O52  C51  -43(3)  no
+  O52  La1  O61  C61  -6.9(13)  no
+  O62  La1  O61  C61  -4.2(10)  no
+  C11  La1  O61  C61  85.8(12)  no
+  C12  La1  O61  C61  98.7(11)  no
+  C13  La1  O61  C61  131.0(11)  no
+  C14  La1  O61  C61  135.9(12)  no
+  C15  La1  O61  C61  107.4(12)  no
+  C21  La1  O61  C61  -144.2(11)  no
+  C22  La1  O61  C61  -131.9(12)  no
+  C23  La1  O61  C61  -101.3(12)  no
+  C24  La1  O61  C61  -92.8(12)  no
+  C25  La1  O61  C61  -119.1(11)  no
+  O52  La1  O62  La2  -1.9(5)  no
+  O52  La1  O62  C61  -178.5(12)  no
+  O61  La1  O62  La2  -179.3(9)  no
+  O61  La1  O62  C61  4.1(10)  no
+  C11  La1  O62  La2  85.4(6)  no
+  C11  La1  O62  C61  -91.2(11)  no
+  C12  La1  O62  La2  69.6(7)  no
+  C12  La1  O62  C61  -107.1(10)  no
+  C13  La1  O62  La2  94.9(8)  no
+  C13  La1  O62  C61  -81.7(12)  no
+  C14  La1  O62  La2  128.6(6)  no
+  C14  La1  O62  C61  -48.1(12)  no
+  C15  La1  O62  La2  115.3(6)  no
+  C15  La1  O62  C61  -61.3(11)  no
+  C21  La1  O62  La2  -116.7(6)  no
+  C21  La1  O62  C61  66.7(12)  no
+  C22  La1  O62  La2  -126.1(5)  no
+  C22  La1  O62  C61  57.3(11)  no
+  C23  La1  O62  La2  -103.4(6)  no
+  C23  La1  O62  C61  80.0(11)  no
+  C24  La1  O62  La2  -76.8(6)  no
+  C24  La1  O62  C61  106.6(11)  no
+  C25  La1  O62  La2  -77.7(7)  no
+  C25  La1  O62  C61  105.6(11)  no
+  O52  La1  C11  C12  -85.0(9)  no
+  O52  La1  C11  C15  162.3(8)  no
+  O61  La1  C11  C12  158.8(9)  no
+  O61  La1  C11  C15  46.1(8)  no
+  O62  La1  C11  C12  -152.4(9)  no
+  O62  La1  C11  C15  95.0(8)  no
+  C12  La1  C11  C15  -112.7(12)  no
+  C13  La1  C11  C12  35.5(9)  no
+  C13  La1  C11  C15  -77.2(9)  no
+  C14  La1  C11  C12  73.7(9)  no
+  C14  La1  C11  C15  -39.0(8)  no
+  C15  La1  C11  C12  112.7(12)  no
+  C21  La1  C11  C12  46.9(11)  no
+  C21  La1  C11  C15  -65.8(10)  no
+  C22  La1  C11  C12  82.7(12)  no
+  C22  La1  C11  C15  -29.9(12)  no
+  C24  La1  C11  C12  -24.8(17)  no
+  C24  La1  C11  C15  -137.5(12)  no
+  C25  La1  C11  C12  9.0(13)  no
+  C25  La1  C11  C15  -103.7(9)  no
+  O52  La1  C12  C11  94.0(9)  no
+  O52  La1  C12  C13  -153.0(9)  no
+  O52  La1  C12  C16  -27.6(9)  no
+  O61  La1  C12  C11  -26.0(11)  no
+  O61  La1  C12  C13  87.1(9)  no
+  O61  La1  C12  C16  -147.6(8)  no
+  O62  La1  C12  C11  32.7(10)  no
+  O62  La1  C12  C13  145.7(8)  no
+  O62  La1  C12  C16  -88.9(9)  no
+  C11  La1  C12  C13  113.0(14)  no
+  C11  La1  C12  C16  -121.6(14)  no
+  C13  La1  C12  C11  -113.0(14)  no
+  C13  La1  C12  C16  125.4(14)  no
+  C14  La1  C12  C11  -79.6(10)  no
+  C14  La1  C12  C13  33.4(9)  no
+  C14  La1  C12  C16  158.8(11)  no
+  C15  La1  C12  C11  -37.2(9)  no
+  C15  La1  C12  C13  75.8(10)  no
+  C15  La1  C12  C16  -158.8(11)  no
+  C21  La1  C12  C11  -142.8(9)  no
+  C21  La1  C12  C13  -29.8(10)  no
+  C21  La1  C12  C16  95.6(10)  no
+  C22  La1  C12  C11  -127.6(9)  no
+  C22  La1  C12  C13  -14.6(11)  no
+  C22  La1  C12  C16  110.8(10)  no
+  C23  La1  C12  C11  -162.1(11)  no
+  C23  La1  C12  C13  -49.1(15)  no
+  C23  La1  C12  C16  76.3(14)  no
+  C24  La1  C12  C11  168.2(9)  no
+  C24  La1  C12  C13  -78.8(11)  no
+  C24  La1  C12  C16  46.6(11)  no
+  C25  La1  C12  C11  -173.4(9)  no
+  C25  La1  C12  C13  -60.4(10)  no
+  C25  La1  C12  C16  65.0(10)  no
+  O52  La1  C13  C12  29.2(10)  no
+  O52  La1  C13  C14  149.8(9)  no
+  O52  La1  C13  C17  -100.6(12)  no
+  O61  La1  C13  C12  -110.5(9)  no
+  O61  La1  C13  C14  10.1(10)  no
+  O61  La1  C13  C17  119.8(12)  no
+  O62  La1  C13  C12  -51.6(12)  no
+  O62  La1  C13  C14  69.1(11)  no
+  O62  La1  C13  C17  178.7(9)  no
+  C11  La1  C13  C12  -38.7(9)  no
+  C11  La1  C13  C14  81.9(10)  no
+  C11  La1  C13  C17  -168.5(16)  no
+  C12  La1  C13  C14  120.6(13)  no
+  C12  La1  C13  C17  -129.8(18)  no
+  C14  La1  C13  C12  -120.6(13)  no
+  C14  La1  C13  C17  109.6(16)  no
+  C15  La1  C13  C12  -79.1(9)  no
+  C15  La1  C13  C14  41.5(9)  no
+  C15  La1  C13  C17  151.1(15)  no
+  C21  La1  C13  C12  150.6(10)  no
+  C21  La1  C13  C14  -88.8(9)  no
+  C21  La1  C13  C17  20.8(12)  no
+  C22  La1  C13  C12  168.6(9)  no
+  C22  La1  C13  C14  -70.7(9)  no
+  C22  La1  C13  C17  38.9(13)  no
+  C23  La1  C13  C12  152.2(9)  no
+  C23  La1  C13  C14  -87.2(10)  no
+  C23  La1  C13  C17  22.5(15)  no
+  C24  La1  C13  C12  119.1(9)  no
+  C24  La1  C13  C14  -120.3(9)  no
+  C24  La1  C13  C17  -10.6(14)  no
+  C25  La1  C13  C12  122.7(9)  no
+  C25  La1  C13  C14  -116.7(9)  no
+  C25  La1  C13  C17  -7.1(12)  no
+  O52  La1  C14  C13  -41.6(11)  no
+  O52  La1  C14  C15  67.6(11)  no
+  O52  La1  C14  C18  -176.9(11)  no
+  O61  La1  C14  C13  -171.2(9)  no
+  O61  La1  C14  C15  -62.1(9)  no
+  O61  La1  C14  C18  53.5(13)  no
+  O62  La1  C14  C13  -134.8(8)  no
+  O62  La1  C14  C15  -25.7(11)  no
+  O62  La1  C14  C18  89.9(13)  no
+  C11  La1  C14  C13  -72.6(10)  no
+  C11  La1  C14  C15  36.5(9)  no
+  C11  La1  C14  C18  152.1(16)  no
+  C12  La1  C14  C13  -32.4(8)  no
+  C12  La1  C14  C15  76.7(9)  no
+  C12  La1  C14  C18  -167.8(16)  no
+  C13  La1  C14  C15  109.1(13)  no
+  C13  La1  C14  C18  -135.3(18)  no
+  C15  La1  C14  C13  -109.1(13)  no
+  C15  La1  C14  C18  115.6(17)  no
+  C21  La1  C14  C13  85.8(9)  no
+  C21  La1  C14  C15  -165.1(10)  no
+  C21  La1  C14  C18  -49.6(13)  no
+  C22  La1  C14  C13  112.9(9)  no
+  C22  La1  C14  C15  -138.0(9)  no
+  C22  La1  C14  C18  -22.4(13)  no
+  C23  La1  C14  C13  113.4(9)  no
+  C23  La1  C14  C15  -137.5(9)  no
+  C23  La1  C14  C18  -22.0(15)  no
+  C24  La1  C14  C13  78.4(10)  no
+  C24  La1  C14  C15  -172.5(8)  no
+  C24  La1  C14  C18  -57.0(15)  no
+  C25  La1  C14  C13  66.1(9)  no
+  C25  La1  C14  C15  175.2(9)  no
+  C25  La1  C14  C18  -69.2(14)  no
+  O52  La1  C15  C11  -20.0(9)  no
+  O52  La1  C15  C14  -132.7(9)  no
+  O52  La1  C15  C19  101.4(12)  no
+  O61  La1  C15  C11  -132.6(8)  no
+  O61  La1  C15  C14  114.7(9)  no
+  O61  La1  C15  C19  -11.2(12)  no
+  O62  La1  C15  C11  -88.1(8)  no
+  O62  La1  C15  C14  159.3(9)  no
+  O62  La1  C15  C19  33.4(12)  no
+  C11  La1  C15  C14  -112.7(13)  no
+  C11  La1  C15  C19  121.4(15)  no
+  C12  La1  C15  C11  37.9(8)  no
+  C12  La1  C15  C14  -74.8(9)  no
+  C12  La1  C15  C19  159.3(14)  no
+  C13  La1  C15  C11  75.3(9)  no
+  C13  La1  C15  C14  -37.4(9)  no
+  C13  La1  C15  C19  -163.3(15)  no
+  C14  La1  C15  C11  112.7(13)  no
+  C14  La1  C15  C19  -125.9(17)  no
+  C21  La1  C15  C11  128.4(8)  no
+  C21  La1  C15  C14  15.7(10)  no
+  C21  La1  C15  C19  -110.2(12)  no
+  C22  La1  C15  C11  160.3(8)  no
+  C22  La1  C15  C14  47.6(10)  no
+  C22  La1  C15  C19  -78.3(12)  no
+  C23  La1  C15  C11  178.9(8)  no
+  C23  La1  C15  C14  66.2(11)  no
+  C23  La1  C15  C19  -59.7(14)  no
+  C25  La1  C15  C11  106.2(9)  no
+  C25  La1  C15  C14  -6.5(12)  no
+  C25  La1  C15  C19  -132.4(11)  no
+  O52  La1  C21  C22  -108.7(9)  no
+  O52  La1  C21  C25  -0.2(9)  no
+  O61  La1  C21  C22  24.7(9)  no
+  O61  La1  C21  C25  133.2(8)  no
+  O62  La1  C21  C22  -18.4(11)  no
+  O62  La1  C21  C25  90.1(9)  no
+  C11  La1  C21  C22  133.8(9)  no
+  C11  La1  C21  C25  -117.6(8)  no
+  C12  La1  C21  C22  156.1(8)  no
+  C12  La1  C21  C25  -95.4(8)  no
+  C13  La1  C21  C22  142.4(9)  no
+  C13  La1  C21  C25  -109.1(8)  no
+  C14  La1  C21  C22  113.2(9)  no
+  C14  La1  C21  C25  -138.3(8)  no
+  C15  La1  C21  C22  104.9(8)  no
+  C15  La1  C21  C25  -146.6(8)  no
+  C22  La1  C21  C25  108.5(11)  no
+  C23  La1  C21  C22  -35.9(8)  no
+  C23  La1  C21  C25  72.6(9)  no
+  C24  La1  C21  C22  -74.3(9)  no
+  C24  La1  C21  C25  34.2(8)  no
+  C25  La1  C21  C22  -108.5(11)  no
+  O52  La1  C22  C21  92.6(8)  no
+  O52  La1  C22  C23  -23.2(10)  no
+  O52  La1  C22  C26  -140.8(8)  no
+  O61  La1  C22  C21  -155.2(9)  no
+  O61  La1  C22  C23  89.0(9)  no
+  O61  La1  C22  C26  -28.6(9)  no
+  O62  La1  C22  C21  166.6(8)  no
+  O62  La1  C22  C23  50.8(9)  no
+  O62  La1  C22  C26  -66.8(9)  no
+  C11  La1  C22  C21  -71.9(11)  no
+  C11  La1  C22  C23  172.3(9)  no
+  C11  La1  C22  C26  54.7(12)  no
+  C12  La1  C22  C21  -31.0(10)  no
+  C12  La1  C22  C23  -146.8(9)  no
+  C12  La1  C22  C26  95.6(10)  no
+  C13  La1  C22  C21  -37.9(9)  no
+  C13  La1  C22  C23  -153.7(9)  no
+  C13  La1  C22  C26  88.7(9)  no
+  C14  La1  C22  C21  -65.0(9)  no
+  C14  La1  C22  C23  179.3(9)  no
+  C14  La1  C22  C26  61.6(9)  no
+  C15  La1  C22  C21  -87.8(9)  no
+  C15  La1  C22  C23  156.4(8)  no
+  C15  La1  C22  C26  38.8(10)  no
+  C21  La1  C22  C23  -115.8(13)  no
+  C21  La1  C22  C26  126.6(13)  no
+  C23  La1  C22  C21  115.8(13)  no
+  C23  La1  C22  C26  -117.6(13)  no
+  C24  La1  C22  C21  79.2(9)  no
+  C24  La1  C22  C23  -36.6(8)  no
+  C24  La1  C22  C26  -154.2(11)  no
+  C25  La1  C22  C21  39.6(8)  no
+  C25  La1  C22  C23  -76.2(9)  no
+  C25  La1  C22  C26  166.2(11)  no
+  O52  La1  C23  C22  161.5(8)  no
+  O52  La1  C23  C24  48.1(8)  no
+  O52  La1  C23  C27  -74.0(13)  no
+  O61  La1  C23  C22  -83.7(9)  no
+  O61  La1  C23  C24  163.0(9)  no
+  O61  La1  C23  C27  40.8(13)  no
+  O62  La1  C23  C22  -131.9(8)  no
+  O62  La1  C23  C24  114.8(8)  no
+  O62  La1  C23  C27  -7.4(13)  no
+  C12  La1  C23  C22  60.7(14)  no
+  C12  La1  C23  C24  -52.6(14)  no
+  C12  La1  C23  C27  -174.7(11)  no
+  C13  La1  C23  C22  33.7(11)  no
+  C13  La1  C23  C24  -79.7(10)  no
+  C13  La1  C23  C27  158.2(12)  no
+  C14  La1  C23  C22  -0.9(11)  no
+  C14  La1  C23  C24  -114.2(9)  no
+  C14  La1  C23  C27  123.7(13)  no
+  C15  La1  C23  C22  -35.4(12)  no
+  C15  La1  C23  C24  -148.8(8)  no
+  C15  La1  C23  C27  89.1(14)  no
+  C21  La1  C23  C22  35.8(8)  no
+  C21  La1  C23  C24  -77.5(9)  no
+  C21  La1  C23  C27  160.4(16)  no
+  C22  La1  C23  C24  -113.4(12)  no
+  C22  La1  C23  C27  124.5(18)  no
+  C24  La1  C23  C22  113.4(12)  no
+  C24  La1  C23  C27  -122.1(17)  no
+  C25  La1  C23  C22  75.6(9)  no
+  C25  La1  C23  C24  -37.8(8)  no
+  C25  La1  C23  C27  -159.9(16)  no
+  O52  La1  C24  C23  -131.7(8)  no
+  O52  La1  C24  C25  116.4(10)  no
+  O52  La1  C24  C28  -6.3(11)  no
+  O61  La1  C24  C23  -17.3(9)  no
+  O61  La1  C24  C25  -129.1(10)  no
+  O61  La1  C24  C28  108.2(12)  no
+  O62  La1  C24  C23  -66.6(8)  no
+  O62  La1  C24  C25  -178.5(10)  no
+  O62  La1  C24  C28  58.8(12)  no
+  C11  La1  C24  C23  166.5(11)  no
+  C11  La1  C24  C25  54.6(17)  no
+  C11  La1  C24  C28  -68.1(16)  no
+  C12  La1  C24  C23  150.8(8)  no
+  C12  La1  C24  C25  38.9(12)  no
+  C12  La1  C24  C28  -83.8(12)  no
+  C13  La1  C24  C23  119.2(9)  no
+  C13  La1  C24  C25  7.3(12)  no
+  C13  La1  C24  C28  -115.4(11)  no
+  C14  La1  C24  C23  86.7(10)  no
+  C14  La1  C24  C25  -25.2(13)  no
+  C14  La1  C24  C28  -147.9(10)  no
+  C21  La1  C24  C23  77.1(9)  no
+  C21  La1  C24  C25  -34.8(9)  no
+  C21  La1  C24  C28  -157.5(14)  no
+  C22  La1  C24  C23  37.5(8)  no
+  C22  La1  C24  C25  -74.4(10)  no
+  C22  La1  C24  C28  162.9(14)  no
+  C23  La1  C24  C25  -111.9(14)  no
+  C23  La1  C24  C28  125.4(15)  no
+  C25  La1  C24  C23  111.9(14)  no
+  C25  La1  C24  C28  -122.7(18)  no
+  O52  La1  C25  C21  179.8(8)  no
+  O52  La1  C25  C24  -62.0(11)  no
+  O52  La1  C25  C29  56.9(10)  no
+  O61  La1  C25  C21  -56.6(8)  no
+  O61  La1  C25  C24  61.6(11)  no
+  O61  La1  C25  C29  -179.5(9)  no
+  O62  La1  C25  C21  -116.3(7)  no
+  O62  La1  C25  C24  1.9(12)  no
+  O62  La1  C25  C29  120.8(9)  no
+  C11  La1  C25  C21  87.5(10)  no
+  C11  La1  C25  C24  -154.3(10)  no
+  C11  La1  C25  C29  -35.4(13)  no
+  C12  La1  C25  C21  92.2(8)  no
+  C12  La1  C25  C24  -149.6(10)  no
+  C12  La1  C25  C29  -30.7(11)  no
+  C13  La1  C25  C21  68.2(8)  no
+  C13  La1  C25  C24  -173.6(11)  no
+  C13  La1  C25  C29  -54.7(10)  no
+  C14  La1  C25  C21  42.1(9)  no
+  C14  La1  C25  C24  160.3(10)  no
+  C14  La1  C25  C29  -80.8(11)  no
+  C15  La1  C25  C21  45.6(10)  no
+  C15  La1  C25  C24  163.8(10)  no
+  C15  La1  C25  C29  -77.3(12)  no
+  C21  La1  C25  C24  118.2(14)  no
+  C21  La1  C25  C29  -122.9(13)  no
+  C22  La1  C25  C21  -39.7(8)  no
+  C22  La1  C25  C24  78.5(11)  no
+  C22  La1  C25  C29  -162.6(12)  no
+  C23  La1  C25  C21  -80.5(9)  no
+  C23  La1  C25  C24  37.7(10)  no
+  C23  La1  C25  C29  156.6(13)  no
+  C24  La1  C25  C21  -118.2(14)  no
+  C24  La1  C25  C29  118.9(16)  no
+  O52  La2  O51  C51  2.1(11)  no
+  O62  La2  O51  C51  0.0(13)  no
+  C31  La2  O51  C51  139.0(12)  no
+  C32  La2  O51  C51  127.4(12)  no
+  C33  La2  O51  C51  98.7(12)  no
+  C34  La2  O51  C51  90.5(12)  no
+  C35  La2  O51  C51  118.4(12)  no
+  C41  La2  O51  C51  -90.8(12)  no
+  C42  La2  O51  C51  -102.1(12)  no
+  C43  La2  O51  C51  -135.6(11)  no
+  C44  La2  O51  C51  -135.2(12)  no
+  C45  La2  O51  C51  -111.4(12)  no
+  O51  La2  O52  La1  -179.9(10)  no
+  O51  La2  O52  C51  -2.0(10)  no
+  O62  La2  O52  La1  -1.9(6)  no
+  O62  La2  O52  C51  176.1(13)  no
+  C31  La2  O52  La1  112.3(7)  no
+  C31  La2  O52  C51  -69.7(13)  no
+  C32  La2  O52  La1  123.3(7)  no
+  C32  La2  O52  C51  -58.8(12)  no
+  C33  La2  O52  La1  100.5(7)  no
+  C33  La2  O52  C51  -81.5(12)  no
+  C34  La2  O52  La1  75.2(7)  no
+  C34  La2  O52  C51  -106.8(11)  no
+  C35  La2  O52  La1  72.4(9)  no
+  C35  La2  O52  C51  -109.6(12)  no
+  C41  La2  O52  La1  -87.7(7)  no
+  C41  La2  O52  C51  90.3(12)  no
+  C42  La2  O52  La1  -73.2(8)  no
+  C42  La2  O52  C51  104.8(12)  no
+  C43  La2  O52  La1  -100.2(8)  no
+  C43  La2  O52  C51  77.8(13)  no
+  C44  La2  O52  La1  -127.7(6)  no
+  C44  La2  O52  C51  50.2(13)  no
+  C45  La2  O52  La1  -116.6(7)  no
+  C45  La2  O52  C51  61.4(12)  no
+  O51  La2  O62  La1  3.3(7)  no
+  O51  La2  O62  C61  174(3)  no
+  O52  La2  O62  La1  1.7(5)  no
+  O52  La2  O62  C61  172(3)  no
+  C31  La2  O62  La1  -127.9(5)  no
+  C31  La2  O62  C61  43(3)  no
+  C32  La2  O62  La1  -92.9(6)  no
+  C32  La2  O62  C61  78(3)  no
+  C33  La2  O62  La1  -83.1(5)  no
+  C33  La2  O62  C61  87(3)  no
+  C34  La2  O62  La1  -103.3(6)  no
+  C34  La2  O62  C61  67(3)  no
+  C35  La2  O62  La1  -132.2(5)  no
+  C35  La2  O62  C61  38(3)  no
+  C41  La2  O62  La1  98.6(6)  no
+  C41  La2  O62  C61  -91(3)  no
+  C42  La2  O62  La1  126.2(6)  no
+  C42  La2  O62  C61  -63(3)  no
+  C43  La2  O62  La1  140.3(5)  no
+  C43  La2  O62  C61  -49(3)  no
+  C44  La2  O62  La1  113.7(5)  no
+  C44  La2  O62  C61  -76(3)  no
+  C45  La2  O62  La1  88.6(6)  no
+  C45  La2  O62  C61  -101(3)  no
+  O51  La2  C31  C32  -24.1(12)  no
+  O51  La2  C31  C35  -144.7(9)  no
+  O52  La2  C31  C32  22.1(14)  no
+  O52  La2  C31  C35  -98.5(10)  no
+  O62  La2  C31  C32  111.6(11)  no
+  O62  La2  C31  C35  -9.0(11)  no
+  C32  La2  C31  C35  -120.6(15)  no
+  C33  La2  C31  C32  38.5(10)  no
+  C33  La2  C31  C35  -82.1(11)  no
+  C34  La2  C31  C32  77.0(11)  no
+  C34  La2  C31  C35  -43.6(9)  no
+  C35  La2  C31  C32  120.6(15)  no
+  C41  La2  C31  C32  -132.9(11)  no
+  C41  La2  C31  C35  106.5(10)  no
+  C42  La2  C31  C32  -153.0(11)  no
+  C42  La2  C31  C35  86.4(10)  no
+  C43  La2  C31  C32  -138.2(12)  no
+  C43  La2  C31  C35  101.2(10)  no
+  C44  La2  C31  C32  -109.8(11)  no
+  C44  La2  C31  C35  129.6(9)  no
+  C45  La2  C31  C32  -103.9(11)  no
+  C45  La2  C31  C35  135.5(9)  no
+  O51  La2  C32  C31  156.2(11)  no
+  O51  La2  C32  C33  -94.1(10)  no
+  O51  La2  C32  C36  33.8(10)  no
+  O52  La2  C32  C31  -163.7(10)  no
+  O52  La2  C32  C33  -54.1(11)  no
+  O52  La2  C32  C36  73.8(11)  no
+  O62  La2  C32  C31  -89.2(11)  no
+  O62  La2  C32  C33  20.5(12)  no
+  O62  La2  C32  C36  148.4(9)  no
+  C31  La2  C32  C33  109.7(16)  no
+  C31  La2  C32  C36  -122.4(16)  no
+  C33  La2  C32  C31  -109.7(16)  no
+  C33  La2  C32  C36  127.9(16)  no
+  C34  La2  C32  C31  -75.0(12)  no
+  C34  La2  C32  C33  34.7(9)  no
+  C34  La2  C32  C36  162.6(13)  no
+  C35  La2  C32  C31  -33.2(10)  no
+  C35  La2  C32  C33  76.5(11)  no
+  C35  La2  C32  C36  -155.6(13)  no
+  C41  La2  C32  C31  71.9(14)  no
+  C41  La2  C32  C33  -178.4(9)  no
+  C41  La2  C32  C36  -50.5(14)  no
+  C42  La2  C32  C31  35.1(14)  no
+  C42  La2  C32  C33  144.8(10)  no
+  C42  La2  C32  C36  -87.4(12)  no
+  C43  La2  C32  C31  41.9(12)  no
+  C43  La2  C32  C33  151.6(10)  no
+  C43  La2  C32  C36  -80.5(11)  no
+  C44  La2  C32  C31  71.0(11)  no
+  C44  La2  C32  C33  -179.3(10)  no
+  C44  La2  C32  C36  -51.4(11)  no
+  C45  La2  C32  C31  89.3(12)  no
+  C45  La2  C32  C33  -161.1(9)  no
+  C45  La2  C32  C36  -33.2(12)  no
+  O51  La2  C33  C32  80.9(10)  no
+  O51  La2  C33  C34  -163.1(9)  no
+  O51  La2  C33  C37  -39.4(13)  no
+  O52  La2  C33  C32  129.4(10)  no
+  O52  La2  C33  C34  -114.6(9)  no
+  O52  La2  C33  C37  9.0(13)  no
+  O62  La2  C33  C32  -163.8(10)  no
+  O62  La2  C33  C34  -47.8(9)  no
+  O62  La2  C33  C37  75.9(13)  no
+  C31  La2  C33  C32  -39.0(10)  no
+  C31  La2  C33  C34  77.0(10)  no
+  C31  La2  C33  C37  -159.3(16)  no
+  C32  La2  C33  C34  116.0(13)  no
+  C32  La2  C33  C37  -120.3(18)  no
+  C34  La2  C33  C32  -116.0(13)  no
+  C34  La2  C33  C37  123.7(17)  no
+  C35  La2  C33  C32  -78.4(10)  no
+  C35  La2  C33  C34  37.6(9)  no
+  C35  La2  C33  C37  161.3(16)  no
+  C42  La2  C33  C32  -61.6(16)  no
+  C42  La2  C33  C34  54.4(15)  no
+  C42  La2  C33  C37  178.1(12)  no
+  C43  La2  C33  C32  -35.0(12)  no
+  C43  La2  C33  C34  81.0(10)  no
+  C43  La2  C33  C37  -155.4(12)  no
+  C44  La2  C33  C32  0.9(12)  no
+  C44  La2  C33  C34  116.9(9)  no
+  C44  La2  C33  C37  -119.5(12)  no
+  C45  La2  C33  C32  28.5(13)  no
+  C45  La2  C33  C34  144.5(9)  no
+  C45  La2  C33  C37  -91.8(14)  no
+  O51  La2  C34  C33  17.7(9)  no
+  O51  La2  C34  C35  134.0(9)  no
+  O51  La2  C34  C38  -107.6(11)  no
+  O52  La2  C34  C33  67.7(9)  no
+  O52  La2  C34  C35  -175.9(9)  no
+  O52  La2  C34  C38  -57.6(12)  no
+  O62  La2  C34  C33  132.9(9)  no
+  O62  La2  C34  C35  -110.7(10)  no
+  O62  La2  C34  C38  7.6(11)  no
+  C31  La2  C34  C33  -75.9(10)  no
+  C31  La2  C34  C35  40.5(10)  no
+  C31  La2  C34  C38  158.8(15)  no
+  C32  La2  C34  C33  -35.9(9)  no
+  C32  La2  C34  C35  80.5(10)  no
+  C32  La2  C34  C38  -161.2(14)  no
+  C33  La2  C34  C35  116.4(14)  no
+  C33  La2  C34  C38  -125.3(16)  no
+  C35  La2  C34  C33  -116.4(14)  no
+  C35  La2  C34  C38  118.3(17)  no
+  C41  La2  C34  C33  -159.0(11)  no
+  C41  La2  C34  C35  -42.6(17)  no
+  C41  La2  C34  C38  75.7(16)  no
+  C42  La2  C34  C33  -148.3(9)  no
+  C42  La2  C34  C35  -31.9(12)  no
+  C42  La2  C34  C38  86.4(12)  no
+  C43  La2  C34  C33  -115.5(9)  no
+  C43  La2  C34  C35  0.9(11)  no
+  C43  La2  C34  C38  119.2(11)  no
+  C44  La2  C34  C33  -85.1(10)  no
+  C44  La2  C34  C35  31.2(12)  no
+  C44  La2  C34  C38  149.6(10)  no
+  C45  La2  C34  C33  -78.1(17)  no
+  C45  La2  C34  C35  38.2(19)  no
+  C45  La2  C34  C38  156.6(13)  no
+  O51  La2  C35  C31  44.7(11)  no
+  O51  La2  C35  C34  -59.4(11)  no
+  O51  La2  C35  C39  169.5(10)  no
+  O52  La2  C35  C31  109.4(9)  no
+  O52  La2  C35  C34  5.4(12)  no
+  O52  La2  C35  C39  -125.8(11)  no
+  O62  La2  C35  C31  172.4(9)  no
+  O62  La2  C35  C34  68.4(10)  no
+  O62  La2  C35  C39  -62.8(12)  no
+  C31  La2  C35  C34  -104.0(14)  no
+  C31  La2  C35  C39  124.9(16)  no
+  C32  La2  C35  C31  33.0(9)  no
+  C32  La2  C35  C34  -71.0(10)  no
+  C32  La2  C35  C39  157.8(15)  no
+  C33  La2  C35  C31  70.8(10)  no
+  C33  La2  C35  C34  -33.2(9)  no
+  C33  La2  C35  C39  -164.3(15)  no
+  C34  La2  C35  C31  104.0(14)  no
+  C34  La2  C35  C39  -131.1(18)  no
+  C41  La2  C35  C31  -96.6(11)  no
+  C41  La2  C35  C34  159.4(9)  no
+  C41  La2  C35  C39  28.3(15)  no
+  C42  La2  C35  C31  -100.7(10)  no
+  C42  La2  C35  C34  155.3(10)  no
+  C42  La2  C35  C39  24.2(13)  no
+  C43  La2  C35  C31  -75.2(10)  no
+  C43  La2  C35  C34  -179.2(10)  no
+  C43  La2  C35  C39  49.7(12)  no
+  C44  La2  C35  C31  -52.8(10)  no
+  C44  La2  C35  C34  -156.8(9)  no
+  C44  La2  C35  C39  72.1(13)  no
+  C45  La2  C35  C31  -58.8(12)  no
+  C45  La2  C35  C34  -162.8(9)  no
+  C45  La2  C35  C39  66.1(15)  no
+  O51  La2  C41  C42  -158.8(12)  no
+  O51  La2  C41  C45  -44.7(9)  no
+  O52  La2  C41  C42  152.1(11)  no
+  O52  La2  C41  C45  -93.8(9)  no
+  O62  La2  C41  C42  85.0(12)  no
+  O62  La2  C41  C45  -161.0(9)  no
+  C31  La2  C41  C42  -45.5(14)  no
+  C31  La2  C41  C45  68.5(11)  no
+  C32  La2  C41  C42  -80.3(15)  no
+  C32  La2  C41  C45  33.7(13)  no
+  C34  La2  C41  C42  18.0(19)  no
+  C34  La2  C41  C45  132.1(12)  no
+  C35  La2  C41  C42  -8.7(15)  no
+  C35  La2  C41  C45  105.4(10)  no
+  C42  La2  C41  C45  114.1(15)  no
+  C43  La2  C41  C42  -38.4(11)  no
+  C43  La2  C41  C45  75.7(10)  no
+  C44  La2  C41  C42  -79.1(12)  no
+  C44  La2  C41  C45  35.0(8)  no
+  C45  La2  C41  C42  -114.1(15)  no
+  O51  La2  C42  C41  24.9(13)  no
+  O51  La2  C42  C43  -88.3(10)  no
+  O51  La2  C42  C46  153.8(10)  no
+  O52  La2  C42  C41  -32.4(13)  no
+  O52  La2  C42  C43  -145.6(9)  no
+  O52  La2  C42  C46  96.5(11)  no
+  O62  La2  C42  C41  -93.7(12)  no
+  O62  La2  C42  C43  153.2(10)  no
+  O62  La2  C42  C46  35.2(11)  no
+  C31  La2  C42  C41  143.5(12)  no
+  C31  La2  C42  C43  30.3(11)  no
+  C31  La2  C42  C46  -87.6(12)  no
+  C32  La2  C42  C41  126.8(11)  no
+  C32  La2  C42  C43  13.6(14)  no
+  C32  La2  C42  C46  -104.3(12)  no
+  C33  La2  C42  C41  160.2(11)  no
+  C33  La2  C42  C43  47.0(17)  no
+  C33  La2  C42  C46  -70.9(16)  no
+  C34  La2  C42  C41  -170.7(10)  no
+  C34  La2  C42  C43  76.1(12)  no
+  C34  La2  C42  C46  -41.8(13)  no
+  C35  La2  C42  C41  173.1(11)  no
+  C35  La2  C42  C43  60.0(11)  no
+  C35  La2  C42  C46  -58.0(12)  no
+  C41  La2  C42  C43  -113.2(17)  no
+  C41  La2  C42  C46  128.9(18)  no
+  C43  La2  C42  C41  113.2(17)  no
+  C43  La2  C42  C46  -118.0(15)  no
+  C44  La2  C42  C41  73.4(12)  no
+  C44  La2  C42  C43  -39.8(9)  no
+  C44  La2  C42  C46  -157.8(13)  no
+  C45  La2  C42  C41  37.2(11)  no
+  C45  La2  C42  C43  -76.0(11)  no
+  C45  La2  C42  C46  166.1(14)  no
+  O51  La2  C43  C42  108.0(10)  no
+  O51  La2  C43  C44  0.8(10)  no
+  O51  La2  C43  C47  -138.2(13)  no
+  O52  La2  C43  C42  52.6(13)  no
+  O52  La2  C43  C44  -54.6(12)  no
+  O52  La2  C43  C47  166.4(11)  no
+  O62  La2  C43  C42  -29.2(11)  no
+  O62  La2  C43  C44  -136.4(8)  no
+  O62  La2  C43  C47  84.6(14)  no
+  C31  La2  C43  C42  -150.3(11)  no
+  C31  La2  C43  C44  102.5(9)  no
+  C31  La2  C43  C47  -36.5(14)  no
+  C32  La2  C43  C42  -169.5(10)  no
+  C32  La2  C43  C44  83.4(9)  no
+  C32  La2  C43  C47  -55.6(15)  no
+  C33  La2  C43  C42  -153.2(10)  no
+  C33  La2  C43  C44  99.6(9)  no
+  C33  La2  C43  C47  -39.4(16)  no
+  C34  La2  C43  C42  -122.3(10)  no
+  C34  La2  C43  C44  130.5(9)  no
+  C34  La2  C43  C47  -8.5(16)  no
+  C35  La2  C43  C42  -121.9(11)  no
+  C35  La2  C43  C44  131.0(9)  no
+  C35  La2  C43  C47  -8.0(14)  no
+  C41  La2  C43  C42  35.5(10)  no
+  C41  La2  C43  C44  -71.7(10)  no
+  C41  La2  C43  C47  149.3(17)  no
+  C42  La2  C43  C44  -107.2(13)  no
+  C42  La2  C43  C47  113.8(19)  no
+  C44  La2  C43  C42  107.2(13)  no
+  C44  La2  C43  C47  -139.0(19)  no
+  C45  La2  C43  C42  75.2(11)  no
+  C45  La2  C43  C44  -32.0(9)  no
+  C45  La2  C43  C47  -171.0(17)  no
+  O51  La2  C44  C43  -179.3(9)  no
+  O51  La2  C44  C45  62.4(12)  no
+  O51  La2  C44  C48  -65.6(9)  no
+  O52  La2  C44  C43  144.1(8)  no
+  O52  La2  C44  C45  25.8(13)  no
+  O52  La2  C44  C48  -102.2(9)  no
+  O62  La2  C44  C43  58.1(10)  no
+  O62  La2  C44  C45  -60.3(13)  no
+  O62  La2  C44  C48  171.8(8)  no
+  C31  La2  C44  C43  -74.1(9)  no
+  C31  La2  C44  C45  167.6(12)  no
+  C31  La2  C44  C48  39.7(10)  no
+  C32  La2  C44  C43  -101.2(9)  no
+  C32  La2  C44  C45  140.4(12)  no
+  C32  La2  C44  C48  12.5(10)  no
+  C33  La2  C44  C43  -101.6(9)  no
+  C33  La2  C44  C45  140.0(11)  no
+  C33  La2  C44  C48  12.1(11)  no
+  C34  La2  C44  C43  -67.4(11)  no
+  C34  La2  C44  C45  174.3(11)  no
+  C34  La2  C44  C48  46.4(12)  no
+  C35  La2  C44  C43  -51.3(10)  no
+  C35  La2  C44  C45  -169.7(12)  no
+  C35  La2  C44  C48  62.4(10)  no
+  C41  La2  C44  C43  79.6(10)  no
+  C41  La2  C44  C45  -38.8(12)  no
+  C41  La2  C44  C48  -166.8(12)  no
+  C42  La2  C44  C43  40.8(9)  no
+  C42  La2  C44  C45  -77.6(12)  no
+  C42  La2  C44  C48  154.5(12)  no
+  C43  La2  C44  C45  -118.4(16)  no
+  C43  La2  C44  C48  113.7(13)  no
+  C45  La2  C44  C43  118.4(16)  no
+  C45  La2  C44  C48  -127.9(17)  no
+  O51  La2  C45  C41  133.6(9)  no
+  O51  La2  C45  C44  -113.8(12)  no
+  O51  La2  C45  C49  7.9(11)  no
+  O52  La2  C45  C41  89.4(9)  no
+  O52  La2  C45  C44  -157.9(11)  no
+  O52  La2  C45  C49  -36.2(12)  no
+  O62  La2  C45  C41  21.2(10)  no
+  O62  La2  C45  C44  133.8(11)  no
+  O62  La2  C45  C49  -104.5(12)  no
+  C31  La2  C45  C41  -126.1(9)  no
+  C31  La2  C45  C44  -13.4(13)  no
+  C31  La2  C45  C49  108.3(12)  no
+  C32  La2  C45  C41  -157.5(9)  no
+  C32  La2  C45  C44  -44.9(13)  no
+  C32  La2  C45  C49  76.9(12)  no
+  C33  La2  C45  C41  -172.2(8)  no
+  C33  La2  C45  C44  -59.6(14)  no
+  C33  La2  C45  C49  62.2(14)  no
+  C34  La2  C45  C41  -124.3(15)  no
+  C34  La2  C45  C44  -12(2)  no
+  C34  La2  C45  C49  110.0(15)  no
+  C35  La2  C45  C41  -99.4(10)  no
+  C35  La2  C45  C44  13.2(15)  no
+  C35  La2  C45  C49  134.9(11)  no
+  C41  La2  C45  C44  112.6(15)  no
+  C41  La2  C45  C49  -125.7(16)  no
+  C42  La2  C45  C41  -35.6(9)  no
+  C42  La2  C45  C44  77.1(12)  no
+  C42  La2  C45  C49  -161.2(15)  no
+  C43  La2  C45  C41  -76.8(10)  no
+  C43  La2  C45  C44  35.9(10)  no
+  C43  La2  C45  C49  157.6(15)  no
+  C44  La2  C45  C41  -112.6(15)  no
+  C44  La2  C45  C49  121.7(19)  no
+  La2  O51  C51  C52  173.8(14)  no
+  La2  O51  C51  O52  -4(2)  no
+  La1  O52  C51  O51  179(2)  no
+  La2  O52  C51  C52  -174.2(15)  no
+  La2  O52  C51  O51  3.5(18)  no
+  La1  O52  C51  C52  1(4)  no
+  La1  O61  C61  C62  -172.8(13)  no
+  La1  O61  C61  O62  8.1(19)  no
+  La1  O62  C61  C62  173.8(16)  no
+  La1  O62  C61  O61  -7.2(17)  no
+  La2  O62  C61  O61  -178(2)  no
+  La2  O62  C61  C62  3(4)  no
+  C12  C11  C15  C14  -7.4(16)  no
+  La1  C11  C15  C19  -117.7(14)  no
+  C12  C11  C15  La1  -73.2(10)  no
+  La1  C11  C12  C13  -69.1(10)  no
+  La1  C11  C12  C16  112.0(13)  no
+  C15  C11  C12  La1  74.0(10)  no
+  C15  C11  C12  C13  4.9(16)  no
+  C15  C11  C12  C16  -174.1(12)  no
+  La1  C11  C15  C14  65.8(9)  no
+  C12  C11  C15  C19  169.2(13)  no
+  La1  C12  C13  C17  117.8(15)  no
+  C11  C12  C13  La1  65.7(9)  no
+  La1  C12  C13  C14  -65.6(11)  no
+  C11  C12  C13  C17  -176.5(14)  no
+  C16  C12  C13  La1  -115.4(13)  no
+  C11  C12  C13  C14  0.1(17)  no
+  C16  C12  C13  C17  2(2)  no
+  C16  C12  C13  C14  179.0(13)  no
+  C12  C13  C14  C18  -167.6(17)  no
+  C17  C13  C14  La1  -116.8(11)  no
+  C17  C13  C14  C18  10(3)  no
+  La1  C13  C14  C15  -70.7(9)  no
+  C17  C13  C14  C15  172.6(11)  no
+  C12  C13  C14  C15  -4.6(17)  no
+  La1  C13  C14  C18  126(2)  no
+  C12  C13  C14  La1  66.1(11)  no
+  La1  C14  C15  C11  -64.4(10)  no
+  C18  C14  C15  La1  -122.3(14)  no
+  C18  C14  C15  C11  173.4(14)  no
+  C18  C14  C15  C19  -3(2)  no
+  La1  C14  C15  C19  119.3(15)  no
+  C13  C14  C15  La1  71.5(10)  no
+  C13  C14  C15  C11  7.1(16)  no
+  C13  C14  C15  C19  -169.2(14)  no
+  La1  C21  C25  C24  -68.4(10)  no
+  La1  C21  C25  C29  110.9(14)  no
+  C22  C21  C25  La1  72.1(9)  no
+  La1  C21  C22  C23  66.4(10)  no
+  La1  C21  C22  C26  -108.8(14)  no
+  C25  C21  C22  La1  -71.8(9)  no
+  C25  C21  C22  C23  -5.4(15)  no
+  C25  C21  C22  C26  179.5(13)  no
+  C22  C21  C25  C24  3.6(16)  no
+  C22  C21  C25  C29  -177.0(13)  no
+  La1  C22  C23  C27  -116.9(14)  no
+  C21  C22  C23  C27  177.1(13)  no
+  C21  C22  C23  La1  -66.0(10)  no
+  C21  C22  C23  C24  5.5(16)  no
+  La1  C22  C23  C24  71.5(10)  no
+  C26  C22  C23  C27  -7(2)  no
+  C26  C22  C23  La1  109.6(12)  no
+  C26  C22  C23  C24  -178.9(12)  no
+  C22  C23  C24  La1  -70.4(10)  no
+  C22  C23  C24  C25  -3.1(15)  no
+  C22  C23  C24  C28  173.7(14)  no
+  C27  C23  C24  La1  117.7(14)  no
+  La1  C23  C24  C25  67.3(9)  no
+  La1  C23  C24  C28  -116.0(15)  no
+  C27  C23  C24  C25  -175.0(13)  no
+  C27  C23  C24  C28  2(2)  no
+  C23  C24  C25  C29  -179.8(13)  no
+  C23  C24  C25  La1  -67.0(9)  no
+  C23  C24  C25  C21  -0.4(16)  no
+  La1  C24  C25  C21  66.6(10)  no
+  La1  C24  C25  C29  -112.8(13)  no
+  C28  C24  C25  La1  116.2(14)  no
+  C28  C24  C25  C21  -177.2(13)  no
+  C28  C24  C25  C29  3(2)  no
+  C35  C31  C32  La2  68.1(13)  no
+  C35  C31  C32  C33  -5.6(19)  no
+  C35  C31  C32  C36  -174.6(14)  no
+  La2  C31  C32  C33  -73.7(11)  no
+  La2  C31  C32  C36  117.2(15)  no
+  C32  C31  C35  La2  -67.3(13)  no
+  C32  C31  C35  C34  3.3(18)  no
+  C32  C31  C35  C39  174.7(16)  no
+  La2  C31  C35  C39  -118.0(16)  no
+  La2  C31  C35  C34  70.6(9)  no
+  La2  C32  C33  C37  116.1(12)  no
+  La2  C32  C33  C34  -65.9(11)  no
+  C36  C32  C33  C37  -4(2)  no
+  C36  C32  C33  C34  173.9(14)  no
+  C31  C32  C33  La2  71.2(11)  no
+  C31  C32  C33  C34  5.3(17)  no
+  C31  C32  C33  C37  -172.7(13)  no
+  C36  C32  C33  La2  -120.2(15)  no
+  C32  C33  C34  La2  64.9(10)  no
+  C32  C33  C34  C35  -3.5(17)  no
+  La2  C33  C34  C38  122.5(15)  no
+  La2  C33  C34  C35  -68.5(11)  no
+  C32  C33  C34  C38  -172.5(14)  no
+  C37  C33  C34  La2  -117.1(13)  no
+  C37  C33  C34  C35  174.4(13)  no
+  C37  C33  C34  C38  5(2)  no
+  La2  C34  C35  C39  118.9(18)  no
+  C33  C34  C35  La2  70.6(11)  no
+  La2  C34  C35  C31  -70.4(10)  no
+  C38  C34  C35  C39  -1(3)  no
+  C33  C34  C35  C39  -170.5(16)  no
+  C38  C34  C35  La2  -119.9(14)  no
+  C33  C34  C35  C31  0.3(17)  no
+  C38  C34  C35  C31  169.8(14)  no
+  La2  C41  C42  C46  -124.8(16)  no
+  C45  C41  C42  La2  -65.7(12)  no
+  La2  C41  C42  C43  71.6(11)  no
+  La2  C41  C45  C49  114.7(16)  no
+  C42  C41  C45  La2  65.7(12)  no
+  C42  C41  C45  C44  -7.9(19)  no
+  C42  C41  C45  C49  -179.6(15)  no
+  C45  C41  C42  C43  5.9(18)  no
+  C45  C41  C42  C46  169.5(15)  no
+  La2  C41  C45  C44  -73.6(12)  no
+  C46  C42  C43  La2  121.5(14)  no
+  C46  C42  C43  C44  -167.2(13)  no
+  C46  C42  C43  C47  -1(2)  no
+  C41  C42  C43  La2  -73.4(12)  no
+  La2  C42  C43  C44  71.3(10)  no
+  La2  C42  C43  C47  -122.5(13)  no
+  C41  C42  C43  C44  -2.1(17)  no
+  C41  C42  C43  C47  164.1(14)  no
+  La2  C43  C44  C45  66.5(12)  no
+  C47  C43  C44  La2  128.5(19)  no
+  C47  C43  C44  C45  -165.0(18)  no
+  C47  C43  C44  C48  20(3)  no
+  La2  C43  C44  C48  -108.8(11)  no
+  C42  C43  C44  La2  -69.5(10)  no
+  C42  C43  C44  C45  -3.0(17)  no
+  C42  C43  C44  C48  -178.3(12)  no
+  C48  C44  C45  La2  108.1(16)  no
+  C48  C44  C45  C41  -178.7(14)  no
+  C48  C44  C45  C49  -7(3)  no
+  La2  C44  C45  C41  73.2(12)  no
+  La2  C44  C45  C49  -114.7(15)  no
+  C43  C44  C45  La2  -66.4(11)  no
+  C43  C44  C45  C41  6.8(19)  no
+  C43  C44  C45  C49  178.9(14)  no
+  C741  C71  C72  C73  179(2)  no
+  C741  C71  C72  C77  0.3(15)  no
+  C741  C71  C72  C731  -1.8(16)  no
+  C741  C71  C72  C751  170(4)  no
+  C741  C71  C72  C761  176.1(18)  no
+  C751  C71  C72  C73  9(3)  no
+  C751  C71  C72  C77  -170(4)  no
+  C751  C71  C72  C731  -172(4)  no
+  C751  C71  C72  C741  -170(4)  no
+  C751  C71  C72  C761  6(3)  no
+  C72  C71  C741  C77  -1(3)  no
+  C72  C71  C741  C731  3(3)  no
+  C72  C71  C741  C751  -6(2)  no
+  C751  C71  C741  C72  6(2)  no
+  C751  C71  C741  C77  5(4)  no
+  C751  C71  C741  C731  9(4)  no
+  C72  C71  C751  C741  7(2)  no
+  C741  C71  C751  C72  -7(2)  no
+  C71  C72  C73  C74  -179.1(13)  no
+  C71  C72  C73  C751  -3.9(14)  no
+  C71  C72  C73  C761  -8(3)  no
+  C71  C72  C73  C771  -176.7(19)  no
+  C77  C72  C73  C74  0(2)  no
+  C77  C72  C73  C751  175(2)  no
+  C77  C72  C73  C761  171(3)  no
+  C77  C72  C73  C771  2(2)  no
+  C731  C72  C73  C74  1.8(19)  no
+  C731  C72  C73  C751  177(2)  no
+  C731  C72  C73  C761  173(2)  no
+  C731  C72  C73  C771  4(2)  no
+  C751  C72  C73  C74  -175.2(17)  no
+  C751  C72  C73  C761  -4(3)  no
+  C751  C72  C73  C771  -173(2)  no
+  C761  C72  C73  C74  -171(3)  no
+  C761  C72  C73  C751  4(3)  no
+  C761  C72  C73  C771  -169(3)  no
+  C71  C72  C77  C76  179.1(16)  no
+  C71  C72  C77  C721  -179.8(16)  no
+  C71  C72  C77  C731  -166(9)  no
+  C71  C72  C77  C741  -0.3(17)  no
+  C73  C72  C77  C76  0(2)  no
+  C73  C72  C77  C721  1.3(16)  no
+  C73  C72  C77  C731  16(10)  no
+  C73  C72  C77  C741  -179(2)  no
+  C731  C72  C77  C76  -16(8)  no
+  C731  C72  C77  C721  -14(9)  no
+  C731  C72  C77  C741  165(10)  no
+  C741  C72  C77  C76  179(2)  no
+  C741  C72  C77  C721  -179.5(18)  no
+  C741  C72  C77  C731  -165(10)  no
+  C751  C72  C77  C76  171(3)  no
+  C751  C72  C77  C721  172(4)  no
+  C751  C72  C77  C731  -174(9)  no
+  C751  C72  C77  C741  -9(4)  no
+  C761  C72  C77  C76  6(3)  no
+  C761  C72  C77  C721  7(3)  no
+  C761  C72  C77  C731  21(10)  no
+  C761  C72  C77  C741  -173(3)  no
+  C71  C72  C731  C76  176.7(19)  no
+  C71  C72  C731  C77  16(10)  no
+  C71  C72  C731  C721  -179.9(18)  no
+  C71  C72  C731  C741  1.8(17)  no
+  C73  C72  C731  C76  -4(2)  no
+  C73  C72  C731  C77  -165(9)  no
+  C73  C72  C731  C721  -0.9(16)  no
+  C73  C72  C731  C741  -179(2)  no
+  C77  C72  C731  C76  161(10)  no
+  C77  C72  C731  C721  164(10)  no
+  C77  C72  C731  C741  -14(9)  no
+  C741  C72  C731  C76  175(2)  no
+  C741  C72  C731  C77  14(9)  no
+  C741  C72  C731  C721  178.2(17)  no
+  C751  C72  C731  C76  168(4)  no
+  C751  C72  C731  C77  7(11)  no
+  C751  C72  C731  C721  172(5)  no
+  C751  C72  C731  C741  -7(4)  no
+  C761  C72  C731  C76  0(3)  no
+  C761  C72  C731  C77  -161(9)  no
+  C761  C72  C731  C721  3(2)  no
+  C761  C72  C731  C741  -175(3)  no
+  C71  C72  C741  C77  179.8(15)  no
+  C71  C72  C741  C731  -178.5(14)  no
+  C71  C72  C741  C751  4.3(16)  no
+  C77  C72  C741  C71  -179.8(15)  no
+  C77  C72  C741  C731  1.8(12)  no
+  C77  C72  C741  C751  -175.5(19)  no
+  C731  C72  C741  C71  178.5(14)  no
+  C731  C72  C741  C77  -1.8(12)  no
+  C731  C72  C741  C751  -177.3(18)  no
+  C751  C72  C741  C71  -4.3(16)  no
+  C751  C72  C741  C77  175.5(19)  no
+  C751  C72  C741  C731  177.3(18)  no
+  C71  C72  C751  C73  172(3)  no
+  C71  C72  C751  C741  -9(3)  no
+  C71  C72  C751  C761  174(3)  no
+  C73  C72  C751  C71  -172(3)  no
+  C73  C72  C751  C741  179.0(19)  no
+  C73  C72  C751  C761  1.8(11)  no
+  C77  C72  C751  C71  16(6)  no
+  C77  C72  C751  C73  -172(4)  no
+  C77  C72  C751  C741  7(3)  no
+  C77  C72  C751  C761  -170(4)  no
+  C731  C72  C751  C71  15(7)  no
+  C731  C72  C751  C73  -173(5)  no
+  C731  C72  C751  C741  6(4)  no
+  C731  C72  C751  C761  -172(5)  no
+  C741  C72  C751  C71  9(3)  no
+  C741  C72  C751  C73  -179.0(19)  no
+  C741  C72  C751  C761  -177.3(17)  no
+  C761  C72  C751  C71  -174(3)  no
+  C761  C72  C751  C73  -1.8(11)  no
+  C761  C72  C751  C741  177.3(17)  no
+  C71  C72  C761  C73  173(2)  no
+  C71  C72  C761  C751  -2.8(14)  no
+  C71  C72  C761  C771  179.2(14)  no
+  C73  C72  C761  C751  -176(3)  no
+  C73  C72  C761  C771  6.5(19)  no
+  C77  C72  C761  C73  -13(4)  no
+  C77  C72  C761  C751  172(3)  no
+  C77  C72  C761  C771  -7(3)  no
+  C731  C72  C761  C73  -10(3)  no
+  C731  C72  C761  C751  175(3)  no
+  C731  C72  C761  C771  -3(2)  no
+  C751  C72  C761  C73  176(3)  no
+  C751  C72  C761  C771  -178.1(19)  no
+  C72  C73  C74  C75  0(2)  no
+  C72  C73  C74  C721  -1.3(15)  no
+  C72  C73  C74  C771  15(9)  no
+  C751  C73  C74  C75  -6(3)  no
+  C751  C73  C74  C721  -7(3)  no
+  C751  C73  C74  C771  9(9)  no
+  C761  C73  C74  C75  -159(6)  no
+  C761  C73  C74  C721  -160(6)  no
+  C761  C73  C74  C771  -144(11)  no
+  C771  C73  C74  C75  -15(9)  no
+  C771  C73  C74  C721  -16(9)  no
+  C72  C73  C751  C741  -0.7(13)  no
+  C72  C73  C751  C761  -175(3)  no
+  C74  C73  C751  C72  9(3)  no
+  C74  C73  C751  C741  9(3)  no
+  C74  C73  C751  C761  -165(4)  no
+  C761  C73  C751  C72  175(3)  no
+  C761  C73  C751  C741  174(3)  no
+  C771  C73  C751  C72  12(3)  no
+  C771  C73  C751  C741  11(4)  no
+  C771  C73  C751  C761  -163(5)  no
+  C72  C73  C761  C751  3.0(19)  no
+  C72  C73  C761  C771  -146(10)  no
+  C74  C73  C761  C72  162(6)  no
+  C74  C73  C761  C751  165(5)  no
+  C74  C73  C761  C771  16(5)  no
+  C751  C73  C761  C72  -3.0(19)  no
+  C751  C73  C761  C771  -149(9)  no
+  C72  C73  C771  C74  -166(8)  no
+  C72  C73  C771  C75  -7(4)  no
+  C72  C73  C771  C721  -5(2)  no
+  C72  C73  C771  C761  143(11)  no
+  C74  C73  C771  C75  159(12)  no
+  C74  C73  C771  C721  161(10)  no
+  C74  C73  C771  C761  -51(15)  no
+  C751  C73  C771  C74  -173(7)  no
+  C751  C73  C771  C75  -14(6)  no
+  C751  C73  C771  C721  -12(4)  no
+  C751  C73  C771  C761  137(12)  no
+  C73  C74  C75  C76  0(2)  no
+  C73  C74  C75  C721  -2.1(19)  no
+  C73  C74  C75  C771  4(2)  no
+  C721  C74  C75  C76  2.0(15)  no
+  C721  C74  C75  C771  6(3)  no
+  C771  C74  C75  C76  -4(3)  no
+  C771  C74  C75  C721  -6(3)  no
+  C73  C74  C771  C75  -166(8)  no
+  C73  C74  C771  C721  -163(9)  no
+  C73  C74  C771  C761  13(4)  no
+  C75  C74  C771  C73  166(8)  no
+  C75  C74  C771  C721  3.6(18)  no
+  C75  C74  C771  C761  180(5)  no
+  C721  C74  C771  C73  163(9)  no
+  C721  C74  C771  C75  -3.6(18)  no
+  C721  C74  C771  C761  176(6)  no
+  C73  C74  C721  C731  1(3)  no
+  C75  C74  C721  C731  -177(3)  no
+  C771  C74  C721  C731  -3(3)  no
+  C73  C74  C721  C771  4(2)  no
+  C75  C74  C721  C771  -174(3)  no
+  C75  C74  C721  C77  -175(3)  no
+  C73  C74  C721  C75  178.2(16)  no
+  C771  C74  C721  C75  174(3)  no
+  C73  C74  C721  C76  171(6)  no
+  C75  C74  C721  C76  -7(5)  no
+  C771  C74  C721  C76  167(6)  no
+  C73  C74  C721  C77  3(2)  no
+  C75  C74  C721  C711  2.9(15)  no
+  C771  C74  C721  C77  -1(3)  no
+  C73  C74  C721  C711  -178.9(15)  no
+  C771  C74  C721  C711  177(3)  no
+  C711  C75  C76  C721  172(3)  no
+  C76  C75  C771  C73  6(4)  no
+  C76  C75  C771  C74  177(3)  no
+  C76  C75  C771  C721  3.3(16)  no
+  C76  C75  C771  C761  -3(4)  no
+  C711  C75  C76  C731  172(3)  no
+  C721  C75  C76  C77  3(2)  no
+  C721  C75  C76  C711  -172(3)  no
+  C721  C75  C76  C731  0(2)  no
+  C771  C75  C76  C77  -1(2)  no
+  C771  C75  C76  C711  -176(3)  no
+  C771  C75  C76  C721  -4.0(19)  no
+  C771  C75  C76  C731  -4(2)  no
+  C74  C75  C771  C73  -171(5)  no
+  C74  C75  C771  C721  -174(3)  no
+  C74  C75  C771  C761  -180(5)  no
+  C74  C75  C76  C77  0(2)  no
+  C74  C75  C76  C711  -175(3)  no
+  C721  C75  C711  C76  6(2)  no
+  C76  C75  C711  C721  -6(2)  no
+  C711  C75  C76  C77  175(3)  no
+  C76  C75  C721  C74  -177.5(19)  no
+  C711  C75  C721  C74  175(3)  no
+  C771  C75  C721  C74  -2.2(11)  no
+  C74  C75  C721  C76  177.5(19)  no
+  C711  C75  C721  C76  -8(3)  no
+  C771  C75  C721  C76  175(2)  no
+  C74  C75  C721  C77  171(5)  no
+  C76  C75  C721  C77  -6(4)  no
+  C711  C75  C721  C77  -14(6)  no
+  C771  C75  C721  C77  169(6)  no
+  C74  C75  C721  C711  -175(3)  no
+  C76  C75  C721  C711  8(3)  no
+  C771  C75  C721  C711  -177(2)  no
+  C74  C75  C721  C731  177(4)  no
+  C76  C75  C721  C731  -1(3)  no
+  C721  C75  C771  C73  3(4)  no
+  C721  C75  C771  C74  174(3)  no
+  C721  C75  C771  C761  -6(4)  no
+  C711  C75  C721  C771  177(2)  no
+  C76  C75  C721  C771  -175(2)  no
+  C74  C75  C721  C771  2.2(11)  no
+  C74  C75  C76  C721  -3(2)  no
+  C74  C75  C76  C731  -2(3)  no
+  C711  C75  C721  C731  -9(5)  no
+  C771  C75  C721  C731  175(5)  no
+  C75  C76  C77  C731  -133.00  no
+  C711  C76  C77  C731  -126.00  no
+  C731  C76  C77  C721  131.00  no
+  C711  C76  C77  C72  7(6)  no
+  C711  C76  C77  C721  5(4)  no
+  C77  C76  C711  C75  -11(6)  no
+  C721  C76  C77  C72  2(2)  no
+  C721  C76  C77  C731  -131.00  no
+  C731  C76  C77  C72  133.00  no
+  C75  C76  C77  C721  -2.0(14)  no
+  C731  C76  C711  C721  -11(5)  no
+  C721  C76  C731  C72  5(2)  no
+  C75  C76  C731  C721  -0.3(15)  no
+  C77  C76  C731  C721  -48.00  no
+  C711  C76  C731  C721  11(5)  no
+  C77  C76  C721  C75  -177.4(18)  no
+  C711  C76  C721  C75  4.8(18)  no
+  C731  C76  C721  C75  -179.6(19)  no
+  C75  C76  C721  C77  177.4(18)  no
+  C711  C76  C721  C77  -177.8(18)  no
+  C731  C76  C721  C77  -2.2(11)  no
+  C721  C76  C711  C75  -6(2)  no
+  C731  C76  C711  C75  -17(6)  no
+  C75  C76  C711  C721  6(2)  no
+  C77  C76  C711  C721  -5(4)  no
+  C75  C76  C77  C72  0(3)  no
+  C75  C76  C721  C74  7(5)  no
+  C77  C76  C721  C74  -171(6)  no
+  C711  C76  C721  C74  12(6)  no
+  C731  C76  C721  C74  -173(5)  no
+  C77  C76  C721  C711  177.8(18)  no
+  C731  C76  C721  C711  176(2)  no
+  C75  C76  C721  C731  179.6(19)  no
+  C77  C76  C721  C731  2.2(11)  no
+  C711  C76  C721  C731  -176(2)  no
+  C77  C76  C731  C72  -43.00  no
+  C75  C76  C721  C711  -4.8(18)  no
+  C75  C76  C731  C72  5(3)  no
+  C711  C76  C731  C72  16(7)  no
+  C721  C77  C731  C72  19(11)  no
+  C72  C77  C731  C721  -19(11)  no
+  C72  C77  C731  C741  59.00  no
+  C76  C77  C731  C741  115.00  no
+  C76  C77  C731  C721  37(18)  no
+  C76  C77  C731  C72  56.00  no
+  C741  C77  C721  C74  -3(3)  no
+  C72  C77  C721  C75  -172(5)  no
+  C76  C77  C721  C75  7(5)  no
+  C731  C77  C721  C75  23(10)  no
+  C741  C77  C721  C75  -172(5)  no
+  C72  C77  C721  C76  -178.4(19)  no
+  C731  C77  C721  C74  -169(8)  no
+  C741  C77  C721  C76  -179(2)  no
+  C72  C77  C721  C711  179(2)  no
+  C76  C77  C721  C711  -2(2)  no
+  C731  C77  C721  C711  13(9)  no
+  C741  C77  C721  C711  179(2)  no
+  C72  C77  C721  C731  166(9)  no
+  C731  C77  C721  C76  16(8)  no
+  C741  C77  C721  C731  165(9)  no
+  C72  C77  C721  C771  -3.4(17)  no
+  C76  C77  C721  C771  175(2)  no
+  C731  C77  C721  C771  -169(8)  no
+  C741  C77  C721  C771  -4(3)  no
+  C721  C77  C741  C751  4(3)  no
+  C72  C77  C741  C71  1(3)  no
+  C721  C77  C741  C71  1(5)  no
+  C721  C77  C741  C72  1(2)  no
+  C72  C77  C741  C731  -69.00  no
+  C721  C77  C741  C731  -68.00  no
+  C72  C77  C741  C751  3.5(14)  no
+  C72  C77  C721  C74  -3(2)  no
+  C721  C77  C731  C741  77.00  no
+  C76  C77  C721  C731  -16(8)  no
+  C76  C77  C721  C74  175(3)  no
+  C75  C711  C721  C731  175(3)  no
+  C75  C711  C721  C74  -5(2)  no
+  C75  C711  C721  C76  171(3)  no
+  C75  C711  C721  C77  174(3)  no
+  C76  C711  C721  C75  -171(3)  no
+  C75  C711  C721  C771  -4(3)  no
+  C76  C711  C721  C74  -176(2)  no
+  C76  C711  C721  C771  -175(3)  no
+  C76  C711  C721  C77  2(2)  no
+  C76  C711  C721  C731  4.2(19)  no
+  C76  C721  C731  C72  -176(2)  no
+  C74  C721  C731  C72  0(3)  no
+  C74  C721  C771  C75  5(3)  no
+  C74  C721  C771  C761  -178(3)  no
+  C75  C721  C771  C73  -178(2)  no
+  C75  C721  C771  C74  -5(3)  no
+  C75  C721  C771  C761  177.0(19)  no
+  C77  C721  C771  C73  6(3)  no
+  C77  C721  C771  C74  179(2)  no
+  C77  C721  C771  C75  -176(2)  no
+  C77  C721  C771  C761  2(2)  no
+  C711  C721  C771  C73  -176(2)  no
+  C711  C721  C771  C74  -3(3)  no
+  C711  C721  C771  C75  2.0(16)  no
+  C711  C721  C771  C761  179.0(19)  no
+  C731  C721  C771  C73  5(3)  no
+  C731  C721  C771  C74  178(2)  no
+  C731  C721  C771  C75  -177(3)  no
+  C731  C721  C771  C761  0(3)  no
+  C76  C721  C731  C77  -163(9)  no
+  C76  C721  C731  C741  -175(2)  no
+  C77  C721  C731  C72  -13(8)  no
+  C77  C721  C731  C76  163(9)  no
+  C77  C721  C731  C741  -12(7)  no
+  C711  C721  C731  C72  179.7(18)  no
+  C711  C721  C731  C76  -4(2)  no
+  C711  C721  C731  C77  -168(8)  no
+  C711  C721  C731  C741  -179.1(18)  no
+  C771  C721  C731  C72  -1.3(18)  no
+  C771  C721  C731  C76  175(3)  no
+  C771  C721  C731  C77  12(9)  no
+  C771  C721  C731  C741  0(3)  no
+  C74  C721  C771  C73  -173(4)  no
+  C75  C721  C731  C77  -162(8)  no
+  C75  C721  C731  C741  -174(4)  no
+  C74  C721  C731  C741  1(4)  no
+  C74  C721  C731  C76  176(3)  no
+  C74  C721  C731  C77  13(9)  no
+  C75  C721  C731  C72  -175(4)  no
+  C75  C721  C731  C76  1(4)  no
+  C72  C731  C741  C751  2.1(14)  no
+  C721  C731  C741  C77  109.00  no
+  C721  C731  C741  C751  0(3)  no
+  C77  C731  C741  C71  -114.00  no
+  C77  C731  C741  C72  -111.00  no
+  C77  C731  C741  C751  -109.00  no
+  C721  C731  C741  C71  -5(4)  no
+  C721  C731  C741  C72  -2(2)  no
+  C72  C731  C741  C71  -3(3)  no
+  C72  C731  C741  C77  111.00  no
+  C71  C741  C751  C72  172(3)  no
+  C71  C741  C751  C73  173(2)  no
+  C71  C741  C751  C761  175(3)  no
+  C72  C741  C751  C71  -172(3)  no
+  C72  C741  C751  C73  0.8(16)  no
+  C72  C741  C751  C761  3.0(19)  no
+  C77  C741  C751  C71  -177(2)  no
+  C77  C741  C751  C72  -5(2)  no
+  C77  C741  C751  C73  -4(2)  no
+  C77  C741  C751  C761  -2(3)  no
+  C731  C741  C751  C71  -175(2)  no
+  C731  C741  C751  C72  -3(2)  no
+  C731  C741  C751  C73  -2.3(19)  no
+  C731  C741  C751  C761  0(3)  no
+  C72  C751  C761  C73  -5(3)  no
+  C72  C751  C761  C771  2(2)  no
+  C73  C751  C761  C72  5(3)  no
+  C73  C751  C761  C771  6.8(19)  no
+  C741  C751  C761  C72  -2.2(14)  no
+  C741  C751  C761  C73  -7(4)  no
+  C741  C751  C761  C771  0(3)  no
+  C72  C761  C771  C73  -33(10)  no
+  C72  C761  C771  C74  -174(6)  no
+  C72  C761  C771  C75  5(4)  no
+  C72  C761  C771  C721  1.4(19)  no
+  C73  C761  C771  C74  -142(12)  no
+  C73  C761  C771  C75  38(11)  no
+  C73  C761  C771  C721  34(10)  no
+  C751  C761  C771  C73  -34(10)  no
+  C751  C761  C771  C74  -175(5)  no
+  C751  C761  C771  C75  4(5)  no
+  C751  C761  C771  C721  0(3)  no

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6675ff71a48e4d40d5e809ec",
+  "experiment_name": "Na_297",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Ga-Na-O-P",
+  "target_formula": "Na5GaP2O9",
+  "analysis_timestamp": "2025-12-06T14:01:17.624444",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

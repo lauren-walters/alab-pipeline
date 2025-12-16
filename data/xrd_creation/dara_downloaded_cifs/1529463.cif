@@ -1,0 +1,158 @@
+# generated using pymatgen
+data_1529463
+loop_
+ _publ_author_name
+  'Haipeng Ji'
+  'Zhaohui Huang'
+  'Zhiguo Xia'
+  'Maxim S. Molokeev'
+  'Victor V. Atuchin'
+  'Minghao Fang'
+  'Yangai Liu'
+_publ_section_title
+;
+Discovery of New Solid Solution Phosphors via Cation  Substitution-
+Dependent Phase Transition in M3(PO4)2:Eu2+ (M = Ca/Sr/Ba)  Quasi-
+Binary Sets
+;
+_journal_issue   0
+_journal_name_full   'The Journal of Physical Chemistry C'
+_journal_page_first   2038
+_journal_page_last   2045
+_journal_paper_doi   10.1021/jp509743r
+_journal_volume   119
+_journal_year   2015
+_chemical_formula_moiety   '2(O4 P), 3(Sr)'
+_chemical_formula_sum   'O8 P2 Sr3'
+_chemical_formula_weight   452.80
+_space_group_IT_number   166
+_symmetry_cell_setting   trigonal
+_symmetry_space_group_name_Hall   '-R 3 2"'
+_symmetry_space_group_name_H-M   'R -3 m :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   3
+_cell_length_a   5.387993(28)
+_cell_length_b   5.387993(28)
+_cell_length_c   19.78604(11)
+_cell_measurement_temperature   300
+_cell_volume   497.443(5)
+_diffrn_ambient_temperature   300
+_diffrn_measurement_device_type   'D8 ADVANCE Bruker'
+_diffrn_radiation_monochromator   none
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   'Cu K\a~1~~2~'
+_exptl_absorpt_coefficient_mu   35.999
+_exptl_crystal_density_diffrn   4.534574
+_pd_char_colour   colourless
+_pd_meas_2theta_range_inc   0.02
+_pd_meas_2theta_range_max   109.3
+_pd_meas_2theta_range_min   5
+_pd_meas_scan_method   step
+_pd_proc_ls_pref_orient_corr
+;
+Anisotropic model of PO. Spherical harmonics 8 ordrer.  Jarvinen
+(1993). Application of symmetrized harmonics expansion to correction
+of the preferred orientation effect. - J. Appl. Cryst. 26 p525-531.
+;
+_pd_proc_ls_profile_function   PearsonVII
+_pd_proc_ls_prof_R_factor   3.988
+_pd_proc_ls_prof_wR_expected   5.191
+_pd_proc_ls_prof_wR_factor   5.406
+_pd_proc_number_of_points   5215
+_pd_spec_mount_mode   reflection
+_refine_ls_goodness_of_fit_all   1.041
+_refine_ls_R_I_factor   1.99
+_refine_ls_shift/su_max   0.01000
+_cod_data_source_file   Sr3PO42_Eu.cif
+_cod_data_source_block   a
+_cod_depositor_comments
+;
+2019-05-13 Z value and formula fixed to values more according to usual
+chemical conventions.                 miguel
+;
+_cod_original_formula_weight   1358.40
+_cod_original_formula_moiety   '2(O12 P3), 9(Sr)'
+_cod_original_formula_units_Z   1
+_cod_original_cell_volume   497.4433(58)
+_cod_original_sg_symbol_Hall   '-R 3 2"'
+_cod_original_sg_symbol_H-M   R-3m
+_cod_original_formula_sum   'O24 P6 Sr9'
+_cod_database_code   1529463
+_cod_database_fobs_code   1529463
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, -x+y, -z'
+  '-x, -y, -z'
+  '-x+1/3, -x+y-1/3, -z-1/3'
+  '-x+1/3, -y-1/3, -z-1/3'
+  '-x-1/3, -x+y+1/3, -z+1/3'
+  '-x-1/3, -y+1/3, -z+1/3'
+  '-x+y, -x, z'
+  '-x+y, y, z'
+  '-x+y+1/3, -x-1/3, z-1/3'
+  '-x+y+1/3, y-1/3, z-1/3'
+  '-x+y-1/3, -x+1/3, z+1/3'
+  '-x+y-1/3, y+1/3, z+1/3'
+  '-y, -x, z'
+  '-y, x-y, z'
+  '-y+1/3, -x-1/3, z-1/3'
+  '-y+1/3, x-y-1/3, z-1/3'
+  '-y-1/3, -x+1/3, z+1/3'
+  '-y-1/3, x-y+1/3, z+1/3'
+  'y, -x+y, -z'
+  'y, x, -z'
+  'y+1/3, -x+y-1/3, -z-1/3'
+  'y+1/3, x-1/3, -z-1/3'
+  'y-1/3, -x+y+1/3, -z+1/3'
+  'y-1/3, x+1/3, -z+1/3'
+  'x-y, -y, -z'
+  'x-y, x, -z'
+  'x-y+1/3, -y-1/3, -z-1/3'
+  'x-y+1/3, x-1/3, -z-1/3'
+  'x-y-1/3, -y+1/3, -z+1/3'
+  'x-y-1/3, x+1/3, -z+1/3'
+  'x, x-y, z'
+  'x+1/3, y-1/3, z-1/3'
+  'x+1/3, x-y-1/3, z-1/3'
+  'x-1/3, y+1/3, z+1/3'
+  'x-1/3, x-y+1/3, z+1/3'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_B_iso_or_equiv
+  Sr1  Sr  0  0  0  1  0.716(36)
+  Sr2  Sr  0  0  0.793323(27)  1  0.595(35)
+  P  P  0  0  0.593508(71)  1  0.533(38)
+  O1  O  0  0  0.67160(15)  1  0.592(44)
+  O2  O  0.48958(18)  0.51042(18)  0.233518(93)  1  0.592(44)
+loop_
+ _diffrn_radiation_wavelength
+ _diffrn_radiation_wavelength_wt
+  1.5406  1.0000
+  1.5443  0.5000
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+  O1  P  O2  109.89(8)  1_555  12_555
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  Sr1  O2  2.5752(15)  17_555
+  Sr2  O1  2.4084(30)  .
+  Sr2  O2  2.6836(16)  17_556
+  Sr2  O2  2.74757(85)  2_656
+  P  O1  1.5451(33)  .
+  P  O2  1.55060(97)  12_555

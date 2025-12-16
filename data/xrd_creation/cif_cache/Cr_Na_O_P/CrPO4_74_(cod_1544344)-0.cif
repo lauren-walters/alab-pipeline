@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_1544344
+loop_
+ _publ_author_name
+  'Attfield, J.P.'
+  'Sleight, A.W.'
+  'Cheetham, A.K.'
+_publ_section_title
+;
+Structure determination of alpha-CrPO4 from powder synchrotron X-ray
+data
+;
+_journal_name_full   Nature
+_journal_page_first   620
+_journal_page_last   622
+_journal_volume   322
+_journal_year   1986
+_chemical_formula_sum   'Cr O4 P'
+_chemical_name_common   'alpha-CrPO4, J. P. Attfield et al., Na'
+_space_group_IT_number   74
+_space_group_name_H-M_alt   'I m m a'
+_symmetry_space_group_name_Hall   '-I 2b 2'
+_symmetry_space_group_name_H-M   'I m m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   12
+_cell_length_a   10.40583(11)
+_cell_length_b   12.89952(11)
+_cell_length_c   6.29933(6)
+_cell_volume   845.560(14)
+_cod_data_source_file   CrPO4-alpha.cif
+_cod_data_source_block   CrPO4-alpha
+_cod_original_formula_sum   'O4 P Cr'
+_cod_database_code   1544344
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-x, -y, -z'
+  '-x, -y+1/2, z'
+  'x, y+1/2, -z'
+  '-x, y+1/2, -z'
+  'x, -y+1/2, z'
+  'x, -y, -z'
+  '-x, y, z'
+  'x+1/2, y+1/2, z+1/2'
+  '-x+1/2, -y+1/2, -z+1/2'
+  '-x+1/2, -y, z+1/2'
+  'x+1/2, y, -z+1/2'
+  '-x+1/2, y, -z+1/2'
+  'x+1/2, -y, z+1/2'
+  'x+1/2, -y+1/2, -z+1/2'
+  '-x+1/2, y+1/2, z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+  Cr1  1.0  0.500000  0.500000  0.000000  Biso  0.570000  Cr
+  Cr2  1.0  0.250000  0.3659(4)  0.250000  Biso  0.570000  Cr
+  P1  1.0  0.500000  0.250000  0.0801(13)  Biso  0.570000  P
+  P2  1.0  0.250000  0.5740(5)  0.250000  Biso  0.570000  P
+  O1  1.0  0.3800(11)  0.250000  0.2275(17)  Biso  0.570000  O
+  O2  1.0  0.3601(7)  0.4912(7)  0.2155(13)  Biso  0.570000  O
+  O3  1.0  0.2259(7)  0.6353(7)  0.0576(10)  Biso  0.570000  O
+  O4  1.0  0.500000  0.3507(8)  -0.0468(16)  Biso  0.570000  O

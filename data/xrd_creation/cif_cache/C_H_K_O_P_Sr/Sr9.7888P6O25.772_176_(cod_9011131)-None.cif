@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_9011131
+loop_
+ _publ_author_name
+  'Sudarsanan, K.'
+  'Young, R. A.'
+_publ_section_title
+;
+Structure of strontium hydroxide phosphate, Sr5(PO4)3OH  Locality:
+synthetic
+;
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   3668
+_journal_page_last   3670
+_journal_paper_doi   10.1107/S0567740872008544
+_journal_volume   28
+_journal_year   1972
+_chemical_formula_sum   'H0.886 O12.886 P3 Sr4.894'
+_chemical_name_mineral   Strontium-apatite
+_space_group_IT_number   176
+_symmetry_space_group_name_Hall   '-P 6c'
+_symmetry_space_group_name_H-M   'P 63/m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   2
+_cell_length_a   9.745
+_cell_length_b   9.745
+_cell_length_c   7.265
+_cell_volume   597.489
+_exptl_crystal_density_diffrn   4.051
+_cod_original_formula_sum   'Sr4.894 P3 O12.886 H.886'
+_cod_database_code   9011131
+_database_code_amcsd   0009466
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+y,-x,1/2-z
+  x-y,x,1/2+z
+  y,-x+y,-z
+  -y,x-y,z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  x-y,x,-z
+  -x+y,-x,z
+  -y,x-y,1/2-z
+  y,-x+y,1/2+z
+  -x,-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Sr1  0.01082  0.01082  0.00668  0.00541  0.00000  0.00000
+  Sr2  0.00830  0.00938  0.00909  0.00397  0.00000  0.00000
+  P  0.00722  0.00686  0.00695  0.00397  0.00000  0.00000
+  O1  0.01263  0.01263  0.01444  0.01010  0.00000  0.00000
+  O2  0.00758  0.01191  0.02166  0.00397  0.00000  0.00000
+  O3  0.03103  0.01588  0.01096  0.01552  -0.00963  -0.00621
+  O-H  0.00649  0.00649  0.02540  0.00325  0.00000  0.00000
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Sr1  0.33333  0.66667  0.00010  0.97360  Sr  0
+  Sr2  0.24420  0.98560  0.25000  0.98240  Sr  0
+  P  0.40020  0.36790  0.25000  1.00000  P  0
+  O1  0.33290  0.48120  0.25000  1.00000  O  0
+  O2  0.58340  0.46280  0.25000  1.00000  O  0
+  O3  0.34560  0.26110  0.07860  1.00000  O  0
+  O-H  0.00000  0.00000  0.18560  0.44300  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-21T08:54:03+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:21:38+03:00
+  "Changed the following '_atom_site_aniso_label' values: 'OH' -> 'O-H'"
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009466
+  2  AMCSD  0009467
+loop_
+ _[local]_alternative_name_id
+ _[local]_alternative_name_type
+ _[local]_alternative_name_source
+ _[local]_alternative_name_source_id
+ _[local]_alternative_name_value
+  1  mineral  AMCSD  0009466  Strontium-apatite
+  2  mineral  AMCSD  0009467  Apatite-(SrOH)

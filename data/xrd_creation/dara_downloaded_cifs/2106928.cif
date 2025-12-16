@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_2106928
+loop_
+ _publ_author_name
+  'Onoda, M.'
+  'Saeki, M.'
+  'Yamamoto, A.'
+  'Kato, K.'
+_publ_section_title
+;
+Structure refinement of the incommensurate composite crystal Sr1.145
+Ta  S3 through the Rietveld analysis process
+;
+_journal_name_full   'Acta Crystallographica B (39,1983-)'
+_journal_page_first   929
+_journal_page_last   936
+_journal_volume   49
+_journal_year   1993
+_chemical_formula_sum   Sr
+_chemical_name_systematic   '(Sr1.145 Ti S3).873'
+_space_group_IT_number   159
+_symmetry_space_group_name_Hall   'P 3 -2c'
+_symmetry_space_group_name_H-M   'P 3 1 c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   6
+_cell_length_a   6.646
+_cell_length_b   6.646
+_cell_length_c   5.226
+_cell_volume   199.904
+_citation_journal_id_ASTM   ASBSDK
+_cod_data_source_file   Onoda_ASBSDK_1993_555.cif
+_cod_data_source_block   Sr1
+_cod_original_cell_volume   199.9036
+_cod_original_formula_sum   Sr1
+_cod_database_code   2106928
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  y,x,z+1/2
+  -x,-x+y,z+1/2
+  x-y,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sr1  Sr+2  0.3333  0  0  1  0.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  5359327

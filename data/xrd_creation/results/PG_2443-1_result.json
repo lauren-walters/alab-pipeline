@@ -1,0 +1,57 @@
+{
+  "experiment_id": "667a13cf13800728dad6cee5",
+  "experiment_name": "PG_2443-1",
+  "success": true,
+  "error": null,
+  "rwp": 4.93,
+  "rp": 3.8,
+  "rexp": 1.87,
+  "num_phases": 3,
+  "phases": [
+    {
+      "phase_name": "SiO2_72_(cod_1539934)-14",
+      "spacegroup": "I2/b2/a2/m",
+      "weight_fraction": 0.01938,
+      "weight_fraction_error": 0.00057,
+      "lattice_a_nm": 0.47672,
+      "lattice_b_nm": 0.84116,
+      "lattice_c_nm": 0.51084,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 7.02
+    },
+    {
+      "phase_name": "H2O2_92_(cod_1008189)-86",
+      "spacegroup": "P4_12_12",
+      "weight_fraction": 0.01139,
+      "weight_fraction_error": 0.00071,
+      "lattice_a_nm": 0.40194,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.792,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 7.09
+    },
+    {
+      "phase_name": "Li15Si4_220_(cod_4001837)-0",
+      "spacegroup": "I-43d",
+      "weight_fraction": 0.0122,
+      "weight_fraction_error": 0.0013,
+      "lattice_a_nm": 1.07869,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 3.66
+    }
+  ],
+  "chemical_system": "H-Li-O-Si",
+  "target_formula": "LiSiH3O4",
+  "analysis_timestamp": "2025-12-06T14:51:18.950350",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

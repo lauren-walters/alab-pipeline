@@ -1,0 +1,31 @@
+{
+  "experiment_id": "66471f2be84e87556c098871",
+  "experiment_name": "NSC_142",
+  "success": true,
+  "error": null,
+  "rwp": 31.49,
+  "rp": 23.7,
+  "rexp": 2.73,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "In2PO5_2_(cod_1535394)-0",
+      "spacegroup": "P-1",
+      "weight_fraction": 0.0365,
+      "weight_fraction_error": 0.0013,
+      "lattice_a_nm": 0.51678,
+      "lattice_b_nm": 0.63657,
+      "lattice_c_nm": 0.67211,
+      "lattice_alpha_deg": 107.051,
+      "lattice_beta_deg": 109.902,
+      "lattice_gamma_deg": 96.168,
+      "r_phase": 36.63
+    }
+  ],
+  "chemical_system": "In-Na-O-P",
+  "target_formula": "Na3.3In2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:45:47.233090",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

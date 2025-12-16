@@ -1,0 +1,31 @@
+{
+  "experiment_id": "667a13c613800728dad6cd0c",
+  "experiment_name": "PG_1741-1",
+  "success": true,
+  "error": null,
+  "rwp": 30.82,
+  "rp": 18.92,
+  "rexp": 2.74,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.0791,
+      "weight_fraction_error": 0.0011,
+      "lattice_a_nm": 0.51138,
+      "lattice_b_nm": 0.51783,
+      "lattice_c_nm": 0.52856,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.26,
+      "lattice_gamma_deg": null,
+      "r_phase": 17.2
+    }
+  ],
+  "chemical_system": "Hf-O-Sb",
+  "target_formula": "Hf2Sb2O7",
+  "analysis_timestamp": "2025-12-06T14:06:48.612537",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

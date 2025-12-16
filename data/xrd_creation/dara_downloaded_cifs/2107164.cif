@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_2107164
+loop_
+ _publ_author_name
+  'Kamb, B.'
+  'Prakash, A.'
+_publ_section_title   'Structure of ice III'
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   1317
+_journal_page_last   1327
+_journal_volume   24
+_journal_year   1968
+_chemical_formula_sum   'H2 O'
+_space_group_IT_number   92
+_symmetry_space_group_name_Hall   'P 4abw 2nw'
+_symmetry_space_group_name_H-M   'P 41 21 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   12
+_cell_length_a   6.73
+_cell_length_b   6.73
+_cell_length_c   6.83
+_cell_volume   309.351
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Kamb_ACBCAR_1968_1223.cif
+_cod_data_source_block   H2O1
+_cod_original_cell_volume   309.3505
+_cod_original_formula_sum   'H2 O1'
+_cod_database_code   2107164
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/2,x+1/2,z+1/4
+  -x,-y,z+1/2
+  y+1/2,-x+1/2,z+3/4
+  x+1/2,-y+1/2,-z+3/4
+  y,x,-z
+  -x+1/2,y+1/2,-z+1/4
+  -y,-x,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  H1  H+1  -0.003  0.322  0.215  1  0.0
+  H3  H+1  0.296  0.354  0.095  1  0.0
+  O2  O-2  0.3932  0.3932  0  1  0.0
+  H2  H+1  0.107  0.162  0.288  1  0.0
+  O1  O-2  0.1096  0.3016  0.2873  1  0.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  449052

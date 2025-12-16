@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6565304b629b00aabd1292fc",
+  "experiment_name": "NSC_90",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-O-P-Sn",
+  "target_formula": "Na1.21Sn2.0(PO4)3.3",
+  "analysis_timestamp": "2025-12-06T16:48:25.524273",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

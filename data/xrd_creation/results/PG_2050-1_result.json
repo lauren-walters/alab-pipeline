@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6655386a83fdf76b50aaf271",
+  "experiment_name": "PG_2050-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "H-K-O-P-Y",
+  "target_formula": "K2Y2P2H4O11",
+  "analysis_timestamp": "2025-12-06T13:35:48.983443",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

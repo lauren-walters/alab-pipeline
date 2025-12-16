@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_2106256
+loop_
+ _publ_author_name
+  'Bissert, G.'
+  'Liebau, F.'
+_publ_section_title
+;
+Die Kristallstruktur von monoklinem Siliziumphosphat Si P2 O7 (AIII):
+Eine Phase mit (Si O6)-Oktaedern
+;
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   233
+_journal_page_last   239
+_journal_volume   26
+_journal_year   1970
+_chemical_formula_sum   'O7 P2 Si'
+_chemical_name_systematic   'Si P2 O7'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90.1
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.73
+_cell_length_b   6.33
+_cell_length_c   14.71
+_cell_volume   440.430
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Bissert_ACBCAR_1970_1800.cif
+_cod_data_source_block   O7P2Si1
+_cod_original_cell_volume   440.43
+_cod_original_formula_sum   'O7 P2 Si1'
+_cod_database_code   2106256
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.711  0.5622  0.0881  1  0.0
+  P2  P+5  0.7381  0.3937  0.1684  1  0.0
+  O7  O-2  0.8387  0.5084  0.2525  1  0.0
+  O6  O-2  0.4515  0.2951  0.1794  1  0.0
+  O4  O-2  0.0498  0.8643  0.0916  1  0.0
+  O3  O-2  0.5449  0.9171  0.1376  1  0.0
+  P1  P+5  0.7457  0.808  0.0725  1  0.0
+  O5  O-2  0.9507  0.2404  0.1311  1  0.0
+  O2  O-2  0.6607  0.8314  -0.0248  1  0.0
+  Si1  Si+4  0.2495  0.0825  0.1353  1  0.0

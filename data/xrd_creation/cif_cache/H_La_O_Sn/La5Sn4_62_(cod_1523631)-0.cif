@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_1523631
+loop_
+ _publ_author_name
+  'Fornasini, M.L.'
+  'Merlo, F.'
+_publ_section_title
+;
+Composti di formula M5 Sn4 e M11 Sn10 formati dalle terre rare con lo
+stagno
+;
+_journal_name_full
+;
+Atti della Accademia Nazionale dei Lincei, Classe di Scienze Fisiche,
+Matematiche e Naturali, Rendiconti, Serie 8 (1, 1946-)
+;
+_journal_page_first   186
+_journal_page_last   196
+_journal_volume   50
+_journal_year   1971
+_chemical_formula_sum   'La5 Sn4'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.448
+_cell_length_b   16.26
+_cell_length_c   8.604
+_cell_volume   1181.884
+_citation_journal_id_ASTM   AANL8V
+_cod_data_source_file   Fornasini_AANL8V_1971_948.cif
+_cod_data_source_block   La5Sn4
+_cod_database_code   1523631
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x,y+1/2,-z
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x-1/2,y-1/2,z-1/2
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  La2  La  0.1205  0.1157  0.3388  1  0.0
+  Sn3  Sn  0.2206  0.9551  0.5312  1  0.0
+  La3  La  0.9747  0.1004  0.8219  1  0.0
+  Sn1  Sn  0.9132  0.25  0.1115  1  0.0
+  La1  La  0.288  0.25  0.0024  1  0.0
+  Sn2  Sn  0.1761  0.25  0.6333  1  0.0

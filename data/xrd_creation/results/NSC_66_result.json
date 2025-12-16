@@ -1,0 +1,57 @@
+{
+  "experiment_id": "64b5e9e228bed3575925141e",
+  "experiment_name": "NSC_66",
+  "success": true,
+  "error": null,
+  "rwp": 16.44,
+  "rp": 10.77,
+  "rexp": 3.05,
+  "num_phases": 3,
+  "phases": [
+    {
+      "phase_name": "Na4P2O7_19_(cod_1522370)-0",
+      "spacegroup": "P2_12_12_1",
+      "weight_fraction": 0.1119,
+      "weight_fraction_error": 0.0017,
+      "lattice_a_nm": 0.53724,
+      "lattice_b_nm": 0.93532,
+      "lattice_c_nm": 1.33897,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 20.92
+    },
+    {
+      "phase_name": "P_64_(cod_4307698)-20",
+      "spacegroup": "C2/m2/c2_1/a",
+      "weight_fraction": 0.0267,
+      "weight_fraction_error": 0.00079,
+      "lattice_a_nm": 0.33496,
+      "lattice_b_nm": 1.04137,
+      "lattice_c_nm": 0.44231,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 26.3
+    },
+    {
+      "phase_name": "MgO_225_(cod_9000499)-0",
+      "spacegroup": "F4/m-32/m",
+      "weight_fraction": 0.02868,
+      "weight_fraction_error": 0.0009,
+      "lattice_a_nm": 0.420452,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 12.9
+    }
+  ],
+  "chemical_system": "Mg-Na-O-P",
+  "target_formula": "Na5.5Mg2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T16:13:39.465525",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

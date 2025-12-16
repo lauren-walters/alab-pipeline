@@ -1,0 +1,293 @@
+# generated using pymatgen
+data_1557038
+loop_
+ _publ_author_name
+  'Eklund, Ann-Marie'
+  'Forsblom, Ingrid'
+  'Berg, Jan-Eric'
+  'Damberg, Charlotta'
+  'Wahlberg, Inger'
+_publ_section_title
+'Tobacco Chemistry. 83. Four New Cyclized Cembranoids from Tobacco'
+_journal_name_full   'Acta Chemica Scandinavica'
+_journal_page_first   1254
+_journal_page_last   1262
+_journal_paper_doi   10.3891/acta.chem.scand.52-1254
+_journal_volume   52
+_journal_year   1998
+_chemical_formula_sum   'C20 H32 O4'
+_chemical_formula_weight   336.47
+_space_group_IT_number   19
+_space_group_name_Hall   'P 2ac 2ab'
+_space_group_name_H-M_alt   'P 21 21 21'
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   19
+_symmetry_space_group_name_Hall   'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   4
+_cell_length_a   9.3134(4)
+_cell_length_b   11.3699(14)
+_cell_length_c   17.7933(11)
+_cell_volume   1884.2(3)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   CuK\a
+_diffrn_radiation_wavelength   1.54184
+_exptl_absorpt_coefficient_mu   0.610
+_exptl_crystal_density_diffrn   1.19
+_refine_ls_goodness_of_fit_ref   1.142
+_refine_ls_number_parameters   230
+_refine_ls_number_reflns   1705
+_refine_ls_R_factor_gt   0.051
+_refine_ls_wR_factor_gt   0.054
+_refine_ls_wR_factor_ref   0.057
+_cod_data_source_file   Acta-Chem-Scand-1998-52-1254-1.cif
+_cod_data_source_block   1
+_cod_database_code   1557038
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  1/2-x,-y,1/2+z
+  3  1/2+x,1/2-y,-z
+  4  -x,1/2+y,1/2-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  O1  O  Uiso  -0.1520(2)  -0.2791(2)  -0.03590(10)  1.000
+  0.0407(6)  .  .  .  .
+  O2  O  Uiso  0.0894(3)  -0.2744(2)  0.10880(10)  1.000  0.0571(8)
+  .  .  .  .
+  O3  O  Uiso  -0.3152(2)  -0.4774(2)  0.18230(10)  1.000  0.0379(6)
+  .  .  .  .
+  O4  O  Uiso  -0.4092(2)  -0.3438(2)  0.09490(10)  1.000  0.0353(6)
+  .  .  .  .
+  C1  C  Uiso  -0.4524(3)  -0.5458(2)  0.0449(2)  1.000  0.0415(8)
+  .  .  .  .
+  C2  C  Uiso  -0.3661(3)  -0.4305(2)  0.03950(10)  1.000  0.0323(7)
+  .  .  .  .
+  C3  C  Uiso  -0.1996(3)  -0.4500(2)  0.0405(2)  1.000  0.0328(7)
+  .  .  .  .
+  C4  C  Uiso  -0.1133(3)  -0.4020(2)  -0.0269(2)  1.000  0.0359(8)
+  .  .  .  .
+  C5  C  Uiso  0.0406(3)  -0.4111(3)  0.0022(2)  1.000  0.0389(8)  .
+  .  .  .
+  C6  C  Uiso  0.0347(3)  -0.3871(3)  0.0874(2)  1.000  0.0414(9)  .
+  .  .  .
+  C7  C  Uiso  -0.1260(3)  -0.3889(2)  0.1061(2)  1.000  0.0341(8)
+  .  .  .  .
+  C8  C  Uiso  -0.1670(3)  -0.4351(3)  0.1854(2)  1.000  0.0376(8)
+  .  .  .  .
+  C9  C  Uiso  -0.1783(4)  -0.3311(3)  0.2393(2)  1.000  0.0498(10)
+  .  .  .  .
+  C10  C  Uiso  -0.3259(4)  -0.2788(3)  0.2185(2)  1.000  0.0543(11)
+  .  .  .  .
+  C11  C  Uiso  -0.4027(3)  -0.3771(3)  0.1747(2)  1.000  0.0411(8)
+  .  .  .  .
+  C12  C  Uiso  -0.5542(3)  -0.4091(3)  0.1960(2)  1.000  0.0486(10)
+  .  .  .  .
+  C13  C  Uiso  -0.6076(4)  -0.5227(3)  0.1632(2)  1.000  0.0553(11)
+  .  .  .  .
+  C14  C  Uiso  -0.6026(3)  -0.5303(3)  0.0780(2)  1.000  0.0490(10)
+  .  .  .  .
+  C15  C  Uiso  -0.4565(4)  -0.6067(3)  -0.0333(2)  1.000
+  0.0599(11)  .  .  .  .
+  C16  C  Uiso  -0.5629(5)  -0.5489(5)  -0.0881(2)  1.000
+  0.0787(16)  .  .  .  .
+  C17  C  Uiso  -0.4870(6)  -0.7378(4)  -0.0270(3)  1.000  0.096(2)
+  .  .  .  .
+  C18  C  Uiso  -0.1345(4)  -0.4644(3)  -0.1014(2)  1.000
+  0.0520(10)  .  .  .  .
+  C19  C  Uiso  -0.0792(4)  -0.5390(3)  0.2137(2)  1.000  0.0499(10)
+  .  .  .  .
+  C20  C  Uiso  -0.6373(5)  -0.3386(5)  0.2373(3)  1.000  0.0780(16)
+  .  .  .  .
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  C  0.0181  0.0091
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0492  0.0322
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  C8  O3  C11  106.5(2)  .  .  .  yes
+  C2  O4  C11  118.0(2)  .  .  .  yes
+  C2  C1  C14  113.8(2)  .  .  .  no
+  C2  C1  C15  109.6(2)  .  .  .  no
+  C14  C1  C15  112.0(3)  .  .  .  no
+  C11  C12  C13  114.9(3)  .  .  .  no
+  C11  C12  C20  122.5(3)  .  .  .  no
+  C13  C12  C20  122.6(3)  .  .  .  no
+  O4  C2  C1  113.0(2)  .  .  .  yes
+  O4  C2  C3  111.2(2)  .  .  .  yes
+  C1  C2  C3  113.3(2)  .  .  .  no
+  C2  C3  C4  117.2(2)  .  .  .  no
+  C2  C3  C7  113.0(2)  .  .  .  no
+  C4  C3  C7  101.5(2)  .  .  .  no
+  O1  C4  C3  107.3(2)  .  .  .  yes
+  O1  C4  C5  109.6(2)  .  .  .  yes
+  O1  C4  C18  108.8(3)  .  .  .  yes
+  C3  C4  C5  101.6(3)  .  .  .  no
+  C3  C4  C18  116.5(2)  .  .  .  no
+  C5  C4  C18  112.8(3)  .  .  .  no
+  C4  C5  C6  106.7(2)  .  .  .  no
+  O2  C6  C5  114.1(3)  .  .  .  yes
+  O2  C6  C7  107.6(2)  .  .  .  yes
+  C5  C6  C7  104.2(2)  .  .  .  no
+  C3  C7  C6  106.2(3)  .  .  .  no
+  C3  C7  C8  115.6(2)  .  .  .  no
+  C6  C7  C8  116.2(3)  .  .  .  no
+  O3  C8  C7  108.0(2)  .  .  .  yes
+  O3  C8  C9  102.3(2)  .  .  .  yes
+  O3  C8  C19  105.3(3)  .  .  .  yes
+  C7  C8  C9  109.0(3)  .  .  .  no
+  C7  C8  C19  115.5(3)  .  .  .  no
+  C9  C8  C19  115.5(3)  .  .  .  no
+  C8  C9  C10  102.1(3)  .  .  .  no
+  C9  C10  C11  104.8(3)  .  .  .  no
+  O3  C11  O4  109.0(2)  .  .  .  yes
+  O3  C11  C12  108.8(3)  .  .  .  yes
+  O3  C11  C10  105.7(2)  .  .  .  yes
+  O4  C11  C12  105.5(2)  .  .  .  yes
+  O4  C11  C10  108.7(3)  .  .  .  yes
+  C12  C11  C10  118.9(3)  .  .  .  no
+  C12  C13  C14  115.3(3)  .  .  .  no
+  C1  C14  C13  114.8(3)  .  .  .  no
+  C1  C15  C16  113.1(3)  .  .  .  no
+  C1  C15  C17  112.0(3)  .  .  .  no
+  C16  C15  C17  110.2(4)  .  .  .  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  O1  C4  1.452(3)  .  .  yes
+  O2  C6  1.431(4)  .  .  yes
+  O3  C8  1.463(3)  .  .  yes
+  O3  C11  1.408(4)  .  .  yes
+  O4  C2  1.451(3)  .  .  yes
+  O4  C11  1.471(4)  .  .  yes
+  C1  C2  1.541(3)  .  .  no
+  C1  C14  1.528(4)  .  .  no
+  C1  C15  1.555(5)  .  .  no
+  C12  C11  1.506(4)  .  .  no
+  C12  C13  1.502(5)  .  .  no
+  C12  C20  1.335(6)  .  .  no
+  C2  C3  1.567(4)  .  .  no
+  C3  C4  1.543(5)  .  .  no
+  C3  C7  1.522(5)  .  .  no
+  C4  C5  1.528(4)  .  .  no
+  C4  C18  1.516(5)  .  .  no
+  C5  C6  1.541(5)  .  .  no
+  C6  C7  1.533(4)  .  .  no
+  C7  C8  1.553(5)  .  .  no
+  C8  C9  1.526(5)  .  .  no
+  C8  C19  1.522(5)  .  .  no
+  C9  C10  1.543(5)  .  .  no
+  C10  C11  1.539(5)  .  .  no
+  C13  C14  1.519(5)  .  .  no
+  C15  C16  1.538(6)  .  .  no
+  C15  C17  1.522(6)  .  .  no
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  C8  O3  C11  C10  -33.1(3)  .  .  .  .  no
+  C11  O3  C8  C9  44.6(3)  .  .  .  .  no
+  C11  O3  C8  C19  165.7(3)  .  .  .  .  no
+  C11  O3  C8  C7  -70.4(3)  .  .  .  .  no
+  C8  O3  C11  C12  -161.9(3)  .  .  .  .  no
+  C8  O3  C11  O4  83.6(3)  .  .  .  .  no
+  C2  O4  C11  O3  17.1(3)  .  .  .  .  no
+  C2  O4  C11  C10  131.9(3)  .  .  .  .  no
+  C2  O4  C11  C12  -99.5(3)  .  .  .  .  no
+  C11  O4  C2  C1  57.1(3)  .  .  .  .  no
+  C11  O4  C2  C3  -71.7(3)  .  .  .  .  no
+  C15  C1  C2  C3  -79.3(3)  .  .  .  .  no
+  C15  C1  C2  O4  153.0(2)  .  .  .  .  no
+  C14  C1  C2  O4  26.8(3)  .  .  .  .  no
+  C2  C1  C15  C17  158.0(3)  .  .  .  .  no
+  C14  C1  C15  C16  50.6(4)  .  .  .  .  no
+  C14  C1  C15  C17  -74.7(4)  .  .  .  .  no
+  C2  C1  C15  C16  -76.7(4)  .  .  .  .  no
+  C15  C1  C14  C13  154.7(3)  .  .  .  .  no
+  C14  C1  C2  C3  154.5(3)  .  .  .  .  no
+  C2  C1  C14  C13  -80.3(3)  .  .  .  .  no
+  C13  C12  C11  O3  -45.4(4)  .  .  .  .  no
+  C20  C12  C11  O4  -105.0(4)  .  .  .  .  no
+  C20  C12  C11  C10  17.3(5)  .  .  .  .  no
+  C13  C12  C11  O4  71.4(3)  .  .  .  .  no
+  C20  C12  C13  C14  119.2(4)  .  .  .  .  no
+  C13  C12  C11  C10  -166.4(3)  .  .  .  .  no
+  C11  C12  C13  C14  -57.1(4)  .  .  .  .  no
+  C20  C12  C11  O3  138.3(4)  .  .  .  .  no
+  C1  C2  C3  C4  122.6(2)  .  .  .  .  no
+  C1  C2  C3  C7  -119.9(2)  .  .  .  .  no
+  O4  C2  C3  C7  8.8(3)  .  .  .  .  no
+  O4  C2  C3  C4  -108.7(2)  .  .  .  .  no
+  C2  C3  C4  O1  52.4(3)  .  .  .  .  no
+  C7  C3  C4  O1  -71.2(3)  .  .  .  .  no
+  C2  C3  C4  C5  167.4(2)  .  .  .  .  no
+  C2  C3  C4  C18  -69.7(3)  .  .  .  .  no
+  C7  C3  C4  C5  43.9(2)  .  .  .  .  no
+  C7  C3  C4  C18  166.8(2)  .  .  .  .  no
+  C2  C3  C7  C6  -164.7(2)  .  .  .  .  no
+  C2  C3  C7  C8  64.8(3)  .  .  .  .  no
+  C4  C3  C7  C6  -38.4(3)  .  .  .  .  no
+  C4  C3  C7  C8  -168.9(2)  .  .  .  .  no
+  C3  C4  C5  C6  -33.9(3)  .  .  .  .  no
+  C18  C4  C5  C6  -159.4(3)  .  .  .  .  no
+  O1  C4  C5  C6  79.3(3)  .  .  .  .  no
+  C4  C5  C6  C7  10.7(3)  .  .  .  .  no
+  C4  C5  C6  O2  -106.4(3)  .  .  .  .  no
+  O2  C6  C7  C3  138.9(2)  .  .  .  .  no
+  C5  C6  C7  C8  147.5(3)  .  .  .  .  no
+  O2  C6  C7  C8  -91.0(3)  .  .  .  .  no
+  C5  C6  C7  C3  17.4(3)  .  .  .  .  no
+  C3  C7  C8  C9  -141.2(3)  .  .  .  .  no
+  C3  C7  C8  C19  86.9(3)  .  .  .  .  no
+  C6  C7  C8  O3  -156.2(2)  .  .  .  .  no
+  C6  C7  C8  C9  93.3(3)  .  .  .  .  no
+  C6  C7  C8  C19  -38.6(4)  .  .  .  .  no
+  C3  C7  C8  O3  -30.7(3)  .  .  .  .  no
+  C19  C8  C9  C10  -150.3(3)  .  .  .  .  no
+  O3  C8  C9  C10  -36.5(3)  .  .  .  .  no
+  C7  C8  C9  C10  77.7(3)  .  .  .  .  no
+  C8  C9  C10  C11  17.3(3)  .  .  .  .  no
+  C9  C10  C11  C12  131.2(3)  .  .  .  .  no
+  C9  C10  C11  O3  8.7(3)  .  .  .  .  no
+  C9  C10  C11  O4  -108.2(3)  .  .  .  .  no
+  C12  C13  C14  C1  73.5(4)  .  .  .  .  no

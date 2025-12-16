@@ -1,0 +1,97 @@
+# generated using pymatgen
+data_2012012
+loop_
+ _publ_author_name
+  'Graetsch, Heribert A.'
+_publ_section_title
+;
+Hexagonal high-temperature form of AlPO~4~ tridymite, from X-ray
+powder data
+;
+_journal_name_full   'Acta Crystallographica, Section C'
+_journal_page_first   665
+_journal_page_last   667
+_journal_paper_doi   10.1107/S0108270101005133
+_journal_volume   57
+_journal_year   2001
+_chemical_formula_iupac   'Al P O4'
+_chemical_formula_moiety   'Al P O4'
+_chemical_formula_structural   'Al P O4'
+_chemical_formula_sum   'Al O4 P'
+_chemical_formula_weight   121.95
+_space_group_IT_number   186
+_space_group_name_Hall   'P 6c -2c'
+_space_group_name_H-M_alt   'P 63 m c'
+_symmetry_cell_setting   hexagonal
+_symmetry_space_group_name_Hall   'P 6c -2c'
+_symmetry_space_group_name_H-M   'P 63 m c'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   120.0
+_cell_formula_units_Z   2
+_cell_length_a   5.0976(3)
+_cell_length_b   5.0976(3)
+_cell_length_c   8.3441(4)
+_cell_measurement_temperature   593
+_cell_volume   187.77(2)
+_diffrn_ambient_temperature   593
+_exptl_crystal_density_diffrn   2.1570(10)
+_cod_database_code   2012012
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  x-y,x,1/2+z
+  3  -y,x-y,z
+  4  -x,-y,1/2+z
+  5  y-x,-x,z
+  6  y,y-x,1/2+z
+  7  y-x,y,z
+  8  -x,y-x,1/2+z
+  9  -y,-x,z
+  10  x-y,-y,1/2+z
+  11  x,x-y,z
+  12  y,x,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+ _atom_site_type_symbol
+  Al  .33333  .66667  .06250  .0530(6)  Uiso  1  Al
+  P  .33333  .66667  .4376(4)  .0530(6)  Uiso  1  P
+  O1  .2524(9)  .5859(9)  .2631(4)  .0530(6)  Uiso  .16667  O
+  O2  .5417(8)  .5445(8)  -.0438(7)  .0530(6)  Uiso  .16667  O
+  O3  .4285(7)  .4033(7)  -.0018(8)  .0530(6)  Uiso  .16667  O
+  O4  .4837(8)  .4317(8)  .0382(7)  .0530(6)  Uiso  .16667  O
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Al  O1  .  1.724(4)  no
+  Al  O2  .  1.722(4)  no
+  Al  O3  .  1.725(4)  no
+  Al  O4  .  1.727(3)  no
+  P  O1  .  1.514(5)  no
+  P  O2  10_565  1.508(4)  no
+  P  O3  2_555  1.513(4)  no
+  P  O4  2_555  1.514(5)  no
+  O1  O1  11_565  .411(6)  no
+  O1  O1  7_555  .414(6)  no
+  O1  O1  5_565  .714(6)  no
+  O1  O1  3_665  .714(6)  no
+  O1  O1  9_665  .825(6)  no
+  O2  O2  9_665  .440(8)  no
+  O2  O3  9_665  .426(8)  no
+  O2  O3  1_555  .747(8)  no
+  O2  O4  9_665  .726(8)  no
+  O2  O4  1_555  .846(8)  no
+  Al  P  .  3.130(4)  no
+  Al  P  2_554  3.122(2)  no
+  Al  P  2_654  3.122(2)  no
+  Al  P  2_664  3.122(2)  no

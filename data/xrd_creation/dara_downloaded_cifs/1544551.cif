@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_1544551
+loop_
+ _publ_author_name
+  'Pellicer-Porres, J.'
+  'Saitta, A.M.'
+  'Polian, A.'
+  'Itie, J.P.'
+  'Hanfland, M.'
+_publ_section_title
+;
+Six-fold-coordinated phosphours by oxygen in AlPO4 quartz homeotype
+under  high pressure :Sample at 13.9 GPa
+;
+_journal_name_full   'Nature Materials'
+_journal_page_first   698
+_journal_page_last   702
+_journal_volume   6
+_journal_year   2007
+_chemical_formula_sum   'Al O4 P'
+_chemical_name_common   'AlPO4 CrVO4 structure @ 13.9 GPa'
+_space_group_IT_number   63
+_space_group_name_H-M_alt   'C m c m'
+_symmetry_space_group_name_Hall   '-C 2c 2'
+_symmetry_space_group_name_H-M   'C m c m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.0365(7)
+_cell_length_b   7.2908(9)
+_cell_length_c   5.7491(9)
+_cell_volume   211.11(5)
+_cod_data_source_file   AlPO4-Cmcm.cif
+_cod_data_source_block   AlPO4_Cmcm
+_cod_original_formula_sum   'Al P O4'
+_cod_database_code   1544551
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-x, -y, -z'
+  '-x, -y, z+1/2'
+  'x, y, -z+1/2'
+  '-x, y, -z+1/2'
+  'x, -y, z+1/2'
+  'x, -y, -z'
+  '-x, y, z'
+  'x+1/2, y+1/2, z'
+  '-x+1/2, -y+1/2, -z'
+  '-x+1/2, -y+1/2, z+1/2'
+  'x+1/2, y+1/2, -z+1/2'
+  '-x+1/2, y+1/2, -z+1/2'
+  'x+1/2, -y+1/2, z+1/2'
+  'x+1/2, -y+1/2, -z'
+  '-x+1/2, y+1/2, z'
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+  Al  1.0  0.000000  0.000000  0.000000  Biso  1.000000  Al
+  P  1.0  0.000000  0.3504(7)  0.250000  Biso  1.000000  P
+  O1  1.0  0.2490(10)  0.9794(7)  0.250000  Biso  1.000000  O
+  O2  1.0  0.000000  0.7519(8)  0.9690(10)  Biso  1.000000  O

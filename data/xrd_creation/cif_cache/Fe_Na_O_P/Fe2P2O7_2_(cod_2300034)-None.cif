@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_2300034
+loop_
+ _publ_author_name
+  'Henry, Paul F.'
+  'Weller, Mark T.'
+  'Wilson, Chick C.'
+_publ_section_title
+;
+Determination of the cation distribution in Fe~2~Ni(PO~4~)~2~ using
+isotopic substitution and powder neutron diffraction
+;
+_journal_issue   6
+_journal_name_full   'Journal of Applied Crystallography'
+_journal_page_first   1361
+_journal_page_last   1367
+_journal_paper_doi   10.1107/S0021889803017515
+_journal_volume   36
+_journal_year   2003
+_chemical_formula_sum   'Fe2 O7 P2'
+_chemical_formula_weight   285.64
+_chemical_name_systematic   ?
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1 (1/2*x+1/2*y,1/2*x-1/2*y,-z)'
+_symmetry_space_group_name_H-M   'C -1'
+_cell_angle_alpha   90.43(4)
+_cell_angle_beta   103.80(4)
+_cell_angle_gamma   92.49(6)
+_cell_formula_units_Z   2
+_cell_length_a   6.643(3)
+_cell_length_b   8.447(5)
+_cell_length_c   4.495(3)
+_cell_volume   244.7(2)
+_cod_data_source_file   he0320.cif
+_cod_data_source_block   ISO191A_phase_2
+_cod_original_cell_volume   244.66275
+_cod_database_code   2300034
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  -1  -x,-y,-z
+  101  +x+1/2,+y+1/2,+z
+  -101  -x+1/2,-y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+ _atom_site_type_symbol
+  FE1  0.0096  0.3101  0.483  0.015  Uiso  1.0  FE
+  P2  0.7884  -0.0006  0.0899  0.015  Uiso  1.0  P
+  O3  0.0  0.0  0.0  0.015  Uiso  1.0  O
+  O4  0.3748  0.0047  0.2148  0.015  Uiso  1.0  O
+  O5  0.7892  0.1487  0.2741  0.015  Uiso  1.0  O
+  O6  0.2745  0.3527  0.2782  0.015  Uiso  1.0  O
+loop_
+ _atom_type_symbol
+  FE
+  P
+  O

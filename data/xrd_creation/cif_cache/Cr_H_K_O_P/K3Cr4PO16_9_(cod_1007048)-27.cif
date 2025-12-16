@@ -1,0 +1,90 @@
+# generated using pymatgen
+data_1007048
+loop_
+ _publ_author_name
+  'Averbuch-Pouchot, M T'
+  'Durif, A'
+  'Guitel, J C'
+_publ_section_title
+;
+Crystal structure of K~3~ P Cr~4~ O~16~: A second example of a
+quaternary phosphorus
+;
+_journal_coden_ASTM   JSSCBI
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   253
+_journal_page_last   258
+_journal_paper_doi   10.1016/0022-4596(81)90042-6
+_journal_volume   38
+_journal_year   1981
+_chemical_formula_structural   'K3 P Cr4 O16'
+_chemical_formula_sum   'Cr4 K3 O16 P'
+_chemical_name_systematic   'Potassium tetrakis(chromato)phosphate'
+_space_group_IT_number   9
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   9
+_symmetry_space_group_name_Hall   'C -2yc'
+_symmetry_space_group_name_H-M   'C 1 c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   106.13(5)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.512(6)
+_cell_length_b   11.74(2)
+_cell_length_c   14.74(2)
+_cell_volume   1581.2
+_refine_ls_R_factor_all   0.055
+_cod_database_code   1007048
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,-y,1/2+z
+  1/2+x,1/2+y,z
+  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Cr1  Cr6+  4  a  0.4447  0.2361(3)  0.1411  1.  0  d
+  Cr2  Cr6+  4  a  0.3327(4)  0.4351(3)  0.4588(2)  1.  0  d
+  Cr3  Cr6+  4  a  0.3371(4)  0.0569(3)  0.4359(2)  1.  0  d
+  Cr4  Cr6+  4  a  0.4491(4)  0.2643(3)  0.7614(2)  1.  0  d
+  P1  P5+  4  a  0.1204(5)  0.2335(4)  0.4801(3)  1.  0  d
+  K1  K1+  4  a  0.2080(6)  0.4622(5)  0.1725(3)  1.  0  d
+  K2  K1+  4  a  0.1462(6)  0.2734(4)  0.8907(3)  1.  0  d
+  K3  K1+  4  a  0.1884(6)  0.0097(5)  0.1606(4)  1.  0  d
+  O1  O2-  4  a  0.981(2)  0.165(1)  0.718(1)  1.  0  d
+  O2  O2-  4  a  0.994(2)  0.385(1)  0.688(1)  1.  0  d
+  O3  O2-  4  a  0.276(2)  0.233(2)  0.090(1)  1.  0  d
+  O4  O2-  4  a  0.042(3)  0.221(2)  0.567(2)  1.  0  d
+  O5  O2-  4  a  0.250(3)  0.494(3)  0.365(2)  1.  0  d
+  O6  O2-  4  a  0.968(3)  0.123(3)  0.950(2)  1.  0  d
+  O7  O2-  4  a  0.368(3)  0.473(2)  0.038(1)  1.  0  d
+  O8  O2-  4  a  0.212(2)  0.343(2)  0.495(2)  1.  0  d
+  O9  O2-  4  a  -0.004(2)  0.431(2)  .000(1)  1.  0  d
+  O10  O2-  4  a  0.333(2)  0.125(2)  0.341(1)  1.  0  d
+  O11  O2-  4  a  0.279(3)  0.065(2)  0.906(2)  1.  0  d
+  O12  O2-  4  a  0.214(2)  0.128(1)  0.494(1)  1.  0  d
+  O13  O2-  4  a  0.463(4)  0.383(2)  0.718(2)  1.  0  d
+  O14  O2-  4  a  0.288(2)  0.251(4)  0.744(2)  1.  0  d
+  O15  O2-  4  a  0.047(4)  0.311(3)  0.225(2)  1.  0  d
+  O16  O2-  4  a  0.501(2)  0.264(2)  0.888(1)  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Cr6+  6.000
+  P5+  5.000
+  K1+  1.000
+  O2-  -2.000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139036394

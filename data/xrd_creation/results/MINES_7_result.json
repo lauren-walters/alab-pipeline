@@ -1,0 +1,17 @@
+{
+  "experiment_id": "65c59d14c73aef61aef16bc2",
+  "experiment_name": "MINES_7",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Li-O-Si-V",
+  "target_formula": "LiVSi2O6",
+  "analysis_timestamp": "2025-12-06T17:14:07.294225",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

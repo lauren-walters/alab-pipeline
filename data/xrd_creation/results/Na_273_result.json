@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6670d976c9ce0227b889a850",
+  "experiment_name": "Na_273",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Fe-Na-O-P",
+  "target_formula": "Na4FeP2O9",
+  "analysis_timestamp": "2025-12-06T13:50:25.621130",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

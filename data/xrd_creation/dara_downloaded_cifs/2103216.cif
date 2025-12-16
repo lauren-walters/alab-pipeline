@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_2103216
+loop_
+ _publ_author_name
+  'Marsh, Richard E.'
+  'Kapon, Moshe'
+  'Hu, Shengzhi'
+  'Herbstein, Frank H.'
+_publ_section_title   'Some 60 new space-group corrections'
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   62
+_journal_page_last   77
+_journal_paper_doi   10.1107/S0108768101017128
+_journal_volume   58
+_journal_year   2002
+_chemical_formula_sum   'C18 H16'
+_chemical_name_systematic
+cis-transoid-cis-Cyclobuta(1,2-a;3,4-a')di-indene
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90.00
+_cell_angle_beta   97.60
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   7.162
+_cell_length_b   6.320
+_cell_length_c   13.647
+_cell_volume   612.289
+_cod_data_source_file   bm0047.cif
+_cod_data_source_block   CSD_CIF_Table_55S
+_cod_original_sg_symbol_H-M   P21/n
+_cod_original_formula_sum   'C18 H16'
+_cod_database_code   2103216
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x+1/2, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x-1/2, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_attached_hydrogens
+  C1  C  .4091  .0815  .0482  1
+  C2  C  .3932  -.1230  -.0170  1
+  C5  C  .0008  .1839  -.1501  1
+  C6  C  -.0668  .0555  -.2296  1
+  C7  C  .0121  -.1380  -.2412  1
+  C8  C  .1615  -.2080  -.1752  1
+  C9  C  .2314  -.0816  -.0958  0
+  C10  C  .1514  .1168  -.0835  0
+  C17  C  .2464  .2284  .0062  2
+loop_
+ _atom_type_symbol
+  C
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2017-08-04T10:53:58+03:00
+;
+Added the '_cell_formula_units_Z' data item after consulting the
+original  publication.
+;
+
+  2  'Vaitkus, Antanas'  2017-08-04T15:51:35+03:00
+  'Marked attached hydrogen atoms.'
+  3  'Vaitkus, Antanas'  2024-12-11T16:12:30+02:00
+  "Added the '_atom_site_type_symbol' data item."
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  20055161

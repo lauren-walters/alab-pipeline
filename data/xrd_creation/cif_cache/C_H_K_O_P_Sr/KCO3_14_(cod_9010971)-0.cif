@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_9010971
+loop_
+ _publ_author_name
+  'Nitta, I.'
+  'Tomiie, Y.'
+  'Koo, C. H.'
+_publ_section_title
+'The crystal structure of potassium bicarbonate, KHCO3'
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   292
+_journal_page_last   292
+_journal_paper_doi   10.1107/S0365110X52000848
+_journal_volume   5
+_journal_year   1952
+_chemical_formula_sum   'C K O3'
+_chemical_name_mineral   Kalicinite
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   103.75
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   15.11
+_cell_length_b   5.67
+_cell_length_c   3.71
+_cell_volume   308.741
+_database_code_amcsd   0009145
+_exptl_crystal_density_diffrn   2.132
+_cod_original_formula_sum   'K C O3'
+_cod_database_code   9010971
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  K  0.16330  0.02100  0.30100  0.02242  K  0
+  C  0.11770  0.52900  -0.15000  0.02242  C  0
+  OI  0.19600  0.54100  0.07800  0.02242  O  0
+  OII  0.08130  0.72500  -0.31700  0.02242  O  0
+  OIII  0.07890  0.32000  -0.23300  0.02242  O  0
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-23T09:20:29+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009145

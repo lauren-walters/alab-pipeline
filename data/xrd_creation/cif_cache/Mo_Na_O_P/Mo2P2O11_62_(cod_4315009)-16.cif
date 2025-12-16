@@ -1,0 +1,96 @@
+# generated using pymatgen
+data_4315009
+loop_
+ _publ_author_name
+  'Sarah E. Lister'
+  'Anne Soleilhavoup'
+  'Ray L. Withers'
+  'Paul Hodgkinson'
+  'John S. O. Evans'
+_publ_section_title
+'Structures and Phase Transitions in (MoO2)2P2O7'
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   2290
+_journal_page_last   2301
+_journal_paper_doi   10.1021/ic902166j
+_journal_volume   49
+_journal_year   2010
+_chemical_formula_moiety   'Mo2 O11 P2'
+_chemical_formula_sum   'Mo2 O11 P2'
+_chemical_formula_weight   429.82
+_chemical_name_common   gamma_(MoO2)2P2O7
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   12.6577(1)
+_cell_length_b   6.3095(1)
+_cell_length_c   10.4161(1)
+_cell_measurement_temperature   423
+_cell_volume   831.869(17)
+_diffrn_ambient_temperature   423
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   0.35285
+_refine_ls_R_factor_all   0.0778
+_cod_data_source_file   ic902166j_si_002_2.cif
+_cod_data_source_block   block
+_cod_original_cell_volume   831.87(2)
+_cod_database_code   4315009
+loop_
+ _symmetry_equiv_pos_as_xyz
+  '-x, -y, -z'
+  '-x, y+1/2, -z'
+  '-x+1/2, -y, z+1/2'
+  '-x+1/2, y+1/2, z+1/2'
+  'x, -y+1/2, z'
+  'x, y, z'
+  'x+1/2, -y+1/2, -z+1/2'
+  'x+1/2, y, -z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_B_iso_or_equiv
+  Mo1  Mo  4  0.99791(12)  0.25  0.22335(10)  1  0.876(22)
+  Mo2  Mo  4  0.25110(12)  0.25  0.01518(11)  1  0.934(25)
+  P1  P  4  0.65753(26)  0.25  0.99076(34)  1  0.886(71)
+  P2  P  4  0.97097(27)  0.25  0.69115(34)  1  1.071(73)
+  O1  O  8  0.27412(32)  0.55703(63)  0.02444(40)  1  2.029(91)
+  O2  O  8  0.03072(32)  0.55560(62)  0.22579(35)  1  1.298(82)
+  O3  O  4  0.89380(53)  0.25  0.58119(63)  1  3.12(17)
+  O4  O  4  0.59552(48)  0.25  0.10803(60)  1  2.27(14)
+  O5  O  4  0.08549(55)  0.25  0.62910(70)  1  3.44(17)
+  O6  O  4  0.16313(43)  0.25  0.13893(54)  1  1.20(12)
+  O7  O  4  0.38594(48)  0.25  0.18806(55)  1  2.17(12)
+  O8  O  4  0.17145(54)  0.25  0.88701(65)  1  3.53(18)
+  O9  O  4  0.45055(45)  0.25  0.42490(57)  1  2.27(14)
+loop_
+ _atom_type_symbol
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_Cromer_Mann_a1
+ _atom_type_scat_Cromer_Mann_b1
+ _atom_type_scat_Cromer_Mann_a2
+ _atom_type_scat_Cromer_Mann_b2
+ _atom_type_scat_Cromer_Mann_a3
+ _atom_type_scat_Cromer_Mann_b3
+ _atom_type_scat_Cromer_Mann_a4
+ _atom_type_scat_Cromer_Mann_b4
+ _atom_type_scat_Cromer_Mann_c
+ _atom_type_scat_source
+  Mo  -1.6832  0.6857  3.7025  0.2772  17.2356  1.0958  12.8876
+  11.0040  3.7429  61.6584  4.3875
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+  O  0.0106  0.0060  3.0485  13.2771  2.2868  5.7011  1.5463  0.3239
+  0.8670  32.9089  0.2508
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'
+  P  0.1023  0.0942  6.4345  1.9067  4.1791  27.1570  1.7800  0.5260
+  1.4908  68.1645  1.1149
+  'International Tables Vol C 4.2.6.8 and 6.1.1.4'

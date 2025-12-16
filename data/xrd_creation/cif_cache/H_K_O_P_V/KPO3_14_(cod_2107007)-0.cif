@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_2107007
+loop_
+ _publ_author_name
+  'Jost, K.H.'
+  'Schulze, H.J.'
+_publ_section_title
+'Zur Phasentransformation des Kaliumpolyphosphates (K P O3)x'
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   1110
+_journal_page_last   1118
+_journal_volume   25
+_journal_year   1969
+_chemical_formula_sum   'K O3 P'
+_chemical_name_systematic   'K (P O3)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   64.7
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   14.03
+_cell_length_b   4.54
+_cell_length_c   11.56
+_cell_volume   665.701
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Jost_ACBCAR_1969_1109.cif
+_cod_data_source_block   K1O3P1
+_cod_original_cell_volume   665.7014
+_cod_original_sg_symbol_Hall   '-P 2ybc (z,y,-x)'
+_cod_original_formula_sum   'K1 O3 P1'
+_cod_database_code   2107007
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z
+  -x,-y,-z
+  x-1/2,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  K1  K+1  0.9223  0.734  0.4081  1  0.0
+  O4  O-2  0.84  0.221  0.803  1  0.0
+  O6  O-2  0.698  0.37  0.737  1  0.0
+  P2  P+5  0.6625  0.696  0.7862  1  0.0
+  O2  O-2  0.919  0.266  0.256  1  0.0
+  O3  O-2  0.884  0.256  0.565  1  0.0
+  P1  P+5  0.8094  0.186  0.6997  1  0.0
+  O5  O-2  0.771  0.875  0.698  1  0.0
+  O1  O-2  0.649  0.717  0.918  1  0.0
+  K2  K+1  0.1264  0.285  0.0684  1  0.0

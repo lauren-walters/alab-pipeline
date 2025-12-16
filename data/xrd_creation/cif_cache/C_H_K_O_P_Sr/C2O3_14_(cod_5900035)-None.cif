@@ -1,0 +1,103 @@
+# generated using pymatgen
+data_5900035
+loop_
+ _publ_author_name
+  'Dunitz, J. D.'
+  'Robertson, J. Monteath'
+_publ_section_title
+;
+The crystal and molecular structure of certain dicarboxylic acids.
+Part II. Acetylenedicarboxylic acid dihydrate
+;
+_journal_name_full   'Journal of the Chemical Society'
+_journal_page_first   148
+_journal_page_last   154
+_journal_paper_doi   10.1039/JR9470000148
+_journal_year   1947
+_chemical_formula_sum   'C4 H6 O6'
+_chemical_name_systematic   'Acetylene dicarboxylic acid dihydrate'
+_space_group_crystal_system   monoclinic
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2yab'
+_space_group_name_H-M_alt   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   98.0(3)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   11.05(3)
+_cell_length_b   3.86(1)
+_cell_length_c   7.98(2)
+_cod_data_source_file   035_acetylene_dicarboxylic_acid_dihydrate.cif
+_cod_data_source_block   acetylene_dicarboxylic_acid_dihyrate
+_cod_depositor_comments
+;
+Updating space group information and adding the symmetry operation
+list.  Antanas Vaitkus,  2018-06-17  Changing the atom site type
+symbol of the'H2O' atom from 'H2O' to 'O' and  correcting a typo in
+the systematic chemical name.  Antanas Vaitkus,  2018-06-17  Added the
+_citation_author_ordinal data item to the CITATION_AUTHOR loop  and
+updated the _citation_author_name data item value.  Antanas Vaitkus,
+2021-05-03
+;
+_cod_original_sg_symbol_H-M   'P 21/a'
+_cod_database_code   5900035
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x+1/2,y+1/2,-z
+  3  -x,-y,-z
+  4  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  C1  C1  4  e  -0.033  -0.005  0.054
+  C2  C2  4  e  -0.110  -0.018  0.183
+  O1  O1  4  e  -0.213  0.130  0.159
+  O2  O2  4  e  -0.071  -0.181  0.316
+  H2O  O  4  e  -0.341  0  0.396
+loop_
+ _citation_author_citation_id
+ _citation_author_ordinal
+ _citation_author_name
+  1  1  'Kitajgorodskij, A. I.'
+loop_
+ _citation_id
+ _citation_coordinate_linkage
+ _citation_title
+ _citation_book_title
+ _citation_country
+ _citation_page_first
+ _citation_page_last
+ _citation_year
+ _citation_book_publisher
+ _cod_citation_special_details
+  1  yes  ?  'Organicheskaja Kristallokhimija'  USSR  ?  ?  1955
+  "Izdatel'stvo Akademii Nauk SSSR"
+;
+Coordinates are presented as published in this book, Kitajgorodskij's
+"Organicheskaja Kristallokhimija", keyed in manually. Saulius
+Gra\<zulis
+;
+
+loop_
+ _geom_angle
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+  117  O2  C2  C1
+  120  O1  C2  C1
+  123  O2  C2  O1
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  O1  C2  1.27(4)
+  C2  O2  1.26(4)
+  C2  C1  1.43(4)
+  C1  C4  1.19(4)

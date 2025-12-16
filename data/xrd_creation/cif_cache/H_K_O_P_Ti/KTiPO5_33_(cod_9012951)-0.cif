@@ -1,0 +1,86 @@
+# generated using pymatgen
+data_9012951
+loop_
+ _publ_author_name
+  'Allan, D. R.'
+  'Nelmes, R. J.'
+_publ_section_title
+;
+The structural pressure dependence of potassium titanyl phosphate
+(KTP) to 8  GPa Sample: P = 6.3 GPa
+;
+_journal_name_full   'Journal of Physics: Condensed Matter'
+_journal_page_first   2337
+_journal_page_last   2363
+_journal_paper_doi   10.1088/0953-8984/8/14/010
+_journal_volume   8
+_journal_year   1996
+_chemical_formula_structural   KTiOPO4:
+_chemical_formula_sum   'K O5 P Ti'
+_space_group_IT_number   33
+_symmetry_space_group_name_Hall   'P 2c -2n'
+_symmetry_space_group_name_H-M   'P n a 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   12.490
+_cell_length_b   6.324
+_cell_length_c   10.069
+_cell_volume   795.318
+_database_code_amcsd   0013281
+_diffrn_ambient_pressure   6.3e+06
+_exptl_crystal_density_diffrn   3.306
+_cod_original_formula_sum   'K Ti P O5'
+_cod_database_code   9012951
+_amcsd_formula_title   KTiOPO4:
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,z
+  1/2-x,1/2+y,1/2+z
+  -x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  K1  0.39640  0.77790  0.63090  K  0
+  K2  0.11380  0.70130  0.86710  K  0
+  Ti1  0.37120  0.48860  -0.00040  Ti  0
+  Ti2  0.27990  0.25670  0.72310  Ti  0
+  P1  0.52850  0.32170  0.76030  P  0
+  P2  0.17960  0.48110  0.47710  P  0
+  O1  0.51580  0.41860  0.89810  O  0
+  O2  0.54090  0.50450  0.65970  O  0
+  O3  0.43280  0.18490  0.71300  O  0
+  O4  0.62800  0.18400  0.75650  O  0
+  O5  0.09860  0.29670  0.46870  O  0
+  O6  0.12250  0.67530  0.52720  O  0
+  O7  0.23020  0.51250  0.33540  O  0
+  O8  0.27660  0.43480  0.56490  O  0
+  OT1  0.18830  0.97200  0.32470  O  0
+  OT2  0.24920  0.03760  0.57820  O  0
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-23T09:25:30+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0013281

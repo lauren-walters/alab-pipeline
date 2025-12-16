@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_9009242
+loop_
+ _publ_author_name
+  'Park, J. H.'
+  'Yoo, C. S.'
+  'Iota, V.'
+  'Cynn, H.'
+  'Nicol, M. F.'
+  'Le Bihan, T.'
+_publ_section_title
+;
+Crystal structure of bent carbon dioxide phase IV  Sample: P = 15 GPa,
+the authors think this structure is correct
+;
+_journal_name_full   'Physical Review B'
+_journal_page_first   014107
+_journal_page_last   014107
+_journal_paper_doi   10.1103/PhysRevB.68.014107
+_journal_volume   68
+_journal_year   2003
+_chemical_formula_structural   CO2
+_chemical_formula_sum   'C O2'
+_space_group_IT_number   60
+_symmetry_space_group_name_Hall   '-P 2n 2ab'
+_symmetry_space_group_name_H-M   'P b c n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   4.3441
+_cell_length_b   6.111
+_cell_length_c   4.285
+_cell_formula_units_Z   4
+_cell_volume   113.753
+_database_code_amcsd   0015236
+_diffrn_ambient_pressure   1.5e+07
+_exptl_crystal_density_diffrn   2.570
+_cod_database_code   9009242
+_amcsd_formula_title   CO2
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,-y,1/2+z
+  -x,y,1/2-z
+  1/2-x,1/2+y,z
+  1/2+x,1/2-y,-z
+  1/2+x,1/2+y,1/2-z
+  1/2-x,1/2-y,1/2+z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  C  0.00000  0.32300  0.25000  0.16900
+  O  0.27200  0.37000  0.46700  0.08400
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  274
+  2  AMCSD  0015236

@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_9015931
+loop_
+ _publ_author_name
+  'Averbuch-Pouchot, M. T.'
+  'Guitel, J. C.'
+_publ_section_title
+;
+Structure cristalline du tripolyphosphate acide de zinc hexahydrate,
+Zn2 H P3 O10 (H2 O)6
+;
+_journal_issue   6
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   1670
+_journal_page_last   1673
+_journal_paper_doi   10.1107/S0567740876006213
+_journal_volume   32
+_journal_year   1976
+_chemical_formula_sum   'O16 P3 Zn2'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   114.51
+_cell_angle_beta   103.21
+_cell_angle_gamma   74.31
+_cell_length_a   10.714
+_cell_length_b   10.658
+_cell_length_c   8.391
+_cell_formula_units_Z   2
+_cell_volume   831.906
+_database_code_amcsd   0015953
+_exptl_crystal_density_diffrn   1.915
+_cod_duplicate_entry   1008005
+_cod_original_formula_sum   'Zn2 P3 O16'
+_cod_database_code   9015931
+_amcsd_formula_title   'H13 O16 P3 Zn2'
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Zn1  0.00000  0.00000  0.00000
+  Zn2  0.50000  0.50000  0.00000
+  Zn3  0.04808  0.51380  0.28237
+  P1  0.79390  0.55310  0.02420
+  P2  0.77230  0.27890  -0.00020
+  P3  0.93450  0.28090  0.33070
+  O1  0.88490  0.60770  0.19240
+  O2  0.65280  0.60100  0.05330
+  O3  0.17930  0.41850  0.12450
+  O4  0.83350  0.38310  0.96020
+  O5  0.84550  0.13500  0.91050
+  O6  0.62800  0.30760  0.95700
+  O7  0.80370  0.32610  0.20880
+  O8  0.03670  0.35350  0.32870
+  O9  0.88980  0.33640  0.51110
+  O10  0.97400  0.12450  0.25640
+  O11  0.48120  0.46580  0.72700
+  O12  0.13950  0.11220  -0.00880
+  O13  0.31090  0.29320  0.46750
+  O14  0.00690  0.10090  0.64080
+  O15  0.65980  0.26230  0.51500
+  O16  0.47200  0.26300  0.20250
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0015953

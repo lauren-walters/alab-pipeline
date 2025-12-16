@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_1532392
+loop_
+ _publ_author_name
+  'Yang, H.F.'
+  'Rao, G.-H.'
+  'Chu, W.G.'
+  'Liu, G.Y.'
+  'Ouyang, Z.W.'
+  'Liang, J.K.'
+_publ_section_title   'The crystal structure of La5 Si4 and Nd5 Si4'
+_journal_name_full   'Journal of Alloys Compd.'
+_journal_page_first   131
+_journal_page_last   134
+_journal_volume   334
+_journal_year   2002
+_chemical_formula_sum   'La5 Si4'
+_space_group_IT_number   92
+_symmetry_space_group_name_Hall   'P 4abw 2nw'
+_symmetry_space_group_name_H-M   'P 41 21 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.0467
+_cell_length_b   8.0467
+_cell_length_c   15.4476
+_cell_volume   1000.223
+_citation_journal_id_ASTM   JALCEU
+_cod_data_source_file   Yang_JALCEU_2002_399.cif
+_cod_data_source_block   La5Si4
+_cod_original_cell_volume   1000.222
+_cod_database_code   1532392
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y+1/2,x+1/2,z+1/4
+  -x,-y,z+1/2
+  y+1/2,-x+1/2,z+3/4
+  x+1/2,-y+1/2,-z+3/4
+  y,x,-z
+  -x+1/2,y+1/2,-z+1/4
+  -y,-x,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  La1  La  0.3078  0.3078  0  1  0.0
+  Si2  Si  0.285  0.9265  0.0602  1  0.0
+  La2  La  0.3754  0.013  0.4491  1  0.0
+  La3  La  0.1253  -0.0186  0.8758  1  0.0
+  Si1  Si  0.1931  0.1735  0.7005  1  0.0

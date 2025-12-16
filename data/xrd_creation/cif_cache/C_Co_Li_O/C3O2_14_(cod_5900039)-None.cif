@@ -1,0 +1,111 @@
+# generated using pymatgen
+data_5900039
+loop_
+ _publ_author_name
+  'Morrison, J. D.'
+  'Robertson, J. Monteath'
+_publ_section_title
+;
+The crystal and molecular structure of certain dicarboxylic acids.
+Part V. Adipic acid
+;
+_journal_name_full   'Journal of the Chemical Society'
+_journal_page_first   987
+_journal_page_last   992
+_journal_paper_doi   10.1039/JR9490000987
+_journal_year   1949
+_chemical_formula_sum   'C6 H10 O4'
+_chemical_name_common   'Adipic acid'
+_chemical_name_systematic   'Hexanedioic acid'
+_symmetry_Int_Tables_number   14
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   137.02
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   10.07(03)
+_cell_length_b   5.16(1)
+_cell_length_c   10.03(3)
+_cod_data_source_file   039_hexanedioic_acid.cif
+_cod_data_source_block   hexanedioic_acid
+_cod_original_sg_symbol_H-M   'P 21/c'
+_cod_database_code   5900039
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  C1  C  4  e  -0.021  0.040  0.057  2  d
+  C2  C  4  e  0.045  -0.162  0.202  2  d
+  C3  C  4  e  0.027  -0.087  0.334  0  d
+  O1  O  4  e  -0.071  0.105  0.294  ?  d
+  O2  O  4  e  0.102  -0.251  0.471  ?  d
+  .  .  .  .  .  .  .  1  dum
+loop_
+ _citation_author_citation_id
+ _citation_author_ordinal
+ _citation_author_name
+  1  1  'Kitajgorodskij, A. I.'
+loop_
+ _citation_id
+ _citation_coordinate_linkage
+ _citation_title
+ _citation_book_title
+ _citation_country
+ _citation_page_first
+ _citation_page_last
+ _citation_year
+ _citation_book_publisher
+ _cod_citation_special_details
+  1  yes  ?  'Organicheskaja Kristallokhimija'  USSR  ?  ?  1955
+  "Izdatel'stvo Akademii Nauk SSSR"
+;
+Coordinates are presented as published in this book, Kitajgorodskij's
+"Organicheskaja Kristallokhimija", keyed in manually. Saulius
+Gra\<zulis
+;
+
+loop_
+ _geom_angle
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+  112  C2  C1  C4
+  115  C1  C2  C3
+  120  O1  C3  C2
+  114  C2  C3  O2
+  126  O1  C3  O2
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  O1  C3  1.23(3)
+  O2  C3  1.29(3)
+  C3  C2  1.52(3)
+  C2  C1  1.49(3)
+  C1  C4  1.54(3)
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2021-05-03T16:04:50+03:00
+;
+Added the '_citation_author_ordinal' data item to the CITATION_AUTHOR
+loop.
+;
+
+  2  'Vaitkus, Antanas'  2023-12-08T16:25:00+02:00
+;
+Changed the '_atom_site_attached_hydrogens' data values for the 'O1'
+and 'O2'  atom sites from '0.5' to unknown ('?') and added a generic
+dummy atom with a  single attached hydrogen atom. This is meant to
+indicate that the structure  contains an additional H atom that is
+bound to either the 'O1' or the 'O2'  atom site.
+;
+

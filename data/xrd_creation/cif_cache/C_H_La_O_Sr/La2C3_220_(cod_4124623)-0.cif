@@ -1,0 +1,97 @@
+# generated using pymatgen
+data_4124623
+loop_
+ _publ_author_name
+  'Atoji, M.'
+  'Gschneidner, K.A.jr.'
+  'Daane, A.H.'
+  'Rundle, R.E.'
+  'Spedding, F.H.'
+_publ_section_title
+;
+The Structures of Lanthanum Dicarbide and Sesquicarbide by X-Gay and
+Neutron Diffraction
+;
+_journal_name_full   'Journal of the American Chemical Society'
+_journal_page_first   1804
+_journal_page_last   1808
+_journal_volume   80
+_journal_year   1958
+_chemical_formula_sum   'C3 La2'
+_chemical_name_systematic   'La2 C3'
+_space_group_IT_number   220
+_symmetry_space_group_name_Hall   'I -4bd 2c 3'
+_symmetry_space_group_name_H-M   'I -4 3 d'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   8.817
+_cell_length_b   8.817
+_cell_length_c   8.817
+_cell_volume   685.429
+_citation_journal_id_ASTM   JACSAT
+_cod_data_source_file   Atoji_JACSAT_1958_1436.cif
+_cod_data_source_block   C3La2
+_cod_original_cell_volume   685.4291
+_cod_database_code   4124623
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  y+1/4,-x+3/4,-z+1/4
+  -x,-y+1/2,z
+  -y+3/4,x+3/4,-z+1/4
+  x,-y,-z+1/2
+  -y+1/4,-x+3/4,z+3/4
+  -x,y+1/2,-z+1/2
+  y+3/4,x+3/4,z+3/4
+  z,x,y
+  x+1/4,-z+3/4,-y+1/4
+  -z,-x+1/2,y
+  -x+3/4,z+3/4,-y+1/4
+  z,-x,-y+1/2
+  -x+1/4,-z+3/4,y+3/4
+  -z,x+1/2,-y+1/2
+  x+3/4,z+3/4,y+3/4
+  y,z,x
+  y,-z,-x+1/2
+  -z+1/4,-y+3/4,x+3/4
+  -y,z+1/2,-x+1/2
+  z+1/4,y+1/4,x+1/4
+  -y+1/2,-z,x+1/2
+  -z+1/4,y+1/4,-x+3/4
+  z+3/4,-y+1/4,-x+3/4
+  x+1/2,y+1/2,z+1/2
+  y+3/4,-x+5/4,-z+3/4
+  -x+1/2,-y+1,z+1/2
+  -y+5/4,x+5/4,-z+3/4
+  x+1/2,-y+1/2,-z+1
+  -y+3/4,-x+5/4,z+5/4
+  -x+1/2,y+1,-z+1
+  y+5/4,x+5/4,z+5/4
+  z+1/2,x+1/2,y+1/2
+  x+3/4,-z+5/4,-y+3/4
+  -z+1/2,-x+1,y+1/2
+  -x+5/4,z+5/4,-y+3/4
+  z+1/2,-x+1/2,-y+1
+  -x+3/4,-z+5/4,y+5/4
+  -z+1/2,x+1,-y+1
+  x+5/4,z+5/4,y+5/4
+  y+1/2,z+1/2,x+1/2
+  y+1/2,-z+1/2,-x+1
+  -z+3/4,-y+5/4,x+5/4
+  -y+1/2,z+1,-x+1
+  z+3/4,y+3/4,x+3/4
+  -y+1,-z+1/2,x+1
+  -z+3/4,y+3/4,-x+5/4
+  z+5/4,-y+3/4,-x+5/4
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  La1  La+3  0.053  0.053  0.053  1  0.0
+  C1  C-2  0.3  0  0.25  1  0.0

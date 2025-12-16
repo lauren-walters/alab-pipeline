@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13d013800728dad6cf11",
+  "experiment_name": "PG_2447-1",
+  "success": true,
+  "error": null,
+  "rwp": 6.95,
+  "rp": 5.17,
+  "rexp": 3.05,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "V2O3_167_(cod_1537656)-0",
+      "spacegroup": "R-32/c",
+      "weight_fraction": 0.19826,
+      "weight_fraction_error": 0.00087,
+      "lattice_a_nm": 0.495579,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 1.400799,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 11.25
+    },
+    {
+      "phase_name": "LiH3O2_12_(cod_2106174)-0",
+      "spacegroup": "C12/m1",
+      "weight_fraction": 0.0514,
+      "weight_fraction_error": 0.0016,
+      "lattice_a_nm": 0.74194,
+      "lattice_b_nm": 0.83122,
+      "lattice_c_nm": 0.31963,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 110.122,
+      "lattice_gamma_deg": null,
+      "r_phase": 6.68
+    }
+  ],
+  "chemical_system": "H-Li-O-V",
+  "target_formula": "Li2V2H6O7",
+  "analysis_timestamp": "2025-12-06T14:54:43.164157",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

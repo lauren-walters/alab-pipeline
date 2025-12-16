@@ -1,0 +1,79 @@
+# generated using pymatgen
+data_9009547
+loop_
+ _publ_author_name
+  'Ovchinnikov, V. E.'
+  'Soloveva, L. P.'
+  'Pudovkina, Z. V.'
+  'Kapustin Yu, L.'
+  'Belov, N. V.'
+_publ_section_title
+'The crystal structure of kovdorskite Mg2(PO4)(OH)*3(H2O)'
+_journal_name_full   'Doklady Akademii Nauk SSSR'
+_journal_page_first   351
+_journal_page_last   354
+_journal_volume   255
+_journal_year   1980
+_chemical_formula_sum   'H7 Mg2 O8 P'
+_chemical_name_mineral   Kovdorskite
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   102.0
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   10.35
+_cell_length_b   12.90
+_cell_length_c   4.73
+_cell_volume   617.726
+_database_code_amcsd   0012469
+_exptl_crystal_density_diffrn   2.308
+_cod_original_formula_sum   'Mg2 P O8 H7'
+_cod_database_code   9009547
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,z
+  1/2-x,1/2+y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Mg1  0.15410  0.48820  0.05000  0.00849  Mg  0
+  Mg2  0.99640  0.28860  0.93390  0.00798  Mg  0
+  P  0.21960  0.32140  0.59620  0.00595  P  0
+  O1  0.34930  0.26610  0.58640  0.00899  O  0
+  O2  0.13800  0.24630  0.72950  0.01077  O  0
+  O3  0.13880  0.35210  0.28730  0.01153  O  0
+  O4  0.25600  0.41920  0.79050  0.01191  O  0
+  O-H5  0.97970  0.43510  0.77200  0.01051  O  1
+  Wat6  0.16590  0.64670  0.87350  0.01444  O  2
+  Wat7  0.32280  0.53280  0.36040  0.01621  O  2
+  Wat8  0.98610  0.15320  0.16570  0.01824  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:51:54+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0012469

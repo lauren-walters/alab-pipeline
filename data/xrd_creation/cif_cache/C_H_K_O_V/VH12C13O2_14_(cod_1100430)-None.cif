@@ -1,0 +1,86 @@
+# generated using pymatgen
+data_1100430
+loop_
+ _publ_author_name
+  'Elschenbroich, Ch.'
+  'Schiemann, O.'
+  'Burghaus, O.'
+  'Harms, K.'
+_publ_section_title
+;
+Exchange Interaction Mediated by O--H&#x22EF;O Hydrogen Bonds:
+Synthesis,  Structure, and EPR Study of the Paramagnetic
+Organometallic Carboxylic  Acid (\h^7^-C~7~H~7~)V(\h^5^-C~5~H~4~COOH)
+;
+_journal_coden_ASTM   JACSAT
+_journal_issue   32
+_journal_name_full   'Journal of the American Chemical Society'
+_journal_page_first   7452
+_journal_page_last   7457
+_journal_paper_doi   10.1021/ja964445s
+_journal_volume   119
+_journal_year   1997
+_chemical_formula_sum   'C13 H11 D O2 V'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   104.60(1)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.993(1)
+_cell_length_b   16.539(1)
+_cell_length_c   9.554(1)
+_cod_original_sg_symbol_H-M   'P 21/n'
+_cod_original_formula_sum   'C13 H11 D1 O2 V1'
+_cod_database_code   1100430
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  1/2-x,1/2+y,1/2-z
+  3  -x,-y,-z
+  4  -1/2+x,-1/2-y,-1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  V1  V  0.15497(12)  0.36113(5)  0.83984(8)
+  O1  O  0.4207(5)  0.5234(2)  0.6447(4)
+  O2  O  0.3146(6)  0.4225(2)  0.4869(4)
+  C1  C  0.1370(7)  0.4502(3)  0.6586(5)
+  C2  C  0.0940(8)  0.4920(3)  0.7776(6)
+  C3  C  -0.0821(8)  0.4584(3)  0.7998(6)
+  C4  C  -0.1439(8)  0.3959(4)  0.6990(7)
+  C5  C  -0.0120(8)  0.3907(3)  0.6098(6)
+  C6  C  0.3042(7)  0.4680(3)  0.5969(5)
+  C7  C  0.4689(9)  0.3513(4)  0.9406(7)
+  C8  C  0.3708(11)  0.3738(4)  1.0488(7)
+  C9  C  0.1955(10)  0.3410(4)  1.0705(6)
+  C10  C  0.0759(10)  0.2779(4)  0.9951(7)
+  C11  C  0.1016(10)  0.2328(4)  0.8752(8)
+  C12  C  0.2552(10)  0.2392(4)  0.8069(7)
+  C13  C  0.4190(9)  0.2913(4)  0.8354(6)
+  D1  D  0.394(13)  0.4408(58)  0.442(10)
+  H1  H  0.173(10)  0.5364(51)  0.8303(70)
+  H2  H  -0.151(11)  0.4775(43)  0.8667(76)
+  H3  H  -0.2614(89)  0.3605(30)  0.6814(60)
+  H4  H  -0.0100(85)  0.3582(32)  0.5360(67)
+  H5  H  0.586(11)  0.3842(41)  0.9358(74)
+  H6  H  0.4182(93)  0.4235(42)  1.0947(70)
+  H7  H  0.165(19)  0.3719(69)  1.139(14)
+  H8  H  -0.058(12)  0.2716(49)  1.0294(84)
+  H9  H  -0.019(12)  0.1985(52)  0.8260(83)
+  H10  H  0.2381(79)  0.2133(35)  0.7060(64)
+  H11  H  0.5006(86)  0.2947(35)  0.7655(63)
+loop_
+ _atom_type_symbol
+ _atom_type_radius_bond
+  C  0.68
+  H  0.23
+  D  0.23
+  O  0.68
+  V  1.33

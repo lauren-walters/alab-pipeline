@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_9011655
+loop_
+ _publ_author_name
+  'Vohra, Y. K.'
+  'Grosshans, W.'
+  'Holzapfel, W. B.'
+_publ_section_title
+;
+High-pressure phase transformation in scandium  Sample: at P = 33.5
+GPa
+;
+_journal_name_full   'Physical Review B'
+_journal_page_first   6019
+_journal_page_last   6021
+_journal_paper_doi   10.1103/PhysRevB.25.6019
+_journal_volume   25
+_journal_year   1982
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   Sc
+_chemical_name_common   Scandium
+_chemical_name_mineral   Scandium
+_space_group_IT_number   129
+_symmetry_space_group_name_Hall   'P 4ab 2ab -1ab'
+_symmetry_space_group_name_H-M   'P 4/n m m :1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   4.73
+_cell_length_b   4.73
+_cell_length_c   3.18
+_cell_formula_units_Z   4
+_cell_volume   71.146
+_database_code_amcsd   0015168
+_diffrn_ambient_pressure   3.35e+07
+_exptl_crystal_density_diffrn   4.197
+_cod_original_sg_symbol_H-M   'P 4/n m m'
+_cod_database_code   9011655
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2-y,1/2-x,z
+  y,x,-z
+  y,-x,-z
+  1/2-y,1/2+x,z
+  x,-y,z
+  1/2-x,1/2+y,-z
+  1/2+x,1/2+y,-z
+  -x,-y,z
+  1/2+y,1/2+x,z
+  -y,-x,-z
+  -y,x,-z
+  1/2+y,1/2-x,z
+  -x,y,z
+  1/2+x,1/2-y,-z
+  1/2-x,1/2-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Sc1  0.00000  0.00000  0.00000
+  Sc2  0.00000  0.50000  0.62500
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  22392
+  2  AMCSD  0015168

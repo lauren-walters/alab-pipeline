@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_2310603
+loop_
+ _publ_author_name
+  'Hilmer, W.'
+_publ_section_title
+'Die Kristallstruktur des sauren Kaliummetasilikates K4 (H Si O3)4'
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   1063
+_journal_page_last   1066
+_journal_volume   17
+_journal_year   1964
+_chemical_formula_sum   'H4 K4 O12 Si4'
+_chemical_name_systematic   'K4 H4 (Si4 O12)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   100.87
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   7.51
+_cell_length_b   11.25
+_cell_length_c   7.5
+_cell_volume   622.287
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Hilmer_ACCRA9_1964_161.cif
+_cod_data_source_block   H4K4O12Si4
+_cod_original_cell_volume   622.2869
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_database_code   2310603
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Si1  Si+4  0.987  0.184  0.485  1  0.0
+  K2  K+1  0.322  0.043  0.822  1  0.0
+  O2  O-2  0.93  0.112  0.658  1  0.0
+  O6  O-2  0.861  0.972  0.905  1  0.0
+  O5  O-2  0.596  0.029  0.646  1  0.0
+  K1  K+1  0.487  0.251  0.486  1  0.0
+  Si2  Si+4  0.803  0.998  0.7  1  0.0
+  O3  O-2  0.152  0.107  0.435  1  0.0
+  O1  O-2  0.062  0.31  0.559  1  0.0
+  O4  O-2  0.826  0.199  0.324  1  0.0

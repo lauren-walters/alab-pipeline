@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_8103898
+loop_
+ _publ_author_name
+  'Somer, M.'
+  'von Schnering, H.G.'
+  'Carrillo-Cabrera, W.'
+  'Peters, E.M.'
+  'Peters, K.'
+_publ_section_title
+;
+Crystal structure of trisodium catena-di-mue-phosphidoaluminate, Na3
+Al  P2
+;
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   777
+_journal_page_last   777
+_journal_volume   210
+_journal_year   1995
+_chemical_formula_sum   'Al Na3 P2'
+_chemical_name_systematic   'Na3 (Al P2)'
+_space_group_IT_number   72
+_symmetry_space_group_name_Hall   '-I 2 2c'
+_symmetry_space_group_name_H-M   'I b a m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.773
+_cell_length_b   13.194
+_cell_length_c   6.077
+_cell_volume   543.059
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Somer_ZEKRDZ_1995_1839.cif
+_cod_data_source_block   Al1Na3P2
+_cod_original_cell_volume   543.0587
+_cod_original_formula_sum   'Al1 Na3 P2'
+_cod_database_code   8103898
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  x,-y,-z+1/2
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,y,-z
+  -x,y,z-1/2
+  x,-y,z-1/2
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  x+1/2,-y+1/2,-z+1
+  -x+1/2,y+1/2,-z+1
+  -x+1/2,-y+1/2,-z+1/2
+  x+1/2,y+1/2,-z+1/2
+  -x+1/2,y+1/2,z
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Na2  Na+1  0.5  0  0.25  1  0.0
+  Al1  Al+3  0  0  0.25  1  0.0
+  P1  P-3  0.1963  0.10055  0  1  0.0
+  Na1  Na+1  0.31203  0.30794  0  1  0.0

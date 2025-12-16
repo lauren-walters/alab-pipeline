@@ -1,0 +1,273 @@
+# generated using pymatgen
+data_2012333
+loop_
+ _publ_author_name
+  'Hirschle, Christian'
+  'Rosstauscher, J\"urgen'
+  'R\"ohr, Caroline'
+_publ_section_title   'Potassium oxoantimonate(V), K~3~[SbO~4~]'
+_journal_issue   11
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   1239
+_journal_page_last   1241
+_journal_paper_doi   10.1107/S0108270101014342
+_journal_volume   57
+_journal_year   2001
+_chemical_formula_iupac   'K3 [Sb O4]'
+_chemical_formula_moiety   'K3 [Sb O4]'
+_chemical_formula_sum   'K3 O4 Sb'
+_chemical_formula_weight   303.05
+_chemical_name_systematic   'Tripotassium oxoantimonate(V)'
+_space_group_IT_number   13
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yc'
+_symmetry_space_group_name_H-M   'P 1 2/c 1'
+_audit_creation_method   SHELXL97
+_cell_angle_alpha   90
+_cell_angle_beta   109.394(4)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   5.7971(12)
+_cell_length_b   6.5933(14)
+_cell_length_c   5.4179(12)
+_cell_measurement_temperature   293(2)
+_cell_volume   195.33(7)
+_computing_cell_refinement   'SAINT (Bruker, 1999)'
+_computing_data_collection   'SMART (Bruker, 1999)'
+_computing_data_reduction   SAINT
+_computing_molecular_graphics
+'ORTEP (Johnson, 1968) and DRAWxtl (Finger & Kroeker, 1999)'
+_computing_publication_material   SHELXL97
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 1997)'
+_computing_structure_solution   'SHELXS97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   .953
+_diffrn_measured_fraction_theta_max   .953
+_diffrn_measurement_device_type   'Bruker SMART CCD area-detector'
+_diffrn_measurement_method   '\w scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   .71070
+_diffrn_reflns_av_R_equivalents   .033
+_diffrn_reflns_av_sigmaI/netI   .027
+_diffrn_reflns_limit_h_max   7
+_diffrn_reflns_limit_h_min   -6
+_diffrn_reflns_limit_k_max   7
+_diffrn_reflns_limit_k_min   -8
+_diffrn_reflns_limit_l_max   6
+_diffrn_reflns_limit_l_min   -7
+_diffrn_reflns_number   1160
+_diffrn_reflns_theta_full   28.25
+_diffrn_reflns_theta_max   28.25
+_diffrn_reflns_theta_min   3.09
+_diffrn_standards_decay_%   none
+_exptl_absorpt_coefficient_mu   10.137
+_exptl_absorpt_correction_T_max   .363
+_exptl_absorpt_correction_T_min   .192
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   '(SADABS; Sheldrick, 1996)'
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   5.153
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   irregular
+_exptl_crystal_F_000   280
+_exptl_crystal_size_max   .20
+_exptl_crystal_size_mid   .15
+_exptl_crystal_size_min   .10
+_refine_diff_density_max   3.32
+_refine_diff_density_min   -2.83
+_refine_ls_extinction_coef   .128(16)
+_refine_ls_extinction_method   'SHELXL97 (Sheldrick, 1997)'
+_refine_ls_goodness_of_fit_ref   1.238
+_refine_ls_hydrogen_treatment   none
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   40
+_refine_ls_number_reflns   468
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.238
+_refine_ls_R_factor_all   .050
+_refine_ls_R_factor_gt   .048
+_refine_ls_shift/su_max   <0.001
+_refine_ls_shift/su_mean   .000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+;
+calc w = 1/[\s^2^(Fo^2^)+(0.0848P)^2^+0.0284P] where
+P=(Fo^2^+2Fc^2^)/3
+;
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_ref   .122
+_reflns_number_gt   422
+_reflns_number_total   468
+_reflns_threshold_expression   I>2\s(I)
+_cod_data_source_file   jz1475.cif
+_cod_data_source_block   I
+_cod_original_sg_symbol_H-M   'P 2/c'
+_cod_database_code   2012333
+_cod_database_fobs_code   2012333
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y, -z+1/2'
+  '-x, -y, -z'
+  'x, -y, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+ _atom_site_type_symbol
+  Sb1  .5000  .86977(8)  .2500  .0110(4)  Uani  d  S  1  .  .  Sb
+  O1  .2733(11)  .3322(9)  .5407(12)  .0151(11)  Uani  d  .  1  .  .
+  O
+  O2  .3045(11)  .0986(8)  .0005(11)  .0121(11)  Uani  d  .  1  .  .
+  O
+  K1  .5000  .3832(4)  .2500  .0385(10)  Uani  d  S  1  .  .  K
+  K2  .0000  .1253(5)  .2500  .0437(12)  Uani  d  S  1  .  .  K
+  K3  .0000  .6099(6)  .2500  .0516(13)  Uani  d  S  1  .  .  K
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Sb1  .0151(6)  .0086(6)  .0084(5)  .000  .0027(3)  .000
+  O1  .018(3)  .016(2)  .009(2)  .002(2)  .001(2)  -.002(2)
+  O2  .015(2)  .016(2)  .004(2)  .000(2)  .0011(19)  -.0006(18)
+  K1  .045(2)  .034(2)  .036(2)  .000  .0133(18)  .000
+  K2  .046(2)  .037(2)  .043(3)  .000  .007(2)  .000
+  K3  .055(3)  .051(3)  .054(3)  .000  .024(2)  .000
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  K  K  .2009  .2494
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Sb  Sb  -.5866  1.5461
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  .0106  .0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O1  Sb1  O1  4_565  3_666  93.8(3)  y
+  O1  Sb1  O2  4_565  3_665  95.7(2)  y
+  O1  Sb1  O2  3_666  3_665  92.3(2)  y
+  O1  Sb1  O2  4_565  4_566  92.3(2)  ?
+  O1  Sb1  O2  3_666  4_566  95.7(2)  ?
+  O2  Sb1  O2  3_665  4_566  168.3(3)  y
+  O1  Sb1  O2  4_565  1_565  90.1(3)  y
+  O1  Sb1  O2  3_666  1_565  170.2(2)  y
+  O2  Sb1  O2  3_665  1_565  78.4(3)  y
+  O2  Sb1  O2  4_566  1_565  93.1(2)  y
+  O1  Sb1  O2  4_565  2_665  170.2(2)  ?
+  O1  Sb1  O2  3_666  2_665  90.1(3)  ?
+  O2  Sb1  O2  3_665  2_665  93.1(2)  ?
+  O2  Sb1  O2  4_566  2_665  78.4(3)  ?
+  O2  Sb1  O2  1_565  2_665  87.6(3)  y
+  Sb1  O1  K3  3_666  3_566  105.8(3)  ?
+  Sb1  O1  K2  3_666  .  100.0(2)  ?
+  K3  O1  K2  3_566  .  90.3(2)  ?
+  Sb1  O1  K1  3_666  3_666  95.9(2)  ?
+  K3  O1  K1  3_566  3_666  89.8(2)  ?
+  K2  O1  K1  .  3_666  163.4(3)  ?
+  Sb1  O1  K1  3_666  .  93.9(2)  ?
+  K3  O1  K1  3_566  .  159.4(3)  ?
+  K2  O1  K1  .  .  92.1(2)  ?
+  K1  O1  K1  3_666  .  82.2(2)  ?
+  Sb1  O1  K3  3_666  .  175.4(3)  ?
+  K3  O1  K3  3_566  .  78.27(19)  ?
+  K2  O1  K3  .  .  81.8(2)  ?
+  K1  O1  K3  3_666  .  82.0(2)  ?
+  K1  O1  K3  .  .  81.9(2)  ?
+  Sb1  O2  Sb1  3_665  1_545  101.6(3)  ?
+  Sb1  O2  K2  3_665  3  99.0(2)  ?
+  Sb1  O2  K2  1_545  3  93.5(2)  ?
+  Sb1  O2  K1  3_665  .  91.9(2)  ?
+  Sb1  O2  K1  1_545  .  98.6(2)  ?
+  K2  O2  K1  3  .  161.8(3)  ?
+  Sb1  O2  K2  3_665  .  166.7(3)  ?
+  Sb1  O2  K2  1_545  .  91.7(2)  ?
+  K2  O2  K2  3  .  80.28(18)  ?
+  K1  O2  K2  .  .  85.8(2)  ?
+  Sb1  O2  K3  3_665  3_565  90.45(19)  ?
+  Sb1  O2  K3  1_545  3_565  167.9(3)  ?
+  K2  O2  K3  3  3_565  85.2(2)  ?
+  K1  O2  K3  .  3_565  80.18(19)  ?
+  K2  O2  K3  .  3_565  76.26(18)  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Sb1  O1  4_565  1.949(6)  y
+  Sb1  O1  3_666  1.949(6)  ?
+  Sb1  O2  3_665  2.047(6)  y
+  Sb1  O2  4_566  2.047(6)  ?
+  Sb1  O2  1_565  2.091(6)  y
+  Sb1  O2  2_665  2.091(6)  ?
+  Sb1  K1  3_666  3.1813(15)  ?
+  Sb1  K1  3_665  3.1813(15)  ?
+  Sb1  Sb1  3_676  3.2074(8)  ?
+  Sb1  Sb1  3_675  3.2075(8)  ?
+  Sb1  K1  .  3.208(3)  ?
+  Sb1  K2  3_666  3.2444(5)  ?
+  O1  Sb1  3_666  1.949(6)  ?
+  O1  K1  3_666  2.355(6)  y
+  O1  K1  .  2.387(6)  y
+  O1  K2  .  2.279(6)  y
+  O1  K3  3_566  2.266(6)  y
+  O1  K3  .  2.585(7)  y
+  O2  Sb1  3_665  2.047(6)  ?
+  O2  Sb1  1_545  2.091(6)  ?
+  O2  K1  .  2.370(6)  y
+  O2  K2  3  2.355(6)  y
+  O2  K2  .  2.561(6)  y
+  O2  K3  3_565  2.657(7)  y
+  K1  O1  3_666  2.354(6)  ?
+  K1  O1  4_565  2.354(6)  ?
+  K1  O2  2_655  2.370(6)  ?
+  K1  O1  2_655  2.387(6)  ?
+  K1  K1  3_666  3.116(3)  ?
+  K1  K1  3_665  3.116(3)  ?
+  K1  Sb1  3_666  3.1813(15)  ?
+  K1  Sb1  3_665  3.1813(15)  ?
+  K1  K3  3_666  3.2446(5)  ?
+  K2  O1  2  2.279(6)  ?
+  K2  O2  3  2.355(6)  ?
+  K2  O2  4_556  2.355(6)  ?
+  K2  O2  2  2.561(6)  ?
+  K2  K2  3_556  3.173(3)  ?
+  K2  K2  3  3.173(3)  ?
+  K2  K3  .  3.195(7)  ?
+  K2  K3  3_566  3.2229(19)  ?
+  K2  K3  3_565  3.2229(19)  ?
+  K2  Sb1  3_666  3.2444(5)  ?
+  K3  O1  4_565  2.266(6)  ?
+  K3  O1  3_566  2.266(6)  ?
+  K3  O1  2  2.585(7)  ?
+  K3  O2  4_566  2.657(7)  ?
+  K3  O2  3_565  2.657(7)  ?
+  K3  K3  3_566  3.072(4)  ?
+  K3  K3  3_565  3.072(4)  ?
+  K3  K2  3_566  3.2229(19)  ?
+  K3  K2  3_565  3.2229(19)  ?
+  K3  K1  3_666  3.2446(5)  ?

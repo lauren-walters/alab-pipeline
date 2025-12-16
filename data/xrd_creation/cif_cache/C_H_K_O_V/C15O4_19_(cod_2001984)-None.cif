@@ -1,0 +1,148 @@
+# generated using pymatgen
+data_2001984
+loop_
+ _publ_author_name
+  'Okada, K.'
+  'Koyama, H.'
+_publ_section_title
+'Structure of the germacrane furanosesquiterpenoid linderane'
+_journal_issue   2
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   341
+_journal_page_last   343
+_journal_paper_doi   10.1107/S010827019200595X
+_journal_volume   49
+_journal_year   1993
+_chemical_formula_sum   'C15 H16 O4'
+_chemical_formula_weight   260.3
+_space_group_crystal_system   orthorhombic
+_space_group_IT_number   19
+_space_group_name_Hall   'P 2ac 2ab'
+_space_group_name_H-M_alt   'P 21 21 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   13.633(3)
+_cell_length_b   9.102(2)
+_cell_length_c   10.153(2)
+_cell_volume   1259.9(5)
+_diffrn_radiation_type   Mo
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   0.093
+_exptl_crystal_density_diffrn   1.373
+_exptl_crystal_density_meas   1.367
+_exptl_crystal_F_000   552
+_cod_data_source_file   as0584.cif
+_cod_data_source_block   as0584_structure_1_of_1
+_cod_depositor_comments
+;
+Updating space group information and adding the symmetry operation
+list.  Antanas Vaitkus,  2018-06-18  Marking attached hydrogen atoms.
+Antanas Vaitkus,  2018-06-17
+;
+_cod_original_cell_volume   1260
+_cod_database_code   2001984
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  x+1/2,-y+1/2,-z
+  4  -x,y+1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_attached_hydrogens
+  O(1)  .5940(3)  .2435(4)  .0860(4)  0
+  O(2)  .6444(3)  .6900(4)  -.0636(4)  0
+  O(3)  .7580(3)  .8593(5)  -.0253(5)  0
+  O(4)  .5224(3)  .8831(4)  .0699(5)  0
+  C(1)  .7060(4)  .6583(7)  .3015(6)  1
+  C(2)  .7386(5)  .8154(7)  .3024(7)  2
+  C(3)  .6590(5)  .9120(7)  .2415(7)  2
+  C(4)  .6169(4)  .8383(6)  .1196(6)  0
+  C(5)  .5376(5)  .7324(6)  .1111(7)  1
+  C(6)  .5538(4)  .6352(6)  -.0030(7)  1
+  C(7)  .5624(4)  .4722(5)  .0206(5)  0
+  C(8)  .6125(4)  .3893(6)  .1071(6)  0
+  C(9)  .6779(6)  .4102(8)  .2231(8)  2
+  C(10)  .7362(4)  .5522(6)  .2266(6)  0
+  C(11)  .5052(4)  .3711(7)  -.0588(6)  0
+  C(12)  .5277(5)  .2372(7)  -.0151(7)  1
+  C(13)  .4335(6)  .4076(9)  -.1653(8)  3
+  C(14)  .8231(6)  .5537(10)  .1387(9)  3
+  C(15)  .6824(4)  .8040(6)  .0050(6)  0
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  C(8)  O(1)  C(12)  106.3(5)
+  C(6)  O(2)  C(15)  111.5(4)
+  C(4)  O(4)  C(5)  60.2(4)
+  C(2)  C(1)  C(10)  128.4(6)
+  C(1)  C(2)  C(3)  109.7(6)
+  C(2)  C(3)  C(4)  110.1(5)
+  O(4)  C(4)  C(3)  119.8(5)
+  O(4)  C(4)  C(5)  60.1(4)
+  O(4)  C(4)  C(15)  108.7(5)
+  C(3)  C(4)  C(5)  128.5(6)
+  C(3)  C(4)  C(15)  119.9(5)
+  C(5)  C(4)  C(15)  105.0(5)
+  O(4)  C(5)  C(4)  59.7(3)
+  O(4)  C(5)  C(6)  111.3(6)
+  C(4)  C(5)  C(6)  109.5(5)
+  O(2)  C(6)  C(5)  104.5(5)
+  O(2)  C(6)  C(7)  109.6(4)
+  C(5)  C(6)  C(7)  118.5(6)
+  C(6)  C(7)  C(8)  134.1(5)
+  C(6)  C(7)  C(11)  119.6(5)
+  C(8)  C(7)  C(11)  106.3(5)
+  O(1)  C(8)  C(7)  110.4(5)
+  O(1)  C(8)  C(9)  111.0(6)
+  C(7)  C(8)  C(9)  138.5(6)
+  C(8)  C(9)  C(10)  116.2(6)
+  C(1)  C(10)  C(9)  118.8(5)
+  C(1)  C(10)  C(14)  126.9(6)
+  C(9)  C(10)  C(14)  114.3(6)
+  C(7)  C(11)  C(12)  105.7(5)
+  C(7)  C(11)  C(13)  127.8(6)
+  C(12)  C(11)  C(13)  126.5(6)
+  O(1)  C(12)  C(11)  111.3(5)
+  O(2)  C(15)  O(3)  121.6(6)
+  O(2)  C(15)  C(4)  109.3(5)
+  O(3)  C(15)  C(4)  129.0(6)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  O(1)  C(8)  1.367(7)
+  O(1)  C(12)  1.369(8)
+  O(2)  C(6)  1.467(7)
+  O(2)  C(15)  1.353(7)
+  O(3)  C(15)  1.187(8)
+  O(4)  C(4)  1.442(7)
+  O(4)  C(5)  1.448(7)
+  C(1)  C(2)  1.498(9)
+  C(1)  C(10)  1.296(8)
+  C(2)  C(3)  1.526(10)
+  C(3)  C(4)  1.521(9)
+  C(4)  C(5)  1.450(8)
+  C(4)  C(15)  1.500(8)
+  C(5)  C(6)  1.475(9)
+  C(6)  C(7)  1.508(8)
+  C(7)  C(8)  1.344(8)
+  C(7)  C(11)  1.451(8)
+  C(8)  C(9)  1.489(10)
+  C(9)  C(10)  1.518(9)
+  C(10)  C(14)  1.483(10)
+  C(11)  C(12)  1.333(9)
+  C(11)  C(13)  1.495(10)
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  6915739

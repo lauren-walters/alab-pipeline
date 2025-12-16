@@ -1,0 +1,113 @@
+# generated using pymatgen
+data_9009825
+loop_
+ _publ_author_name
+  'Cozzupoli, D.'
+  'Grubessi, O.'
+  'Mottana, A.'
+  'Zanazzi, P. F.'
+_publ_section_title
+'Cyrilovite from Italy: structure and crystal chemistry'
+_journal_name_full   'Mineralogy and Petrology'
+_journal_page_first   1
+_journal_page_last   14
+_journal_paper_doi   10.1007/BF01163154
+_journal_volume   37
+_journal_year   1987
+_chemical_compound_source   'Bosa, Sardinia, Italy'
+_chemical_formula_sum   'Fe3 H8 Na O14 P2'
+_chemical_name_mineral   Cyrilovite
+_space_group_IT_number   92
+_symmetry_space_group_name_Hall   'P 4abw 2nw'
+_symmetry_space_group_name_H-M   'P 41 21 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.313
+_cell_length_b   7.313
+_cell_length_c   19.3150
+_cell_volume   1032.966
+_database_code_amcsd   0014614
+_exptl_crystal_density_diffrn   3.116
+_cod_original_formula_sum   'Na Fe3 P2 O14 H8'
+_cod_database_code   9009825
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  y,x,-z
+  1/2-y,1/2+x,1/4+z
+  1/2-x,1/2+y,1/4-z
+  -x,-y,1/2+z
+  -y,-x,1/2-z
+  1/2+y,1/2-x,3/4+z
+  1/2+x,1/2-y,3/4-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Na  0.02080  0.02080  0.02390  0.01040  -0.00210  0.00210
+  Fe1  0.00700  0.00440  0.01870  0.00030  0.00060  -0.00060
+  Fe2  0.00490  0.00490  0.01810  -0.00110  0.00120  -0.00120
+  P  0.00550  0.00670  0.01560  -0.00060  -0.00060  0.00100
+  O2  0.00780  0.01220  0.02410  -0.00350  0.00850  -0.00130
+  O3  0.01590  0.01080  0.03070  0.00280  0.00370  0.00000
+  O4  0.00940  0.01040  0.01690  0.00270  0.00480  0.00430
+  O-H5  0.01650  0.01220  0.01490  -0.00420  0.00110  0.00270
+  O6  0.02040  0.00990  0.02320  -0.00610  -0.00710  0.00220
+  O-H7  0.01200  0.00280  0.02090  -0.00160  -0.00040  0.00510
+  Wat1  0.00970  0.01920  0.02280  0.00120  -0.00210  0.01190
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Na  0.37550  0.37550  0.50000  Na  0
+  Fe1  0.39530  0.10820  0.25770  Fe  0
+  Fe2  0.10350  0.10350  0.00000  Fe  0
+  P  0.14110  0.36600  0.35020  P  0
+  O2  0.29500  0.50650  0.33870  O  0
+  O3  0.19810  0.18010  0.31970  O  0
+  O4  0.10580  0.34870  0.42850  O  0
+  O-H5  0.13790  0.35290  -0.04310  O  1
+  O6  0.17540  0.02530  0.18880  O  0
+  O-H7  0.41060  0.34920  0.21090  O  1
+  Wat1  -0.03310  0.42520  0.31390  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:52:12+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:21:24+03:00
+;
+Changed the following '_atom_site_aniso_label' values: 'OH5' -> 'O-H5'
+'OH7' -> 'O-H7'
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0014614

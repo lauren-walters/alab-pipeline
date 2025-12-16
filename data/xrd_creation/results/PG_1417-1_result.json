@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66dfb952cac98f03306d25ab",
+  "experiment_name": "PG_1417-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "C-Fe-H-Hf-O",
+  "target_formula": "HfFeH4(CO4)2",
+  "analysis_timestamp": "2025-12-06T15:16:32.716191",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

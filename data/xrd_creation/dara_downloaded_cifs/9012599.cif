@@ -1,0 +1,148 @@
+# generated using pymatgen
+data_9012599
+loop_
+ _publ_author_name
+  'Aoki, K.'
+  'Fujiwara, S.'
+  'Kusakabe, M.'
+_publ_section_title
+;
+New phase transition into the b.c.c structure in antimony at high
+pressure  Sample: at P = 28 GPa  Note: cell parameters from ICSD
+Note: phase known as Sb(IV)
+;
+_journal_name_full   'Solid State Communications'
+_journal_page_first   161
+_journal_page_last   163
+_journal_paper_doi   10.1016/0038-1098(83)90367-8
+_journal_volume   45
+_journal_year   1983
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   Sb
+_chemical_name_common   Antimony
+_chemical_name_mineral   Antimony
+_space_group_IT_number   229
+_symmetry_space_group_name_Hall   '-I 4 2 3'
+_symmetry_space_group_name_H-M   'I m -3 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   3.45
+_cell_length_b   3.45
+_cell_length_c   3.45
+_cell_formula_units_Z   2
+_cell_volume   41.064
+_database_code_amcsd   0015453
+_diffrn_ambient_pressure   2.8e+07
+_exptl_crystal_density_diffrn   9.847
+_cod_original_sg_symbol_H-M   'I m 3 m'
+_cod_database_code   9012599
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,1/2+z
+  z,-x,y
+  1/2+z,1/2-x,1/2+y
+  -y,z,-x
+  1/2-y,1/2+z,1/2-x
+  x,-y,z
+  1/2+x,1/2-y,1/2+z
+  -z,x,-y
+  1/2-z,1/2+x,1/2-y
+  y,-z,x
+  1/2+y,1/2-z,1/2+x
+  -x,y,-z
+  1/2-x,1/2+y,1/2-z
+  x,-z,-y
+  1/2+x,1/2-z,1/2-y
+  -z,y,x
+  1/2-z,1/2+y,1/2+x
+  y,-x,-z
+  1/2+y,1/2-x,1/2-z
+  -x,z,y
+  1/2-x,1/2+z,1/2+y
+  z,-y,-x
+  1/2+z,1/2-y,1/2-x
+  -y,x,z
+  1/2-y,1/2+x,1/2+z
+  x,z,y
+  1/2+x,1/2+z,1/2+y
+  -z,-y,-x
+  1/2-z,1/2-y,1/2-x
+  y,x,z
+  1/2+y,1/2+x,1/2+z
+  -x,-z,-y
+  1/2-x,1/2-z,1/2-y
+  z,y,x
+  1/2+z,1/2+y,1/2+x
+  -y,-x,-z
+  1/2-y,1/2-x,1/2-z
+  z,x,-y
+  1/2+z,1/2+x,1/2-y
+  -y,-z,x
+  1/2-y,1/2-z,1/2+x
+  x,y,-z
+  1/2+x,1/2+y,1/2-z
+  -z,-x,y
+  1/2-z,1/2-x,1/2+y
+  y,z,-x
+  1/2+y,1/2+z,1/2-x
+  -x,-y,z
+  1/2-x,1/2-y,1/2+z
+  -z,x,y
+  1/2-z,1/2+x,1/2+y
+  y,-z,-x
+  1/2+y,1/2-z,1/2-x
+  -x,y,z
+  1/2-x,1/2+y,1/2+z
+  z,-x,-y
+  1/2+z,1/2-x,1/2-y
+  -y,z,x
+  1/2-y,1/2+z,1/2+x
+  x,-y,-z
+  1/2+x,1/2-y,1/2-z
+  -x,z,-y
+  1/2-x,1/2+z,1/2-y
+  z,-y,x
+  1/2+z,1/2-y,1/2+x
+  -y,x,-z
+  1/2-y,1/2+x,1/2-z
+  x,-z,y
+  1/2+x,1/2-z,1/2+y
+  -z,y,-x
+  1/2-z,1/2+y,1/2-x
+  y,-x,z
+  1/2+y,1/2-x,1/2+z
+  -x,-z,y
+  1/2-x,1/2-z,1/2+y
+  z,y,-x
+  1/2+z,1/2+y,1/2-x
+  -y,-x,z
+  1/2-y,1/2-x,1/2+z
+  x,z,-y
+  1/2+x,1/2+z,1/2-y
+  -z,-y,x
+  1/2-z,1/2-y,1/2+x
+  y,x,-z
+  1/2+y,1/2+x,1/2-z
+  -z,-x,-y
+  1/2-z,1/2-x,1/2-y
+  y,z,x
+  1/2+y,1/2+z,1/2+x
+  -x,-y,-z
+  1/2-x,1/2-y,1/2-z
+  z,x,y
+  1/2+z,1/2+x,1/2+y
+  -y,-z,-x
+  1/2-y,1/2-z,1/2-x
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Sb  0.00000  0.00000  0.00000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0015453

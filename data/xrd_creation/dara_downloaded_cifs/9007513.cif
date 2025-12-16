@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_9007513
+loop_
+ _publ_author_name
+  'Bosmans, H. J.'
+_publ_section_title
+'Unit cell and crystal structure of nordstrandite, Al(OH)3'
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   649
+_journal_page_last   652
+_journal_paper_doi   10.1107/S0567740870002911
+_journal_volume   26
+_journal_year   1970
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   'Al H3 O3'
+_chemical_name_mineral   Nordstrandite
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   70.27
+_cell_angle_beta   74.0
+_cell_angle_gamma   58.47
+_cell_formula_units_Z   2
+_cell_length_a   5.114
+_cell_length_b   5.082
+_cell_length_c   5.127
+_cell_volume   106.089
+_database_code_amcsd   0009375
+_exptl_crystal_density_diffrn   2.442
+_cod_original_formula_sum   'Al (O3 H3)'
+_cod_database_code   9007513
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Al  0.33700  0.33300  0.01000  Al  0
+  O-H1  0.31900  0.93300  0.24200  O  1
+  O-H2  0.94300  0.59100  0.20300  O  1
+  O-H3  0.62200  0.28500  0.20800  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:50:49+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009375

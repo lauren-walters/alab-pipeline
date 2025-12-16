@@ -1,0 +1,135 @@
+# generated using pymatgen
+data_1566716
+loop_
+ _publ_author_name
+  'Jorgensen, James D.'
+  'Worlton, Thomas G.'
+_publ_section_title
+;
+Disordered structure of D2O ice VII from in situ neutron powder
+diffraction
+;
+_journal_coden_ASTM   JCPSA6
+_journal_issue   1
+_journal_name_full   'Journal of Chemical Physics'
+_journal_page_first   329
+_journal_page_last   333
+_journal_paper_doi   10.1063/1.449867
+_journal_volume   83
+_journal_year   1985
+_chemical_formula_sum   'D2 O'
+_chemical_name_systematic   'Ice VII'
+_space_group_crystal_system   cubic
+_space_group_IT_number   224
+_space_group_name_Hall   '-P 4bc 2bc 3'
+_space_group_name_H-M_alt   'P n -3 m :2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   3.3501(1)
+_cell_length_b   3.3501
+_cell_length_c   3.3501
+_cell_volume   37.5987(11)
+_diffrn_ambient_pressure   2600000
+_diffrn_ambient_temperature   295.15
+_pd_proc_ls_prof_wR_expected   0.01696
+_pd_proc_ls_prof_wR_factor   0.02561
+_cod_data_source_file   iceVII_Jorgensen1985_split.cif
+_cod_data_source_block   iceVII_Jorgensen1985_split
+_cod_original_cell_volume   37.60(1)
+_cod_original_sg_symbol_H-M   'P n -3 m Z'
+_cod_original_formula_sum   'D2 O1'
+_cod_database_code   1566716
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  'x, y, z'
+  2  'y+1/2, x+1/2, -z'
+  3  'y+1/2, -x, z+1/2'
+  4  '-y, -x, -z'
+  5  '-z, x+1/2, y+1/2'
+  6  'z+1/2, x+1/2, -y'
+  7  'z+1/2, -x, y+1/2'
+  8  '-z, -x, -y'
+  9  'z+1/2, -y, x+1/2'
+  10  '-z, y+1/2, x+1/2'
+  11  'z+1/2, y+1/2, -x'
+  12  '-z, -y, -x'
+  13  'y+1/2, -z, x+1/2'
+  14  '-y, z+1/2, x+1/2'
+  15  'y+1/2, z+1/2, -x'
+  16  '-y, -z, -x'
+  17  'x+1/2, z+1/2, -y'
+  18  'x+1/2, -z, y+1/2'
+  19  '-x, z+1/2, y+1/2'
+  20  '-x, -z, -y'
+  21  'x+1/2, y+1/2, -z'
+  22  'x+1/2, -y, z+1/2'
+  23  '-x, y+1/2, z+1/2'
+  24  '-x, -y, -z'
+  25  'y, -x+1/2, -z+1/2'
+  26  '-y+1/2, -x+1/2, z'
+  27  '-y+1/2, x, -z+1/2'
+  28  'y, x, z'
+  29  'z, -x+1/2, -y+1/2'
+  30  '-z+1/2, -x+1/2, y'
+  31  '-z+1/2, x, -y+1/2'
+  32  'z, x, y'
+  33  '-z+1/2, y, -x+1/2'
+  34  'z, -y+1/2, -x+1/2'
+  35  '-z+1/2, -y+1/2, x'
+  36  'z, y, x'
+  37  '-y+1/2, z, -x+1/2'
+  38  'y, -z+1/2, -x+1/2'
+  39  '-y+1/2, -z+1/2, x'
+  40  'y, z, x'
+  41  '-x+1/2, -z+1/2, y'
+  42  '-x+1/2, z, -y+1/2'
+  43  'x, -z+1/2, -y+1/2'
+  44  'x, z, y'
+  45  '-x+1/2, -y+1/2, z'
+  46  '-x+1/2, y, -z+1/2'
+  47  'x, -y+1/2, -z+1/2'
+  48  '-y, x+1/2, z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_B_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_disorder_group
+  D1  D  0.433(1)  0.433(1)  0.373(2)  1.82(7)  .1666667  -1
+  O1  O  0.25  0.25  0.25  2.14(6)  1  .
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2022-03-28T11:49:15+03:00
+  'Updated bibliographic information.'
+  2  'Vaitkus, Antanas'  2022-03-28T11:52:00+03:00
+;
+Updated space group information and moved the 'x, y, z' symmetry
+operation  to the first position in the SPACE_GROUP loop.
+;
+
+  3  'Vaitkus, Antanas'  2022-03-28T16:20:00+03:00
+;
+Added additional information after consulting the original
+publication.
+;
+
+  4  'Vaitkus, Antanas'  2022-05-10T16:20:00+03:00
+;
+Marked atom 'D1' as being disordered around a special position with
+the occupancy of 1/6 after consulting the original publication.
+;
+
+  5  'Vaitkus, Antanas'  2022-05-10T18:00:00+03:00
+  'Added a reference to the suboptimal COD entry 1538611.'
+loop_
+ _cod_related_suboptimal_entry_code
+  1538611

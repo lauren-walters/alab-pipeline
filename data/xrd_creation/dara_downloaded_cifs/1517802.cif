@@ -1,0 +1,143 @@
+# generated using pymatgen
+data_1517802
+loop_
+ _publ_author_name
+  "Datchi, Fr\'ed\'eric"
+  'Mallick, Bidyut'
+  'Salamat, Ashkan'
+  'Ninet, Sandra'
+_publ_section_title   'Structure of Polymeric Carbon Dioxide CO~2~-V'
+_journal_coden_ASTM   PRLTAO
+_journal_issue   12
+_journal_name_full   'Physical Review Letters'
+_journal_page_first   125701
+_journal_paper_doi   10.1103/physrevlett.108.125701
+_journal_volume   108
+_journal_year   2012
+_chemical_formula_iupac   CO2
+_chemical_formula_sum   'C O2'
+_chemical_formula_weight   44.01
+_space_group_IT_number   122
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   'I -4 2bw'
+_symmetry_space_group_name_H-M   'I -4 2 d'
+_cell_angle_alpha   90.00000
+_cell_angle_beta   90.00000
+_cell_angle_gamma   90.00000
+_cell_formula_units_Z   4
+_cell_length_a   3.5518(5)
+_cell_length_b   3.5518(5)
+_cell_length_c   5.9184(9)
+_cell_measurement_temperature   295
+_cell_volume   74.662(19)
+_computing_data_collection   Fit2D
+_computing_publication_material   publCIF
+_computing_structure_refinement   FULLPROF
+_computing_structure_solution   Endeavour
+_diffrn_detector   'Mar CCD'
+_diffrn_detector_type   'Mar CCD'
+_diffrn_measurement_device_type   'ESRF ID27'
+_diffrn_radiation_type   X-ray
+_diffrn_source   ESRF
+_pd_meas_2theta_range_inc   0.018124
+_pd_meas_2theta_range_max   22.62100
+_pd_meas_2theta_range_min   6.16443
+_pd_meas_number_of_points   910
+_pd_meas_scan_method   cont
+_pd_prep_pressure   40800000
+_pd_prep_temperature   295
+_pd_proc_2theta_range_inc   0.018124
+_pd_proc_2theta_range_max   22.6177
+_pd_proc_2theta_range_min   6.1611
+_pd_proc_info_excluded_regions   10<2\q<10.8
+_pd_proc_ls_background_function   interpolation
+_pd_proc_ls_pref_orient_corr   None
+_pd_proc_ls_profile_function
+'Thompson-Cox-Hastings pseudo-Voigt * Axial divergence asymmetry'
+_pd_proc_ls_prof_R_factor   0.3032
+_pd_proc_ls_prof_wR_expected   2.7535
+_pd_proc_ls_prof_wR_factor   0.6072
+_pd_proc_wavelength   0.373800
+_pd_spec_mounting   'diamond anvil cell'
+_pd_spec_mount_mode   transmission
+_refine_ls_number_parameters   37
+_refine_ls_number_reflns   18
+_refine_ls_number_restraints   0
+_refine_ls_R_I_factor   3.6822
+_cod_data_source_file   Datchi-CO2V.cif
+_cod_data_source_block   CO2
+_cod_depositor_comments   'Title correction  Author correction'
+_cod_original_cell_volume   74.662(20)
+_cod_database_code   1517802
+_publcif_datablock.id   {52c08fc7-6772-483d-9800-8d70d2a054b7}
+_pd_proc_ls_prof_cr_factor   19.3679
+_pd_proc_ls_prof_cwr_factor   8.6486
+_pd_proc_ls_prof_cwr_expected   39.2175
+_pd_proc_ls_prof_chi2   0.0486
+_pd_proc_ls_prof_echi2   0.0612
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  y,-x,-z
+  -x,-y,z
+  -y,x,-z
+  x,-y+1/2,-z+1/4
+  y,x+1/2,z+1/4
+  -x,y+1/2,-z+1/4
+  -y,-x+1/2,z+1/4
+  x+1/2,y+1/2,z+1/2
+  y+1/2,-x+1/2,-z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  -y+1/2,x+1/2,-z+1/2
+  x+1/2,-y,-z+3/4
+  y+1/2,x,z+3/4
+  -x+1/2,y,-z+3/4
+  -y+1/2,-x,z+3/4
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_adp_type
+ _atom_site_type_symbol
+  C  0.00000  0.00000  0.00000  0.011(9)  1.00000  Uiso  C
+  O  0.214(3)  0.25000  0.12500  0.011(6)  1.00000  Uiso  O
+loop_
+ _atom_type_symbol
+ _atom_type_scat_Cromer_Mann_a1
+ _atom_type_scat_Cromer_Mann_b1
+ _atom_type_scat_Cromer_Mann_a2
+ _atom_type_scat_Cromer_Mann_b2
+ _atom_type_scat_Cromer_Mann_a3
+ _atom_type_scat_Cromer_Mann_b3
+ _atom_type_scat_Cromer_Mann_a4
+ _atom_type_scat_Cromer_Mann_b4
+ _atom_type_scat_Cromer_Mann_c
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  2.31000  20.84390  1.02000  10.20750  1.58860  0.56870  0.86500
+  51.65120  0.21560  0.00000  0.00100
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+  O  3.04850  13.27710  2.28680  5.70110  1.54630  0.32390  0.86700
+  32.90890  0.25080  0.00300  0.00400
+;
+International_Tables_for_Crystallography_Vol.C(1991)_Tables_6.1.1.4_an
+d_6.1.1.5
+;
+
+loop_
+ _publcif_info_datablock.id
+ _publcif_info_datablock.publ_exptl
+ _publcif_info_datablock.publ_geom
+ _publcif_info_datablock.structure
+  {52c08fc7-6772-483d-9800-8d70d2a054b7}  y  y  y
+loop_
+ _publcif_info_cif.paper_type
+  E

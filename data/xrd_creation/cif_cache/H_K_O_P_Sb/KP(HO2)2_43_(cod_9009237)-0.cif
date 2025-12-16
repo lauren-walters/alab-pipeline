@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_9009237
+loop_
+ _publ_author_name
+  'Levy, H. A.'
+  'Peterson, S. W.'
+  'Simonsen, S. H.'
+_publ_section_title
+;
+Neutron diffraction study of the ferroelectric modification of
+potassium  dihydrogen phosphate  Note sample at T = 113 K
+;
+_journal_name_full   'Physical Review'
+_journal_page_first   1120
+_journal_page_last   1121
+_journal_paper_doi   10.1103/PhysRev.93.1120
+_journal_volume   93
+_journal_year   1954
+_chemical_formula_structural   KH2PO4
+_chemical_formula_sum   'H2 K O4 P'
+_chemical_name_mineral   Archerite
+_space_group_IT_number   43
+_symmetry_space_group_name_Hall   'F 2 -2d'
+_symmetry_space_group_name_H-M   'F d d 2'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   10.53
+_cell_length_b   10.44
+_cell_length_c   6.90
+_cell_formula_units_Z   8
+_cell_volume   758.539
+_database_code_amcsd   0015150
+_diffrn_ambient_temperature   113
+_exptl_crystal_density_diffrn   2.383
+_cod_original_formula_sum   'K P O4 H2'
+_cod_database_code   9009237
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2+y,1/2+z
+  1/2+x,y,1/2+z
+  1/2+x,1/2+y,z
+  1/4+x,1/4-y,1/4+z
+  1/4+x,3/4-y,3/4+z
+  3/4+x,1/4-y,3/4+z
+  3/4+x,3/4-y,1/4+z
+  1/4-x,1/4+y,1/4+z
+  1/4-x,3/4+y,3/4+z
+  3/4-x,1/4+y,3/4+z
+  3/4-x,3/4+y,1/4+z
+  -x,1/2-y,1/2+z
+  -x,-y,+z
+  1/2-x,1/2-y,+z
+  1/2-x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  K  0.00000  0.00000  0.51200  0.00507
+  P  0.00000  0.00000  0.00000  0.00760
+  O1  0.11600  0.03450  0.13100  0.00760
+  O2  -0.03450  0.11600  -0.12350  0.00760
+  H  0.18800  -0.03750  0.13350  0.02533
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0015150

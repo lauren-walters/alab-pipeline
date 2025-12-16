@@ -1,0 +1,68 @@
+# generated using pymatgen
+data_2310604
+loop_
+ _publ_author_name
+  'Hilmer, W.'
+_publ_section_title
+;
+Die Kristallstruktur des sauren Kaliummetasilicates K4 (H Si O3)4.
+Korrektur.
+;
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   574
+_journal_page_last   574
+_journal_volume   18
+_journal_year   1965
+_chemical_formula_sum   'H K O3 Si'
+_chemical_name_systematic   'K H (Si O3)'
+_space_group_IT_number   64
+_symmetry_space_group_name_Hall   '-B 2ab 2'
+_symmetry_space_group_name_H-M   'B m a b'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   16
+_cell_length_a   11.5
+_cell_length_b   11.25
+_cell_length_c   9.65
+_cell_volume   1248.469
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Hilmer_ACCRA9_1965_1875.cif
+_cod_data_source_block   H1K1O3Si1
+_cod_original_sg_symbol_Hall   '-C 2ac 2 (-x,z,y)'
+_cod_original_formula_sum   'H1 K1 O3 Si1'
+_cod_database_code   2310604
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z
+  x,-y,-z
+  -x+1/2,-y+1/2,z
+  -x,-y,-z
+  x-1/2,-y-1/2,z
+  -x,y,z
+  x-1/2,y-1/2,-z
+  x+1/2,y,z+1/2
+  -x+1,y+1/2,-z+1/2
+  x+1/2,-y,-z+1/2
+  -x+1,-y+1/2,z+1/2
+  -x+1/2,-y,-z+1/2
+  x,-y-1/2,z+1/2
+  -x+1/2,y,z+1/2
+  x,y-1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  K1  K+1  0.25  0.25  0.737  1  0.0
+  K2  K+1  0  0.043  0.822  1  0.0
+  Si1  Si+4  0.5  0.187  0.986  1  0.0
+  O4  O-2  0.227  0.029  0.87  1  0.0
+  O1  O-2  0  0.31  0.56  1  0.0
+  O3  O-2  0.5  0.199  0.825  1  0.0
+  Si2  Si+4  0.302  0  0  1  0.0
+  O2  O-2  0.389  0.11  0.044  1  0.0

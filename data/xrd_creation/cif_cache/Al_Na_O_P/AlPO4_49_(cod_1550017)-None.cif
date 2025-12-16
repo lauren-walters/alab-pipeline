@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_1550017
+loop_
+ _publ_author_name
+  'Kanzaki, M.'
+_publ_section_title
+;
+Temperature-induced phase transition of AlPO4-moganite studies by in-
+situ  Raman spectroscopy : beta phase model optimized by DFT
+;
+_journal_name_full
+'Journal of Mineralogical and Petrological Sciences'
+_journal_page_first   126
+_journal_page_last   134
+_journal_volume   113
+_journal_year   2018
+_chemical_formula_sum   'Al O4 P'
+_chemical_name_common   'AlPO4 moganite beta phase'
+_chemical_name_mineral   'AlPO4 moganite beta phase'
+_space_group_IT_number   49
+_space_group_name_Hall   '-P 2a 2'
+_space_group_name_H-M_alt   'P m a a'
+_symmetry_space_group_name_Hall   '-P 2a 2'
+_symmetry_space_group_name_H-M   'P m a a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   6
+_cell_length_a   9.06820
+_cell_length_b   4.89040
+_cell_length_c   10.97930
+_cell_volume   486.900
+_diffrn_ambient_temperature   1
+_cod_data_source_file   AlPO4-moganite-beta-DFT.cif
+_cod_data_source_block   AlPO4_moganite_beta_DFT
+_cod_depositor_comments   'Journal name was wrong, and corrected.'
+_cod_original_formula_sum   'Al P O4'
+_cod_database_code   1550017
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-x, -y, -z'
+  'x, -y, -z'
+  '-x, y, z'
+  '-x+1/2, y, -z'
+  'x+1/2, -y, z'
+  '-x+1/2, -y, z'
+  'x+1/2, y, -z'
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+  P1  1.0  0.250000  0.000000  0.000000  Biso  1.000000  P
+  P2  1.0  0.000000  0.238500  0.666400  Biso  1.000000  P
+  Al1  1.0  0.250000  0.500000  0.500000  Biso  1.000000  Al
+  Al2  1.0  0.000000  0.254500  0.166700  Biso  1.000000  Al
+  O1  1.0  0.000000  0.066700  0.301900  Biso  1.000000  O
+  O2  1.0  0.000000  0.402800  0.786300  Biso  1.000000  O
+  O3  1.0  0.155200  0.185900  0.080100  Biso  1.000000  O
+  O4  1.0  0.861100  0.298900  0.592500  Biso  1.000000  O

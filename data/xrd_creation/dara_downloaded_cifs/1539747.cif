@@ -1,0 +1,187 @@
+# generated using pymatgen
+data_1539747
+loop_
+ _publ_author_name
+  'Fleet, Michael E.'
+_publ_section_title
+'The structure of magnetite: Symmetry of cubic spinels'
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   75
+_journal_page_last   82
+_journal_paper_doi   10.1016/0022-4596(86)90218-5
+_journal_volume   62
+_journal_year   1986
+_chemical_compound_source
+'Sample No. 633A, Dana Collection, University of Western Ontario'
+_chemical_formula_sum   'Fe3 O4'
+_chemical_name_mineral   Magnetite
+_space_group_IT_number   216
+_symmetry_space_group_name_Hall   'F -4 2 3'
+_symmetry_space_group_name_H-M   'F -4 3 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   8.3941(7)
+_cell_length_b   8.3941(7)
+_cell_length_c   8.3941(7)
+_cell_volume   591.456
+_citation_journal_id_ASTM   JSSCBI
+_database_code_amcsd   0020590
+_exptl_crystal_density_diffrn   5.200
+_cod_data_source_file   16796.cif
+_cod_data_source_block   16796
+_cod_database_code   1539747
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  y,-x,-z
+  -x,-y,z
+  -y,x,-z
+  x,-y,-z
+  -y,-x,z
+  -x,y,-z
+  y,x,z
+  z,x,y
+  x,-z,-y
+  -z,-x,y
+  -x,z,-y
+  z,-x,-y
+  -x,-z,y
+  -z,x,-y
+  x,z,y
+  y,z,x
+  y,-z,-x
+  -z,-y,x
+  -y,z,-x
+  z,y,x
+  -y,-z,x
+  -z,y,-x
+  z,-y,-x
+  x,y+1/2,z+1/2
+  y,-x+1/2,-z+1/2
+  -x,-y+1/2,z+1/2
+  -y,x+1/2,-z+1/2
+  x,-y+1/2,-z+1/2
+  -y,-x+1/2,z+1/2
+  -x,y+1/2,-z+1/2
+  y,x+1/2,z+1/2
+  z,x+1/2,y+1/2
+  x,-z+1/2,-y+1/2
+  -z,-x+1/2,y+1/2
+  -x,z+1/2,-y+1/2
+  z,-x+1/2,-y+1/2
+  -x,-z+1/2,y+1/2
+  -z,x+1/2,-y+1/2
+  x,z+1/2,y+1/2
+  y,z+1/2,x+1/2
+  y,-z+1/2,-x+1/2
+  -z,-y+1/2,x+1/2
+  -y,z+1/2,-x+1/2
+  z,y+1/2,x+1/2
+  -y,-z+1/2,x+1/2
+  -z,y+1/2,-x+1/2
+  z,-y+1/2,-x+1/2
+  x+1/2,y,z+1/2
+  y+1/2,-x,-z+1/2
+  -x+1/2,-y,z+1/2
+  -y+1/2,x,-z+1/2
+  x+1/2,-y,-z+1/2
+  -y+1/2,-x,z+1/2
+  -x+1/2,y,-z+1/2
+  y+1/2,x,z+1/2
+  z+1/2,x,y+1/2
+  x+1/2,-z,-y+1/2
+  -z+1/2,-x,y+1/2
+  -x+1/2,z,-y+1/2
+  z+1/2,-x,-y+1/2
+  -x+1/2,-z,y+1/2
+  -z+1/2,x,-y+1/2
+  x+1/2,z,y+1/2
+  y+1/2,z,x+1/2
+  y+1/2,-z,-x+1/2
+  -z+1/2,-y,x+1/2
+  -y+1/2,z,-x+1/2
+  z+1/2,y,x+1/2
+  -y+1/2,-z,x+1/2
+  -z+1/2,y,-x+1/2
+  z+1/2,-y,-x+1/2
+  x+1/2,y+1/2,z
+  y+1/2,-x+1/2,-z
+  -x+1/2,-y+1/2,z
+  -y+1/2,x+1/2,-z
+  x+1/2,-y+1/2,-z
+  -y+1/2,-x+1/2,z
+  -x+1/2,y+1/2,-z
+  y+1/2,x+1/2,z
+  z+1/2,x+1/2,y
+  x+1/2,-z+1/2,-y
+  -z+1/2,-x+1/2,y
+  -x+1/2,z+1/2,-y
+  z+1/2,-x+1/2,-y
+  -x+1/2,-z+1/2,y
+  -z+1/2,x+1/2,-y
+  x+1/2,z+1/2,y
+  y+1/2,z+1/2,x
+  y+1/2,-z+1/2,-x
+  -z+1/2,-y+1/2,x
+  -y+1/2,z+1/2,-x
+  z+1/2,y+1/2,x
+  -y+1/2,-z+1/2,x
+  -z+1/2,y+1/2,-x
+  z+1/2,-y+1/2,-x
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Fe1  Fe+2  0.0000  0.0000  0.0000  1.0  0.00445
+  Fe2  Fe+2  0.5000  0.5000  0.5000  1.0  0.00433
+  Fe3  Fe+3  0.6253(1)  0.6253(1)  0.6253(1)  1.0  0.00599
+  O1  O-2  0.8722(8)  0.8722(8)  0.8722(8)  1.0  0.00450
+  O2  O-2  0.3817(4)  0.3817(4)  0.3817(4)  1.0  0.01007
+loop_
+ _citation_author_citation_id
+ _citation_author_name
+  2  'Fleet, Michael E.'
+loop_
+ _citation_id
+ _citation_coordinate_linkage
+ _citation_title
+ _citation_page_first
+ _citation_page_last
+ _citation_year
+ _citation_journal_abbrev
+ _citation_journal_volume
+ _citation_journal_issue
+ _citation_journal_id_ISSN
+ _citation_special_details
+  2  no  'The structure of magnetite'  917  920  1981
+  'Acta Cryst. B'  37  4  2052-5206
+;
+Sample source and unit cell parameter a taken from this publication
+(S.G.).
+;
+
+loop_
+ _cod_entry_issue_id
+ _cod_entry_issue_origin
+ _cod_entry_issue_severity
+ _cod_entry_issue_description
+ _cod_entry_issue_author
+ _cod_entry_issue_date
+  1  original  note
+;
+Sample source and unit cell parameter a taken from publication
+_citation_id == 2.
+;
+  'Saulius Gra\<zulis'  2023-11-21
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0020590
+  2  ROD  3500283

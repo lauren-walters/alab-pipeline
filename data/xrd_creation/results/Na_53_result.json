@@ -1,0 +1,17 @@
+{
+  "experiment_id": "64c947aef6ae0d8fcc8c4958",
+  "experiment_name": "Na_53",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Cl-Ho-Na",
+  "target_formula": "Na5HoCl8",
+  "analysis_timestamp": "2025-12-06T16:12:37.022915",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

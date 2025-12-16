@@ -1,0 +1,585 @@
+# generated using pymatgen
+data_4312555
+loop_
+ _publ_author_name
+  'Shahrad Amerioun'
+  'Ulrich H\"aussermann'
+_publ_section_title
+;
+Structure and Bonding of Sr3In11: How Size and Electronic Effects
+Determine Structural Stability of Polar Intermetallic Compounds
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   7782
+_journal_page_last   7788
+_journal_paper_doi   10.1021/ic0301829
+_journal_volume   42
+_journal_year   2003
+_chemical_formula_sum   'In11 Sr3'
+_chemical_formula_weight   1525.88
+_space_group_IT_number   71
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-I 2 2'
+_symmetry_space_group_name_H-M   'I m m m'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   4.9257(6)
+_cell_length_b   14.247(2)
+_cell_length_c   11.212(2)
+_cell_measurement_reflns_used   17
+_cell_measurement_temperature   170(2)
+_cell_measurement_theta_max   31.0
+_cell_measurement_theta_min   7.89
+_cell_volume   786.8(2)
+_computing_cell_refinement   'PIRUM (Werner & Ericsson, 1993)'
+_computing_data_collection   'EXPOSE in IPDS (Stoe &Cie, 1997)'
+_computing_data_reduction   'X-RED (Stoe & Cie, 1997)'
+_computing_molecular_graphics   'Atoms (Dowty, 1997)'
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution   'SHELXS-97 (Sheldrick, 1990)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_detector_area_resol_mean   'area detector'
+_diffrn_measured_fraction_theta_full   0.943
+_diffrn_measured_fraction_theta_max   0.943
+_diffrn_measurement_device_type   'Stoe IPDS (version 2.87)'
+_diffrn_measurement_method   'fi scan'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'rotating anode tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0734
+_diffrn_reflns_av_sigmaI/netI   0.0381
+_diffrn_reflns_limit_h_max   6
+_diffrn_reflns_limit_h_min   -6
+_diffrn_reflns_limit_k_max   14
+_diffrn_reflns_limit_k_min   -14
+_diffrn_reflns_limit_l_max   18
+_diffrn_reflns_limit_l_min   -18
+_diffrn_reflns_number   2893
+_diffrn_reflns_theta_full   28.02
+_diffrn_reflns_theta_max   28.02
+_diffrn_reflns_theta_min   2.32
+_diffrn_standards_interval_count   6.0
+_exptl_absorpt_coefficient_mu   26.074
+_exptl_absorpt_correction_T_max   0.3156
+_exptl_absorpt_correction_T_min   0.1564
+_exptl_absorpt_correction_type   numerical
+_exptl_absorpt_process_details   'X-shape, (Stoe & Cie, 1997)'
+_exptl_crystal_colour   silver
+_exptl_crystal_density_diffrn   6.507
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   'irregular shape'
+_exptl_crystal_F_000   1306
+_exptl_crystal_size_max   0.07
+_exptl_crystal_size_mid   0.04
+_exptl_crystal_size_min   0.03
+_refine_diff_density_max   1.311
+_refine_diff_density_min   -1.359
+_refine_diff_density_rms   0.307
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.057
+_refine_ls_hydrogen_treatment   mixed
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   27
+_refine_ls_number_reflns   542
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.057
+_refine_ls_R_factor_all   0.0295
+_refine_ls_R_factor_gt   0.0224
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0305P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.0546
+_refine_ls_wR_factor_ref   0.0563
+_reflns_number_gt   478
+_reflns_number_total   542
+_reflns_threshold_expression   >2sigma(I)
+_cod_data_source_file   ic0301829.cif
+_cod_data_source_block   Sr3In11
+_cod_depositor_comments
+;
+The following automatic conversions were performed: data name
+'_atom_site_symetry_multiplicity' was replaced with
+'_atom_site_symmetry_multiplicity' as specified in the replacement
+file 'data/replacement-values/replacement_tags.lst'. Automatic
+conversion script Id: cif_correct_tags 9268 2022-04-12 08:56:07Z
+antanas
+;
+_cod_original_cell_volume   786.86(4)
+_cod_original_formula_sum   Sr3In11
+_cod_database_code   4312555
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, -y, z'
+  '-x, y, -z'
+  'x, -y, -z'
+  'x+1/2, y+1/2, z+1/2'
+  '-x+1/2, -y+1/2, z+1/2'
+  '-x+1/2, y+1/2, -z+1/2'
+  'x+1/2, -y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, y, -z'
+  'x, -y, z'
+  '-x, y, z'
+  '-x+1/2, -y+1/2, -z+1/2'
+  'x+1/2, y+1/2, -z+1/2'
+  'x+1/2, -y+1/2, z+1/2'
+  '-x+1/2, y+1/2, z+1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  In1  In  0.5000  0.0000  0.5000  0.0126(3)  Uani  1  8  d  S  .  .
+  In2  In  0.5000  0.69543(7)  0.0000  0.0107(2)  Uani  1  4  d  S
+  .  .
+  In3  In  0.0000  0.37263(5)  0.34257(4)  0.00879(17)  Uani  1  2
+  d  S  .  .
+  In4  In  0.0000  0.27532(5)  0.14751(4)  0.00933(18)  Uani  1  2
+  d  S  .  .
+  Sr1  Sr  0.0000  0.0000  0.0000  0.0071(3)  Uani  1  8  d  S  .  .
+  Sr2  Sr  0.0000  0.0000  0.31016(7)  0.0076(2)  Uani  1  4  d  S
+  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  In1  0.0102(5)  0.0190(6)  0.0086(5)  0.000  0.000  0.000
+  In2  0.0138(3)  0.0114(4)  0.0069(4)  0.000  0.000  0.000
+  In3  0.0074(2)  0.0085(3)  0.0105(3)  0.0006(2)  0.000  0.000
+  In4  0.0064(2)  0.0094(3)  0.0122(3)  -0.00178(19)  0.000  0.000
+  Sr1  0.0066(6)  0.0095(7)  0.0053(7)  0.000  0.000  0.000
+  Sr2  0.0064(4)  0.0093(5)  0.0071(5)  0.000  0.000  0.000
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Sr  Sr  -1.5307  3.2498
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  In  In  -0.7276  1.3100
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  In4  In1  In4  180.0  6  14_545  ?
+  In4  In1  In4  79.68(3)  6  13  ?
+  In4  In1  In4  100.32(3)  14_545  13  ?
+  In4  In1  In4  100.32(3)  6  5_545  ?
+  In4  In1  In4  79.68(3)  14_545  5_545  ?
+  In4  In1  In4  180.0  13  5_545  ?
+  In4  In1  In2  59.363(12)  6  5_545  ?
+  In4  In1  In2  120.637(12)  14_545  5_545  ?
+  In4  In1  In2  59.363(12)  13  5_545  ?
+  In4  In1  In2  120.637(12)  5_545  5_545  ?
+  In4  In1  In2  120.637(12)  6  13  ?
+  In4  In1  In2  59.363(12)  14_545  13  ?
+  In4  In1  In2  120.637(12)  13  13  ?
+  In4  In1  In2  59.363(12)  5_545  13  ?
+  In2  In1  In2  180.00(2)  5_545  13  ?
+  In4  In1  In2  59.363(12)  6  5_445  ?
+  In4  In1  In2  120.637(12)  14_545  5_445  ?
+  In4  In1  In2  59.363(12)  13  5_445  ?
+  In4  In1  In2  120.637(12)  5_545  5_445  ?
+  In2  In1  In2  96.84(3)  5_545  5_445  ?
+  In2  In1  In2  83.16(3)  13  5_445  ?
+  In4  In1  In2  120.637(12)  6  13_655  ?
+  In4  In1  In2  59.363(12)  14_545  13_655  ?
+  In4  In1  In2  120.637(12)  13  13_655  ?
+  In4  In1  In2  59.363(12)  5_545  13_655  ?
+  In2  In1  In2  83.16(3)  5_545  13_655  ?
+  In2  In1  In2  96.84(3)  13  13_655  ?
+  In2  In1  In2  180.0  5_445  13_655  ?
+  In4  In1  Sr2  61.764(11)  6  9_656  ?
+  In4  In1  Sr2  118.236(11)  14_545  9_656  ?
+  In4  In1  Sr2  118.236(11)  13  9_656  ?
+  In4  In1  Sr2  61.764(11)  5_545  9_656  ?
+  In2  In1  Sr2  59.711(12)  5_545  9_656  ?
+  In2  In1  Sr2  120.289(12)  13  9_656  ?
+  In2  In1  Sr2  120.289(12)  5_445  9_656  ?
+  In2  In1  Sr2  59.711(12)  13_655  9_656  ?
+  In4  In1  Sr2  118.236(11)  6  .  ?
+  In4  In1  Sr2  61.764(11)  14_545  .  ?
+  In4  In1  Sr2  61.764(11)  13  .  ?
+  In4  In1  Sr2  118.236(11)  5_545  .  ?
+  In2  In1  Sr2  120.289(12)  5_545  .  ?
+  In2  In1  Sr2  59.711(12)  13  .  ?
+  In2  In1  Sr2  59.711(12)  5_445  .  ?
+  In2  In1  Sr2  120.289(12)  13_655  .  ?
+  Sr2  In1  Sr2  180.0  9_656  .  ?
+  In4  In1  Sr2  118.236(11)  6  1_655  ?
+  In4  In1  Sr2  61.764(11)  14_545  1_655  ?
+  In4  In1  Sr2  61.764(11)  13  1_655  ?
+  In4  In1  Sr2  118.236(11)  5_545  1_655  ?
+  In2  In1  Sr2  59.711(12)  5_545  1_655  ?
+  In2  In1  Sr2  120.289(12)  13  1_655  ?
+  In2  In1  Sr2  120.289(12)  5_445  1_655  ?
+  In2  In1  Sr2  59.711(12)  13_655  1_655  ?
+  Sr2  In1  Sr2  95.21(3)  9_656  1_655  ?
+  Sr2  In1  Sr2  84.79(3)  .  1_655  ?
+  In4  In1  Sr2  61.764(11)  6  9_556  ?
+  In4  In1  Sr2  118.236(11)  14_545  9_556  ?
+  In4  In1  Sr2  118.236(11)  13  9_556  ?
+  In4  In1  Sr2  61.764(11)  5_545  9_556  ?
+  In2  In1  Sr2  120.289(12)  5_545  9_556  ?
+  In2  In1  Sr2  59.711(12)  13  9_556  ?
+  In2  In1  Sr2  59.711(12)  5_445  9_556  ?
+  In2  In1  Sr2  120.289(12)  13_655  9_556  ?
+  Sr2  In1  Sr2  84.79(3)  9_656  9_556  ?
+  Sr2  In1  Sr2  95.21(3)  .  9_556  ?
+  Sr2  In1  Sr2  180.0  1_655  9_556  ?
+  In3  In2  In3  96.93(4)  14  5_554  ?
+  In3  In2  In4  56.673(13)  14  2_665  ?
+  In3  In2  In4  114.58(2)  5_554  2_665  ?
+  In3  In2  In4  114.58(2)  14  9_565  ?
+  In3  In2  In4  56.673(13)  5_554  9_565  ?
+  In4  In2  In4  168.45(3)  2_665  9_565  ?
+  In3  In2  In4  114.58(2)  14  9_665  ?
+  In3  In2  In4  56.673(13)  5_554  9_665  ?
+  In4  In2  In4  80.31(2)  2_665  9_665  ?
+  In4  In2  In4  98.52(2)  9_565  9_665  ?
+  In3  In2  In4  56.673(13)  14  2_565  ?
+  In3  In2  In4  114.58(2)  5_554  2_565  ?
+  In4  In2  In4  98.52(2)  2_665  2_565  ?
+  In4  In2  In4  80.31(2)  9_565  2_565  ?
+  In4  In2  In4  168.45(3)  9_665  2_565  ?
+  In3  In2  In1  116.107(10)  14  5_454  ?
+  In3  In2  In1  116.107(10)  5_554  5_454  ?
+  In4  In2  In1  129.31(2)  2_665  5_454  ?
+  In4  In2  In1  60.002(14)  9_565  5_454  ?
+  In4  In2  In1  129.31(2)  9_665  5_454  ?
+  In4  In2  In1  60.002(14)  2_565  5_454  ?
+  In3  In2  In1  116.107(10)  14  5_554  ?
+  In3  In2  In1  116.107(10)  5_554  5_554  ?
+  In4  In2  In1  60.002(14)  2_665  5_554  ?
+  In4  In2  In1  129.31(2)  9_565  5_554  ?
+  In4  In2  In1  60.002(14)  9_665  5_554  ?
+  In4  In2  In1  129.31(2)  2_565  5_554  ?
+  In1  In2  In1  96.84(3)  5_454  5_554  ?
+  In3  In2  Sr2  177.48(3)  14  5_554  ?
+  In3  In2  Sr2  80.54(2)  5_554  5_554  ?
+  In4  In2  Sr2  124.360(18)  2_665  5_554  ?
+  In4  In2  Sr2  64.041(14)  9_565  5_554  ?
+  In4  In2  Sr2  64.041(14)  9_665  5_554  ?
+  In4  In2  Sr2  124.360(18)  2_565  5_554  ?
+  In1  In2  Sr2  65.307(15)  5_454  5_554  ?
+  In1  In2  Sr2  65.307(15)  5_554  5_554  ?
+  In3  In2  Sr2  80.54(2)  14  13  ?
+  In3  In2  Sr2  177.48(3)  5_554  13  ?
+  In4  In2  Sr2  64.041(14)  2_665  13  ?
+  In4  In2  Sr2  124.360(18)  9_565  13  ?
+  In4  In2  Sr2  124.360(18)  9_665  13  ?
+  In4  In2  Sr2  64.041(14)  2_565  13  ?
+  In1  In2  Sr2  65.307(15)  5_454  13  ?
+  In1  In2  Sr2  65.307(15)  5_554  13  ?
+  Sr2  In2  Sr2  101.98(3)  5_554  13  ?
+  In3  In3  In4  123.847(14)  2_565  13_455  ?
+  In3  In3  In4  123.846(15)  2_565  13  ?
+  In4  In3  In4  112.03(3)  13_455  13  ?
+  In3  In3  In4  111.433(18)  2_565  .  ?
+  In4  In3  In4  80.830(18)  13_455  .  ?
+  In4  In3  In4  80.830(18)  13  .  ?
+  In3  In3  In2  131.533(18)  2_565  5_445  ?
+  In4  In3  In2  66.121(17)  13_455  5_445  ?
+  In4  In3  In2  66.121(17)  13  5_445  ?
+  In4  In3  In2  117.03(3)  .  5_445  ?
+  In3  In3  Sr2  66.545(11)  2_565  13_455  ?
+  In4  In3  Sr2  71.322(17)  13_455  13_455  ?
+  In4  In3  Sr2  145.20(2)  13  13_455  ?
+  In4  In3  Sr2  65.222(18)  .  13_455  ?
+  In2  In3  Sr2  135.882(12)  5_445  13_455  ?
+  In3  In3  Sr2  66.545(11)  2_565  13  ?
+  In4  In3  Sr2  145.20(2)  13_455  13  ?
+  In4  In3  Sr2  71.322(17)  13  13  ?
+  In4  In3  Sr2  65.222(18)  .  13  ?
+  In2  In3  Sr2  135.882(12)  5_445  13  ?
+  Sr2  In3  Sr2  86.99(3)  13_455  13  ?
+  In3  In3  Sr1  66.826(10)  2_565  5  ?
+  In4  In3  Sr1  138.95(2)  13_455  5  ?
+  In4  In3  Sr1  68.013(16)  13  5  ?
+  In4  In3  Sr1  135.984(10)  .  5  ?
+  In2  In3  Sr1  78.360(17)  5_445  5  ?
+  Sr2  In3  Sr1  133.36(2)  13_455  5  ?
+  Sr2  In3  Sr1  75.513(19)  13  5  ?
+  In3  In3  Sr1  66.826(10)  2_565  5_455  ?
+  In4  In3  Sr1  68.013(16)  13_455  5_455  ?
+  In4  In3  Sr1  138.95(2)  13  5_455  ?
+  In4  In3  Sr1  135.984(10)  .  5_455  ?
+  In2  In3  Sr1  78.360(16)  5_445  5_455  ?
+  Sr2  In3  Sr1  75.513(19)  13_455  5_455  ?
+  Sr2  In3  Sr1  133.36(2)  13  5_455  ?
+  Sr1  In3  Sr1  85.767(18)  5  5_455  ?
+  In3  In4  In3  112.03(3)  13_455  13  ?
+  In3  In4  In3  99.170(18)  13_455  .  ?
+  In3  In4  In3  99.170(18)  13  .  ?
+  In3  In4  In2  57.206(18)  13_455  9_565  ?
+  In3  In4  In2  135.63(2)  13  9_565  ?
+  In3  In4  In2  124.296(16)  .  9_565  ?
+  In3  In4  In2  135.63(2)  13_455  9_665  ?
+  In3  In4  In2  57.206(18)  13  9_665  ?
+  In3  In4  In2  124.296(16)  .  9_665  ?
+  In2  In4  In2  98.52(2)  9_565  9_665  ?
+  In3  In4  In1  117.262(16)  13_455  5_454  ?
+  In3  In4  In1  117.262(16)  13  5_454  ?
+  In3  In4  In1  108.41(3)  .  5_454  ?
+  In2  In4  In1  60.636(16)  9_565  5_454  ?
+  In2  In4  In1  60.636(16)  9_665  5_454  ?
+  In3  In4  Sr2  162.98(2)  13_455  13  ?
+  In3  In4  Sr2  79.157(18)  13  13  ?
+  In3  In4  Sr2  65.54(2)  .  13  ?
+  In2  In4  Sr2  124.10(3)  9_565  13  ?
+  In2  In4  Sr2  60.99(2)  9_665  13  ?
+  In1  In4  Sr2  64.373(19)  5_454  13  ?
+  In3  In4  Sr2  79.157(18)  13_455  13_455  ?
+  In3  In4  Sr2  162.98(2)  13  13_455  ?
+  In3  In4  Sr2  65.54(2)  .  13_455  ?
+  In2  In4  Sr2  60.99(2)  9_565  13_455  ?
+  In2  In4  Sr2  124.10(3)  9_665  13_455  ?
+  In1  In4  Sr2  64.373(19)  5_454  13_455  ?
+  Sr2  In4  Sr2  87.27(2)  13  13_455  ?
+  In3  In4  Sr1  64.298(15)  13_455  .  ?
+  In3  In4  Sr1  64.298(15)  13  .  ?
+  In3  In4  Sr1  145.68(2)  .  .  ?
+  In2  In4  Sr1  73.755(18)  9_565  .  ?
+  In2  In4  Sr1  73.755(18)  9_665  .  ?
+  In1  In4  Sr1  105.91(2)  5_454  .  ?
+  Sr2  In4  Sr1  132.583(16)  13  .  ?
+  Sr2  In4  Sr1  132.583(16)  13_455  .  ?
+  In3  In4  Sr2  61.712(15)  13_455  .  ?
+  In3  In4  Sr2  61.712(15)  13  .  ?
+  In3  In4  Sr2  74.54(2)  .  .  ?
+  In2  In4  Sr2  117.878(18)  9_565  .  ?
+  In2  In4  Sr2  117.878(18)  9_665  .  ?
+  In1  In4  Sr2  177.06(2)  5_454  .  ?
+  Sr2  In4  Sr2  117.500(16)  13  .  ?
+  Sr2  In4  Sr2  117.500(16)  13_455  .  ?
+  Sr1  In4  Sr2  71.14(2)  .  .  ?
+  In3  Sr1  In3  180.000(13)  5_444  13  ?
+  In3  Sr1  In3  133.65(2)  5_444  14_545  ?
+  In3  Sr1  In3  46.35(2)  13  14_545  ?
+  In3  Sr1  In3  46.35(2)  5_444  6_454  ?
+  In3  Sr1  In3  133.65(2)  13  6_454  ?
+  In3  Sr1  In3  180.000(13)  14_545  6_454  ?
+  In3  Sr1  In3  76.354(19)  5_444  14_445  ?
+  In3  Sr1  In3  103.646(19)  13  14_445  ?
+  In3  Sr1  In3  85.767(18)  14_545  14_445  ?
+  In3  Sr1  In3  94.233(18)  6_454  14_445  ?
+  In3  Sr1  In3  85.767(18)  5_444  5_544  ?
+  In3  Sr1  In3  94.233(18)  13  5_544  ?
+  In3  Sr1  In3  76.354(19)  14_545  5_544  ?
+  In3  Sr1  In3  103.646(19)  6_454  5_544  ?
+  In3  Sr1  In3  133.65(2)  14_445  5_544  ?
+  In3  Sr1  In3  103.646(19)  5_444  6_554  ?
+  In3  Sr1  In3  76.354(19)  13  6_554  ?
+  In3  Sr1  In3  94.233(18)  14_545  6_554  ?
+  In3  Sr1  In3  85.767(18)  6_454  6_554  ?
+  In3  Sr1  In3  180.000(13)  14_445  6_554  ?
+  In3  Sr1  In3  46.35(2)  5_544  6_554  ?
+  In3  Sr1  In3  94.233(18)  5_444  13_455  ?
+  In3  Sr1  In3  85.767(18)  13  13_455  ?
+  In3  Sr1  In3  103.646(19)  14_545  13_455  ?
+  In3  Sr1  In3  76.354(19)  6_454  13_455  ?
+  In3  Sr1  In3  46.35(2)  14_445  13_455  ?
+  In3  Sr1  In3  180.00(2)  5_544  13_455  ?
+  In3  Sr1  In3  133.65(2)  6_554  13_455  ?
+  In3  Sr1  In4  47.689(10)  5_444  9  ?
+  In3  Sr1  In4  132.311(10)  13  9  ?
+  In3  Sr1  In4  91.293(15)  14_545  9  ?
+  In3  Sr1  In4  88.707(15)  6_454  9  ?
+  In3  Sr1  In4  91.293(15)  14_445  9  ?
+  In3  Sr1  In4  47.689(10)  5_544  9  ?
+  In3  Sr1  In4  88.707(15)  6_554  9  ?
+  In3  Sr1  In4  132.311(10)  13_455  9  ?
+  In3  Sr1  In4  132.311(10)  5_444  .  ?
+  In3  Sr1  In4  47.689(10)  13  .  ?
+  In3  Sr1  In4  88.707(15)  14_545  .  ?
+  In3  Sr1  In4  91.293(15)  6_454  .  ?
+  In3  Sr1  In4  88.707(15)  14_445  .  ?
+  In3  Sr1  In4  132.311(10)  5_544  .  ?
+  In3  Sr1  In4  91.293(15)  6_554  .  ?
+  In3  Sr1  In4  47.689(10)  13_455  .  ?
+  In4  Sr1  In4  180.000(15)  9  .  ?
+  In3  Sr1  In4  91.293(15)  5_444  2  ?
+  In3  Sr1  In4  88.707(15)  13  2  ?
+  In3  Sr1  In4  47.689(10)  14_545  2  ?
+  In3  Sr1  In4  132.311(10)  6_454  2  ?
+  In3  Sr1  In4  47.689(10)  14_445  2  ?
+  In3  Sr1  In4  91.293(15)  5_544  2  ?
+  In3  Sr1  In4  132.311(10)  6_554  2  ?
+  In3  Sr1  In4  88.707(15)  13_455  2  ?
+  In4  Sr1  In4  68.50(2)  9  2  ?
+  In4  Sr1  In4  111.50(2)  .  2  ?
+  In3  Sr1  In4  88.707(15)  5_444  10  ?
+  In3  Sr1  In4  91.293(15)  13  10  ?
+  In3  Sr1  In4  132.311(10)  14_545  10  ?
+  In3  Sr1  In4  47.689(10)  6_454  10  ?
+  In3  Sr1  In4  132.311(10)  14_445  10  ?
+  In3  Sr1  In4  88.707(15)  5_544  10  ?
+  In3  Sr1  In4  47.689(10)  6_554  10  ?
+  In3  Sr1  In4  91.293(15)  13_455  10  ?
+  In4  Sr1  In4  111.50(2)  9  10  ?
+  In4  Sr1  In4  68.50(2)  .  10  ?
+  In4  Sr1  In4  180.0  2  10  ?
+  In2  Sr2  In2  78.02(3)  5_445  13  ?
+  In2  Sr2  In4  54.970(15)  5_445  13  ?
+  In2  Sr2  In4  108.19(3)  13  13  ?
+  In2  Sr2  In4  108.19(3)  5_445  14_445  ?
+  In2  Sr2  In4  54.970(15)  13  14_445  ?
+  In4  Sr2  In4  160.60(4)  13  14_445  ?
+  In2  Sr2  In4  54.970(15)  5_445  13_455  ?
+  In2  Sr2  In4  108.19(3)  13  13_455  ?
+  In4  Sr2  In4  87.27(2)  13  13_455  ?
+  In4  Sr2  In4  89.48(2)  14_445  13_455  ?
+  In2  Sr2  In4  108.19(3)  5_445  14_545  ?
+  In2  Sr2  In4  54.970(15)  13  14_545  ?
+  In4  Sr2  In4  89.48(2)  13  14_545  ?
+  In4  Sr2  In4  87.27(2)  14_445  14_545  ?
+  In4  Sr2  In4  160.60(4)  13_455  14_545  ?
+  In2  Sr2  In3  136.204(11)  5_445  14_445  ?
+  In2  Sr2  In3  102.751(16)  13  14_445  ?
+  In4  Sr2  In3  149.02(3)  13  14_445  ?
+  In4  Sr2  In3  49.238(16)  14_445  14_445  ?
+  In4  Sr2  In3  84.687(18)  13_455  14_445  ?
+  In4  Sr2  In3  107.277(19)  14_545  14_445  ?
+  In2  Sr2  In3  102.751(16)  5_445  13_455  ?
+  In2  Sr2  In3  136.204(11)  13  13_455  ?
+  In4  Sr2  In3  107.277(19)  13  13_455  ?
+  In4  Sr2  In3  84.687(18)  14_445  13_455  ?
+  In4  Sr2  In3  49.238(16)  13_455  13_455  ?
+  In4  Sr2  In3  149.02(3)  14_545  13_455  ?
+  In3  Sr2  In3  46.91(2)  14_445  13_455  ?
+  In2  Sr2  In3  136.204(11)  5_445  14_545  ?
+  In2  Sr2  In3  102.751(16)  13  14_545  ?
+  In4  Sr2  In3  84.687(18)  13  14_545  ?
+  In4  Sr2  In3  107.277(19)  14_445  14_545  ?
+  In4  Sr2  In3  149.02(3)  13_455  14_545  ?
+  In4  Sr2  In3  49.238(16)  14_545  14_545  ?
+  In3  Sr2  In3  86.99(3)  14_445  14_545  ?
+  In3  Sr2  In3  105.33(3)  13_455  14_545  ?
+  In2  Sr2  In3  102.751(16)  5_445  13  ?
+  In2  Sr2  In3  136.204(11)  13  13  ?
+  In4  Sr2  In3  49.238(16)  13  13  ?
+  In4  Sr2  In3  149.02(3)  14_445  13  ?
+  In4  Sr2  In3  107.277(19)  13_455  13  ?
+  In4  Sr2  In3  84.687(18)  14_545  13  ?
+  In3  Sr2  In3  105.33(3)  14_445  13  ?
+  In3  Sr2  In3  86.99(3)  13_455  13  ?
+  In3  Sr2  In3  46.91(2)  14_545  13  ?
+  In2  Sr2  In1  54.982(16)  5_445  .  ?
+  In2  Sr2  In1  54.982(16)  13  .  ?
+  In4  Sr2  In1  53.863(14)  13  .  ?
+  In4  Sr2  In1  109.93(3)  14_445  .  ?
+  In4  Sr2  In1  109.93(3)  13_455  .  ?
+  In4  Sr2  In1  53.863(14)  14_545  .  ?
+  In3  Sr2  In1  155.780(15)  14_445  .  ?
+  In3  Sr2  In1  155.780(15)  13_455  .  ?
+  In3  Sr2  In1  89.072(15)  14_545  .  ?
+  In3  Sr2  In1  89.072(15)  13  .  ?
+  In2  Sr2  In1  54.982(16)  5_445  1_455  ?
+  In2  Sr2  In1  54.982(16)  13  1_455  ?
+  In4  Sr2  In1  109.93(3)  13  1_455  ?
+  In4  Sr2  In1  53.863(14)  14_445  1_455  ?
+  In4  Sr2  In1  53.863(14)  13_455  1_455  ?
+  In4  Sr2  In1  109.93(3)  14_545  1_455  ?
+  In3  Sr2  In1  89.072(15)  14_445  1_455  ?
+  In3  Sr2  In1  89.072(15)  13_455  1_455  ?
+  In3  Sr2  In1  155.780(15)  14_545  1_455  ?
+  In3  Sr2  In1  155.780(15)  13  1_455  ?
+  In1  Sr2  In1  84.79(3)  .  1_455  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  In1  In4  3.2665(7)  6  ?
+  In1  In4  3.2665(7)  14_545  ?
+  In1  In4  3.2665(7)  13  ?
+  In1  In4  3.2665(7)  5_545  ?
+  In1  In2  3.2872(7)  5_545  ?
+  In1  In2  3.2872(7)  13  ?
+  In1  In2  3.2872(7)  5_445  ?
+  In1  In2  3.2872(7)  13_655  ?
+  In1  Sr2  3.6468(9)  9_656  ?
+  In1  Sr2  3.6468(9)  .  ?
+  In1  Sr2  3.6468(9)  1_655  ?
+  In1  Sr2  3.6468(9)  9_556  ?
+  In2  In3  2.9834(9)  14  ?
+  In2  In3  2.9834(9)  5_554  ?
+  In2  In4  3.2453(6)  2_665  ?
+  In2  In4  3.2453(6)  9_565  ?
+  In2  In4  3.2453(6)  9_665  ?
+  In2  In4  3.2453(6)  2_565  ?
+  In2  In1  3.2872(7)  5_454  ?
+  In2  In1  3.2872(7)  5_554  ?
+  In2  Sr2  3.4659(10)  5_554  ?
+  In2  Sr2  3.4659(10)  13  ?
+  In3  In3  2.8438(13)  2_565  ?
+  In3  In4  2.9654(6)  13_455  ?
+  In3  In4  2.9654(6)  13  ?
+  In3  In4  2.9726(9)  .  ?
+  In3  In2  2.9834(9)  5_445  ?
+  In3  Sr2  3.5724(8)  13_455  ?
+  In3  Sr2  3.5724(8)  13  ?
+  In3  Sr1  3.6132(6)  5  ?
+  In3  Sr1  3.6132(6)  5_455  ?
+  In4  In3  2.9654(6)  13_455  ?
+  In4  In3  2.9654(6)  13  ?
+  In4  In2  3.2453(6)  9_565  ?
+  In4  In2  3.2453(6)  9_665  ?
+  In4  In1  3.2665(7)  5_454  ?
+  In4  Sr2  3.5633(7)  13  ?
+  In4  Sr2  3.5633(7)  13_455  ?
+  In4  Sr1  3.7183(8)  .  ?
+  In4  Sr2  3.8432(10)  .  ?
+  Sr1  In3  3.6132(6)  5_444  ?
+  Sr1  In3  3.6132(6)  13  ?
+  Sr1  In3  3.6132(6)  14_545  ?
+  Sr1  In3  3.6132(6)  6_454  ?
+  Sr1  In3  3.6132(6)  14_445  ?
+  Sr1  In3  3.6132(6)  5_544  ?
+  Sr1  In3  3.6132(6)  6_554  ?
+  Sr1  In3  3.6132(6)  13_455  ?
+  Sr1  In4  3.7183(8)  9  ?
+  Sr1  In4  3.7183(8)  2  ?
+  Sr1  In4  3.7183(8)  10  ?
+  Sr2  In2  3.4659(10)  5_445  ?
+  Sr2  In2  3.4659(10)  13  ?
+  Sr2  In4  3.5633(7)  13  ?
+  Sr2  In4  3.5633(7)  14_445  ?
+  Sr2  In4  3.5633(7)  13_455  ?
+  Sr2  In4  3.5633(7)  14_545  ?
+  Sr2  In3  3.5724(8)  14_445  ?
+  Sr2  In3  3.5724(8)  13_455  ?
+  Sr2  In3  3.5724(8)  14_545  ?
+  Sr2  In3  3.5724(8)  13  ?
+  Sr2  In1  3.6468(9)  1_455  ?

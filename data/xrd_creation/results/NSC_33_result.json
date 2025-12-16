@@ -1,0 +1,17 @@
+{
+  "experiment_id": "64ae595a2c76549338f2be5c",
+  "experiment_name": "NSC_33",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "In-Na-O-P-Si-Zr",
+  "target_formula": "Na2.475Zr1.5In0.5(PO4)2.25(SiO4)0.75",
+  "analysis_timestamp": "2025-12-06T15:54:47.229186",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

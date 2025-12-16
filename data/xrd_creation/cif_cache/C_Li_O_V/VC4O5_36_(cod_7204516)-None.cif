@@ -1,0 +1,233 @@
+# generated using pymatgen
+data_7204516
+loop_
+ _publ_author_name
+  'Weeks, Curtis'
+  'Song, Yanning'
+  'Suzuki, Masatsugu'
+  'Chernova, Natasha A.'
+  'Zavalij, Peter Y.'
+  'Whittingham, M. Stanley'
+_publ_section_title
+;
+The one dimensional chain structures of vanadyl glycolate and vanadyl
+acetateElectronic supplementary information (ESI) available:
+difference plots and reflections lists for VO(CH3COO)2 and
+VO(OCH2CH2O). See http://www.rsc.org/suppdata/jm/b2/b208100h/
+;
+_journal_issue   6
+_journal_name_full   'Journal of Materials Chemistry'
+_journal_page_first   1420
+_journal_paper_doi   10.1039/b208100h
+_journal_volume   13
+_journal_year   2003
+_chemical_formula_structural   VO(CH3COO)2
+_chemical_formula_sum   'C8 H12 O10 V2'
+_chemical_formula_weight   740.16
+_chemical_name_common   'Vanadyl diacetate'
+_chemical_name_systematic   ?
+_space_group_IT_number   36
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   'C 2c -2'
+_symmetry_space_group_name_H-M   'C m c 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   14.0654(4)
+_cell_length_b   6.8771(2)
+_cell_length_c   6.9255(3)
+_cell_volume   669.90(4)
+_computing_cell_refinement   CSD
+_computing_data_reduction   CSD
+_computing_publication_material   'CSD (Akeslrud et al, 1993)'
+_computing_structure_refinement   CSD
+_computing_structure_solution   CSD
+_diffrn_ambient_environment   air
+_diffrn_ambient_temperature   295
+_diffrn_detector   'Ge solid state detector'
+_diffrn_measurement_device   'Scintag XDS2000'
+_diffrn_measurement_method   \w/\q
+_diffrn_radiation_probe   x-ray
+_diffrn_reflns_theta_max   45.5
+_exptl_absorpt_coefficient_mu   12.9
+_exptl_crystal_density_diffrn   1.8346(2)
+_exptl_crystal_F_000   372
+_pd_calc_method   'Rietveld Refinement'
+_pd_meas_2theta_range_inc   0.02
+_pd_meas_2theta_range_max   91
+_pd_meas_2theta_range_min   10
+_pd_meas_scan_method   step
+_pd_meas_step_count_time   30
+_pd_phase_name   CWRT
+_pd_proc_2theta_range_inc   0.02
+_pd_proc_2theta_range_max   91
+_pd_proc_2theta_range_min   10
+_pd_proc_ls_pref_orient_corr
+;
+Preffered orientation was refined using CSD formula (Pecharskii,
+Akselrud & Zavalii, 1987):
+I~corr~=I~obs~/[1+(\t^2^-1)^.^sin^2^\f]^1/2^ Axis  0  0  1, \t=4.77(4)
+;
+_pd_proc_ls_profile_function   pseudo-Voit
+_pd_proc_ls_prof_R_factor   0.098
+_pd_proc_ls_prof_wR_expected   0.035
+_pd_proc_ls_prof_wR_factor   0.122
+_pd_spec_mounting   'packed powder pellet'
+_pd_spec_size_axial   25
+_pd_spec_size_equat   25
+_pd_spec_size_thick   1
+_refine_ls_matrix_type   fullcycle
+_refine_ls_number_parameters   24
+_refine_ls_number_reflns   0
+_refine_ls_structure_factor_coef   Inet
+_refine_ls_weighting_details   'w = 1/[Y~i~+\s(Y~i~)]'
+_refine_ls_weighting_scheme   calc
+_cod_data_source_file   b208100h.txt
+_cod_data_source_block   CWRT_phase_1
+_cod_depositor_comments
+;
+Changing the _atom_site_occupancy data item value from '.' to '1'  for
+all fully occupied atom sites.  Antanas Vaitkus,  2017-02-10 The
+following automatic conversions were performed:
+'_refine_ls_weighting_scheme' value '1/[Y~i~+\s(Y~i~)]' was changed to
+'calc'. New tag '_refine_ls_weighting_details' was created. The value
+of the new tag was set to 'w = 1/[Y~i~+\s(Y~i~)]'. Automatic
+conversion script Id: cif_fix_values 3143 2015-03-26 13:38:13Z
+robertas
+;
+_cod_original_cell_volume   669.90(6)
+_cod_original_formula_sum   'V2 O10 C8 H12'
+_cod_database_code   7204516
+_refine_ls_r_factor_i   0.070
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,z
+  x,-y,1/2+z
+  -x,-y,1/2+z
+  1/2+x,1/2+y,z
+  1/2-x,1/2+y,z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+ _atom_site_type_symbol
+ _atom_site_occupancy
+  V  0  0.02528(1)  0.50000  Uiso  0.0279(3)  4  V  1
+  O1  0  0.1158(4)  0.7260(10)  Uiso  0.0189(11)  4  O  1
+  O2  0.1014(2)  0.1750(3)  0.0404(7)  Uiso  0.0149(11)  8  O  1
+  O3  0.0928(2)  0.1814(4)  0.3652(7)  Uiso  0.0265(12)  8  O  1
+  C1  0.1322(2)  0.2276(5)  0.2094(12)  Uiso  0.0177(14)  8  C  1
+  C2  0.2969(2)  0.1002(4)  0.7003(9)  Uiso  0.052(2)  8  C  1
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_number_in_cell
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  V  V  4.00  .035  2.110  International_Tables_Vol_IV_Table_2.3.1
+  O  O  20.00  .047  .032  International_Tables_Vol_IV_Table_2.3.1
+  C  C  16.00  .017  .009  International_Tables_Vol_IV_Table_2.3.1
+  H  H  24.00  .000  .000  International_Tables_Vol_IV_Table_2.3.1
+loop_
+ _diffrn_radiation_wavelength
+ _diffrn_radiation_wavelength_wt
+ _diffrn_radiation_type
+  1.540562  1.000  CuK\a~1~
+  1.544390  .500  CuK\a~2~
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  V  O3  104.12  .  .  no
+  O1  V  O3  104.12  .  2_555  no
+  O1  V  O2  97.13  .  3_555  no
+  O1  V  O2  97.13  .  4_555  no
+  O1  V  O1  174.61  .  3_554  no
+  O3  V  O3  85.09  .  2_555  no
+  O3  V  O2  88.17  .  3_555  no
+  O3  V  O2  158.68  .  4_555  no
+  O3  V  O1  79.77  .  3_554  no
+  O3  V  O2  158.68  2_555  3_555  no
+  O3  V  O2  88.17  2_555  4_555  no
+  O3  V  O1  79.77  2_555  3_554  no
+  O2  V  O2  90.87  3_555  4_555  no
+  O2  V  O1  79.13  3_555  3_554  no
+  O2  V  O1  79.13  4_555  3_554  no
+  V  O1  V  131.24  .  3_555  no
+  C1  O2  V  123.70  .  3_554  no
+  C1  O3  V  148.84  .  .  no
+  O3  C1  O2  123.9(5)  .  .  no
+  O3  C1  C2  120.9(5)  .  8_554  no
+  O2  C1  C2  113.0(4)  .  8_554  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  V  O1  1.684  .  yes
+  V  O3  1.931  .  yes
+  V  O3  1.931  2_555  yes
+  V  O2  2.002  3_555  yes
+  V  O2  2.002  4_555  yes
+  V  O1  2.131  3_554  yes
+  O2  C1  1.299(9)  .  yes
+  O3  C1  1.253(9)  .  yes
+  C1  C2  1.550(5)  8_554  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O3  V  O1  V  135.8  .  .  3_555  no
+  O3  V  O1  V  -135.8  2_555  .  3_555  no
+  O2  V  O1  V  -45.9  3_555  .  3_555  no
+  O2  V  O1  V  45.9  4_555  .  3_555  no
+  O1  V  O1  V  .0  3_554  .  3_555  no
+  O1  V  O3  C1  172.3  .  .  .  no
+  O3  V  O3  C1  68.9  2_555  .  .  no
+  O2  V  O3  C1  90.8  3_555  .  .  no
+  O2  V  O3  C1  -3.1  4_555  .  .  no
+  O1  V  O3  C1  -11.5  3_554  .  .  no
+  O1  V  O3  C1  -172.3  .  2_555  2_555  no
+  O3  V  O3  C1  -68.9  .  2_555  2_555  no
+  O2  V  O3  C1  3.1  3_555  2_555  2_555  no
+  O2  V  O3  C1  -90.8  4_555  2_555  2_555  no
+  O1  V  O3  C1  11.5  3_554  2_555  2_555  no
+  O1  V  O2  C1  -13.4  .  3_555  3_555  no
+  O3  V  O2  C1  117.4  .  3_555  3_555  no
+  O3  V  O2  C1  171.1  2_555  3_555  3_555  no
+  O2  V  O2  C1  83.9  4_555  3_555  3_555  no
+  O1  V  O2  C1  162.6  3_554  3_555  3_555  no
+  O1  V  O2  C1  13.4  .  4_555  4_555  no
+  O3  V  O2  C1  -171.1  .  4_555  4_555  no
+  O3  V  O2  C1  -117.4  2_555  4_555  4_555  no
+  O2  V  O2  C1  -83.9  3_555  4_555  4_555  no
+  O1  V  O2  C1  -162.6  3_554  4_555  4_555  no
+  O1  V  O1  V  -180.0  .  3_554  3_554  no
+  O3  V  O1  V  -43.4  .  3_554  3_554  no
+  O3  V  O1  V  43.4  2_555  3_554  3_554  no
+  O2  V  O1  V  133.5  3_555  3_554  3_554  no
+  O2  V  O1  V  -133.5  4_555  3_554  3_554  no
+  V  O2  C1  O3  11.0  3_554  .  .  no
+  V  O2  C1  C2  174.0  3_554  .  8_554  no
+  V  O3  C1  O2  -11.1  .  .  .  no
+  V  O3  C1  C2  172.8  .  .  8_554  no

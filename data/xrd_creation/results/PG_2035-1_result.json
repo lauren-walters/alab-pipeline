@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6655362183fdf76b50aaf0ab",
+  "experiment_name": "PG_2035-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "C-H-K-Na-O-P",
+  "target_formula": "K2Na2P2H4CO11",
+  "analysis_timestamp": "2025-12-06T13:24:38.015463",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

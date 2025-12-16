@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_8104011
+loop_
+ _publ_author_name
+  'Capitelli, F.'
+  'Harcharras, M.'
+  'Moliterni, A.G.G.'
+  'Ennaciri, A.'
+  'Assaaoudi, H.'
+  'Bertolasi, V.'
+_publ_section_title
+;
+Crystal structure of new hexahydrate dicobalt pyrophosphate Co2 P2 O7
+*  6(H2 O): comparison with Co2 P2 O7 * 2(H2 O), alpha-, beta- and
+gamma-(Co2 P2 O7)
+;
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   345
+_journal_page_last   350
+_journal_volume   218
+_journal_year   2003
+_chemical_formula_sum   'Co2 H12 O13 P2'
+_chemical_name_systematic   'Co2 (P2 O7) (H2 O)6'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   92.4356
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.2077
+_cell_length_b   18.3373
+_cell_length_c   7.6762
+_cell_volume   1013.645
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Capitelli_ZEKRDZ_2003_756.cif
+_cod_data_source_block   H12Co2O13P2
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum   'H12 Co2 O13 P2'
+_cod_database_code   8104011
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O13  O-2  0.2044  -0.0236  0.4747  1  0.0
+  H12  H+1  0.172  -0.011  0.569  1  0.0
+  P1  P+5  0.29948  0.09645  -0.19973  1  0.0
+  H5  H+1  0.231  0.369  -0.223  1  0.0
+  O11  O-2  0.0248  0.2814  0.0041  1  0.0
+  O8  O-2  0.5917  0.2397  -0.0659  1  0.0
+  Co1  Co+2  0.30436  0.25535  -0.02794  1  0.0
+  O6  O-2  0.3215  0.1867  0.1881  1  0.0
+  Co2  Co+2  0  0  0  1  0.0
+  Co3  Co+2  0.5  0  0.5  1  0.0
+  H8  H+1  -0.01  0.31  0.075  1  0.0
+  H2  H+1  0.475  0.336  0.199  1  0.0
+  O3  O-2  0.22  0.17336  -0.1961  1  0.0
+  O10  O-2  0.2939  0.3332  -0.2311  1  0.0
+  H10  H+1  -0.214  0.1  -0.136  1  0.0
+  P2  P+5  0.33077  0.10371  0.17697  1  0.0
+  O12  O-2  -0.2028  0.079  -0.0446  1  0.0
+  O4  O-2  0.1427  0.0679  0.1891  1  0.0
+  H3  H+1  0.633  0.262  -0.146  1  0.0
+  O9  O-2  0.3735  0.3389  0.1519  1  0.0
+  H7  H+1  -0.024  0.291  -0.09  1  0.0
+  H6  H+1  0.391  0.34  -0.276  1  0.0
+  O1  O-2  0.1466  0.03896  -0.2122  1  0.0
+  H1  H+1  0.359  0.378  0.106  1  0.0
+  O2  O-2  0.4459  0.08675  -0.3321  1  0.0
+  O5  O-2  0.4804  0.07403  0.2994  1  0.0
+  H11  H+1  0.16  0.001  0.397  1  0.0
+  O7  O-2  0.4083  0.08425  -0.0122  1  0.0
+  H4  H+1  0.668  0.239  0.014  1  0.0
+  H9  H+1  -0.307  0.078  -0.011  1  0.0

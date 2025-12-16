@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_9014718
+loop_
+ _publ_author_name
+  'Fourquet, J.'
+  'Gillet, P.'
+  'Le Bail, A.'
+_publ_section_title
+;
+Li/H topotactic exchange on LiSbO3: The series Li(1-x)HxSbO3
+(0<=x<=1).  _cod_database_code 1000143
+;
+_journal_name_full   'Materials Research Bulletin'
+_journal_page_first   1207
+_journal_page_last   1214
+_journal_paper_doi   10.1016/0025-5408(89)90195-5
+_journal_volume   24
+_journal_year   1989
+_chemical_formula_sum   'O3 Sb'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90.8
+_cell_angle_gamma   90
+_cell_length_a   5.2526
+_cell_length_b   4.7331
+_cell_length_c   8.6322
+_cell_formula_units_Z   4
+_cell_volume   214.585
+_database_code_amcsd   0014344
+_exptl_crystal_density_diffrn   5.254
+_cod_original_formula_sum   'Sb O3'
+_cod_database_code   9014718
+_amcsd_formula_title   H0.67Li0.33SbO3
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2+y,1/2-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Sb  0.25170  0.01110  0.09710
+  O1  0.40500  0.29900  0.24100
+  O2  0.94200  0.23300  0.05600
+  O3  0.41000  0.21600  0.90500
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0014344

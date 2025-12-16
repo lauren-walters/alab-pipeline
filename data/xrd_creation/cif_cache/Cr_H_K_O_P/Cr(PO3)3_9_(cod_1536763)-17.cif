@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_1536763
+loop_
+ _publ_author_name
+  'Yakubovich, O.V.'
+  'Dimitrova, O.V.'
+  'Savina, G.V.'
+_publ_section_title
+'Synthesis and crystal structure of chromium polyphosphate Cr (P O3)3'
+_journal_name_full   Kristallografiya
+_journal_page_first   486
+_journal_page_last   489
+_journal_volume   36
+_journal_year   1991
+_chemical_formula_sum   'Cr O9 P3'
+_chemical_name_systematic   'Cr (P O3)3'
+_space_group_IT_number   9
+_symmetry_space_group_name_Hall   'I -2ya'
+_symmetry_space_group_name_H-M   'I 1 a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   98
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.367
+_cell_length_b   6.344
+_cell_length_c   10.544
+_cell_volume   620.472
+_citation_journal_id_ASTM   KRISAJ
+_cod_data_source_file   Yakubovich_KRISAJ_1991_1125.cif
+_cod_data_source_block   Cr1O9P3
+_cod_original_cell_volume   620.4715
+_cod_original_sg_symbol_Hall   'C -2yc (x+z,y,-x)'
+_cod_original_formula_sum   'Cr1 O9 P3'
+_cod_database_code   1536763
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x+1/2,-y,z
+  x+1/2,y+1/2,z+1/2
+  x+1,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P+5  0.252  0.5577  -0.003  1  0.0
+  O1  O-2  0.611  0.217  0.475  1  0.0
+  O8  O-2  0.667  0.93  0.873  1  0.0
+  O6  O-2  0.396  0.696  0.084  1  0.0
+  Cr1  Cr+3  0.25  0.246  0.25  1  0.0
+  O3  O-2  0.301  0.007  0.148  1  0.0
+  O9  O-2  0.7  0.946  0.598  1  0.0
+  P3  P+5  0.5651  0.4086  0.3856  1  0.0
+  O2  O-2  0.05  0.142  0.218  1  0.0
+  O4  O-2  0.299  0.068  0.39  1  0.0
+  P2  P+5  0.4409  0.5872  0.6106  1  0.0
+  O5  O-2  0.495  0.935  0.969  1  0.0
+  O7  O-2  0.933  0.882  0.784  1  0.0

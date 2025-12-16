@@ -1,0 +1,31 @@
+{
+  "experiment_id": "65fab02b2d682ecd7d7d0f43",
+  "experiment_name": "NSC_121",
+  "success": true,
+  "error": null,
+  "rwp": 43.77,
+  "rp": 32.85,
+  "rexp": 2.53,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.0448,
+      "weight_fraction_error": 0.0015,
+      "lattice_a_nm": 0.50644,
+      "lattice_b_nm": 0.51205,
+      "lattice_c_nm": 0.5303,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 98.256,
+      "lattice_gamma_deg": null,
+      "r_phase": 47.59
+    }
+  ],
+  "chemical_system": "Hf-Na-O-P",
+  "target_formula": "Na1.1(PO4)4.0Hf2.0",
+  "analysis_timestamp": "2025-12-06T17:16:36.102723",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

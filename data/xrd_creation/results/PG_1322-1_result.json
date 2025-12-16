@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66d9d4634efa8b4b4dfcfb2b",
+  "experiment_name": "PG_1322-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "C-Fe-Li-O",
+  "target_formula": "Li2Fe2CO6",
+  "analysis_timestamp": "2025-12-06T15:16:36.273078",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66471f2ce84e87556c0988be",
+  "experiment_name": "NSC_149",
+  "success": true,
+  "error": null,
+  "rwp": 5.72,
+  "rp": 4.55,
+  "rexp": 2.64,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "Na4Zr2(SiO4)3_161_(cod_1530787)-0",
+      "spacegroup": "R3c",
+      "weight_fraction": 0.23472,
+      "weight_fraction_error": 0.00083,
+      "lattice_a_nm": 0.919221,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 2.22239,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 7.66
+    },
+    {
+      "phase_name": "Na2ZrSiO5_14_(cod_1530898)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.03713,
+      "weight_fraction_error": 0.00071,
+      "lattice_a_nm": 1.38729,
+      "lattice_b_nm": 0.547777,
+      "lattice_c_nm": 1.37169,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 119.364,
+      "lattice_gamma_deg": null,
+      "r_phase": 4.81
+    }
+  ],
+  "chemical_system": "Na-O-Si-Zr",
+  "target_formula": "Na4.4Zr2.0(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:50:49.288208",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

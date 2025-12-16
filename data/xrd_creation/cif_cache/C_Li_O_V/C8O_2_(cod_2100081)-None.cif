@@ -1,0 +1,107 @@
+# generated using pymatgen
+data_2100081
+loop_
+ _publ_author_name
+  'Richard E. Marsh'
+_publ_section_title   'Space group <i>P</i>1: an update'
+_journal_issue   3
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   359
+_journal_page_last   359
+_journal_paper_doi   10.1107/S0108768105009651
+_journal_volume   61
+_journal_year   2005
+_chemical_formula_moiety   'C16 H24 O2'
+_chemical_formula_sum   'C16 H24 O2'
+_space_group_crystal_system   triclinic
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_space_group_name_H-M   'P -1'
+_audit_creation_method   CRYM
+_cell_angle_alpha   90.91
+_cell_angle_beta   100.40
+_cell_angle_gamma   77.78
+_cell_formula_units_Z   6
+_cell_length_a   13.5140
+_cell_length_b   23.4672
+_cell_length_c   7.6580
+_cell_volume   2333.973
+_cod_data_source_file   bk0148.cif
+_cod_data_source_block   SEQPOT
+_cod_depositor_comments
+;
+Added moiety chemical formula and Z value from Marsh (2005) paper.
+The summary chemical formula is calculated from moiety formula using
+AdHocParser   (svn://www.crystallography.net/cod-
+tools/trunk/Formulae/AdHocParser.yp,   revision 1441.)   Andrius
+Merkys   2013-11-11
+;
+_cod_original_sg_symbol_H-M   P-1
+_cod_original_formula_sum   'not given'
+_cod_database_code   2100081
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+  O1  0.65065  0.08075  0.47535  O
+  O2  0.75530  0.03800  0.29325  O
+  C1  0.67770  0.07510  0.32450  C
+  C2  0.61540  0.11500  0.17350  C
+  C3  0.63510  0.10725  0.00500  C
+  C4  0.57980  0.14395  -0.13450  C
+  C5  0.50150  0.18835  -0.10600  C
+  C6  0.48150  0.19795  0.06150  C
+  C7  0.53520  0.16175  0.20150  C
+  C8  0.44065  0.22915  -0.26300  C
+  C9  0.49580  0.26330  -0.34400  C
+  C10  0.43155  0.30000  -0.49550  C
+  C11  0.48000  0.33210  -0.60050  C
+  C12  0.40700  0.37060  -0.75950  C
+  C13  0.44350  0.39810  -0.87200  C
+  C14  0.36750  0.43090  -1.04100  C
+  C15  0.40000  0.45550  -1.15300  C
+  C16  0.32400  0.49200  -1.28000  C
+  O5  0.39010  0.05410  0.96245  O
+  O6  0.48975  0.01135  0.77500  O
+  C33  0.41445  0.04725  0.81100  C
+  C34  0.34765  0.08670  0.66450  C
+  C35  0.37060  0.08280  0.49550  C
+  C36  0.30845  0.11725  0.35900  C
+  C37  0.21920  0.15585  0.38350  C
+  C38  0.19690  0.16080  0.55050  C
+  C39  0.25730  0.12690  0.69150  C
+  C40  0.14595  0.19450  0.23300  C
+  C41  0.18695  0.23325  0.13950  C
+  C42  0.11075  0.26555  -0.01500  C
+  C43  0.15250  0.29860  -0.12200  C
+  C44  0.07650  0.33060  -0.28150  C
+  C45  0.11750  0.35800  -0.40700  C
+  C46  0.04700  0.39315  -0.56700  C
+  C47  0.08900  0.43400  -0.67900  C
+  C48  0.02550  0.45995  -0.81500  C
+  O7  -0.12070  -0.02190  0.56170  O
+  O8  -0.23155  0.01390  0.74190  O
+  C49  -0.14720  -0.01680  0.71350  C
+  C50  -0.07785  -0.05095  0.86200  C
+  C51  -0.10145  -0.05090  1.02700  C
+  C52  -0.03405  -0.08165  1.17050  C
+  C53  0.06125  -0.11115  1.14700  C
+  C54  0.08705  -0.11285  0.98200  C
+  C55  0.01770  -0.08130  0.84000  C
+  C56  0.13875  -0.14580  1.30650  C
+  C57  0.11695  -0.19275  1.38300  C
+  C58  0.19540  -0.22045  1.54000  C
+  C59  0.16455  -0.25280  1.65350  C
+  C60  0.23655  -0.27955  1.81650  C
+  C61  0.20050  -0.31650  1.91950  C
+  C62  0.26100  -0.34835  2.07750  C
+  C63  0.22100  -0.38850  2.18450  C
+  C64  0.26900  -0.41600  2.32800  C

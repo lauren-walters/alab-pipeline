@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_9012236
+loop_
+ _publ_author_name
+  'Fayos, J.'
+_publ_section_title
+;
+Possible 3D carbon structures as progressive intermediates in graphite
+to diamond phase transition  Note: mathematical model, phase:
+diam_cr43_bo
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   278
+_journal_page_last   285
+_journal_paper_doi   10.1006/jssc.1999.8448
+_journal_volume   148
+_journal_year   1999
+_chemical_formula_sum   C
+_chemical_name_mineral   Diamond
+_space_group_IT_number   65
+_symmetry_space_group_name_Hall   '-C 2 2'
+_symmetry_space_group_name_H-M   'C m m m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   4.870
+_cell_length_b   5.565
+_cell_length_c   4.406
+_cell_formula_units_Z   16
+_cell_volume   119.409
+_database_code_amcsd   0013984
+_exptl_crystal_density_diffrn   2.672
+_cod_struct_determination_method   theoretical
+_cod_database_code   9012236
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,z
+  x,-y,z
+  1/2+x,1/2-y,z
+  -x,y,-z
+  1/2-x,1/2+y,-z
+  -x,y,z
+  1/2-x,1/2+y,z
+  x,-y,-z
+  1/2+x,1/2-y,-z
+  x,y,-z
+  1/2+x,1/2+y,-z
+  -x,-y,z
+  1/2-x,1/2-y,z
+  -x,-y,-z
+  1/2-x,1/2-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  C1  0.00000  0.14200  0.32600
+  C2  0.25000  0.00000  0.17040
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0013984

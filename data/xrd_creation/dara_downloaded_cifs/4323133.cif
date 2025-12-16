@@ -1,0 +1,283 @@
+# generated using pymatgen
+data_4323133
+loop_
+ _publ_author_name
+  'Nobuaki Hamanaka'
+  'Hideo Imoto'
+_publ_section_title
+;
+Syntheses, Structures, and Magnetic Properties of Metal(II) Phosphates
+with M(OH)(PO4)2- Layers (M = Ni, Co, Mg)
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   5844
+_journal_page_last   5850
+_journal_paper_doi   10.1021/ic980595n
+_journal_volume   37
+_journal_year   1998
+_chemical_formula_structural   '(H3O) (Co2 (OH)2 (HPO4) (H2PO4))'
+_chemical_formula_sum   'Co2 H8 O11 P2'
+_chemical_formula_weight   363.87
+_space_group_IT_number   61
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   61
+_symmetry_space_group_name_Hall   '-P 2bc 2ac'
+_symmetry_space_group_name_H-M   'P c a b'
+_atom_type_scat_source   'Int. Tables Vol IV Tables 2.2B'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   8.443(2)
+_cell_length_b   13.094(4)
+_cell_length_c   15.484(4)
+_cell_measurement_reflns_used   20
+_cell_measurement_temperature   296.2
+_cell_measurement_theta_max   20.8
+_cell_measurement_theta_min   15.4
+_cell_volume   1711.8(8)
+_computing_cell_refinement   'Rigaku/AFC Diffractometer Control'
+_computing_data_collection   'Rigaku/AFC Diffractometer Control'
+_computing_data_reduction   teXsan
+_computing_structure_refinement   'ANYBLK(Imoto, 1997)'
+_computing_structure_solution   'SAPI-91(Fan, 1991)'
+_diffrn_ambient_temperature   296
+_diffrn_measurement_device   'Rigaku AFC7R'
+_diffrn_measurement_method   \w-2\q
+_diffrn_radiation_detector   'scintillation counter'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'Rigaku rotating anode'
+_diffrn_radiation_type   'Mo K\a'
+_diffrn_radiation_wavelength   0.7107
+_diffrn_reflns_av_R_equivalents   0.290
+_diffrn_reflns_limit_h_max   11
+_diffrn_reflns_limit_h_min   -11
+_diffrn_reflns_limit_k_max   17
+_diffrn_reflns_limit_k_min   -17
+_diffrn_reflns_limit_l_max   20
+_diffrn_reflns_limit_l_min   20
+_diffrn_reflns_number   19720
+_diffrn_reflns_reduction_process   'Lp corrections applied'
+_diffrn_reflns_theta_max   30.00
+_diffrn_reflns_theta_min   2.63
+_diffrn_standards_decay_%   3.24
+_diffrn_standards_interval_count   150
+_diffrn_standards_number   3
+_exptl_absorpt_coefficient_mu   4.300
+_exptl_absorpt_correction_T_max   0.902
+_exptl_absorpt_correction_T_min   0.822
+_exptl_absorpt_correction_type   empirical
+_exptl_absorpt_process_details
+'\y-scan method (North & Phillops, 1968)'
+_exptl_crystal_colour   'purple red'
+_exptl_crystal_density_diffrn   2.824
+_exptl_crystal_density_meas   ?
+_exptl_crystal_description   needle
+_exptl_crystal_F_000   1440.00
+_exptl_crystal_size_max   0.4
+_exptl_crystal_size_mid   0.02
+_exptl_crystal_size_min   0.02
+_refine_diff_density_max   2.304
+_refine_diff_density_min   -2.190
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_all   1.251
+_refine_ls_goodness_of_fit_obs   1.409
+_refine_ls_hydrogen_treatment   none
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   136
+_refine_ls_number_reflns   1448
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_all   0.1034
+_refine_ls_R_factor_obs   0.0791
+_refine_ls_shift/esd_max   0.0001
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details   'w = 1/[\s^2^(Fo) + 0.0076|Fo|^2^]'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_all   0.0807
+_refine_ls_wR_factor_obs   0.0745
+_reflns_number_observed   1702
+_reflns_number_total   2809
+_reflns_observed_criterion   >1.0sigma(I)
+_cod_data_source_file   ic980595n_2.cif
+_cod_data_source_block   4_(H3O){Co2(OH)2(HPO4)(H2PO4)}
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_exptl_crystal_density_meas' value 'not measured' was changed to '?'
+- the value is perceived as not measured. Automatic conversion script
+Id: cif_fix_values 3008 2015-01-20 13:52:24Z robertas  The following
+automatic conversions were performed: '_refine_ls_weighting_scheme'
+value 'w = 1/[\s^2^(Fo) + 0.0076|Fo|^2^]' was changed to 'calc'. New
+tag '_refine_ls_weighting_details' was created. The value of the new
+tag was set to 'w = 1/[\s^2^(Fo) + 0.0076|Fo|^2^]'. Automatic
+conversion script Id: cif_fix_values 3143 2015-03-26 13:38:13Z
+robertas
+;
+_cod_original_cell_volume   1711.9(9)
+_cod_original_formula_sum   'H8 Co2 O11 P2'
+_cod_database_code   4323133
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  'x+1/2, -y, -z+1/2'
+  '-x+1/2, y+1/2, -z'
+  '-x, -y+1/2, z+1/2'
+  '-x, -y, -z'
+  '-x+1/2, y, z+1/2'
+  'x+1/2, -y+1/2, z'
+  'x, y+1/2, -z+1/2'
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Co.a  0.0049(5)  0.0098(5)  0.0129(6)  -0.0006(5)  0.0001(5)
+  -0.0013(6)
+  Co.b  0.0059(4)  0.0093(5)  0.0125(5)  0.0009(5)  0.0011(6)
+  0.0007(5)
+  P1  0.0047(9)  0.0093(9)  0.0116(10)  0.0013(11)  0.0008(12)
+  -0.0010(7)
+  P2  0.0055(10)  0.0107(9)  0.0082(9)  0.0007(11)  0.0009(12)
+  0.0002(7)
+  O1a  0.005(3)  0.010(3)  0.013(3)  0.001(2)  -0.006(2)  0.004(2)
+  O1b  0.003(3)  0.014(3)  0.009(3)  -0.002(2)  0.001(2)  0.001(2)
+  O2  0.006(3)  0.011(2)  0.014(3)  0.000(3)  -0.004(3)  -0.007(2)
+  O3a  0.013(3)  0.011(3)  0.020(3)  0.004(2)  0.005(2)  -0.003(2)
+  O3b  0.007(3)  0.015(3)  0.019(3)  -0.003(2)  -0.004(2)  0.003(2)
+  O4  0.005(3)  0.018(3)  0.010(3)  0.000(3)  -0.003(3)  -0.002(2)
+  O5  0.009(2)  0.010(2)  0.013(3)  0.000(2)  -0.001(3)  0.006(3)
+  O6  0.021(4)  0.020(3)  0.012(3)  -0.002(3)  -0.004(3)  0.005(2)
+  O7  0.012(3)  0.006(2)  0.020(3)  0.002(3)  -0.002(3)  0.006(2)
+  O8  0.009(4)  0.020(3)  0.016(3)  -0.002(3)  0.002(2)  -0.009(2)
+  O9  0.020(3)  0.042(4)  0.020(3)  0.000(3)  0.000(3)  0.012(3)
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_refinement_flags
+  Co.a  -0.03727(11)  0.11113(8)  0.25756(7)  0.0092(5)  Uani  .
+  Co.b  0.35005(14)  0.11941(8)  0.26304(6)  0.0092(5)  Uani  .
+  P1  0.1535(3)  0.28893(14)  0.36508(12)  0.0086(9)  Uani  .
+  P2  0.1510(3)  -0.05980(14)  0.36629(12)  0.0082(9)  Uani  .
+  O1a  0.0057(6)  -0.0349(4)  0.3093(4)  0.010(3)  Uani  .
+  O1b  0.3068(6)  -0.0251(4)  0.3240(3)  0.008(3)  Uani  .
+  O2  0.1556(8)  0.1894(3)  0.3114(3)  0.010(3)  Uani  .
+  O3a  -0.2184(6)  0.1356(4)  0.3392(3)  0.015(3)  Uani  .
+  O3b  0.4913(6)  0.1623(4)  0.3614(4)  0.014(3)  Uani  .
+  O4  0.1625(8)  0.0664(4)  0.1736(3)  0.011(3)  Uani  .
+  O5  -0.0915(7)  0.2463(5)  0.1835(3)  0.011(2)  Uani  .
+  O6  0.1807(7)  0.2585(4)  0.4635(3)  0.018(3)  Uani  .
+  O7  0.1554(8)  -0.1720(3)  0.3896(3)  0.013(3)  Uani  .
+  O8  0.1325(7)  0.0049(4)  0.4521(3)  0.015(3)  Uani  .
+  O9  0.3986(7)  0.0814(5)  0.5112(4)  0.027(4)  Uani  .
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+  O1a  Co.a  O1b  81.5(2)  1_555  1_555  2_455
+  O1a  Co.a  O2  99.1(2)  1_555  1_555  1_555
+  O1a  Co.a  O3a  92.1(2)  1_555  1_555  1_555
+  O1a  Co.a  O4  81.5(2)  1_555  1_555  1_555
+  O1a  Co.a  O5  169.7(2)  1_555  1_555  1_555
+  O1b  Co.a  O2  165.4(2)  2_455  1_555  1_555
+  O1b  Co.a  O3a  89.3(2)  2_455  1_555  1_555
+  O1b  Co.a  O4  89.0(2)  2_455  1_555  1_555
+  O1b  Co.a  O5  89.3(2)  2_455  1_555  1_555
+  O2  Co.a  O3a  105.2(2)  1_555  1_555  1_555
+  O2  Co.a  O4  76.8(2)  1_555  1_555  1_555
+  O2  Co.a  O5  88.6(2)  1_555  1_555  1_555
+  O3a  Co.a  O4  173.5(2)  1_555  1_555  1_555
+  O3a  Co.a  O5  92.4(2)  1_555  1_555  1_555
+  O4  Co.a  O5  93.8(2)  1_555  1_555  1_555
+  O1a  Co.b  O1b  82.7(2)  2_555  1_555  1_555
+  O1a  Co.b  O2  165.1(2)  2_555  1_555  1_555
+  O1a  Co.b  O3b  100.6(2)  2_555  1_555  1_555
+  O1a  Co.b  O4  87.0(2)  2_555  1_555  1_555
+  O1a  Co.b  O5  89.0(2)  2_555  1_555  7_555
+  O1b  Co.b  O2  95.7(2)  1_555  1_555  1_555
+  O1b  Co.b  O3b  90.8(2)  1_555  1_555  1_555
+  O1b  Co.b  O4  83.0(2)  1_555  1_555  1_555
+  O1b  Co.b  O5  171.1(2)  1_555  1_555  7_555
+  O2  Co.b  O3b  94.2(2)  1_555  1_555  1_555
+  O2  Co.b  O4  78.1(2)  1_555  1_555  1_555
+  O2  Co.b  O5  91.5(2)  1_555  1_555  7_555
+  O3b  Co.b  O4  169.5(2)  1_555  1_555  1_555
+  O3b  Co.b  O5  93.9(2)  1_555  1_555  7_555
+  O4  Co.b  O5  93.5(2)  1_555  1_555  7_555
+  O2  P1  O3a  113.5(3)  1_555  1_555  7_555
+  O2  P1  O3b  110.3(3)  1_555  1_555  7_455
+  O2  P1  O6  107.6(3)  1_555  1_555  1_555
+  O3a  P1  O3b  111.1(3)  7_555  1_555  7_455
+  O3a  P1  O6  108.2(3)  7_555  1_555  1_555
+  O3b  P1  O6  105.8(3)  7_455  1_555  1_555
+  O1a  P2  O1b  112.0(3)  1_555  1_555  1_555
+  O1a  P2  O7  111.1(3)  1_555  1_555  1_555
+  O1a  P2  O8  106.7(3)  1_555  1_555  1_555
+  O1b  P2  O7  111.5(4)  1_555  1_555  1_555
+  O1b  P2  O8  106.4(3)  1_555  1_555  1_555
+  O7  P2  O8  108.8(3)  1_555  1_555  1_555
+  Co.a  O1a  Co.b  99.9(2)  1_555  1_555  2_455
+  Co.a  O1a  P2  123.1(3)  1_555  1_555  1_555
+  Co.b  O1a  P2  135.0(3)  2_455  1_555  1_555
+  Co.a  O1b  Co.b  95.7(2)  2_555  1_555  1_555
+  Co.a  O1b  P2  128.4(3)  2_555  1_555  1_555
+  Co.b  O1b  P2  126.4(3)  1_555  1_555  1_555
+  Co.a  O2  Co.b  105.1(2)  1_555  1_555  1_555
+  Co.a  O2  P1  128.1(4)  1_555  1_555  1_555
+  Co.b  O2  P1  126.2(4)  1_555  1_555  1_555
+  Co.a  O3a  P1  144.3(3)  1_555  1_555  7_455
+  Co.b  O3b  P1  133.1(3)  1_555  1_555  7_555
+  Co.b  O3b  O9  111.9(3)  1_555  1_555  1_555
+  P1  O3b  O9  113.6(3)  7_555  1_555  1_555
+  Co.a  O4  Co.b  95.4(2)  1_555  1_555  1_555
+  Co.a  O4  O9  113.7(3)  1_555  1_555  6_554
+  Co.b  O4  O9  136.9(3)  1_555  1_555  6_554
+  Co.a  O5  Co.b  113.9(2)  1_555  1_555  7_455
+  P2  O8  O9  114.4(3)  1_555  1_555  1_555
+  O3b  O9  O4  159.8(3)  1_555  1_555  6_555
+  O3b  O9  O8  95.7(3)  1_555  1_555  1_555
+  O3b  O9  O9  90.9(3)  1_555  1_555  5_656
+  O4  O9  O8  98.0(2)  6_555  1_555  1_555
+  O4  O9  O9  100.9(3)  6_555  1_555  5_656
+  O8  O9  O9  101.1(3)  1_555  1_555  5_656
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+  Co.a  O1a  2.105(5)  1_555  1_555
+  Co.a  O1b  2.144(5)  1_555  2_455
+  Co.a  O2  2.097(6)  1_555  1_555
+  Co.a  O3a  2.010(5)  1_555  1_555
+  Co.a  O4  2.209(6)  1_555  1_555
+  Co.a  O5  2.158(6)  1_555  1_555
+  Co.b  O1a  2.051(5)  1_555  2_555
+  Co.b  O1b  2.146(5)  1_555  1_555
+  Co.b  O2  2.025(6)  1_555  1_555
+  Co.b  O3b  2.014(5)  1_555  1_555
+  Co.b  O4  2.215(6)  1_555  1_555
+  Co.b  O5  2.203(6)  1_555  7_555
+  P1  O2  1.545(5)  1_555  1_555
+  P1  O3a  1.519(5)  1_555  7_555
+  P1  O3b  1.512(6)  1_555  7_455
+  P1  O6  1.592(5)  1_555  1_555
+  P2  O1a  1.545(6)  1_555  1_555
+  P2  O1b  1.538(5)  1_555  1_555
+  P2  O7  1.514(5)  1_555  1_555
+  P2  O8  1.583(5)  1_555  1_555
+  O3b  O9  2.668(8)  1_555  1_555
+  O4  O9  2.574(7)  1_555  6_554
+  O8  O9  2.625(8)  1_555  1_555
+  O9  O9  2.757(12)  1_555  5_656

@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_1533452
+loop_
+ _publ_author_name
+  'Graia, M.'
+  'Driss, A.'
+  'Jouini, T.'
+_publ_section_title
+'Crystal structure of three polymorphs of Y (P O3)3'
+_journal_name_full   'Solid State Sciences'
+_journal_page_first   393
+_journal_page_last   402
+_journal_volume   5
+_journal_year   2003
+_chemical_formula_sum   'O9 P3 Y'
+_chemical_name_systematic   'Y (P O3)3'
+_space_group_IT_number   11
+_symmetry_space_group_name_Hall   '-P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   91.84
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.997
+_cell_length_b   9.693
+_cell_length_c   10.989
+_cell_volume   744.911
+_citation_journal_id_ASTM   SSSCFJ
+_cod_data_source_file   Graia_SSSCFJ_2003_1004.cif
+_cod_data_source_block   O9P3Y1
+_cod_original_cell_volume   744.9108
+_cod_original_formula_sum   'O9 P3 Y1'
+_cod_database_code   1533452
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z
+  -x,-y,-z
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.2203  -0.09  0.163  1  0.0
+  P2  P+5  0.1731  -0.0338  0.2841  1  0.0
+  P1  P+5  0.7666  0.0095  0.2326  1  0.0
+  P4  P+5  0.6782  0.75  0.1035  1  0.0
+  O2  O-2  0.8276  0.0839  0.1222  1  0.0
+  O11  O-2  0.6511  0.8745  0.1965  1  0.0
+  O4  O-2  0.949  -0.0506  0.3051  1  0.0
+  O9  O-2  0.1265  0.25  0.945  1  0.0
+  O10  O-2  0.2031  0.1283  0.2775  1  0.0
+  O3  O-2  0.2715  -0.0914  0.3944  1  0.0
+  O8  O-2  0.0107  0.75  0.5766  1  0.0
+  O6  O-2  0.6487  0.75  0.5389  1  0.0
+  P3  P+5  0.1848  0.25  0.3737  1  0.0
+  O5  O-2  0.6496  0.0853  0.3202  1  0.0
+  Y2  Y+3  0.327  0.75  0.5365  1  0.0
+  O7  O-2  0.4886  0.25  0.9834  1  0.0
+  Y1  Y+3  0.811  0.25  0.982  1  0.0

@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_1536573
+loop_
+ _publ_author_name
+  'Duan Liying'
+  'Wang Enbo'
+  'Liu Fuchen'
+  'Li Yangguang'
+  'Hu Changwen'
+  'Xu Lin'
+_publ_section_title
+;
+Hydrothermal synthesis and properties of open-framework mixed-valence
+iron phosphates Fe2(III) Fe1.5(II) (P O4)3 with three-dimensional
+structure
+;
+_journal_name_full   'Chinese Journal of Chemistry'
+_journal_page_first   55
+_journal_page_last   59
+_journal_volume   22
+_journal_year   2004
+_chemical_formula_sum   'Fe3.5 O12 P3'
+_chemical_name_systematic   'Fe2 Fe1.5 (P O4)3'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   104.447
+_cell_angle_beta   108.919
+_cell_angle_gamma   101.741
+_cell_formula_units_Z   2
+_cell_length_a   6.4724
+_cell_length_b   7.9651
+_cell_length_c   9.4229
+_cell_volume   423.022
+_citation_journal_id_ASTM   CJOCEV
+_cod_data_source_file   DuanLiying_CJOCEV_2004_898.cif
+_cod_data_source_block   Fe3.5O12P3
+_cod_original_cell_volume   423.0219
+_cod_database_code   1536573
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.5273  0.6214  0.1937  1  0.0
+  O6  O-2  0.3025  0.5374  0.4131  1  0.0
+  P2  P+5  0.08743  0.58516  0.32922  1  0.0
+  O7  O-2  0.1127  0.7837  0.4107  1  0.0
+  O2  O-2  0.7325  0.7087  0.0285  1  0.0
+  Fe4  Fe+2  1  1  0.5  1  0.0
+  O11  O-2  0.7728  0.8087  0.5569  1  0.0
+  O8  O-2  -0.1263  0.4623  0.3337  1  0.0
+  P1  P+5  0.5908  0.76784  0.12539  1  0.0
+  O4  O-2  0.7308  0.95  0.2599  1  0.0
+  O1  O-2  0.3744  0.7832  0.0069  1  0.0
+  Fe3  Fe+2  0.27747  0.81349  0.78101  1  0.0
+  O5  O-2  0.0573  0.5475  0.1539  1  0.0
+  O10  O-2  0.791  1.0587  0.7808  1  0.0
+  O12  O-2  0.9807  0.8241  0.8388  1  0.0
+  P3  P+5  0.77108  0.85337  0.72531  1  0.0
+  Fe1  Fe+3  0.04775  0.71602  0.01805  1  0.0
+  Fe2  Fe+3  0.3851  0.45379  0.61048  1  0.0
+  O9  O-2  0.5483  0.746  0.7271  1  0.0

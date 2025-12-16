@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_2000976
+loop_
+ _publ_author_name
+  'Serra, D. L.'
+  'Hwu, S.-J.'
+_publ_section_title   'Structure of orthorhombic NbPO~5~'
+_journal_issue   4
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   733
+_journal_page_last   735
+_journal_paper_doi   10.1107/S0108270191011265
+_journal_volume   48
+_journal_year   1992
+_chemical_formula_sum   'Nb O5 P'
+_chemical_formula_weight   203.88
+_space_group_IT_number   62
+_space_group_name_Hall   '-P 2ac 2n'
+_space_group_name_H-M_alt   'P n m a'
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   11.304(2)
+_cell_length_b   5.316(2)
+_cell_length_c   6.640(2)
+_cell_volume   399.0(2)
+_diffrn_radiation_type   Mo
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   3.18
+_exptl_crystal_density_diffrn   3.39
+_exptl_crystal_F_000   384
+_cod_data_source_file   st0536.cif
+_cod_data_source_block   st0536a
+_cod_original_cell_volume   399.0(3)
+_cod_original_formula_sum   'Nb1 O5 P1'
+_cod_database_code   2000976
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  x+1/2,-y+1/2,-z+1/2
+  4  -x,y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  -x+1/2,y+1/2,z+1/2
+  8  x,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Nb  .43757(4)  .25  .33115(6)
+  P  .15440(10)  .25  .5282(2)
+  O(1)  .0  .0  .0
+  O(2)  .0821(4)  .25  .3354(6)
+  O(3)  .1287(3)  .0171(8)  .6476(6)
+  O(4)  .2849(3)  .25  .4710(6)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  Nb  O(1)  1.8764(4)
+  Nb  O(2)  1.973(4)
+  Nb  O(3)  2.015(3)
+  Nb  O(4)  1.959(4)
+  P  O(2)  1.519(4)
+  P  O(3)  1.499(3)
+  P  O(4)  1.523(4)

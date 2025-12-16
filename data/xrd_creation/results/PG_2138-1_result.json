@@ -1,0 +1,17 @@
+{
+  "experiment_id": "664e8cf4134aa6f2c622a2fd",
+  "experiment_name": "PG_2138-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "H-La-Nb-O",
+  "target_formula": "La2Nb2H6O11",
+  "analysis_timestamp": "2025-12-06T13:26:09.838475",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

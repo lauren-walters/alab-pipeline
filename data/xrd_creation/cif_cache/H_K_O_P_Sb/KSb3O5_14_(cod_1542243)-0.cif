@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_1542243
+loop_
+ _publ_author_name
+  'Sauvage, J.P.'
+  'Maraine, P.'
+  'Perez, G.'
+_publ_section_title
+"Structure cristalline de l'antimoniate (III) de potassium K Sb3 O5"
+_journal_name_full   'Revue de Chimie Minerale'
+_journal_page_first   549
+_journal_page_last   555
+_journal_volume   13
+_journal_year   1976
+_chemical_formula_sum   'K O5 Sb3'
+_chemical_name_systematic   'K Sb3 O5'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   126.43
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.505
+_cell_length_b   13.946
+_cell_length_c   7.86
+_cell_volume   661.902
+_citation_journal_id_ASTM   RVCMA8
+_cod_data_source_file   Sauvage_RVCMA8_1976_750.cif
+_cod_data_source_block   K1O5Sb3
+_cod_original_cell_volume   661.9021
+_cod_original_formula_sum   'K1 O5 Sb3'
+_cod_database_code   1542243
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sb3  Sb+3  0.4905  0.6416  0.4121  1  0.0
+  O5  O-2  0.817  0.37  0.207  1  0.0
+  O2  O-2  0.196  0.041  0.106  1  0.0
+  K1  K+1  0.0471  0.2435  0.0938  1  0.0
+  O4  O-2  0.67  0.347  0.456  1  0.0
+  Sb1  Sb+3  0.0128  0.4868  0.2981  1  0.0
+  O3  O-2  0.257  0.406  0.316  1  0.0
+  O1  O-2  0.386  0.273  0.026  1  0.0
+  Sb2  Sb+3  0.4633  0.8975  0.3294  1  0.0

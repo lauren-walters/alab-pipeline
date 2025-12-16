@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_8104426
+loop_
+ _publ_author_name
+  'Dent Glasser, L.S.'
+  'Howie, R.A.'
+  'Xi Yaozhong'
+_publ_section_title
+;
+A re-investigation of the crystal structure of potassium hydrogen
+metasilicate, K H Si O3
+;
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   307
+_journal_page_last   312
+_journal_volume   168
+_journal_year   1984
+_chemical_formula_sum   'H K O3 Si'
+_chemical_name_systematic   'K H (Si O3)'
+_space_group_IT_number   64
+_symmetry_space_group_name_Hall   '-C 2ac 2'
+_symmetry_space_group_name_H-M   'C m c e'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   16
+_cell_length_a   11.537
+_cell_length_b   9.694
+_cell_length_c   11.245
+_cell_volume   1257.637
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   DentGlasser_ZEKRDZ_1984_1949.cif
+_cod_data_source_block   H1K1O3Si1
+_cod_original_sg_symbol_H-M   'C m c a'
+_cod_original_formula_sum   'H1 K1 O3 Si1'
+_cod_database_code   8104426
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x,-y,-z
+  -x+1/2,y,-z+1/2
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x,y,z
+  x-1/2,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1,-y+1/2,z+1/2
+  x+1/2,-y+1/2,-z
+  -x+1,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x,y+1/2,-z-1/2
+  -x+1/2,y+1/2,z
+  x,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.1125  0.4544  0.1118  1  0.0
+  O2  O-2  0.2727  0.1326  0.4658  1  0.0
+  K1  K+1  0  0.1785  0.0413  1  0.0
+  Si2  Si+4  0.1968  0  0.5  1  0.0
+  H1  H+1  0  0.339  0.3156  1  0.0
+  O3  O-2  0  0.4343  0.3116  1  0.0
+  Si1  Si+4  0  0.0145  0.3156  1  0.0
+  K2  K+1  0.25  0.2382  0.75  1  0.0
+  H2  H+1  0.25  0.25  0.5  1  0.0
+  O4  O-2  0  0.175  0.298  1  0.0

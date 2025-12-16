@@ -1,0 +1,152 @@
+# generated using pymatgen
+data_4329330
+loop_
+ _publ_author_name
+  'Masami Kanzaki'
+  'Xianyu Xue'
+_publ_contact_author_email   mkanzaki@misasa.okayama-u.ac.jp
+_publ_contact_author_name   'Masami Kanzaki'
+_publ_contact_author_phone   +81-858-43-3802
+_publ_section_title
+;
+Structural Characterization of Moganite-Type AlPO4 by NMR and Powder
+X-ray Diffraction
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   6164
+_journal_page_last   6172
+_journal_paper_doi   10.1021/ic300167k
+_journal_volume   51
+_journal_year   2012
+_chemical_compound_source   synthetic
+_chemical_formula_analytical   'Al P O4'
+_chemical_formula_moiety   'Al3 P3 O12'
+_chemical_formula_structural   'Al3 P3 O12'
+_chemical_formula_sum   'Al3 O12 P3'
+_chemical_formula_weight   365.859
+_chemical_name_common   'AlPO4 moganite'
+_chemical_name_systematic
+'AlPO4 moganite structure (high pressure phase)'
+_space_group_IT_number   13
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   13
+_symmetry_space_group_name_Hall   '-P 2ya'
+_symmetry_space_group_name_H-M   'P 1 2/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90.1276(9)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   8.7438(1)
+_cell_length_b   4.85855(7)
+_cell_length_c   10.8602(2)
+_cell_measurement_temperature   300
+_cell_volume   461.364(12)
+_computing_cell_refinement   'RIETAN-FP (Izumi and Momma, 2007)'
+_computing_molecular_graphics   'VESTA (Momma and Izumi, 2011)'
+_computing_structure_refinement   'RIETAN-FP (Izumi and Momma, 2007)'
+_computing_structure_solution   FOX
+_diffrn_ambient_temperature   300
+_diffrn_detector   IP
+_diffrn_detector_type   2D
+_diffrn_measurement_device_type   Debye-Scherrer
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   0.500290
+_diffrn_source   synchrotron
+_diffrn_source_type   synchrotron
+_exptl_absorpt_coefficient_mu   0.3554
+_exptl_absorpt_correction_type   none
+_exptl_crystal_density_diffrn   2.6336
+_exptl_crystal_F_000   360.00
+_pd_block_id   2011-12-18_phase_1
+_pd_calc_method   'Rietveld Refinement'
+_pd_char_colour   white
+_pd_char_particle_morphology   'few tens micron'
+_pd_instr_location
+'BL19B2, SPring-8   1-1 Koto, Sayo-cho,   Hyogo 679-5198   Japam'
+_pd_meas_2theta_range_inc   0.0100
+_pd_meas_2theta_range_max   77.5000
+_pd_meas_2theta_range_min   1.0000
+_pd_meas_number_of_points   7651
+_pd_meas_scan_method   step
+_pd_prep_cool_rate   10000
+_pd_prep_pressure   50000
+_pd_proc_2theta_range_inc   0.0100
+_pd_proc_2theta_range_max   49.9900
+_pd_proc_2theta_range_min   1.0000
+_pd_proc_info_excluded_regions   none
+_pd_proc_ls_background_function   'composite background function'
+_pd_proc_ls_pref_orient_corr   'March-Dollase function'
+_pd_proc_ls_profile_function   'Pseudo-Voigt function'
+_pd_proc_ls_prof_R_factor   0.04189
+_pd_proc_ls_prof_wR_expected   0.03504
+_pd_proc_ls_prof_wR_factor   0.06600
+_pd_proc_wavelength   0.500290
+_pd_spec_mounting   capillary
+_pd_spec_mount_mode   transmission
+_pd_spec_shape   cylinder
+_pd_spec_size_axial   3.0
+_pd_spec_size_equat   0.3
+_pd_spec_size_thick   0.3
+_refine_diff_density_max   0.0
+_refine_diff_density_min   0.0
+_refine_ls_goodness_of_fit_all   1.8839
+_refine_ls_matrix_type   full
+_refine_ls_R_factor_all   0.02574
+_refine_ls_R_Fsqd_factor   0.02575
+_refine_ls_R_I_factor   0.02959
+_refine_ls_shift/su_max   0.0
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details   1/<i>y</i>~i~
+_refine_ls_weighting_scheme   sigma
+_cod_data_source_file   ic300167k_si_001.cif
+_cod_data_source_block   phase_1
+_cod_original_cell_volume   461.36(1)
+_cod_original_sg_symbol_Hall   '-P 2yc'
+_cod_original_sg_symbol_H-M   'P 2/a'
+_cod_original_formula_sum   'Al3 P3 O12'
+_cod_database_code   4329330
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,y,-z
+  3  -x,-y,-z
+  4  x+1/2,-y,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+  Al1  0.25  0.529(2)  0.5  1  2  f  Uiso  0.007(1)  Al
+  Al2  0.0162(6)  0.2597(9)  0.1666(5)  1  4  g  Uiso  0.007(1)  Al
+  P1  0.25  -0.042(1)  0  1  2  e  Uiso  0.0061(8)  P
+  P2  0.0126(6)  0.2409(9)  0.6665(5)  1  4  g  Uiso  0.0061(8)  P
+  O1  1.029(1)  -0.063(1)  0.7059(8)  1  4  g  Uiso  0.0100(6)  O
+  O2  0.975(1)  0.406(1)  0.7840(8)  1  4  g  Uiso  0.0100(6)  O
+  O3  0.1856(9)  0.154(2)  0.0994(8)  1  4  g  Uiso  0.0100(6)  O
+  O4  0.1659(8)  0.338(2)  0.6132(8)  1  4  g  Uiso  0.0100(6)  O
+  O5  0.8744(8)  0.211(1)  0.0559(7)  1  4  g  Uiso  0.0100(6)  O
+  O6  0.8863(8)  0.250(2)  0.5676(7)  1  4  g  Uiso  0.0100(6)  O
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  P  P  0.0413  0.0460
+  'International Tables for Crystallography, Vol. C'
+  O  O-  0.0010  0.0028
+  'International Tables for Crystallography, Vol. C'
+  Al  Al  0.0234  0.0247
+  'International Tables for Crystallography, Vol. C'
+  Pt  Pt  -1.2109  4.7411
+  'International Tables for Crystallography, Vol. C'
+loop_
+ _pd_phase_block_id
+  2011-12-18_phase_1

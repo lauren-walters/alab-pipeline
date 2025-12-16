@@ -1,0 +1,211 @@
+# generated using pymatgen
+data_2001503
+loop_
+ _publ_author_name
+  'Fitzgerald, L. J.'
+  'Gallucci, J. C.'
+  'Gerkin, R. E.'
+_publ_section_title
+;
+Structures of tetrapotassium, tetrarubidium and tetracaesium
+1,4,5,8-naphthalenetetracarboxylate hexahydrates
+;
+_journal_issue   7
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   1287
+_journal_page_last   1294
+_journal_paper_doi   10.1107/S0108270193000411
+_journal_volume   49
+_journal_year   1993
+_chemical_formula_moiety   'C14 H4 K4 O8,6(H2 O1)'
+_chemical_formula_sum   'C14 H16 K4 O14'
+_chemical_formula_weight   564.69
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_atom_type_scat_source
+;
+Cromer & Waber (1974) (non-H atoms); Stewart, Davidson & Simpson
+(1965)  (H atoms)
+;
+_cell_angle_alpha   103.16(2)
+_cell_angle_beta   96.74(2)
+_cell_angle_gamma   99.41(2)
+_cell_formula_units_Z   1
+_cell_length_a   7.1890(10)
+_cell_length_b   7.125(2)
+_cell_length_c   11.034(2)
+_cell_measurement_reflns_used   25
+_cell_measurement_temperature   295
+_cell_measurement_theta_max   15
+_cell_measurement_theta_min   13
+_cell_volume   535.9(2)
+_diffrn_measurement_device   'Rigaku AFC5S'
+_diffrn_measurement_method   \w-2\q
+_diffrn_radiation_type   MoK\=\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.009
+_diffrn_reflns_limit_h_max   10
+_diffrn_reflns_limit_h_min   0
+_diffrn_reflns_limit_k_max   15
+_diffrn_reflns_limit_k_min   -15
+_diffrn_reflns_limit_l_max   10
+_diffrn_reflns_limit_l_min   -10
+_diffrn_reflns_number   3347
+_diffrn_reflns_theta_max   30.0
+_diffrn_standards_decay_%   +-4.0
+_diffrn_standards_interval_count   150
+_diffrn_standards_number   6
+_exptl_absorpt_coefficient_mu   0.894
+_exptl_absorpt_correction_T_max   1.000
+_exptl_absorpt_correction_T_min   0.777
+_exptl_absorpt_correction_type   empirical
+_exptl_crystal_colour   Colorless
+_exptl_crystal_density_diffrn   1.75
+_exptl_crystal_density_meas   1.76
+_exptl_crystal_description   Plate
+_exptl_crystal_size_max   0.38
+_exptl_crystal_size_mid   0.35
+_exptl_crystal_size_min   0.15
+_refine_diff_density_max   0.38
+_refine_diff_density_min   -0.36
+_refine_ls_extinction_coef   7.05E-5(16)
+_refine_ls_extinction_method   'Zachariasen (1967)'
+_refine_ls_goodness_of_fit_obs   1.71
+_refine_ls_hydrogen_treatment   refall
+_refine_ls_number_parameters   186
+_refine_ls_number_reflns   2422
+_refine_ls_R_factor_obs   0.034
+_refine_ls_shift/esd_max   <0.01
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   'w = \s~F~^-2^'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_obs   0.043
+_reflns_number_observed   2422
+_reflns_number_total   3118
+_reflns_observed_criterion   I>3\s~I~
+_cod_data_source_file   st0593.cif
+_cod_data_source_block   st0593_structure_1_of_3
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_refine_ls_weighting_scheme' value 'w = \s~F~^-2^' was changed to
+'calc'. New tag '_refine_ls_weighting_details' was created. The value
+of the new tag was set to 'w = \s~F~^-2^'. Automatic conversion script
+Id: cif_fix_values 3143 2015-03-26 13:38:13Z robertas
+;
+_cod_database_code   2001503
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  K(1)  .84237(7)  .22404(6)  .46906(3)
+  K(2)  .43019(7)  .36756(7)  .71571(5)
+  O(1)  .7591(2)  .5499(2)  .64630(10)
+  O(2)  1.0665(2)  .5341(2)  .68400(10)
+  O(3)  .7988(2)  .1513(2)  .70270(10)
+  O(4)  1.0914(2)  .1004(2)  .67880(10)
+  O(5)  .4283(3)  .1936(3)  .4540(2)
+  O(6)  .6172(3)  .2562(4)  1.1378(2)
+  O(7)  .5553(3)  .1363(4)  .8733(2)
+  C(1)  .9068(3)  .5491(2)  .71810(10)
+  C(2)  .9756(3)  .1720(2)  .74190(10)
+  C(3)  .8318(2)  .7388(3)  .91440(10)
+  C(4)  .9006(2)  .5785(2)  .85790(10)
+  C(5)  .9854(2)  .4652(2)  .93260(10)
+  C(6)  1.0428(2)  .2852(2)  .87840(10)
+  C(7)  1.1406(2)  .1932(2)  .9535(2)
+  H(51)  .367(4)  .079(5)  .406(3)
+  H(52)  .361(4)  .270(5)  .425(3)
+  H(61)  .716(5)  .297(5)  1.168(3)
+  H(71)  .639(4)  .131(4)  .833(3)
+  H(62)  .620(7)  .237(7)  1.051(6)
+  H(63)  .580(10)  .162(10)  1.141(6)
+  H(72)  .572(11)  .205(12)  .938(8)
+  H(73)  .496(8)  .016(10)  .856(5)
+  H(1)  .777(3)  .808(3)  .863(2)
+  H(2)  1.175(3)  .076(3)  .915(2)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O(1)  K(1)  O(2)  45.02(4)  no
+  O(1)  K(1)  O(2)i  89.41(5)  no
+  O(1)  K(1)  O(3)  66.27(4)  no
+  O(1)  K(1)  O(4)  92.77(4)  no
+  O(1)  K(1)  O(4)ii  174.01(4)  no
+  O(1)  K(1)  O(5)  69.71(5)  no
+  O(2)  K(1)  O(2)i  88.43(4)  no
+  O(2)  K(1)  O(3)  66.27(4)  no
+  O(2)  K(1)  O(4)  61.55(4)  no
+  O(2)  K(1)  O(4)ii  135.01(5)  no
+  O(2)  K(1)  O(5)  113.78(5)  no
+  O(2)i  K(1)  O(3)  152.97(4)  no
+  O(2)i  K(1)  O(4)  123.07(5)  no
+  O(2)i  K(1)  O(4)ii  96.58(5)  no
+  O(2)i  K(1)  O(5)  102.82(5)  no
+  O(3)i  K(1)  O(4)  43.74(4)  no
+  O(3)  K(1)  O(4)ii  107.90(5)  no
+  O(3)  K(1)  O(5)  80.45(5)  no
+  O(4)  K(1)  O(4)ii  83.35(4)  no
+  O(4)  K(1)  O(5)  122.73(5)  no
+  O(4)ii  K(1)  O(5)  108.58(5)  no
+  O(1)  K(2)  O(2)iii  118.85(4)  no
+  O(1)  K(2)  O(3)  60.71(4)  no
+  O(1)  K(2)  O(4)iii  155.44(4)  no
+  O(1)  K(2)  O(5)  71.84(5)  no
+  O(1)  K(2)  O(6)iv  90.10(6)  no
+  O(1)  K(2)  O(7)  105.53(5)  no
+  O(2)iii  K(2)  O(3)  170.92(4)  no
+  O(2)iii  K(2)  Oiii  64.42(4)  no
+  O(2)iii  K(2)  O(5)  97.59(5)  no
+  O(2)iii  K(2)  O(6)iv  55.78(5)  no
+  O(2)iii  K(2)  O(7)  132.41(5)  no
+  O(3)  K(2)  O(4)iii  118.89(4)  no
+  O(3)  K(2)  O(5)  73.52(5)  no
+  O(3)  K(2)  O(6)iv  132.18(5)  no
+  O(3)  K(2)  O(7)  52.42(5)  no
+  O(4)iii  K(2)  O(5)  83.61(5)  no
+  O(4)iii  K(2)  O(6)iv  108.81(6)  no
+  O(4)iii  K(2)  O(7)  82.61(6)  no
+  O(5)  K(2)  O(6)iv  135.74(7)  no
+  O(5)  K(2)  O(7)  112.48(7)  no
+  O(6)iv  K(2)  O(7)  111.20(7)  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  K(1)  O(1)  2.870(2)  no
+  K(1)  O(2)  2.943(2)  no
+  K(1)  O(2)  2.733(2)  no
+  K(1)  O(3)  2.785(2)  no
+  K(1)  O(4)  3.131(2)  no
+  K(1)  O(4)ii  2.657(2)  no
+  K(1)  O(5)  2.932(2)  no
+  K(1)  O(1)  2.782(2)  no
+  K(2)  O(2)iii  3.058(2)  no
+  K(2)  O(3)  3.278(2)  no
+  K(2)  O(4)iii  2.760(2)  no
+  K(2)  O(5)  2.869(2)  no
+  K(2)  O(6)iv  2.893(3)  no
+  K(2)  O(7)  2.823(2)  no
+  O(5)  H(51)  0.88(3)  no
+  O(5)  H(52)  0.87(3)  no
+  O(6)  H(61)  0.73(4)  no
+  O(6)  H(62)  0.93(6)  no
+  O(6)  H(63)  0.70(7)  no
+  O(7)  H(71)  0.79(3)  no
+  O(7)  H(72)  0.75(8)  no
+  O(7)  H(73)  0.86(8)  no

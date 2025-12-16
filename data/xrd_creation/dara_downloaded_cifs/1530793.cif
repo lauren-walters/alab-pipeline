@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_1530793
+loop_
+ _publ_author_name
+  'Smolin, Yu.I.'
+  'Shepelev, Yu.F.'
+  'Domanskii, A.I.'
+  'Majling, J.'
+_publ_section_title
+'A new type of phosphate radical P5 O16 in the Na3 Mg2 P5 O16 crystal'
+_journal_name_full   Kristallografiya
+_journal_page_first   1264
+_journal_page_last   1266
+_journal_volume   23
+_journal_year   1978
+_chemical_formula_sum   'Mg2 Na3 O16 P5'
+_chemical_name_systematic   'Na3 Mg2 P5 O16'
+_space_group_IT_number   13
+_symmetry_space_group_name_Hall   '-P 2ya'
+_symmetry_space_group_name_H-M   'P 1 2/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90.15
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   18.617
+_cell_length_b   6.844
+_cell_length_c   5.174
+_cell_volume   659.242
+_citation_journal_id_ASTM   KRISAJ
+_cod_data_source_file   Smolin_KRISAJ_1978_410.cif
+_cod_data_source_block   Mg2Na3O16P5
+_cod_original_cell_volume   659.2416
+_cod_original_sg_symbol_Hall   '-P 2yc (z,y,-x)'
+_cod_database_code   1530793
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y,-z
+  -x,-y,-z
+  x-1/2,-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.08118  0.6012  0.9629  1  0.0
+  Na1  Na+1  0.25  0.0379  0.5  1  0.0
+  P1  P+5  0.25  0.74089  0  1  0.0
+  Na2  Na+1  0.03188  0.3525  0.2527  1  0.0
+  O4  O-2  0.10946  0.5687  0.4853  1  0.0
+  O8  O-2  0.11867  0.9763  0.5985  1  0.0
+  O7  O-2  0.0739  0.0627  0.0498  1  0.0
+  P3  P+5  0.08297  0.1223  0.7729  1  0.0
+  O6  O-2  0.01638  0.218  0.6609  1  0.0
+  Mg1  Mg+2  0.0919  0.82208  0.2688  1  0.0
+  P2  P+5  0.6303  0.47452  0.75776  1  0.0
+  O1  O-2  0.19852  0.8518  0.1617  1  0.0
+  O2  O-2  0.21042  0.5961  0.8081  1  0.0
+  O5  O-2  0.14365  0.2989  0.7864  1  0.0

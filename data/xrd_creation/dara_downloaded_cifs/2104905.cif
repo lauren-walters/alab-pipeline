@@ -1,0 +1,145 @@
+# generated using pymatgen
+data_2104905
+loop_
+ _publ_author_name
+  'Kanzaki, Masami'
+  'Xue, Xianyu'
+  'Reibstein, Sindy'
+  'Berryman, Eleanor'
+  'Namgung, Seonyi'
+_publ_section_title
+;
+Structures of two new high-pressure forms of AlPO~4~ by X-ray powder
+diffraction and NMR spectroscopy
+;
+_journal_coeditor_code   WH5011
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   30
+_journal_page_last   40
+_journal_paper_doi   10.1107/S0108768110051050
+_journal_volume   67
+_journal_year   2011
+_chemical_formula_analytical   'Al O4 P'
+_chemical_formula_moiety   'Al O4 P'
+_chemical_formula_structural   'Al P O4'
+_chemical_formula_sum   'Al O4 P'
+_chemical_formula_weight   121.95
+_chemical_name_common   'aluminum orthophosphate'
+_chemical_name_systematic   AlPO4
+_space_group_crystal_system   triclinic
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_cell_angle_alpha   98.2630(7)
+_cell_angle_beta   104.6220(8)
+_cell_angle_gamma   102.1398(8)
+_cell_formula_units_Z   6
+_cell_length_a   6.13280(10)
+_cell_length_b   7.51510(10)
+_cell_length_c   8.58010(10)
+_cell_measurement_temperature   300
+_cell_volume   365.895(9)
+_computing_molecular_graphics   VESTA
+_computing_structure_refinement   RIETAN-FP
+_computing_structure_solution   FOX
+_diffrn_ambient_temperature   300
+_diffrn_measurement_device_type   Debye-Scherrer
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   1.00036
+_exptl_absorpt_coefficient_mu   3.24
+_pd_char_colour   white
+_pd_char_particle_morphology   powder
+_pd_instr_location
+'BL19B2, SPring-8   1-1 Koto, Sayo-cho,   Hyogo 679-5198   Japam'
+_pd_meas_2theta_range_inc   0.010
+_pd_meas_2theta_range_max   76.990
+_pd_meas_2theta_range_min   5.910
+_pd_meas_number_of_points   6886
+_pd_meas_scan_method   step
+_pd_prep_cool_rate   30000
+_pd_prep_pressure   6000000
+_pd_prep_temperature   1523(2)
+_pd_proc_2theta_range_inc   0.010
+_pd_proc_2theta_range_max   76.990
+_pd_proc_2theta_range_min   5.910
+_pd_proc_info_excluded_regions
+'0-5.9, 8.7-9.3, 12.8-13.7, 15.0-15.7, 77.0-80'
+_pd_proc_ls_background_function
+'Legendre polynomial x background data'
+_pd_proc_ls_pref_orient_corr   'March-Dollase function'
+_pd_proc_ls_profile_function   'Splitted Pseudo-Voigt'
+_pd_proc_ls_prof_R_factor   0.033
+_pd_proc_ls_prof_wR_expected   0.031
+_pd_proc_ls_prof_wR_factor   0.045
+_pd_proc_wavelength   1.00036
+_pd_spec_mounting   capillary
+_pd_spec_mount_mode   transmission
+_pd_spec_shape   cylinder
+_pd_spec_size_axial   3.0
+_pd_spec_size_equat   0.3
+_pd_spec_size_thick   0.3
+_refine_ls_goodness_of_fit_all   1.43
+_refine_ls_number_constraints   39
+_refine_ls_number_parameters   130
+_refine_ls_number_restraints   0
+_cod_data_source_file   wh5011.cif
+_cod_data_source_block   Pbar1
+_cod_original_cell_volume   365.90(10)
+_cod_database_code   2104905
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+  Al3+  Al1  0.7618(4)  0.6879(4)  0.4185(3)  Biso  1.0
+  Al3+  Al2  0.4695(4)  0.8960(4)  0.2105(3)  Biso  1.0
+  Al3+  Al3  0.9820(5)  0.3015(4)  0.0226(3)  Biso  1.0
+  P  P1  0.0083(4)  0.0074(3)  0.2594(2)  Biso  1.0
+  P  P2  0.1993(3)  0.5970(3)  0.3444(3)  Biso  1.0
+  P  P3  0.5223(4)  0.3020(3)  0.1316(3)  Biso  1.0
+  O2-  O11  0.9463(7)  0.1423(6)  0.1537(5)  Biso  1.0
+  O2-  O12  0.7696(8)  0.8770(6)  0.2642(3)  Biso  1.0
+  O2-  O13  0.1342(7)  0.8740(6)  0.1690(5)  Biso  1.0
+  O2-  O14  0.1768(7)  0.0967(6)  0.4309(5)  Biso  1.0
+  O2-  O21  0.0558(7)  0.5307(6)  0.1543(4)  Biso  1.0
+  O2-  O22  0.2652(7)  0.4339(6)  0.4180(5)  Biso  1.0
+  O2-  O23  0.0650(7)  0.7026(6)  0.4317(5)  Biso  1.0
+  O2-  O24  0.4380(8)  0.7370(5)  0.3525(5)  Biso  1.0
+  O2-  O31  0.3516(7)  0.7298(5)  0.0127(5)  Biso  1.0
+  O2-  O32  0.5181(7)  0.1299(5)  0.2119(5)  Biso  1.0
+  O2-  O33  0.2772(7)  0.3054(6)  0.0374(5)  Biso  1.0
+  O2-  O34  0.6533(6)  0.4772(6)  0.2497(5)  Biso  1.0
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  ?  ?  ?  ?  ?
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  ?  ?  ?  ?  ?  ?  ?  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  ?  ?  ?  ?  ?  ?

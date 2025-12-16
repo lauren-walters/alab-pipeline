@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_8104382
+loop_
+ _publ_author_name
+  'Baez-Doelle, C.'
+  'Stachel, D.'
+  'Fuess, H.'
+  'Svoboda, I.'
+_publ_section_title   'Crystal structure of zinc ultraphosphate'
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   282
+_journal_page_last   283
+_journal_volume   203
+_journal_year   1993
+_chemical_formula_sum   'O11 P4 Zn'
+_chemical_name_systematic   'Zn P4 O11'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   110.11
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.302
+_cell_length_b   22.244
+_cell_length_c   7.407
+_cell_volume   820.307
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Baez-Doelle_ZEKRDZ_1993_1507.cif
+_cod_data_source_block   O11P4Zn1
+_cod_original_cell_volume   820.3069
+_cod_original_formula_sum   'O11 P4 Zn1'
+_cod_database_code   8104382
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.76941  0.54531  0.01823  1  0.0
+  P2  P+5  0.69487  0.57205  0.1874  1  0.0
+  O4  O-2  0.447  0.53713  0.20253  1  0.0
+  P3  P+5  0.32189  0.67836  0.05439  1  0.0
+  O6  O-2  0.57292  0.6358  0.11654  1  0.0
+  O8  O-2  0.46132  0.73348  -0.0002  1  0.0
+  O5  O-2  0.93049  0.57545  0.36089  1  0.0
+  Zn1  Zn+2  1.005  0.38619  0.3702  1  0.0
+  O7  O-2  0.08701  0.65489  -0.09384  1  0.0
+  O10  O-2  0.18373  0.81688  0.05003  1  0.0
+  O11  O-2  0.64573  0.83708  0.02114  1  0.0
+  P4  P+5  0.394  0.80431  -0.03149  1  0.0
+  P1  P+5  0.402  0.465  0.20779  1  0.0
+  O9  O-2  0.25549  0.69383  0.23715  1  0.0
+  O2  O-2  0.66066  0.43506  0.2492  1  0.0
+  O1  O-2  0.21814  0.45533  0.31369  1  0.0

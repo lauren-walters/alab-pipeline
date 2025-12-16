@@ -1,0 +1,986 @@
+# generated using pymatgen
+data_2238939
+loop_
+ _publ_author_name
+  'Zeilinger, Michael'
+  'F\"assler, Thomas F.'
+_publ_section_title   'Revision of the Li~13~Si~4~ structure'
+_journal_coeditor_code   WM2778
+_journal_issue   12
+_journal_name_full   'Acta Crystallographica Section E'
+_journal_page_first   i81
+_journal_page_last   i82
+_journal_paper_doi   10.1107/S1600536813029759
+_journal_volume   69
+_journal_year   2013
+_chemical_formula_analytical   'Li13 Si4'
+_chemical_formula_iupac   'Li13 Si4'
+_chemical_formula_structural   'Li13 2(Si) Si2'
+_chemical_formula_sum   'Li13 Si4'
+_chemical_formula_weight   202.58
+_chemical_melting_point   995
+_chemical_name_common   'Lithium Silicide'
+_chemical_name_systematic   'Tridecalithium tetrasilicide'
+_space_group_IT_number   55
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2 2ab'
+_symmetry_space_group_name_H-M   'P b a m'
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   'IUCr SHELXL97-template, publCIF'
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   7.9488(4)
+_cell_length_b   15.1248(8)
+_cell_length_c   4.4661(2)
+_cell_measurement_reflns_used   9823
+_cell_measurement_temperature   100(2)
+_cell_measurement_theta_max   57.2990
+_cell_measurement_theta_min   2.8949
+_cell_volume   536.93(5)
+_computing_cell_refinement   '<i>SAINT</i> (Bruker, 2008)'
+_computing_data_collection   '<i>APEX2</i> (Bruker, 2008)'
+_computing_data_reduction   '<i>SAINT</i> (Bruker, 2008)'
+_computing_molecular_graphics   '<i>DIAMOND</i> (Brandenburg, 2012)'
+_computing_publication_material   '<i>publCIF</i> (Westrip, 2010)'
+_computing_structure_refinement   '<i>SHELXL97</i> (Sheldrick, 2008)'
+_computing_structure_solution   '<i>SHELXS97</i> (Sheldrick, 2008)'
+_diffrn_ambient_temperature   100(2)
+_diffrn_detector_area_resol_mean   16
+_diffrn_measured_fraction_theta_full   0.998
+_diffrn_measured_fraction_theta_max   0.998
+_diffrn_measurement_device_type   'Bruker APEXII CCD'
+_diffrn_measurement_method   '\f- and omega-rotation'
+_diffrn_radiation_monochromator   'MONTEL optic'
+_diffrn_radiation_source   'rotating anode FR591'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0333
+_diffrn_reflns_av_sigmaI/netI   0.0151
+_diffrn_reflns_limit_h_max   15
+_diffrn_reflns_limit_h_min   -13
+_diffrn_reflns_limit_k_max   30
+_diffrn_reflns_limit_k_min   -28
+_diffrn_reflns_limit_l_max   8
+_diffrn_reflns_limit_l_min   -8
+_diffrn_reflns_number   25938
+_diffrn_reflns_theta_full   45.29
+_diffrn_reflns_theta_max   45.29
+_diffrn_reflns_theta_min   2.69
+_exptl_absorpt_coefficient_mu   0.473
+_exptl_absorpt_correction_T_max   0.8182
+_exptl_absorpt_correction_T_min   0.7813
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   '(<i>SADABS</i>; Bruker, 2008)'
+_exptl_crystal_colour   'metallic silver'
+_exptl_crystal_density_diffrn   1.253
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   block
+_exptl_crystal_F_000   190
+_exptl_crystal_size_max   0.2
+_exptl_crystal_size_mid   0.2
+_exptl_crystal_size_min   0.2
+_refine_diff_density_max   0.678
+_refine_diff_density_min   -0.396
+_refine_ls_goodness_of_fit_ref   1.079
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   60
+_refine_ls_number_reflns   2429
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.079
+_refine_ls_R_factor_all   0.0155
+_refine_ls_R_factor_gt   0.0148
+_refine_ls_shift/su_max   0.002
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0204P)^2^+0.0373P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.0433
+_refine_ls_wR_factor_ref   0.0437
+_reflns_number_gt   2333
+_reflns_number_total   2429
+_reflns_threshold_expression   I>2\s(I)
+_iucr_refine_instructions_details
+;
+TITL Li13Si4_100K_0ma in Pbam CELL 0.71073   7.9488  15.1248   4.4661
+90.000  90.000  90.000 ZERR    2.00   0.0004   0.0008   0.0002   0.000
+0.000   0.000 LATT  1 SYMM -X, -Y, Z SYMM 0.5-X, 0.5+Y, -Z SYMM 0.5+X,
+0.5-Y, -Z SFAC LI SI UNIT 26 8 TEMP -173.15 L.S. 20 BOND FMAP 2 PLAN
+20 ACTA SHEL 10 0.5 WGHT    0.020400    0.037300 FVAR       0.42528
+0.83837 MOLE   1 SI1   2    0.426415    0.431285    0.500000
+10.50000    0.00650    0.00658 =          0.00803    0.00000
+0.00000   -0.00146 SI2   2    0.415184    0.160356    0.000000
+10.50000    0.00659    0.00652 =          0.00541    0.00000
+0.00000   -0.00044 LI1   1    0.150833    0.027776    0.000000
+10.50000    0.01916    0.01726 =          0.01263    0.00000
+0.00000   -0.00515 LI2   1    0.000000    0.500000    0.000000
+10.25000    0.02485    0.00973 =          0.01723    0.00000
+0.00000   -0.00348 LI3   1    0.094424    0.195064    0.000000
+10.50000    0.01293    0.01688 =          0.04274    0.00000
+0.00000    0.00341 LI4   1    0.270051    0.346971    0.000000
+10.50000    0.01329    0.01727 =          0.01374    0.00000
+0.00000    0.00036 LI5   1    0.259983    0.092712    0.500000
+10.50000    0.01269    0.02616 =          0.01105    0.00000
+0.00000   -0.00608 PART 1 LI6A  1    0.413850    0.255351    0.500000
+20.50000    0.03743    0.01067 =          0.01042    0.00000
+0.00000    0.00408 PART 2 LI6B  1    0.332715    0.248694    0.500000
+-20.50000    0.01875    0.01673 =          0.02224    0.00000
+0.00000    0.00304 PART 0 LI7   1    0.092810    0.393298    0.500000
+10.50000    0.01052    0.02043 =          0.01192    0.00000
+0.00000   -0.00083 MOLE   2 HKLF 4 REM  Li13Si4_100K_0ma in Pbam REM
+R1 =  0.0148 for   2333 Fo > 4sig(Fo)  and  0.0155 for all   2429 data
+REM     60 parameters refined using      0 restraints END WGHT
+0.0201      0.0376 REM Highest difference peak  0.678,  deepest hole
+-0.396,  1-sigma level  0.044 Q1    1   0.1085  0.2100  0.2744
+11.00000  0.05    0.68 Q2    1   0.3630  0.1696  0.0000  10.50000
+0.05    0.42 Q3    1   0.4174  0.1620  0.1131  11.00000  0.05    0.20
+Q4    1   0.4970  0.4309  0.5000  10.50000  0.05    0.19 Q5    1
+0.4579  0.1756  0.0000  10.50000  0.05    0.19 Q6    1   0.3605
+0.4273  0.5000  10.50000  0.05    0.18 Q7    1   0.4186  0.2496
+0.0000  10.50000  0.05    0.17 Q8    1   0.4297  0.4316  0.3725
+11.00000  0.05    0.13 Q9    1   0.4628  0.3598  0.4406  11.00000
+0.05    0.13 Q10   1   0.0866  0.1328  0.0000  10.50000  0.05    0.13
+Q11   1   0.1232  0.0606  0.0000  10.50000  0.05    0.13 Q12   1
+0.4811  0.4030  0.5000  10.50000  0.05    0.13 Q13   1   0.1235
+0.4091  0.5000  10.50000  0.05    0.12 Q14   1   0.3693  0.2403
+0.0824  11.00000  0.05    0.12 Q15   1   0.2314  0.1494  0.0000
+10.50000  0.05    0.12 Q16   1   0.5789  0.4628  0.5000  10.50000
+0.05    0.12 Q17   1   0.5614  0.3785  0.5000  10.50000  0.05    0.12
+Q18   1   0.3046  0.2212  0.1401  11.00000  0.05    0.11 Q19   1
+0.4440  0.2225  0.2279  11.00000  0.05    0.11 Q20   1   0.5230
+0.3873  0.3580  11.00000  0.05    0.11
+;
+_cod_data_source_file   wm2778.cif
+_cod_data_source_block   I
+_cod_database_code   2238939
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, -y, z'
+  '-x+1/2, y+1/2, -z'
+  'x+1/2, -y+1/2, -z'
+  '-x, -y, -z'
+  'x, y, -z'
+  'x-1/2, -y-1/2, z'
+  '-x-1/2, y-1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_disorder_group
+  Si  Si1  0.426415(11)  0.431285(6)  0.5000  0.00704(2)  Uani  d  S
+  1  2  .
+  Si  Si2  0.415184(11)  0.160356(6)  0.0000  0.00617(2)  Uani  d  S
+  1  2  .
+  Li  Li1  0.15083(11)  0.02778(6)  0.0000  0.01635(13)  Uani  d  S
+  1  2  .
+  Li  Li2  0.0000  0.5000  0.0000  0.01727(19)  Uani  d  S  1  4  .
+  Li  Li3  0.09442(12)  0.19506(7)  0.0000  0.0242(2)  Uani  d  S  1
+  2  .
+  Li  Li4  0.27005(11)  0.34697(6)  0.0000  0.01476(13)  Uani  d  S
+  1  2  .
+  Li  Li5  0.25998(11)  0.09271(6)  0.5000  0.01663(14)  Uani  d  S
+  1  2  .
+  Li  Li6A  0.4138(3)  0.25535(7)  0.5000  0.0195(4)  Uani  d  SP
+  0.838(7)  2  1
+  Li  Li6B  0.3327(12)  0.2487(4)  0.5000  0.0192(15)  Uani  d  SP
+  0.162(7)  2  2
+  Li  Li7  0.09281(10)  0.39330(6)  0.5000  0.01429(13)  Uani  d  S
+  1  2  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Si1  0.00650(4)  0.00658(4)  0.00803(4)  -0.00146(2)  0.000  0.000
+  Si2  0.00659(4)  0.00652(4)  0.00541(4)  -0.00044(2)  0.000  0.000
+  Li1  0.0192(3)  0.0173(3)  0.0126(3)  -0.0052(3)  0.000  0.000
+  Li2  0.0249(5)  0.0097(4)  0.0172(5)  -0.0035(4)  0.000  0.000
+  Li3  0.0129(3)  0.0169(3)  0.0427(6)  0.0034(3)  0.000  0.000
+  Li4  0.0133(3)  0.0173(3)  0.0137(3)  0.0004(2)  0.000  0.000
+  Li5  0.0127(3)  0.0262(4)  0.0110(3)  -0.0061(3)  0.000  0.000
+  Li6A  0.0374(11)  0.0107(4)  0.0104(4)  0.0041(4)  0.000  0.000
+  Li6B  0.019(4)  0.017(2)  0.022(3)  0.003(2)  0.000  0.000
+  Li7  0.0105(3)  0.0204(3)  0.0119(3)  -0.0008(2)  0.000  0.000
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Li  Li  -0.0003  0.0001
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Si  Si  0.0817  0.0704
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+  Si1  Si1  Li6A  5_666  .  152.78(5)
+  Si1  Si1  Li5  5_666  7_665  68.43(2)
+  Li6A  Si1  Li5  .  7_665  84.35(5)
+  Si1  Si1  Li7  5_666  .  131.60(2)
+  Li6A  Si1  Li7  .  .  75.63(5)
+  Li5  Si1  Li7  7_665  .  159.98(3)
+  Si1  Si1  Li1  5_666  3_556  69.231(19)
+  Li6A  Si1  Li1  .  3_556  121.62(2)
+  Li5  Si1  Li1  7_665  3_556  107.13(2)
+  Li7  Si1  Li1  .  3_556  83.90(2)
+  Si1  Si1  Li1  5_666  3  69.231(19)
+  Li6A  Si1  Li1  .  3  121.62(2)
+  Li5  Si1  Li1  7_665  3  107.13(2)
+  Li7  Si1  Li1  .  3  83.90(2)
+  Li1  Si1  Li1  3_556  3  109.32(3)
+  Si1  Si1  Li5  5_666  3_556  60.62(2)
+  Li6A  Si1  Li5  .  3_556  146.60(5)
+  Li5  Si1  Li5  7_665  3_556  129.047(16)
+  Li7  Si1  Li5  .  3_556  70.97(3)
+  Li1  Si1  Li5  3_556  3_556  55.100(14)
+  Li1  Si1  Li5  3  3_556  55.100(14)
+  Si1  Si1  Li4  5_666  1_556  127.050(14)
+  Li6A  Si1  Li4  .  1_556  62.45(3)
+  Li5  Si1  Li4  7_665  1_556  111.752(19)
+  Li7  Si1  Li4  .  1_556  58.678(17)
+  Li1  Si1  Li4  3_556  1_556  60.17(2)
+  Li1  Si1  Li4  3  1_556  141.10(3)
+  Li5  Si1  Li4  3_556  1_556  98.97(2)
+  Si1  Si1  Li4  5_666  .  127.051(14)
+  Li6A  Si1  Li4  .  .  62.45(3)
+  Li5  Si1  Li4  7_665  .  111.752(19)
+  Li7  Si1  Li4  .  .  58.678(17)
+  Li1  Si1  Li4  3_556  .  141.10(3)
+  Li1  Si1  Li4  3  .  60.17(2)
+  Li5  Si1  Li4  3_556  .  98.97(2)
+  Li4  Si1  Li4  1_556  .  102.86(3)
+  Si1  Si1  Li6B  5_666  .  165.72(19)
+  Li6A  Si1  Li6B  .  .  12.94(15)
+  Li5  Si1  Li6B  7_665  .  97.30(19)
+  Li7  Si1  Li6B  .  .  62.68(19)
+  Li1  Si1  Li6B  3_556  .  117.15(8)
+  Li1  Si1  Li6B  3  .  117.15(8)
+  Li5  Si1  Li6B  3_556  .  133.66(19)
+  Li4  Si1  Li6B  1_556  .  57.02(7)
+  Li4  Si1  Li6B  .  .  57.02(7)
+  Si1  Si1  Li1  5_666  7_666  61.073(16)
+  Li6A  Si1  Li1  .  7_666  103.56(3)
+  Li5  Si1  Li1  7_665  7_666  54.856(16)
+  Li7  Si1  Li1  .  7_666  129.866(14)
+  Li1  Si1  Li1  3_556  7_666  53.20(3)
+  Li1  Si1  Li1  3  7_666  130.304(9)
+  Li5  Si1  Li1  3_556  7_666  97.78(2)
+  Li4  Si1  Li1  1_556  7_666  76.29(2)
+  Li4  Si1  Li1  .  7_666  163.14(2)
+  Li6B  Si1  Li1  .  7_666  111.30(11)
+  Si1  Si1  Li1  5_666  7_665  61.073(16)
+  Li6A  Si1  Li1  .  7_665  103.56(3)
+  Li5  Si1  Li1  7_665  7_665  54.856(16)
+  Li7  Si1  Li1  .  7_665  129.866(14)
+  Li1  Si1  Li1  3_556  7_665  130.304(9)
+  Li1  Si1  Li1  3  7_665  53.20(3)
+  Li5  Si1  Li1  3_556  7_665  97.78(2)
+  Li4  Si1  Li1  1_556  7_665  163.14(2)
+  Li4  Si1  Li1  .  7_665  76.29(2)
+  Li6B  Si1  Li1  .  7_665  111.30(11)
+  Li1  Si1  Li1  7_666  7_665  99.56(3)
+  Li2  Si2  Li3  3_545  .  117.17(2)
+  Li2  Si2  Li3  3_545  7_665  131.38(2)
+  Li3  Si2  Li3  .  7_665  111.451(16)
+  Li2  Si2  Li6A  3_545  .  121.49(2)
+  Li3  Si2  Li6A  .  .  83.51(5)
+  Li3  Si2  Li6A  7_665  .  63.18(4)
+  Li2  Si2  Li6A  3_545  1_554  121.49(2)
+  Li3  Si2  Li6A  .  1_554  83.51(5)
+  Li3  Si2  Li6A  7_665  1_554  63.18(4)
+  Li6A  Si2  Li6A  .  1_554  114.48(4)
+  Li2  Si2  Li6B  3_545  1_554  123.03(10)
+  Li3  Si2  Li6B  .  1_554  70.1(2)
+  Li3  Si2  Li6B  7_665  1_554  73.51(18)
+  Li6A  Si2  Li6B  .  1_554  115.43(10)
+  Li6A  Si2  Li6B  1_554  1_554  14.03(17)
+  Li2  Si2  Li6B  3_545  .  123.03(10)
+  Li3  Si2  Li6B  .  .  70.1(2)
+  Li3  Si2  Li6B  7_665  .  73.51(18)
+  Li6A  Si2  Li6B  .  .  14.03(17)
+  Li6A  Si2  Li6B  1_554  .  115.43(10)
+  Li6B  Si2  Li6B  1_554  .  112.6(2)
+  Li2  Si2  Li5  3_545  .  76.21(2)
+  Li3  Si2  Li5  .  .  68.62(2)
+  Li3  Si2  Li5  7_665  .  123.840(16)
+  Li6A  Si2  Li5  .  .  61.08(4)
+  Li6A  Si2  Li5  1_554  .  151.98(5)
+  Li6B  Si2  Li5  1_554  .  138.7(2)
+  Li6B  Si2  Li5  .  .  53.11(15)
+  Li2  Si2  Li5  3_545  1_554  76.21(2)
+  Li3  Si2  Li5  .  1_554  68.62(2)
+  Li3  Si2  Li5  7_665  1_554  123.840(16)
+  Li6A  Si2  Li5  .  1_554  151.98(5)
+  Li6A  Si2  Li5  1_554  1_554  61.08(4)
+  Li6B  Si2  Li5  1_554  1_554  53.11(15)
+  Li6B  Si2  Li5  .  1_554  138.7(2)
+  Li5  Si2  Li5  .  1_554  108.66(3)
+  Li2  Si2  Li7  3_545  7_665  65.184(19)
+  Li3  Si2  Li7  .  7_665  124.026(15)
+  Li3  Si2  Li7  7_665  7_665  88.12(3)
+  Li6A  Si2  Li7  .  7_665  58.76(3)
+  Li6A  Si2  Li7  1_554  7_665  147.18(5)
+  Li6B  Si2  Li7  1_554  7_665  160.6(2)
+  Li6B  Si2  Li7  .  7_665  66.34(14)
+  Li5  Si2  Li7  .  7_665  57.56(2)
+  Li5  Si2  Li7  1_554  7_665  140.93(3)
+  Li2  Si2  Li7  3_545  7_664  65.184(18)
+  Li3  Si2  Li7  .  7_664  124.026(15)
+  Li3  Si2  Li7  7_665  7_664  88.12(3)
+  Li6A  Si2  Li7  .  7_664  147.18(5)
+  Li6A  Si2  Li7  1_554  7_664  58.77(3)
+  Li6B  Si2  Li7  1_554  7_664  66.34(14)
+  Li6B  Si2  Li7  .  7_664  160.6(2)
+  Li5  Si2  Li7  .  7_664  140.93(3)
+  Li5  Si2  Li7  1_554  7_664  57.56(2)
+  Li7  Si2  Li7  7_665  7_664  107.80(3)
+  Li2  Si2  Li4  3_545  7_665  72.216(17)
+  Li3  Si2  Li4  .  7_665  170.62(3)
+  Li3  Si2  Li4  7_665  7_665  59.16(3)
+  Li6A  Si2  Li4  .  7_665  91.45(5)
+  Li6A  Si2  Li4  1_554  7_665  91.45(5)
+  Li6B  Si2  Li4  1_554  7_665  105.3(2)
+  Li6B  Si2  Li4  .  7_665  105.3(2)
+  Li5  Si2  Li4  .  7_665  115.713(19)
+  Li5  Si2  Li4  1_554  7_665  115.713(19)
+  Li7  Si2  Li4  7_665  7_665  58.534(15)
+  Li7  Si2  Li4  7_664  7_665  58.534(15)
+  Li1  Li1  Li3  5  .  99.26(5)
+  Li1  Li1  Li5  5  1_554  116.21(3)
+  Li3  Li1  Li5  .  1_554  71.64(3)
+  Li1  Li1  Li5  5  .  116.21(3)
+  Li3  Li1  Li5  .  .  71.64(3)
+  Li5  Li1  Li5  1_554  .  119.19(5)
+  Li1  Li1  Si1  5  3_545  67.17(2)
+  Li3  Li1  Si1  .  3_545  119.07(2)
+  Li5  Li1  Si1  1_554  3_545  64.776(18)
+  Li5  Li1  Si1  .  3_545  168.80(4)
+  Li1  Li1  Si1  5  3_546  67.17(2)
+  Li3  Li1  Si1  .  3_546  119.07(2)
+  Li5  Li1  Si1  1_554  3_546  168.80(4)
+  Li5  Li1  Si1  .  3_546  64.776(18)
+  Si1  Li1  Si1  3_545  3_546  109.32(3)
+  Li1  Li1  Li4  5  3_545  83.64(4)
+  Li3  Li1  Li4  .  3_545  177.10(5)
+  Li5  Li1  Li4  1_554  3_545  107.13(3)
+  Li5  Li1  Li4  .  3_545  107.13(3)
+  Si1  Li1  Li4  3_545  3_545  62.011(17)
+  Si1  Li1  Li4  3_546  3_545  62.012(18)
+  Li1  Li1  Li2  5  3_545  152.08(6)
+  Li3  Li1  Li2  .  3_545  108.66(4)
+  Li5  Li1  Li2  1_554  3_545  74.07(3)
+  Li5  Li1  Li2  .  3_545  74.07(3)
+  Si1  Li1  Li2  3_545  3_545  98.16(2)
+  Si1  Li1  Li2  3_546  3_545  98.16(2)
+  Li4  Li1  Li2  3_545  3_545  68.44(3)
+  Li1  Li1  Si2  5  .  155.65(6)
+  Li3  Li1  Si2  .  .  56.39(3)
+  Li5  Li1  Si2  1_554  .  59.72(2)
+  Li5  Li1  Si2  .  .  59.72(2)
+  Si1  Li1  Si2  3_545  .  122.029(17)
+  Si1  Li1  Si2  3_546  .  122.029(17)
+  Li4  Li1  Si2  3_545  .  120.71(4)
+  Li2  Li1  Si2  3_545  .  52.269(16)
+  Li1  Li1  Si1  5  7_564  59.63(2)
+  Li3  Li1  Si1  .  7_564  71.64(2)
+  Li5  Li1  Si1  1_554  7_564  57.691(19)
+  Li5  Li1  Si1  .  7_564  141.50(4)
+  Si1  Li1  Si1  3_545  7_564  49.695(9)
+  Si1  Li1  Si1  3_546  7_564  126.80(3)
+  Li4  Li1  Si1  3_545  7_564  110.06(2)
+  Li2  Li1  Si1  3_545  7_564  129.406(14)
+  Si2  Li1  Si1  .  7_564  107.16(2)
+  Li1  Li1  Si1  5  7_565  59.63(2)
+  Li3  Li1  Si1  .  7_565  71.64(2)
+  Li5  Li1  Si1  1_554  7_565  141.50(4)
+  Li5  Li1  Si1  .  7_565  57.691(19)
+  Si1  Li1  Si1  3_545  7_565  126.80(3)
+  Si1  Li1  Si1  3_546  7_565  49.695(9)
+  Li4  Li1  Si1  3_545  7_565  110.06(2)
+  Li2  Li1  Si1  3_545  7_565  129.406(14)
+  Si2  Li1  Si1  .  7_565  107.16(2)
+  Si1  Li1  Si1  7_564  7_565  99.56(3)
+  Si2  Li2  Si2  7_565  3  180.000(4)
+  Si2  Li2  Li1  7_565  7_565  65.859(17)
+  Si2  Li2  Li1  3  7_565  114.141(17)
+  Si2  Li2  Li1  7_565  3  114.142(17)
+  Si2  Li2  Li1  3  3  65.859(17)
+  Li1  Li2  Li1  7_565  3  180.0
+  Si2  Li2  Li7  7_565  1_554  61.584(16)
+  Si2  Li2  Li7  3  1_554  118.416(16)
+  Li1  Li2  Li7  7_565  1_554  99.849(19)
+  Li1  Li2  Li7  3  1_554  80.151(19)
+  Si2  Li2  Li7  7_565  5_566  118.417(16)
+  Si2  Li2  Li7  3  5_566  61.583(16)
+  Li1  Li2  Li7  7_565  5_566  80.151(19)
+  Li1  Li2  Li7  3  5_566  99.849(19)
+  Li7  Li2  Li7  1_554  5_566  180.0
+  Si2  Li2  Li7  7_565  5_565  118.417(16)
+  Si2  Li2  Li7  3  5_565  61.583(16)
+  Li1  Li2  Li7  7_565  5_565  80.151(19)
+  Li1  Li2  Li7  3  5_565  99.849(19)
+  Li7  Li2  Li7  1_554  5_565  76.94(3)
+  Li7  Li2  Li7  5_566  5_565  103.06(3)
+  Si2  Li2  Li7  7_565  .  61.584(16)
+  Si2  Li2  Li7  3  .  118.417(16)
+  Li1  Li2  Li7  7_565  .  99.850(19)
+  Li1  Li2  Li7  3  .  80.151(19)
+  Li7  Li2  Li7  1_554  .  103.06(3)
+  Li7  Li2  Li7  5_566  .  76.94(3)
+  Li7  Li2  Li7  5_565  .  180.0
+  Si2  Li2  Li4  7_565  5_565  121.622(16)
+  Si2  Li2  Li4  3  5_565  58.378(16)
+  Li1  Li2  Li4  7_565  5_565  55.76(2)
+  Li1  Li2  Li4  3  5_565  124.24(2)
+  Li7  Li2  Li4  1_554  5_565  126.209(14)
+  Li7  Li2  Li4  5_566  5_565  53.791(15)
+  Li7  Li2  Li4  5_565  5_565  53.791(15)
+  Li7  Li2  Li4  .  5_565  126.210(14)
+  Si2  Li2  Li4  7_565  .  58.378(16)
+  Si2  Li2  Li4  3  .  121.622(16)
+  Li1  Li2  Li4  7_565  .  124.24(2)
+  Li1  Li2  Li4  3  .  55.76(2)
+  Li7  Li2  Li4  1_554  .  53.791(14)
+  Li7  Li2  Li4  5_566  .  126.210(14)
+  Li7  Li2  Li4  5_565  .  126.210(14)
+  Li7  Li2  Li4  .  .  53.790(15)
+  Li4  Li2  Li4  5_565  .  180.0
+  Si2  Li2  Li5  7_565  3_556  124.896(15)
+  Si2  Li2  Li5  3  3_556  55.104(15)
+  Li1  Li2  Li5  7_565  3_556  130.096(14)
+  Li1  Li2  Li5  3  3_556  49.904(14)
+  Li7  Li2  Li5  1_554  3_556  129.00(2)
+  Li7  Li2  Li5  5_566  3_556  51.00(2)
+  Li7  Li2  Li5  5_565  3_556  116.42(2)
+  Li7  Li2  Li5  .  3_556  63.58(2)
+  Li4  Li2  Li5  5_565  3_556  94.745(17)
+  Li4  Li2  Li5  .  3_556  85.255(17)
+  Si2  Li2  Li5  7_565  3  124.896(15)
+  Si2  Li2  Li5  3  3  55.104(15)
+  Li1  Li2  Li5  7_565  3  130.096(14)
+  Li1  Li2  Li5  3  3  49.904(14)
+  Li7  Li2  Li5  1_554  3  63.58(2)
+  Li7  Li2  Li5  5_566  3  116.42(2)
+  Li7  Li2  Li5  5_565  3  51.00(2)
+  Li7  Li2  Li5  .  3  129.00(2)
+  Li4  Li2  Li5  5_565  3  94.745(17)
+  Li4  Li2  Li5  .  3  85.255(17)
+  Li5  Li2  Li5  3_556  3  86.65(2)
+  Li1  Li3  Si2  .  .  68.32(3)
+  Li1  Li3  Si2  .  7_565  156.96(5)
+  Si2  Li3  Si2  .  7_565  134.72(4)
+  Li1  Li3  Li4  .  7_565  86.20(4)
+  Si2  Li3  Li4  .  7_565  154.51(5)
+  Si2  Li3  Li4  7_565  7_565  70.77(3)
+  Li1  Li3  Li4  .  .  138.67(5)
+  Si2  Li3  Li4  .  .  70.35(3)
+  Si2  Li3  Li4  7_565  .  64.37(3)
+  Li4  Li3  Li4  7_565  .  135.14(4)
+  Li1  Li3  Li6A  .  7_564  111.01(3)
+  Si2  Li3  Li6A  .  7_564  124.37(4)
+  Si2  Li3  Li6A  7_565  7_564  59.21(3)
+  Li4  Li3  Li6A  7_565  7_564  63.89(4)
+  Li4  Li3  Li6A  .  7_564  92.17(4)
+  Li1  Li3  Li6A  .  7_565  111.01(3)
+  Si2  Li3  Li6A  .  7_565  124.37(4)
+  Si2  Li3  Li6A  7_565  7_565  59.21(3)
+  Li4  Li3  Li6A  7_565  7_565  63.89(4)
+  Li4  Li3  Li6A  .  7_565  92.17(4)
+  Li6A  Li3  Li6A  7_564  7_565  108.10(8)
+  Li1  Li3  Li5  .  .  54.48(2)
+  Si2  Li3  Li5  .  .  57.97(2)
+  Si2  Li3  Li5  7_565  .  131.88(2)
+  Li4  Li3  Li5  7_565  .  107.49(3)
+  Li4  Li3  Li5  .  .  102.23(3)
+  Li6A  Li3  Li5  7_564  .  164.79(5)
+  Li6A  Li3  Li5  7_565  .  76.55(4)
+  Li1  Li3  Li5  .  1_554  54.48(2)
+  Si2  Li3  Li5  .  1_554  57.97(2)
+  Si2  Li3  Li5  7_565  1_554  131.88(2)
+  Li4  Li3  Li5  7_565  1_554  107.48(3)
+  Li4  Li3  Li5  .  1_554  102.23(3)
+  Li6A  Li3  Li5  7_564  1_554  76.55(4)
+  Li6A  Li3  Li5  7_565  1_554  164.79(5)
+  Li5  Li3  Li5  .  1_554  95.40(4)
+  Li1  Li3  Li6B  .  .  98.86(11)
+  Si2  Li3  Li6B  .  .  56.17(14)
+  Si2  Li3  Li6B  7_565  .  96.70(11)
+  Li4  Li3  Li6B  7_565  .  132.00(14)
+  Li4  Li3  Li6B  .  .  56.51(11)
+  Li6A  Li3  Li6B  7_564  .  147.86(12)
+  Li6A  Li3  Li6B  7_565  .  69.93(11)
+  Li5  Li3  Li6B  .  .  47.28(10)
+  Li5  Li3  Li6B  1_554  .  114.13(14)
+  Li1  Li3  Li6B  .  1_554  98.86(11)
+  Si2  Li3  Li6B  .  1_554  56.17(14)
+  Si2  Li3  Li6B  7_565  1_554  96.70(11)
+  Li4  Li3  Li6B  7_565  1_554  132.00(14)
+  Li4  Li3  Li6B  .  1_554  56.51(11)
+  Li6A  Li3  Li6B  7_564  1_554  69.93(11)
+  Li6A  Li3  Li6B  7_565  1_554  147.86(12)
+  Li5  Li3  Li6B  .  1_554  114.13(14)
+  Li5  Li3  Li6B  1_554  1_554  47.28(10)
+  Li6B  Li3  Li6B  .  1_554  94.6(3)
+  Li1  Li3  Li6B  .  7_564  112.27(10)
+  Si2  Li3  Li6B  .  7_564  134.21(13)
+  Si2  Li3  Li6B  7_565  7_564  54.31(10)
+  Li4  Li3  Li6B  7_565  7_564  55.03(13)
+  Li4  Li3  Li6B  .  7_564  96.40(11)
+  Li6A  Li3  Li6B  7_564  7_564  9.86(10)
+  Li6A  Li3  Li6B  7_565  7_564  98.97(16)
+  Li5  Li3  Li6B  .  7_564  160.95(12)
+  Li5  Li3  Li6B  1_554  7_564  84.41(12)
+  Li6B  Li3  Li6B  .  7_564  148.83(4)
+  Li6B  Li3  Li6B  1_554  7_564  79.609(14)
+  Li3  Li4  Li3  7_665  .  107.43(3)
+  Li3  Li4  Li6B  7_665  .  72.1(2)
+  Li3  Li4  Li6B  .  .  68.24(17)
+  Li3  Li4  Li6B  7_665  1_554  72.1(2)
+  Li3  Li4  Li6B  .  1_554  68.24(17)
+  Li6B  Li4  Li6B  .  1_554  109.86(19)
+  Li3  Li4  Li7  7_665  .  124.20(2)
+  Li3  Li4  Li7  .  .  87.21(3)
+  Li6B  Li4  Li7  .  .  64.21(14)
+  Li6B  Li4  Li7  1_554  .  154.5(2)
+  Li3  Li4  Li7  7_665  1_554  124.20(2)
+  Li3  Li4  Li7  .  1_554  87.21(3)
+  Li6B  Li4  Li7  .  1_554  154.5(2)
+  Li6B  Li4  Li7  1_554  1_554  64.21(14)
+  Li7  Li4  Li7  .  1_554  109.66(4)
+  Li3  Li4  Li1  7_665  3  90.90(4)
+  Li3  Li4  Li1  .  3  161.67(4)
+  Li6B  Li4  Li1  .  3  119.34(14)
+  Li6B  Li4  Li1  1_554  3  119.34(14)
+  Li7  Li4  Li1  .  3  82.28(3)
+  Li7  Li4  Li1  1_554  3  82.28(3)
+  Li3  Li4  Si2  7_665  7_565  163.90(4)
+  Li3  Li4  Si2  .  7_565  56.47(3)
+  Li6B  Li4  Si2  .  7_565  99.3(2)
+  Li6B  Li4  Si2  1_554  7_565  99.3(2)
+  Li7  Li4  Si2  .  7_565  59.65(2)
+  Li7  Li4  Si2  1_554  7_565  59.65(2)
+  Li1  Li4  Si2  3  7_565  105.20(3)
+  Li3  Li4  Si1  7_665  .  71.60(2)
+  Li3  Li4  Si1  .  .  127.412(15)
+  Li6B  Li4  Si1  .  .  61.57(14)
+  Li6B  Li4  Si1  1_554  .  143.5(2)
+  Li7  Li4  Si1  .  .  58.048(18)
+  Li7  Li4  Si1  1_554  .  138.51(4)
+  Li1  Li4  Si1  3  .  57.815(16)
+  Si2  Li4  Si1  7_565  .  116.896(19)
+  Li3  Li4  Si1  7_665  1_554  71.60(2)
+  Li3  Li4  Si1  .  1_554  127.413(15)
+  Li6B  Li4  Si1  .  1_554  143.5(2)
+  Li6B  Li4  Si1  1_554  1_554  61.57(14)
+  Li7  Li4  Si1  .  1_554  138.51(4)
+  Li7  Li4  Si1  1_554  1_554  58.048(18)
+  Li1  Li4  Si1  3  1_554  57.814(16)
+  Si2  Li4  Si1  7_565  1_554  116.896(19)
+  Si1  Li4  Si1  .  1_554  102.86(3)
+  Li3  Li4  Li6A  7_665  1_554  59.80(4)
+  Li3  Li4  Li6A  .  1_554  78.11(4)
+  Li6B  Li4  Li6A  .  1_554  107.55(12)
+  Li6B  Li4  Li6A  1_554  1_554  13.10(18)
+  Li7  Li4  Li6A  .  1_554  165.17(5)
+  Li7  Li4  Li6A  1_554  1_554  72.11(3)
+  Li1  Li4  Li6A  3  1_554  112.45(4)
+  Si2  Li4  Li6A  7_565  1_554  112.31(5)
+  Si1  Li4  Li6A  .  1_554  130.66(5)
+  Si1  Li4  Li6A  1_554  1_554  55.47(3)
+  Li3  Li4  Li6A  7_665  .  59.80(4)
+  Li3  Li4  Li6A  .  .  78.10(4)
+  Li6B  Li4  Li6A  .  .  13.10(18)
+  Li6B  Li4  Li6A  1_554  .  107.55(12)
+  Li7  Li4  Li6A  .  .  72.11(3)
+  Li7  Li4  Li6A  1_554  .  165.17(5)
+  Li1  Li4  Li6A  3  .  112.45(4)
+  Si2  Li4  Li6A  7_565  .  112.31(5)
+  Si1  Li4  Li6A  .  .  55.47(3)
+  Si1  Li4  Li6A  1_554  .  130.66(5)
+  Li6A  Li4  Li6A  1_554  .  102.37(5)
+  Li6B  Li5  Li1  .  .  116.63(6)
+  Li6B  Li5  Li1  .  1_556  116.63(6)
+  Li1  Li5  Li1  .  1_556  119.19(5)
+  Li6B  Li5  Li7  .  7_665  71.7(2)
+  Li1  Li5  Li7  .  7_665  111.36(3)
+  Li1  Li5  Li7  1_556  7_665  111.36(3)
+  Li6B  Li5  Si1  .  7_565  111.6(2)
+  Li1  Li5  Si1  .  7_565  67.45(3)
+  Li1  Li5  Si1  1_556  7_565  67.45(3)
+  Li7  Li5  Si1  7_665  7_565  176.78(5)
+  Li6B  Li5  Li6A  .  .  12.67(19)
+  Li1  Li5  Li6A  .  .  119.26(3)
+  Li1  Li5  Li6A  1_556  .  119.26(3)
+  Li7  Li5  Li6A  7_665  .  58.99(5)
+  Si1  Li5  Li6A  7_565  .  124.23(6)
+  Li6B  Li5  Si2  .  .  62.07(9)
+  Li1  Li5  Si2  .  .  65.853(16)
+  Li1  Li5  Si2  1_556  .  172.86(4)
+  Li7  Li5  Si2  7_665  .  61.506(17)
+  Si1  Li5  Si2  7_565  .  119.680(19)
+  Li6A  Li5  Si2  .  .  57.78(2)
+  Li6B  Li5  Si2  .  1_556  62.07(9)
+  Li1  Li5  Si2  .  1_556  172.86(4)
+  Li1  Li5  Si2  1_556  1_556  65.854(16)
+  Li7  Li5  Si2  7_665  1_556  61.506(17)
+  Si1  Li5  Si2  7_565  1_556  119.680(19)
+  Li6A  Li5  Si2  .  1_556  57.78(2)
+  Si2  Li5  Si2  .  1_556  108.66(3)
+  Li6B  Li5  Si1  .  3_546  162.5(2)
+  Li1  Li5  Si1  .  3_546  60.12(2)
+  Li1  Li5  Si1  1_556  3_546  60.12(2)
+  Li7  Li5  Si1  7_665  3_546  125.82(4)
+  Si1  Li5  Si1  7_565  3_546  50.954(16)
+  Li6A  Li5  Si1  .  3_546  175.18(6)
+  Si2  Li5  Si1  .  3_546  123.439(18)
+  Si2  Li5  Si1  1_556  3_546  123.440(18)
+  Li6B  Li5  Li3  .  .  66.78(13)
+  Li1  Li5  Li3  .  .  53.88(3)
+  Li1  Li5  Li3  1_556  .  133.34(4)
+  Li7  Li5  Li3  7_665  .  113.18(3)
+  Si1  Li5  Li3  7_565  .  68.76(2)
+  Li6A  Li5  Li3  .  .  74.63(4)
+  Si2  Li5  Li3  .  .  53.408(19)
+  Si2  Li5  Li3  1_556  .  127.28(4)
+  Si1  Li5  Li3  3_546  .  102.25(3)
+  Li6B  Li5  Li3  .  1_556  66.78(13)
+  Li1  Li5  Li3  .  1_556  133.34(4)
+  Li1  Li5  Li3  1_556  1_556  53.88(3)
+  Li7  Li5  Li3  7_665  1_556  113.18(3)
+  Si1  Li5  Li3  7_565  1_556  68.76(2)
+  Li6A  Li5  Li3  .  1_556  74.63(4)
+  Si2  Li5  Li3  .  1_556  127.28(4)
+  Si2  Li5  Li3  1_556  1_556  53.408(19)
+  Si1  Li5  Li3  3_546  1_556  102.25(3)
+  Li3  Li5  Li3  .  1_556  95.40(4)
+  Li6B  Li5  Li7  .  3_546  145.0(2)
+  Li1  Li5  Li7  .  3_546  76.56(3)
+  Li1  Li5  Li7  1_556  3_546  76.56(3)
+  Li7  Li5  Li7  7_665  3_546  73.37(4)
+  Si1  Li5  Li7  7_565  3_546  103.41(3)
+  Li6A  Li5  Li7  .  3_546  132.36(5)
+  Si2  Li5  Li7  .  3_546  100.64(2)
+  Si2  Li5  Li7  1_556  3_546  100.64(2)
+  Si1  Li5  Li7  3_546  3_546  52.46(2)
+  Li3  Li5  Li7  .  3_546  129.47(2)
+  Li3  Li5  Li7  1_556  3_546  129.47(2)
+  Si2  Li6A  Si2  1_556  .  114.48(4)
+  Si2  Li6A  Li7  1_556  7_665  62.65(2)
+  Si2  Li6A  Li7  .  7_665  62.65(2)
+  Si2  Li6A  Si1  1_556  .  122.72(2)
+  Si2  Li6A  Si1  .  .  122.72(2)
+  Li7  Li6A  Si1  7_665  .  145.53(10)
+  Si2  Li6A  Li5  1_556  .  61.14(3)
+  Si2  Li6A  Li5  .  .  61.14(3)
+  Li7  Li6A  Li5  7_665  .  58.76(3)
+  Si1  Li6A  Li5  .  .  155.71(9)
+  Si2  Li6A  Li3  1_556  7_666  57.60(2)
+  Si2  Li6A  Li3  .  7_666  145.67(8)
+  Li7  Li6A  Li3  7_665  7_666  87.22(5)
+  Si1  Li6A  Li3  .  7_666  73.07(4)
+  Li5  Li6A  Li3  .  7_666  118.37(3)
+  Si2  Li6A  Li3  1_556  7_665  145.67(8)
+  Si2  Li6A  Li3  .  7_665  57.61(2)
+  Li7  Li6A  Li3  7_665  7_665  87.22(5)
+  Si1  Li6A  Li3  .  7_665  73.07(4)
+  Li5  Li6A  Li3  .  7_665  118.37(3)
+  Li3  Li6A  Li3  7_666  7_665  108.10(8)
+  Si2  Li6A  Li4  1_556  .  156.71(9)
+  Si2  Li6A  Li4  .  .  66.92(2)
+  Li7  Li6A  Li4  7_665  .  128.45(2)
+  Si1  Li6A  Li4  .  .  62.08(3)
+  Li5  Li6A  Li4  .  .  104.80(6)
+  Li3  Li6A  Li4  7_666  .  134.98(5)
+  Li3  Li6A  Li4  7_665  .  56.31(3)
+  Si2  Li6A  Li4  1_556  1_556  66.92(2)
+  Si2  Li6A  Li4  .  1_556  156.71(9)
+  Li7  Li6A  Li4  7_665  1_556  128.45(2)
+  Si1  Li6A  Li4  .  1_556  62.08(3)
+  Li5  Li6A  Li4  .  1_556  104.80(6)
+  Li3  Li6A  Li4  7_666  1_556  56.31(3)
+  Li3  Li6A  Li4  7_665  1_556  134.98(5)
+  Li4  Li6A  Li4  .  1_556  102.37(5)
+  Si2  Li6A  Li7  1_556  .  110.22(5)
+  Si2  Li6A  Li7  .  .  110.22(5)
+  Li7  Li6A  Li7  7_665  .  161.59(8)
+  Si1  Li6A  Li7  .  .  52.88(3)
+  Li5  Li6A  Li7  .  .  102.83(7)
+  Li3  Li6A  Li7  7_666  .  103.34(4)
+  Li3  Li6A  Li7  7_665  .  103.34(4)
+  Li4  Li6A  Li7  .  .  52.06(3)
+  Li4  Li6A  Li7  1_556  .  52.06(3)
+  Si2  Li6A  Li3  1_556  .  113.47(6)
+  Si2  Li6A  Li3  .  .  47.61(3)
+  Li7  Li6A  Li3  7_665  .  99.65(4)
+  Si1  Li6A  Li3  .  .  106.70(5)
+  Li5  Li6A  Li3  .  .  56.23(4)
+  Li3  Li6A  Li3  7_666  .  164.63(7)
+  Li3  Li6A  Li3  7_665  .  86.09(2)
+  Li4  Li6A  Li3  .  .  48.69(3)
+  Li4  Li6A  Li3  1_556  .  109.49(7)
+  Li7  Li6A  Li3  .  .  66.64(4)
+  Si2  Li6A  Li3  1_556  1_556  47.61(3)
+  Si2  Li6A  Li3  .  1_556  113.47(6)
+  Li7  Li6A  Li3  7_665  1_556  99.65(4)
+  Si1  Li6A  Li3  .  1_556  106.70(5)
+  Li5  Li6A  Li3  .  1_556  56.23(4)
+  Li3  Li6A  Li3  7_666  1_556  86.09(2)
+  Li3  Li6A  Li3  7_665  1_556  164.63(7)
+  Li4  Li6A  Li3  .  1_556  109.48(7)
+  Li4  Li6A  Li3  1_556  1_556  48.69(3)
+  Li7  Li6A  Li3  .  1_556  66.64(4)
+  Li3  Li6A  Li3  .  1_556  79.23(5)
+  Li5  Li6B  Si2  .  1_556  64.82(11)
+  Li5  Li6B  Si2  .  .  64.82(11)
+  Si2  Li6B  Si2  1_556  .  112.6(2)
+  Li5  Li6B  Li4  .  .  119.1(2)
+  Si2  Li6B  Li4  1_556  .  175.5(4)
+  Si2  Li6B  Li4  .  .  68.579(18)
+  Li5  Li6B  Li4  .  1_556  119.1(2)
+  Si2  Li6B  Li4  1_556  1_556  68.579(19)
+  Si2  Li6B  Li4  .  1_556  175.5(4)
+  Li4  Li6B  Li4  .  1_556  109.86(19)
+  Li5  Li6B  Si1  .  .  178.7(4)
+  Si2  Li6B  Si1  1_556  .  114.7(2)
+  Si2  Li6B  Si1  .  .  114.7(2)
+  Li4  Li6B  Si1  .  .  61.41(11)
+  Li4  Li6B  Si1  1_556  .  61.41(11)
+  Li5  Li6B  Li7  .  .  125.1(4)
+  Si2  Li6B  Li7  1_556  .  122.40(15)
+  Si2  Li6B  Li7  .  .  122.40(15)
+  Li4  Li6B  Li7  .  .  57.95(11)
+  Li4  Li6B  Li7  1_556  .  57.95(11)
+  Si1  Li6B  Li7  .  .  56.18(10)
+  Li5  Li6B  Li7  .  7_665  57.68(13)
+  Si2  Li6B  Li7  1_556  7_665  58.12(12)
+  Si2  Li6B  Li7  .  7_665  58.12(12)
+  Li4  Li6B  Li7  .  7_665  121.27(18)
+  Li4  Li6B  Li7  1_556  7_665  121.27(18)
+  Si1  Li6B  Li7  .  7_665  121.0(3)
+  Li7  Li6B  Li7  .  7_665  177.2(4)
+  Li5  Li6B  Li3  .  .  65.94(17)
+  Si2  Li6B  Li3  1_556  .  129.1(3)
+  Si2  Li6B  Li3  .  .  53.69(8)
+  Li4  Li6B  Li3  .  .  55.26(9)
+  Li4  Li6B  Li3  1_556  .  129.3(3)
+  Si1  Li6B  Li3  .  .  114.84(14)
+  Li7  Li6B  Li3  .  .  77.97(19)
+  Li7  Li6B  Li3  7_665  .  103.89(14)
+  Li5  Li6B  Li3  .  1_556  65.94(17)
+  Si2  Li6B  Li3  1_556  1_556  53.69(8)
+  Si2  Li6B  Li3  .  1_556  129.1(3)
+  Li4  Li6B  Li3  .  1_556  129.3(3)
+  Li4  Li6B  Li3  1_556  1_556  55.26(9)
+  Si1  Li6B  Li3  .  1_556  114.84(14)
+  Li7  Li6B  Li3  .  1_556  77.97(19)
+  Li7  Li6B  Li3  7_665  1_556  103.89(14)
+  Li3  Li6B  Li3  .  1_556  94.6(3)
+  Li5  Li6B  Li3  .  7_666  114.65(17)
+  Si2  Li6B  Li3  1_556  7_666  52.18(10)
+  Si2  Li6B  Li3  .  7_666  124.0(3)
+  Li4  Li6B  Li3  .  7_666  123.4(3)
+  Li4  Li6B  Li3  1_556  7_666  52.90(9)
+  Si1  Li6B  Li3  .  7_666  64.52(16)
+  Li7  Li6B  Li3  .  7_666  103.25(14)
+  Li7  Li6B  Li3  7_665  7_666  74.81(18)
+  Li3  Li6B  Li3  .  7_666  177.4(3)
+  Li3  Li6B  Li3  1_556  7_666  87.879(16)
+  Li5  Li6B  Li3  .  7_665  114.65(17)
+  Si2  Li6B  Li3  1_556  7_665  124.0(3)
+  Si2  Li6B  Li3  .  7_665  52.18(10)
+  Li4  Li6B  Li3  .  7_665  52.90(9)
+  Li4  Li6B  Li3  1_556  7_665  123.4(3)
+  Si1  Li6B  Li3  .  7_665  64.52(16)
+  Li7  Li6B  Li3  .  7_665  103.25(14)
+  Li7  Li6B  Li3  7_665  7_665  74.81(18)
+  Li3  Li6B  Li3  .  7_665  87.879(16)
+  Li3  Li6B  Li3  1_556  7_665  177.4(3)
+  Li3  Li6B  Li3  7_666  7_665  89.6(3)
+  Li5  Li7  Li6A  7_565  7_565  62.25(5)
+  Li5  Li7  Si1  7_565  .  163.20(4)
+  Li6A  Li7  Si1  7_565  .  134.55(6)
+  Li5  Li7  Li4  7_565  1_556  122.31(2)
+  Li6A  Li7  Li4  7_565  1_556  93.38(4)
+  Si1  Li7  Li4  .  1_556  63.27(2)
+  Li5  Li7  Li4  7_565  .  122.31(2)
+  Li6A  Li7  Li4  7_565  .  93.38(4)
+  Si1  Li7  Li4  .  .  63.27(2)
+  Li4  Li7  Li4  1_556  .  109.66(4)
+  Li5  Li7  Si2  7_565  7_565  60.933(17)
+  Li6A  Li7  Si2  7_565  7_565  58.58(2)
+  Si1  Li7  Si2  .  7_565  124.156(15)
+  Li4  Li7  Si2  1_556  7_565  148.06(4)
+  Li4  Li7  Si2  .  7_565  61.815(18)
+  Li5  Li7  Si2  7_565  7_566  60.933(17)
+  Li6A  Li7  Si2  7_565  7_566  58.58(2)
+  Si1  Li7  Si2  .  7_566  124.156(15)
+  Li4  Li7  Si2  1_556  7_566  61.815(18)
+  Li4  Li7  Si2  .  7_566  148.06(4)
+  Si2  Li7  Si2  7_565  7_566  107.79(3)
+  Li5  Li7  Li2  7_565  1_556  72.37(2)
+  Li6A  Li7  Li2  7_565  1_556  109.87(3)
+  Si1  Li7  Li2  .  1_556  97.64(2)
+  Li4  Li7  Li2  1_556  1_556  68.809(17)
+  Li4  Li7  Li2  .  1_556  156.71(4)
+  Si2  Li7  Li2  7_565  1_556  131.80(3)
+  Si2  Li7  Li2  7_566  1_556  53.233(8)
+  Li5  Li7  Li2  7_565  .  72.37(2)
+  Li6A  Li7  Li2  7_565  .  109.87(3)
+  Si1  Li7  Li2  .  .  97.64(2)
+  Li4  Li7  Li2  1_556  .  156.71(4)
+  Li4  Li7  Li2  .  .  68.810(17)
+  Si2  Li7  Li2  7_565  .  53.233(8)
+  Si2  Li7  Li2  7_566  .  131.80(3)
+  Li2  Li7  Li2  1_556  .  103.06(3)
+  Li5  Li7  Li6B  7_565  .  135.66(19)
+  Li6A  Li7  Li6B  7_565  .  73.41(15)
+  Si1  Li7  Li6B  .  .  61.14(18)
+  Li4  Li7  Li6B  1_556  .  57.84(5)
+  Li4  Li7  Li6B  .  .  57.84(5)
+  Si2  Li7  Li6B  7_565  .  96.57(11)
+  Si2  Li7  Li6B  7_566  .  96.57(11)
+  Li2  Li7  Li6B  1_556  .  126.62(4)
+  Li2  Li7  Li6B  .  .  126.62(4)
+  Li5  Li7  Li6B  7_565  7_565  50.66(18)
+  Li6A  Li7  Li6B  7_565  7_565  11.59(14)
+  Si1  Li7  Li6B  .  7_565  146.14(18)
+  Li4  Li7  Li6B  1_556  7_565  99.96(10)
+  Li4  Li7  Li6B  .  7_565  99.96(10)
+  Si2  Li7  Li6B  7_565  7_565  55.54(4)
+  Si2  Li7  Li6B  7_566  7_565  55.54(4)
+  Li2  Li7  Li6B  1_556  7_565  103.19(11)
+  Li2  Li7  Li6B  .  7_565  103.19(11)
+  Li6B  Li7  Li6B  .  7_565  85.00(3)
+  Li5  Li7  Li5  7_565  3_556  106.63(4)
+  Li6A  Li7  Li5  7_565  3_556  168.88(6)
+  Si1  Li7  Li5  .  3_556  56.57(2)
+  Li4  Li7  Li5  1_556  3_556  93.01(3)
+  Li4  Li7  Li5  .  3_556  93.02(3)
+  Si2  Li7  Li5  7_565  3_556  117.29(2)
+  Si2  Li7  Li5  7_566  3_556  117.29(2)
+  Li2  Li7  Li5  1_556  3_556  64.282(19)
+  Li2  Li7  Li5  .  3_556  64.281(19)
+  Li6B  Li7  Li5  .  3_556  117.71(18)
+  Li6B  Li7  Li5  7_565  3_556  157.29(18)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+  Si1  Si1  5_666  2.3852(2)
+  Si1  Li6A  .  2.6628(12)
+  Si1  Li5  7_665  2.6762(8)
+  Si1  Li7  .  2.7133(8)
+  Si1  Li1  3_556  2.7374(5)
+  Si1  Li1  3  2.7374(5)
+  Si1  Li5  3_556  2.8559(9)
+  Si1  Li4  1_556  2.8561(5)
+  Si1  Li4  .  2.8561(5)
+  Si1  Li6B  .  2.860(7)
+  Si1  Li1  7_666  2.9244(6)
+  Si1  Li1  7_665  2.9244(6)
+  Si2  Li2  3_545  2.51735(15)
+  Si2  Li3  .  2.6031(9)
+  Si2  Li3  7_665  2.6099(10)
+  Si2  Li6A  .  2.6554(6)
+  Si2  Li6A  1_554  2.6554(6)
+  Si2  Li6B  1_554  2.684(3)
+  Si2  Li6B  .  2.684(3)
+  Si2  Li5  .  2.7487(5)
+  Si2  Li5  1_554  2.7487(5)
+  Si2  Li7  7_665  2.7638(5)
+  Si2  Li7  7_664  2.7638(5)
+  Si2  Li4  7_665  2.8229(9)
+  Li1  Li1  5  2.5408(17)
+  Li1  Li3  .  2.5696(13)
+  Li1  Li5  1_554  2.5892(6)
+  Li1  Li5  .  2.5892(6)
+  Li1  Si1  3_545  2.7374(5)
+  Li1  Si1  3_546  2.7374(5)
+  Li1  Li4  3_545  2.8060(12)
+  Li1  Li2  3_545  2.8071(9)
+  Li1  Si1  7_564  2.9244(6)
+  Li1  Si1  7_565  2.9244(6)
+  Li2  Si2  7_565  2.51733(16)
+  Li2  Si2  3  2.51736(15)
+  Li2  Li1  7_565  2.8071(9)
+  Li2  Li1  3  2.8071(9)
+  Li2  Li7  1_554  2.8522(6)
+  Li2  Li7  5_566  2.8522(6)
+  Li2  Li7  5_565  2.8522(6)
+  Li2  Li7  .  2.8522(6)
+  Li2  Li4  5_565  3.1567(9)
+  Li2  Li4  .  3.1567(9)
+  Li2  Li5  3_556  3.2546(7)
+  Li2  Li5  3  3.2546(7)
+  Li3  Si2  7_565  2.6099(10)
+  Li3  Li4  7_565  2.6556(13)
+  Li3  Li4  .  2.6884(13)
+  Li3  Li6A  7_564  2.7585(14)
+  Li3  Li6A  7_565  2.7585(14)
+  Li3  Li5  .  3.0191(9)
+  Li3  Li5  1_554  3.0191(9)
+  Li3  Li6B  .  3.038(7)
+  Li3  Li6B  1_554  3.038(7)
+  Li3  Li6B  7_564  3.168(7)
+  Li4  Li3  7_665  2.6556(13)
+  Li4  Li6B  .  2.728(3)
+  Li4  Li6B  1_554  2.728(3)
+  Li4  Li7  .  2.7317(7)
+  Li4  Li7  1_554  2.7318(7)
+  Li4  Li1  3  2.8060(12)
+  Li4  Si2  7_565  2.8229(9)
+  Li4  Si1  1_554  2.8562(5)
+  Li4  Li6A  1_554  2.8659(11)
+  Li4  Li6A  .  2.8659(11)
+  Li5  Li6B  .  2.429(7)
+  Li5  Li1  1_556  2.5892(6)
+  Li5  Li7  7_665  2.6540(12)
+  Li5  Si1  7_565  2.6762(8)
+  Li5  Li6A  .  2.7472(18)
+  Li5  Si2  1_556  2.7487(5)
+  Li5  Si1  3_546  2.8559(9)
+  Li5  Li3  1_556  3.0191(9)
+  Li5  Li7  3_546  3.2351(14)
+  Li6A  Si2  1_556  2.6553(6)
+  Li6A  Li7  7_665  2.6605(16)
+  Li6A  Li3  7_666  2.7585(14)
+  Li6A  Li3  7_665  2.7585(14)
+  Li6A  Li4  1_556  2.8659(11)
+  Li6A  Li7  .  3.296(2)
+  Li6A  Li3  1_556  3.5021(19)
+  Li6B  Si2  1_556  2.684(3)
+  Li6B  Li4  1_556  2.728(3)
+  Li6B  Li7  .  2.902(7)
+  Li6B  Li7  7_665  2.981(7)
+  Li6B  Li3  1_556  3.038(7)
+  Li6B  Li3  7_666  3.168(7)
+  Li6B  Li3  7_665  3.168(7)
+  Li7  Li5  7_565  2.6540(12)
+  Li7  Li6A  7_565  2.6605(16)
+  Li7  Li4  1_556  2.7317(7)
+  Li7  Si2  7_565  2.7638(5)
+  Li7  Si2  7_566  2.7638(5)
+  Li7  Li2  1_556  2.8522(6)
+  Li7  Li6B  7_565  2.981(7)
+  Li7  Li5  3_556  3.2351(14)

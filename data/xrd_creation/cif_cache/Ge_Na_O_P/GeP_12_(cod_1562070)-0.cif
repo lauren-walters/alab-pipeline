@@ -1,0 +1,222 @@
+# generated using pymatgen
+data_1562070
+loop_
+ _publ_author_name
+  'Lee, Kathleen'
+  'Synnestvedt, Sarah'
+  'Bellard, Maverick'
+  'Kovnir, Kirill'
+_publ_section_title
+;
+GeP and (Ge1&#x2212;Sn )(P1&#x2212;Ge ) (x&#x2248;0.12,
+y&#x2248;0.05):  Synthesis, structure, and properties of two-
+dimensional layered tetrel  phosphides
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   62
+_journal_page_last   70
+_journal_paper_doi   10.1016/j.jssc.2014.04.021
+_journal_volume   224
+_journal_year   2015
+_chemical_formula_sum   'Ge P'
+_chemical_formula_weight   103.56
+_space_group_IT_number   12
+_space_group_name_Hall   '-C 2y'
+_space_group_name_H-M_alt   'C 1 2/m 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_cell_angle_alpha   90.00
+_cell_angle_beta   101.239(2)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   12
+_cell_length_a   15.1948(7)
+_cell_length_b   3.6337(2)
+_cell_length_c   9.1941(4)
+_cell_measurement_temperature   90(2)
+_cell_volume   497.90(4)
+_computing_cell_refinement   'SMART V5.625 (Bruker, 2000)'
+_computing_data_collection   'SMART V5.625 (Bruker, 2000)'
+_computing_data_reduction   'SAINT V6.32 (Bruker, 2001)'
+_computing_publication_material   'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution   'SHELXS-97 (Sheldrick, 1990)'
+_diffrn_ambient_temperature   90(2)
+_diffrn_measured_fraction_theta_full   0.992
+_diffrn_measured_fraction_theta_max   0.992
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0214
+_diffrn_reflns_av_sigmaI/netI   0.0169
+_diffrn_reflns_limit_h_max   22
+_diffrn_reflns_limit_h_min   -22
+_diffrn_reflns_limit_k_max   5
+_diffrn_reflns_limit_k_min   -5
+_diffrn_reflns_limit_l_max   13
+_diffrn_reflns_limit_l_min   -13
+_diffrn_reflns_number   4924
+_diffrn_reflns_theta_full   32.50
+_diffrn_reflns_theta_max   32.50
+_diffrn_reflns_theta_min   2.26
+_exptl_absorpt_coefficient_mu   18.775
+_exptl_absorpt_correction_T_max   0.8345
+_exptl_absorpt_correction_T_min   0.1650
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details   'SADABS v2.03 (Bruker, 2003)'
+_exptl_crystal_colour   black
+_exptl_crystal_density_diffrn   4.145
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   plate
+_exptl_crystal_F_000   564
+_exptl_crystal_size_max   0.15
+_exptl_crystal_size_mid   0.06
+_exptl_crystal_size_min   0.01
+_refine_diff_density_max   0.748
+_refine_diff_density_min   -0.647
+_refine_diff_density_rms   0.162
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.077
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   37
+_refine_ls_number_reflns   1018
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.077
+_refine_ls_R_factor_all   0.0188
+_refine_ls_R_factor_gt   0.0167
+_refine_ls_shift/su_max   0.001
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0243P)^2^+0.2662P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.0399
+_refine_ls_wR_factor_ref   0.0409
+_reflns_number_gt   953
+_reflns_number_total   1018
+_reflns_threshold_expression   >2sigma(I)
+_cod_data_source_file   JSSC-2015-224-62.cif
+_cod_data_source_block   GeP
+_cod_original_sg_symbol_H-M   C2/m
+_cod_database_code   1562070
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y, -z'
+  'x+1/2, y+1/2, z'
+  '-x+1/2, y+1/2, -z'
+  '-x, -y, -z'
+  'x, -y, z'
+  '-x+1/2, -y+1/2, -z'
+  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Ge1  Ge  0.069971(16)  0.0000  0.09338(3)  0.00403(6)  Uani  1  2
+  d  S  .  .
+  Ge2  Ge  0.627144(17)  0.0000  0.42764(3)  0.00416(6)  Uani  1  2
+  d  S  .  .
+  Ge3  Ge  0.747773(17)  0.0000  0.28610(3)  0.00414(6)  Uani  1  2
+  d  S  .  .
+  P4  P  0.65278(4)  0.0000  0.68738(7)  0.00478(11)  Uani  1  2  d
+  S  .  .
+  P5  P  0.65959(4)  0.0000  0.04701(7)  0.00457(11)  Uani  1  2  d
+  S  .  .
+  P6  P  0.03478(4)  0.0000  0.33487(7)  0.00475(11)  Uani  1  2  d
+  S  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  Ge1  0.00409(12)  0.00439(11)  0.00281(12)  0.000  -0.00129(9)
+  0.000
+  Ge2  0.00464(12)  0.00448(11)  0.00284(12)  0.000  -0.00056(9)
+  0.000
+  Ge3  0.00423(12)  0.00443(11)  0.00313(11)  0.000  -0.00085(8)
+  0.000
+  P4  0.0052(3)  0.0047(2)  0.0037(3)  0.000  -0.0007(2)  0.000
+  P5  0.0054(3)  0.0049(2)  0.0031(3)  0.000  -0.0001(2)  0.000
+  P6  0.0050(3)  0.0049(2)  0.0040(3)  0.000  0.0000(2)  0.000
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Ge  Ge  0.1547  1.8001
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+  P5  Ge1  P5  100.76(3)  3_455  3_445
+  P5  Ge1  P6  114.251(18)  3_455  .
+  P5  Ge1  P6  114.251(18)  3_445  .
+  P5  Ge1  Ge1  108.960(18)  3_455  5
+  P5  Ge1  Ge1  108.960(18)  3_445  5
+  P6  Ge1  Ge1  109.27(2)  .  5
+  P4  Ge2  P6  109.784(18)  .  3_545
+  P4  Ge2  P6  109.784(18)  .  3
+  P6  Ge2  P6  101.16(3)  3_545  3
+  P4  Ge2  Ge3  123.31(2)  .  .
+  P6  Ge2  Ge3  105.255(17)  3_545  .
+  P6  Ge2  Ge3  105.255(17)  3  .
+  P5  Ge3  P4  109.690(19)  .  7_656
+  P5  Ge3  P4  109.690(19)  .  7_646
+  P4  Ge3  P4  101.55(3)  7_656  7_646
+  P5  Ge3  Ge2  98.538(19)  .  .
+  P4  Ge3  Ge2  118.630(16)  7_656  .
+  P4  Ge3  Ge2  118.630(16)  7_646  .
+  Ge2  P4  Ge3  94.69(2)  .  7_656
+  Ge2  P4  Ge3  94.69(2)  .  7_646
+  Ge3  P4  Ge3  101.55(3)  7_656  7_646
+  Ge3  P5  Ge1  94.31(2)  .  3_545
+  Ge3  P5  Ge1  94.31(2)  .  3
+  Ge1  P5  Ge1  100.76(3)  3_545  3
+  Ge2  P6  Ge2  101.15(3)  3_455  3_445
+  Ge2  P6  Ge1  96.401(19)  3_455  .
+  Ge2  P6  Ge1  96.401(19)  3_445  .
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+  Ge1  P5  2.3587(4)  3_455
+  Ge1  P5  2.3587(4)  3_445
+  Ge1  P6  2.3829(7)  .
+  Ge1  Ge1  2.4590(5)  5
+  Ge2  P4  2.3435(7)  .
+  Ge2  P6  2.3519(4)  3_545
+  Ge2  P6  2.3519(4)  3
+  Ge2  Ge3  2.4460(4)  .
+  Ge3  P5  2.3409(7)  .
+  Ge3  P4  2.3453(4)  7_656
+  Ge3  P4  2.3453(4)  7_646
+  P4  Ge3  2.3453(4)  7_656
+  P4  Ge3  2.3453(4)  7_646
+  P5  Ge1  2.3586(4)  3_545
+  P5  Ge1  2.3586(4)  3
+  P6  Ge2  2.3520(4)  3_455
+  P6  Ge2  2.3520(4)  3_445

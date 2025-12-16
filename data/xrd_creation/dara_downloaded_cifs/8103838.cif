@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_8103838
+loop_
+ _publ_author_name
+  'Alkemper, J.'
+  'Paulus, H.'
+  'Fuess, H.'
+_publ_section_title
+'Crystal structure of aluminium sodium pyrophosphate, NaAlP2O7'
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   616
+_journal_page_last   616
+_journal_volume   209
+_journal_year   1994
+_chemical_formula_sum   'Al Na O7 P2'
+_chemical_name_systematic   'Na Al (P2 O7)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   111.743
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.203
+_cell_length_b   7.71
+_cell_length_c   9.326
+_cell_volume   481.073
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Alkemper_ZEKRDZ_1994_1624.cif
+_cod_data_source_block   Al1Na1O7P2
+_cod_original_cell_volume   481.0731
+_cod_original_formula_sum   'Al1 Na1 O7 P2'
+_cod_database_code   8103838
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O6  O-2  0.8066  0.29186  0.38064  1  0.0
+  P2  P+5  0.92728  0.25483  0.54842  1  0.0
+  Na1  Na+1  0.29051  0.97549  0.79762  1  0.0
+  O3  O-2  0.8144  0.1368  0.61439  1  0.0
+  O1  O-2  0.1219  0.14595  0.55843  1  0.0
+  O2  O-2  0.4756  0.0847  0.65636  1  0.0
+  P1  P+5  0.32945  0.20732  0.54583  1  0.0
+  Al1  Al+3  0.73955  0.49009  0.25307  1  0.0
+  O5  O-2  0.3578  0.39524  0.60054  1  0.0
+  O7  O-2  0.3134  0.19318  0.3801  1  0.0
+  O4  O-2  0.0006  0.4179  0.64478  1  0.0

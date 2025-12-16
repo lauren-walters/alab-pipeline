@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_1530584
+loop_
+ _publ_author_name
+  'Piffard, Y.'
+  'Oyetola, S.'
+  'Verbaere, A.'
+  'Tournoux, M.'
+_publ_section_title
+;
+Synthesis, thermal stability, and crystal structure of Antimony(V)
+phosphate Sb O P O4
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   81
+_journal_page_last   85
+_journal_volume   63
+_journal_year   1986
+_chemical_formula_sum   'O5 P Sb'
+_chemical_name_systematic   'Sb O (P O4)'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   115.9
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.791
+_cell_length_b   8.033
+_cell_length_c   7.046
+_cell_volume   345.767
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Piffard_JSSCBI_1986_1129.cif
+_cod_data_source_block   O5P1Sb1
+_cod_original_cell_volume   345.7667
+_cod_original_formula_sum   'O5 P1 Sb1'
+_cod_database_code   1530584
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sb1  Sb+5  0  0  0  1  0.0
+  P1  P+5  0  0.3348  0.25  1  0.0
+  O2  O-2  0.5884  0.2751  0.6254  1  0.0
+  O3  O-2  0.1848  0.444  0.4012  1  0.0
+  O1  O-2  0  0.9105  0.25  1  0.0

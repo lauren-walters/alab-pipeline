@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_1530113
+loop_
+ _publ_author_name
+  'Kabalov, Yu.K.'
+  'Belov, N.V.'
+  'Simonov, M.A.'
+_publ_section_title
+;
+The crystal structure of sodium iron orthophosphate Na2 Fe (P O4) (O
+H)
+;
+_journal_name_full   'Doklady Akademii Nauk SSSR'
+_journal_page_first   850
+_journal_page_last   853
+_journal_volume   215
+_journal_year   1974
+_chemical_formula_sum   'Fe H Na2 O5 P'
+_chemical_name_systematic   'Na2 Fe (P O4) (O H)'
+_space_group_IT_number   60
+_symmetry_space_group_name_Hall   '-P 2n 2ab'
+_symmetry_space_group_name_H-M   'P b c n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   5.227
+_cell_length_b   13.861
+_cell_length_c   11.774
+_cell_volume   853.043
+_citation_journal_id_ASTM   DANKAS
+_cod_data_source_file   Kabalov_DANKAS_1974_483.cif
+_cod_data_source_block   H1Fe1Na2O5P1
+_cod_original_cell_volume   853.0434
+_cod_original_formula_sum   'H1 Fe1 Na2 O5 P1'
+_cod_database_code   1530113
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y+1/2,z+1/2
+  x+1/2,-y+1/2,-z
+  -x,y,-z+1/2
+  -x,-y,-z
+  x-1/2,y-1/2,-z-1/2
+  -x-1/2,y-1/2,z
+  x,-y,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Fe1  Fe+2  0.226  0.01  0.174  1  0.0
+  Na2  Na+1  0.241  0.125  0.416  1  0.0
+  Na1  Na+1  0.263  0.245  0.172  1  0.0
+  O2  O-2  0.284  0.284  0.367  1  0.0
+  O3  O-2  0.089  0.395  0.103  1  0.0
+  O5  O-2  0  0.125  0.25  1  0.0
+  O6  O-2  0.5  0.099  0.25  1  0.0
+  O4  O-2  0.235  0.11  0.04  1  0.0
+  P1  P+5  0.202  0.382  0.412  1  0.0
+  O1  O-2  0.341  0.464  0.348  1  0.0

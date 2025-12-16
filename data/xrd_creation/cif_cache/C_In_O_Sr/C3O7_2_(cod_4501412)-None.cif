@@ -1,0 +1,95 @@
+# generated using pymatgen
+data_4501412
+loop_
+ _publ_author_name
+  'Lim, Gin Keat'
+  'Fujii, Kotaro'
+  'Harris, Kenneth D. M.'
+  'Apperley, David C.'
+_publ_section_title
+;
+Structure Determination from Powder X-ray Diffraction Data of a New
+Polymorph of a High-Density Organic Hydrate Material, with an
+Assessment  of Hydrogen-Bond Disorder by Rietveld Refinement
+;
+_journal_issue   12
+_journal_name_full   'Crystal Growth &amp; Design'
+_journal_page_first   5192
+_journal_paper_doi   10.1021/cg201230k
+_journal_volume   11
+_journal_year   2011
+_chemical_formula_sum   'C3 O7'
+_chemical_formula_weight   148.03
+_chemical_name_systematic   ?
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   107.1065(10)
+_cell_angle_beta   108.3507(9)
+_cell_angle_gamma   85.6751(9)
+_cell_formula_units_Z   4
+_cell_length_a   8.89282(13)
+_cell_length_b   9.74543(16)
+_cell_length_c   6.85130(10)
+_cell_volume   538.540(15)
+_pd_block_id   2011-07-04T10:41|CHHK_phase1|y||
+_pd_phase_name   CHHK
+_cod_data_source_file   cg201230k_si_001.cif
+_cod_data_source_block   CHHK_phase_1
+_cod_original_cell_volume   538.540(16)
+_cod_original_sg_symbol_H-M   P-1
+_cod_database_code   4501412
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  -1  -x,-y,-z
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  O  O1  0.0203(11)  0.6198(9)  0.1940(10)  1.0  Uiso  0.0355(11)  2
+  O  O2  0.0402(12)  0.7379(8)  0.5502(15)  1.0  Uiso  0.0355(11)  2
+  O  O3  0.3039(7)  0.5721(8)  0.5169(14)  1.0  Uiso  0.0355(11)  2
+  O  O4  0.1413(10)  0.3818(9)  0.2870(15)  1.0  Uiso  0.0355(11)  2
+  O  O5  -0.1826(10)  0.4236(8)  0.1793(14)  1.0  Uiso  0.0355(11)
+  2
+  O  O6  -0.2596(9)  0.6508(8)  0.3087(14)  1.0  Uiso  0.0355(11)  2
+  C  C7  0.0191(24)  0.6064(8)  0.3910(13)  1.0  Uiso  0.0439(33)  2
+  C  C8  0.1554(10)  0.5066(15)  0.4572(20)  1.0  Uiso  0.0439(33)
+  2
+  C  C9  -0.1462(15)  0.5476(11)  0.3529(17)  1.0  Uiso  0.0439(33)
+  2
+  O  O10  0.9079(11)  0.0013(9)  0.7061(13)  1.0  Uiso  0.0495(26)
+  2
+  O  O13  0.3701(10)  0.1634(9)  0.3089(12)  1.0  Uiso  0.0355(11)
+  2
+  O  O14  0.5074(12)  0.2425(8)  0.1295(13)  1.0  Uiso  0.0355(11)
+  2
+  O  O15  0.2116(8)  0.1379(8)  -0.1349(13)  1.0  Uiso  0.0355(11)
+  2
+  O  O16  0.2514(9)  -0.0605(9)  -0.0279(14)  1.0  Uiso  0.0355(11)
+  2
+  O  O17  0.5273(11)  -0.0889(9)  0.2823(14)  1.0  Uiso  0.0355(11)
+  2
+  O  O18  0.7005(8)  0.1092(8)  0.4107(11)  1.0  Uiso  0.0355(11)  2
+  C  C19  0.4507(19)  0.1215(5)  0.1561(24)  1.0  Uiso  0.0439(33)
+  2
+  C  C20  0.3297(4)  0.0464(14)  -0.0595(30)  1.0  Uiso  0.0439(33)
+  2
+  C  C21  0.5847(18)  0.0236(13)  0.2363(7)  1.0  Uiso  0.0439(33)
+  2
+  O  O22  0.5713(11)  0.4552(9)  0.8135(13)  1.0  Uiso  0.0495(26)
+  2
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+  O  28.0
+  C  12.0

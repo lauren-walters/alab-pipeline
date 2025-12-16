@@ -1,0 +1,94 @@
+# generated using pymatgen
+data_2100888
+loop_
+ _publ_author_name
+  'Pokkuluri, P. R.'
+  'Scheffer, J. R.'
+  'Trotter, J.'
+_publ_section_title
+;
+Crystal structure correlations in the photochemistry of dimethyl
+9,10-dimethyl-9,10-dihydro-9,10-ethenoanthracene-11,12-dicarboxylate
+;
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   107
+_journal_page_last   116
+_journal_paper_doi   10.1107/S0108768192006682
+_journal_volume   49
+_journal_year   1993
+_chemical_formula_sum   'C22 H20 O4'
+_chemical_formula_weight   348.4
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   98.510(10)
+_cell_angle_beta   113.340(10)
+_cell_angle_gamma   80.970(10)
+_cell_formula_units_Z   2
+_cell_length_a   8.6950(10)
+_cell_length_b   13.6330(10)
+_cell_length_c   8.2730(10)
+_cell_volume   885.27(18)
+_diffrn_radiation_type   Cu
+_diffrn_radiation_wavelength   1.5418
+_exptl_absorpt_coefficient_mu   0.69
+_exptl_crystal_density_diffrn   1.307
+_exptl_crystal_F_000   368
+_cod_data_source_file   hh0614.cif
+_cod_data_source_block   hh0614a
+_cod_original_cell_volume   885.20(10)
+_cod_database_code   2100888
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  O1  .3043(2)  .38780(10)  .3091(2)
+  O2  .3247(2)  .31440(10)  .0567(2)
+  O3  .5739(2)  .47450(10)  .2842(3)
+  O4  .8339(3)  .4304(2)  .3031(5)
+  O3'  .586(2)  .4490(10)  .212(2)
+  O4'  .836(2)  .4560(10)  .405(2)
+  C1  .5920(3)  .1787(2)  .7230(3)
+  C2  .6923(4)  .1966(2)  .9018(3)
+  C3  .8436(4)  .2341(2)  .9512(3)
+  C4A  .8027(2)  .23410(10)  .6474(2)
+  C4  .9010(3)  .2529(2)  .8259(2)
+  C5  .9606(3)  .0910(2)  .3360(3)
+  C6  .9306(3)  .0000(2)  .2362(3)
+  C7  .7770(3)  -.0354(2)  .1849(3)
+  C8  .6489(3)  .0201(2)  .2316(3)
+  C8A  .6791(2)  .11110(10)  .3314(2)
+  C9A  .6484(2)  .19730(10)  .5970(2)
+  C9  .5544(2)  .18100(10)  .3960(2)
+  C10A  .8348(2)  .14690(10)  .3830(2)
+  C10  .8487(2)  .24930(10)  .4920(2)
+  C11  .5478(2)  .28200(10)  .3306(2)
+  C12  .6960(2)  .31700(10)  .3775(2)
+  C13  .3822(2)  .33000(10)  .2147(2)
+  C14  .1514(3)  .4477(3)  .2106(5)
+  C15  .7139(2)  .41240(10)  .3226(2)
+  C16  .5733(5)  .5688(2)  .2283(5)
+  C17  .3836(3)  .1435(2)  .3388(3)
+  C18  1.0207(2)  .2862(2)  .5506(3)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  C2  C3  C4  120
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  C11  C12  1.335(2)
+  C11  C13  1.489(2)
+  C12  C15  1.4880(10)

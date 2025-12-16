@@ -1,0 +1,283 @@
+# generated using pymatgen
+data_7240209
+loop_
+ _publ_author_name
+  'Hao, Yucheng'
+  'Pan, Yang'
+  'Lin, Yuan'
+  'He, Linbo'
+  'Ge, Guangjie'
+  'Ruan, Yu'
+  'Zhou, Haida'
+  'Xue, Yang'
+  'Koirala, Kisan'
+_publ_section_title
+;
+Highly Porous Aluminophosphates with Unique Three Dimensional Open
+Framework Structures from Mild Hydrothermal Syntheses
+;
+_journal_name_full   CrystEngComm
+_journal_paper_doi   10.1039/D0CE00075B
+_journal_year   2020
+_chemical_formula_sum   'Al1.17 O6.33 P1.83'
+_chemical_formula_weight   189.59
+_space_group_crystal_system   hexagonal
+_space_group_IT_number   176
+_space_group_name_Hall   '-P 6c'
+_space_group_name_H-M_alt   'P 63/m'
+_audit_creation_method   SHELXL-2014/7
+_audit_update_record
+;
+2020-03-10 deposited with the CCDC.     2020-03-25 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   3
+_cell_length_a   7.8692(5)
+_cell_length_b   7.8692(5)
+_cell_length_c   7.0721(6)
+_cell_measurement_reflns_used   916
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   30.3740
+_cell_measurement_theta_min   2.9800
+_cell_volume   379.26(5)
+_computing_structure_refinement   'SHELXL-2014/7 (Sheldrick, 2014)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   1.000
+_diffrn_measured_fraction_theta_max   0.860
+_diffrn_measurement_device_type
+'ROD, Synergy Custom DW system, HyPix'
+_diffrn_measurement_method   '\w scans'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0366
+_diffrn_reflns_av_unetI/netI   0.0341
+_diffrn_reflns_Laue_measured_fraction_full   1.000
+_diffrn_reflns_Laue_measured_fraction_max   0.860
+_diffrn_reflns_limit_h_max   9
+_diffrn_reflns_limit_h_min   -10
+_diffrn_reflns_limit_k_max   8
+_diffrn_reflns_limit_k_min   -9
+_diffrn_reflns_limit_l_max   9
+_diffrn_reflns_limit_l_min   -9
+_diffrn_reflns_number   1550
+_diffrn_reflns_point_group_measured_fraction_full   1.000
+_diffrn_reflns_point_group_measured_fraction_max   0.860
+_diffrn_reflns_theta_full   25.242
+_diffrn_reflns_theta_max   30.446
+_diffrn_reflns_theta_min   2.989
+_exptl_absorpt_coefficient_mu   0.969
+_exptl_absorpt_correction_T_max   1.00000
+_exptl_absorpt_correction_T_min   0.47494
+_exptl_absorpt_correction_type   multi-scan
+_exptl_crystal_colour   colorless
+_exptl_crystal_density_diffrn   2.490
+_exptl_crystal_description   block
+_exptl_crystal_F_000   280
+_exptl_crystal_size_max   0.08
+_exptl_crystal_size_mid   0.04
+_exptl_crystal_size_min   0.02
+_refine_diff_density_max   0.352
+_refine_diff_density_min   -0.384
+_refine_diff_density_rms   0.084
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.076
+_refine_ls_hydrogen_treatment   undef
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   32
+_refine_ls_number_reflns   356
+_refine_ls_number_restraints   1
+_refine_ls_restrained_S_all   1.080
+_refine_ls_R_factor_all   0.0362
+_refine_ls_R_factor_gt   0.0254
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'w=1/[\s^2^(Fo^2^)+(0.0245P)^2^+0.0506P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.0515
+_refine_ls_wR_factor_ref   0.0538
+_reflns_Friedel_coverage   0.000
+_reflns_number_gt   296
+_reflns_number_total   356
+_reflns_threshold_expression   'I > 2\s(I)'
+_cod_data_source_file   d0ce00075b2.cif
+_cod_data_source_block   a_CCDC1
+_cod_original_cell_volume   379.26(6)
+_cod_database_code   7240209
+_shelx_shelxl_version_number   2014/7
+_shelx_space_group_comment
+;
+The symmetry employed for this shelxl refinement is uniquely defined
+by the following loop, which should always be used as a source of
+symmetry information in preference to the above space-group names.
+They are only intended as comments.
+;
+_shelx_res_file
+;
+a.res created by SHELXL-2014/7 TITL a in P6(3)/m CELL 0.71073   7.8692
+7.8692   7.0721  90.000  90.000 120.000 ZERR    3.00   0.0005   0.0005
+0.0006   0.000   0.000   0.000 LATT  1 SYMM -Y, X-Y, Z SYMM -X+Y, -X,
+Z SYMM -X, -Y, 0.5+Z SYMM Y, -X+Y, 0.5+Z SYMM X-Y, X, 0.5+Z SFAC O
+AL   P UNIT 19 3.5  5.5 L.S. 4 BOND acta FMAP 2 PLAN 20 dfix 1.5 P1 O3
+WGHT    0.024500    0.050600 FVAR       0.90371 MOLE   1 P1    3
+0.639175    0.951264    0.250000    10.45833    0.00642    0.00720 =
+0.00448    0.00000    0.00000    0.00354 AL1   2    0.333333
+0.666667   -0.055354    10.29166    0.00630    0.00630 =
+0.00310    0.00000    0.00000    0.00315 O1    1    0.615979
+1.134676    0.250000    10.50000    0.01687    0.01163 =
+0.00972    0.00000    0.00000    0.00762 O2    1    0.557597
+0.834219    0.070846    11.00000    0.01689    0.01512 =
+0.01262   -0.00112   -0.00026    0.00868 O3    1    0.851085
+1.028817    0.250000     0.10394    0.07315    0.04678 =
+0.04696    0.00000    0.00000    0.02981 HKLF 4 REM  a in P6(3)/m REM
+R1 =  0.0254 for     296 Fo > 4sig(Fo)  and  0.0362 for all     356
+data REM     32 parameters refined using      1 restraints END WGHT
+0.0243      0.0583 REM Highest difference peak  0.352,  deepest hole
+-0.384,  1-sigma level  0.084 Q1    1   0.5669  0.9848  0.2500
+10.50000  0.05    0.35 Q2    1   1.0000  1.0000  0.2500  10.16667
+0.05    0.31 Q3    1   0.3992  0.7383 -0.0189  11.00000  0.05    0.28
+Q4    1   0.3244  0.9854  0.2500  10.50000  0.05    0.27 Q5    1
+0.6321  0.7636  0.1533  11.00000  0.05    0.27 Q6    1   0.7772
+1.0399  0.2500  10.50000  0.05    0.26 Q7    1   0.7113  0.9430
+0.0610  11.00000  0.05    0.26 Q8    1   0.4560  1.1209  0.2500
+10.50000  0.05    0.25 Q9    1   0.7454  0.8987  0.1972  11.00000
+0.05    0.24 Q10   1   0.9994  1.0955  0.1685  11.00000  0.05    0.24
+Q11   1   0.2826  0.6026 -0.1076  11.00000  0.05    0.24 Q12   1
+0.9997  1.2161  0.1693  11.00000  0.05    0.24 Q13   1   0.8151
+0.9879  0.1385  11.00000  0.05    0.23 Q14   1   0.4760  1.0379
+0.2051  11.00000  0.05    0.22 Q15   1   0.9371  1.2300  0.2500
+10.50000  0.05    0.22 Q16   1   0.4737  0.6584  0.1547  11.00000
+0.05    0.22 Q17   1   0.7134  1.1094  0.2500  10.50000  0.05    0.21
+Q18   1   0.8426  1.1389  0.1623  11.00000  0.05    0.20 Q19   1
+0.6074  0.9032  0.1642  11.00000  0.05    0.20 Q20   1   0.8967
+1.0089  0.0002  11.00000  0.05    0.19
+;
+_shelx_res_checksum   67176
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-y, x-y, z'
+  '-x+y, -x, z'
+  '-x, -y, z+1/2'
+  'y, -x+y, z+1/2'
+  'x-y, x, z+1/2'
+  '-x, -y, -z'
+  'y, -x+y, -z'
+  'x-y, x, -z'
+  'x, y, -z-1/2'
+  '-y, x-y, -z-1/2'
+  '-x+y, -x, -z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_site_symmetry_order
+ _atom_site_calc_flag
+ _atom_site_refinement_flags_posn
+ _atom_site_refinement_flags_adp
+ _atom_site_refinement_flags_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  P1  P  0.63918(9)  0.95126(10)  0.2500  0.00597(19)  Uani  0.9167
+  2  d  DS  T  P  .  .
+  Al1  Al  0.3333  0.6667  -0.05535(11)  0.0052(2)  Uani  0.875  3
+  d  S  T  P  .  .
+  O1  O  0.6160(3)  1.1347(3)  0.2500  0.0125(4)  Uani  1  2  d  S
+  T  P  .  .
+  O2  O  0.55760(18)  0.83422(18)  0.07085(17)  0.0146(3)  Uani  1
+  1  d  .  .  .  .  .
+  O3  O  0.8511(19)  1.029(2)  0.2500  0.056(5)  Uani  0.208(8)  2
+  d  DS  T  .  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  P1  0.0064(3)  0.0072(3)  0.0045(3)  0.000  0.000  0.0035(3)
+  Al1  0.0063(3)  0.0063(3)  0.0031(4)  0.000  0.000  0.00315(15)
+  O1  0.0169(10)  0.0116(9)  0.0097(7)  0.000  0.000  0.0076(7)
+  O2  0.0169(7)  0.0151(7)  0.0126(6)  -0.0011(5)  -0.0003(5)
+  0.0087(6)
+  O3  0.073(11)  0.047(9)  0.047(7)  0.000  0.000  0.030(8)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Al  Al  0.0645  0.0514
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O3  P1  O2  107.7(3)  .  10_556  ?
+  O3  P1  O2  107.7(3)  .  .  ?
+  O2  P1  O2  114.30(10)  10_556  .  ?
+  O3  P1  O1  104.7(6)  .  .  ?
+  O2  P1  O1  110.98(6)  10_556  .  ?
+  O2  P1  O1  110.98(6)  .  .  ?
+  O2  Al1  O2  98.07(6)  3_565  .  ?
+  O2  Al1  O2  98.07(6)  3_565  2_665  ?
+  O2  Al1  O2  98.07(6)  .  2_665  ?
+  O2  Al1  O1  91.69(6)  3_565  9_655  ?
+  O2  Al1  O1  91.84(6)  .  9_655  ?
+  O2  Al1  O1  164.94(6)  2_665  9_655  ?
+  O2  Al1  O1  91.84(6)  3_565  8_455  ?
+  O2  Al1  O1  164.94(6)  .  8_455  ?
+  O2  Al1  O1  91.69(6)  2_665  8_455  ?
+  O1  Al1  O1  76.49(6)  9_655  8_455  ?
+  O2  Al1  O1  164.94(6)  3_565  7_675  ?
+  O2  Al1  O1  91.69(6)  .  7_675  ?
+  O2  Al1  O1  91.84(6)  2_665  7_675  ?
+  O1  Al1  O1  76.49(6)  9_655  7_675  ?
+  O1  Al1  O1  76.49(6)  8_455  7_675  ?
+  O2  Al1  Al1  119.32(4)  3_565  10  ?
+  O2  Al1  Al1  119.32(4)  .  10  ?
+  O2  Al1  Al1  119.32(4)  2_665  10  ?
+  O1  Al1  Al1  45.62(4)  9_655  10  ?
+  O1  Al1  Al1  45.62(4)  8_455  10  ?
+  O1  Al1  Al1  45.63(4)  7_675  10  ?
+  P1  O1  Al1  132.17(6)  .  4_675  ?
+  P1  O1  Al1  132.17(6)  .  7_675  ?
+  Al1  O1  Al1  88.75(8)  4_675  7_675  ?
+  P1  O2  Al1  144.65(9)  .  .  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  P1  O3  1.461(13)  .  ?
+  P1  O2  1.5081(13)  10_556  ?
+  P1  O2  1.5081(13)  .  ?
+  P1  O1  1.5427(19)  .  ?
+  Al1  O2  1.8228(13)  3_565  ?
+  Al1  O2  1.8228(13)  .  ?
+  Al1  O2  1.8228(13)  2_665  ?
+  Al1  O1  1.9683(14)  9_655  ?
+  Al1  O1  1.9683(14)  8_455  ?
+  Al1  O1  1.9683(14)  7_675  ?
+  Al1  Al1  2.7531(16)  10  ?
+  O1  Al1  1.9684(14)  4_675  ?
+  O1  Al1  1.9684(14)  7_675  ?

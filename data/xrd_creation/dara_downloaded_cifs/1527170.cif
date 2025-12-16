@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_1527170
+loop_
+ _publ_author_name
+  'Borensztajn, J.'
+_publ_section_title
+'Structures cristallines de la metavariscite et de la metastrengite'
+_journal_name_full
+;
+Bulletin de la Societe Francaise de Mineralogie et de Cristallographie
+(72,1949-100,1977)
+;
+_journal_page_first   428
+_journal_page_last   438
+_journal_volume   89
+_journal_year   1966
+_chemical_formula_sum   'Al H4 O6 P'
+_chemical_name_systematic   'Al (P O4) (H2 O)2'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.14
+_cell_length_b   9.45
+_cell_length_c   8.45
+_cell_volume   410.442
+_citation_journal_id_ASTM   BUFCAE
+_cod_data_source_file   Borensztajn_BUFCAE_1966_1690.cif
+_cod_data_source_block   H4Al1O6P1
+_cod_original_cell_volume   410.4418
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum   'H4 Al1 O6 P1'
+_cod_database_code   1527170
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.343  -0.318  0.232  1  0.0
+  O2  O-2  -0.4  -0.284  0.476  1  0.0
+  O3  O-2  -0.325  0.204  0.28  1  0.0
+  P1  P+5  -0.408  -0.3532  0.3164  1  0.0
+  Al1  Al+3  0.406  0.3252  0.3073  1  0.0
+  O4  O-2  -0.39  0.486  0.332  1  0.0
+  O6  O-2  0.098  -0.136  0.418  1  0.0
+  O5  O-2  0.39  -0.054  0.179  1  0.0

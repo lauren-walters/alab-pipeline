@@ -1,0 +1,148 @@
+# generated using pymatgen
+data_1533679
+loop_
+ _publ_author_name
+  'Sorby, M.H.'
+  'Mellergard, A.'
+  'Fjellvag, H.'
+  'Wannberg, A.'
+  'Delaplane, R.G.'
+  'Hauback, B.C.'
+_publ_section_title
+;
+Reverse Monte Carlo investigation of the short range order in alpha-(V
+D0.8)
+;
+_journal_name_full   'Journal of Alloys Compd.'
+_journal_page_first   209
+_journal_page_last   216
+_journal_volume   363
+_journal_year   2004
+_chemical_formula_sum   'D0.77 V'
+_chemical_name_systematic   'V D0.77'
+_space_group_IT_number   229
+_symmetry_space_group_name_Hall   '-I 4 2 3'
+_symmetry_space_group_name_H-M   'I m -3 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   3.1604
+_cell_length_b   3.1604
+_cell_length_c   3.1604
+_cell_volume   31.566
+_citation_journal_id_ASTM   JALCEU
+_cod_data_source_file   Sorby_JALCEU_2004_1333.cif
+_cod_data_source_block   D0.77V1
+_cod_original_cell_volume   31.56648
+_cod_original_formula_sum   'D0.77 V1'
+_cod_database_code   1533679
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x,z
+  -x,-y,z
+  y,-x,z
+  x,-y,-z
+  y,x,-z
+  -x,y,-z
+  -y,-x,-z
+  z,x,y
+  -x,z,y
+  -z,-x,y
+  x,-z,y
+  z,-x,-y
+  x,z,-y
+  -z,x,-y
+  -x,-z,-y
+  y,z,x
+  y,-z,-x
+  z,y,-x
+  -y,z,-x
+  -z,-y,-x
+  -y,-z,x
+  z,-y,x
+  -z,y,x
+  -x,-y,-z
+  y,-x,-z
+  x,y,-z
+  -y,x,-z
+  -x,y,z
+  -y,-x,z
+  x,-y,z
+  y,x,z
+  -z,-x,-y
+  x,-z,-y
+  z,x,-y
+  -x,z,-y
+  -z,x,y
+  -x,-z,y
+  z,-x,y
+  x,z,y
+  -y,-z,-x
+  -y,z,x
+  -z,-y,x
+  y,-z,x
+  z,y,x
+  y,z,-x
+  -z,y,-x
+  z,-y,-x
+  x+1/2,y+1/2,z+1/2
+  -y+1/2,x+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  y+1/2,-x+1/2,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  y+1/2,x+1/2,-z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  -y+1/2,-x+1/2,-z+1/2
+  z+1/2,x+1/2,y+1/2
+  -x+1/2,z+1/2,y+1/2
+  -z+1/2,-x+1/2,y+1/2
+  x+1/2,-z+1/2,y+1/2
+  z+1/2,-x+1/2,-y+1/2
+  x+1/2,z+1/2,-y+1/2
+  -z+1/2,x+1/2,-y+1/2
+  -x+1/2,-z+1/2,-y+1/2
+  y+1/2,z+1/2,x+1/2
+  y+1/2,-z+1/2,-x+1/2
+  z+1/2,y+1/2,-x+1/2
+  -y+1/2,z+1/2,-x+1/2
+  -z+1/2,-y+1/2,-x+1/2
+  -y+1/2,-z+1/2,x+1/2
+  z+1/2,-y+1/2,x+1/2
+  -z+1/2,y+1/2,x+1/2
+  -x+1/2,-y+1/2,-z+1/2
+  y+1/2,-x+1/2,-z+1/2
+  x+1/2,y+1/2,-z+1/2
+  -y+1/2,x+1/2,-z+1/2
+  -x+1/2,y+1/2,z+1/2
+  -y+1/2,-x+1/2,z+1/2
+  x+1/2,-y+1/2,z+1/2
+  y+1/2,x+1/2,z+1/2
+  -z+1/2,-x+1/2,-y+1/2
+  x+1/2,-z+1/2,-y+1/2
+  z+1/2,x+1/2,-y+1/2
+  -x+1/2,z+1/2,-y+1/2
+  -z+1/2,x+1/2,y+1/2
+  -x+1/2,-z+1/2,y+1/2
+  z+1/2,-x+1/2,y+1/2
+  x+1/2,z+1/2,y+1/2
+  -y+1/2,-z+1/2,-x+1/2
+  -y+1/2,z+1/2,x+1/2
+  -z+1/2,-y+1/2,x+1/2
+  y+1/2,-z+1/2,x+1/2
+  z+1/2,y+1/2,x+1/2
+  y+1/2,z+1/2,-x+1/2
+  -z+1/2,y+1/2,-x+1/2
+  z+1/2,-y+1/2,-x+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  V1  V  0  0  0  1  0.0
+  D2  D  0  0.5  0.5  0.0153  0.0
+  D1  D  0  0.5  0.25  0.1207  0.0

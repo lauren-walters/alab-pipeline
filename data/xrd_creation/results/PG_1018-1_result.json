@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66da2dbd4efa8b4b4dfcfb72",
+  "experiment_name": "PG_1018-1",
+  "success": true,
+  "error": null,
+  "rwp": 4.5,
+  "rp": 3.35,
+  "rexp": 3.93,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "In2O3_206_(cod_2310009)-0",
+      "spacegroup": "I2_1/a-3",
+      "weight_fraction": 0.005808,
+      "weight_fraction_error": 4.7e-05,
+      "lattice_a_nm": 1.012026,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 6.9
+    },
+    {
+      "phase_name": "Cr2O3_167_(cod_2104122)-0",
+      "spacegroup": "R-32/c",
+      "weight_fraction": 0.00338,
+      "weight_fraction_error": 0.00012,
+      "lattice_a_nm": 0.496109,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 1.35972,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 6.66
+    }
+  ],
+  "chemical_system": "Cr-In-O",
+  "target_formula": "CrInO3",
+  "analysis_timestamp": "2025-12-06T15:05:25.318111",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,244 @@
+# generated using pymatgen
+data_1532048
+loop_
+ _publ_author_name
+  'Renaudin, G.'
+  'Yvon, K.'
+  'Dolukhanyan, S.K.'
+  'Shekhtman, V.Sh.'
+  'Aghajanyan, N.N.'
+_publ_section_title
+;
+Crystal structures and thermal properties of titanium carbo-deuterides
+as  prepared by combustion synthesis
+;
+_journal_name_full   'Journal of Alloys Compd.'
+_journal_page_first   120
+_journal_page_last   127
+_journal_volume   356
+_journal_year   2003
+_chemical_formula_sum   'C0.48 D0.6 Ti'
+_chemical_name_systematic   'Ti C0.48 D0.6'
+_space_group_IT_number   225
+_symmetry_space_group_name_Hall   '-F 4 2 3'
+_symmetry_space_group_name_H-M   'F m -3 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.30963
+_cell_length_b   4.30963
+_cell_length_c   4.30963
+_cell_volume   80.042
+_citation_journal_id_ASTM   JALCEU
+_cod_data_source_file   Renaudin_JALCEU_2003_1424.cif
+_cod_data_source_block   C0.48D0.6Ti1
+_cod_original_cell_volume   80.04237
+_cod_original_formula_sum   'C0.48 D0.6 Ti1'
+_cod_database_code   1532048
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x,z
+  -x,-y,z
+  y,-x,z
+  x,-y,-z
+  y,x,-z
+  -x,y,-z
+  -y,-x,-z
+  z,x,y
+  -x,z,y
+  -z,-x,y
+  x,-z,y
+  z,-x,-y
+  x,z,-y
+  -z,x,-y
+  -x,-z,-y
+  y,z,x
+  y,-z,-x
+  z,y,-x
+  -y,z,-x
+  -z,-y,-x
+  -y,-z,x
+  z,-y,x
+  -z,y,x
+  -x,-y,-z
+  y,-x,-z
+  x,y,-z
+  -y,x,-z
+  -x,y,z
+  -y,-x,z
+  x,-y,z
+  y,x,z
+  -z,-x,-y
+  x,-z,-y
+  z,x,-y
+  -x,z,-y
+  -z,x,y
+  -x,-z,y
+  z,-x,y
+  x,z,y
+  -y,-z,-x
+  -y,z,x
+  -z,-y,x
+  y,-z,x
+  z,y,x
+  y,z,-x
+  -z,y,-x
+  z,-y,-x
+  x,y+1/2,z+1/2
+  -y,x+1/2,z+1/2
+  -x,-y+1/2,z+1/2
+  y,-x+1/2,z+1/2
+  x,-y+1/2,-z+1/2
+  y,x+1/2,-z+1/2
+  -x,y+1/2,-z+1/2
+  -y,-x+1/2,-z+1/2
+  z,x+1/2,y+1/2
+  -x,z+1/2,y+1/2
+  -z,-x+1/2,y+1/2
+  x,-z+1/2,y+1/2
+  z,-x+1/2,-y+1/2
+  x,z+1/2,-y+1/2
+  -z,x+1/2,-y+1/2
+  -x,-z+1/2,-y+1/2
+  y,z+1/2,x+1/2
+  y,-z+1/2,-x+1/2
+  z,y+1/2,-x+1/2
+  -y,z+1/2,-x+1/2
+  -z,-y+1/2,-x+1/2
+  -y,-z+1/2,x+1/2
+  z,-y+1/2,x+1/2
+  -z,y+1/2,x+1/2
+  -x,-y+1/2,-z+1/2
+  y,-x+1/2,-z+1/2
+  x,y+1/2,-z+1/2
+  -y,x+1/2,-z+1/2
+  -x,y+1/2,z+1/2
+  -y,-x+1/2,z+1/2
+  x,-y+1/2,z+1/2
+  y,x+1/2,z+1/2
+  -z,-x+1/2,-y+1/2
+  x,-z+1/2,-y+1/2
+  z,x+1/2,-y+1/2
+  -x,z+1/2,-y+1/2
+  -z,x+1/2,y+1/2
+  -x,-z+1/2,y+1/2
+  z,-x+1/2,y+1/2
+  x,z+1/2,y+1/2
+  -y,-z+1/2,-x+1/2
+  -y,z+1/2,x+1/2
+  -z,-y+1/2,x+1/2
+  y,-z+1/2,x+1/2
+  z,y+1/2,x+1/2
+  y,z+1/2,-x+1/2
+  -z,y+1/2,-x+1/2
+  z,-y+1/2,-x+1/2
+  x+1/2,y,z+1/2
+  -y+1/2,x,z+1/2
+  -x+1/2,-y,z+1/2
+  y+1/2,-x,z+1/2
+  x+1/2,-y,-z+1/2
+  y+1/2,x,-z+1/2
+  -x+1/2,y,-z+1/2
+  -y+1/2,-x,-z+1/2
+  z+1/2,x,y+1/2
+  -x+1/2,z,y+1/2
+  -z+1/2,-x,y+1/2
+  x+1/2,-z,y+1/2
+  z+1/2,-x,-y+1/2
+  x+1/2,z,-y+1/2
+  -z+1/2,x,-y+1/2
+  -x+1/2,-z,-y+1/2
+  y+1/2,z,x+1/2
+  y+1/2,-z,-x+1/2
+  z+1/2,y,-x+1/2
+  -y+1/2,z,-x+1/2
+  -z+1/2,-y,-x+1/2
+  -y+1/2,-z,x+1/2
+  z+1/2,-y,x+1/2
+  -z+1/2,y,x+1/2
+  -x+1/2,-y,-z+1/2
+  y+1/2,-x,-z+1/2
+  x+1/2,y,-z+1/2
+  -y+1/2,x,-z+1/2
+  -x+1/2,y,z+1/2
+  -y+1/2,-x,z+1/2
+  x+1/2,-y,z+1/2
+  y+1/2,x,z+1/2
+  -z+1/2,-x,-y+1/2
+  x+1/2,-z,-y+1/2
+  z+1/2,x,-y+1/2
+  -x+1/2,z,-y+1/2
+  -z+1/2,x,y+1/2
+  -x+1/2,-z,y+1/2
+  z+1/2,-x,y+1/2
+  x+1/2,z,y+1/2
+  -y+1/2,-z,-x+1/2
+  -y+1/2,z,x+1/2
+  -z+1/2,-y,x+1/2
+  y+1/2,-z,x+1/2
+  z+1/2,y,x+1/2
+  y+1/2,z,-x+1/2
+  -z+1/2,y,-x+1/2
+  z+1/2,-y,-x+1/2
+  x+1/2,y+1/2,z
+  -y+1/2,x+1/2,z
+  -x+1/2,-y+1/2,z
+  y+1/2,-x+1/2,z
+  x+1/2,-y+1/2,-z
+  y+1/2,x+1/2,-z
+  -x+1/2,y+1/2,-z
+  -y+1/2,-x+1/2,-z
+  z+1/2,x+1/2,y
+  -x+1/2,z+1/2,y
+  -z+1/2,-x+1/2,y
+  x+1/2,-z+1/2,y
+  z+1/2,-x+1/2,-y
+  x+1/2,z+1/2,-y
+  -z+1/2,x+1/2,-y
+  -x+1/2,-z+1/2,-y
+  y+1/2,z+1/2,x
+  y+1/2,-z+1/2,-x
+  z+1/2,y+1/2,-x
+  -y+1/2,z+1/2,-x
+  -z+1/2,-y+1/2,-x
+  -y+1/2,-z+1/2,x
+  z+1/2,-y+1/2,x
+  -z+1/2,y+1/2,x
+  -x+1/2,-y+1/2,-z
+  y+1/2,-x+1/2,-z
+  x+1/2,y+1/2,-z
+  -y+1/2,x+1/2,-z
+  -x+1/2,y+1/2,z
+  -y+1/2,-x+1/2,z
+  x+1/2,-y+1/2,z
+  y+1/2,x+1/2,z
+  -z+1/2,-x+1/2,-y
+  x+1/2,-z+1/2,-y
+  z+1/2,x+1/2,-y
+  -x+1/2,z+1/2,-y
+  -z+1/2,x+1/2,y
+  -x+1/2,-z+1/2,y
+  z+1/2,-x+1/2,y
+  x+1/2,z+1/2,y
+  -y+1/2,-z+1/2,-x
+  -y+1/2,z+1/2,x
+  -z+1/2,-y+1/2,x
+  y+1/2,-z+1/2,x
+  z+1/2,y+1/2,x
+  y+1/2,z+1/2,-x
+  -z+1/2,y+1/2,-x
+  z+1/2,-y+1/2,-x
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  D1  D  0.5  0.5  0.5  0.52  0.0
+  D2  D  0.25  0.25  0.25  0.041  0.0
+  Ti1  Ti  0  0  0  1  0.0
+  C1  C  0.5  0.5  0.5  0.48  0.0

@@ -1,0 +1,31 @@
+{
+  "experiment_id": "66471f2ae84e87556c09883a",
+  "experiment_name": "NSC_137",
+  "success": true,
+  "error": null,
+  "rwp": 11.48,
+  "rp": 9.2,
+  "rexp": 2.48,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "TaPO5_11_(cod_1001681)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.17939,
+      "weight_fraction_error": 0.00098,
+      "lattice_a_nm": 1.305296,
+      "lattice_b_nm": 0.528327,
+      "lattice_c_nm": 1.325073,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 120.2764,
+      "lattice_gamma_deg": null,
+      "r_phase": 14.39
+    }
+  ],
+  "chemical_system": "Na-O-P-Ta",
+  "target_formula": "Na0.55Ta2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:42:33.075492",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

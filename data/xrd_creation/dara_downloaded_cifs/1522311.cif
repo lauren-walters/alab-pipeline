@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_1522311
+loop_
+ _publ_author_name
+  'Zatovsky, I.V.'
+  'Slobodyanik, N.S.'
+  'Kowalski, A.'
+  'Slyva, T.Yu.'
+_publ_section_title
+'Synthesis and structure of binary diphosphate K Ti P2 O7'
+_journal_name_full   'Dopov. Nats. Akad. Nauk. Ukr.'
+_journal_page_first   151
+_journal_page_last   155
+_journal_volume   2000
+_journal_year   2000
+_chemical_formula_sum   'K O7 P2 Ti'
+_chemical_name_systematic   'K (Ti P2 O7)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   106.48
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.399
+_cell_length_b   10.259
+_cell_length_c   8.207
+_cell_volume   597.371
+_citation_journal_id_ASTM   DNAUFL
+_cod_data_source_file   Zatovsky_DNAUFL_2000_1075.cif
+_cod_data_source_block   K1O7P2Ti1
+_cod_original_cell_volume   597.3712
+_cod_original_formula_sum   'K1 O7 P2 Ti1'
+_cod_database_code   1522311
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Ti1  Ti+3  0.7652  0.6008  0.24  1  0.0
+  O4  O-2  0.6572  0.935  0.1865  1  0.0
+  O7  O-2  0.8543  0.9092  -0.0123  1  0.0
+  P2  P+5  0.8657  0.903  0.1729  1  0.0
+  O1  O-2  0.5445  0.7174  0.263  1  0.0
+  O5  O-2  0.0062  0.5057  0.2218  1  0.0
+  O2  O-2  0.6408  0.4189  0.2291  1  0.0
+  K1  K+1  0.1804  0.6783  0.0562  1  0.0
+  O3  O-2  0.6765  0.6103  -0.0117  1  0.0
+  O6  O-2  0.9205  0.768  0.2463  1  0.0
+  P1  P+5  0.5554  0.8608  0.3096  1  0.0

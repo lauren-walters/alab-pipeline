@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_9014004
+loop_
+ _publ_author_name
+  'Bucknum, M. J.'
+  'Castro, E. A.'
+_publ_section_title
+;
+The carbon allotrope hexagonite and its potential  synthesis from cold
+compression of carbon nanotubes
+;
+_journal_name_full   'Journal of Chemical Theory and Computation'
+_journal_page_first   775
+_journal_page_last   781
+_journal_paper_doi   10.1021/ct060003n
+_journal_volume   2
+_journal_year   2006
+_chemical_compound_source   'hypothetical structure'
+_chemical_formula_sum   C
+_chemical_name_mineral   Carbon
+_space_group_IT_number   191
+_symmetry_space_group_name_Hall   '-P 6 2'
+_symmetry_space_group_name_H-M   'P 6/m m m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_length_a   4.89
+_cell_length_b   4.89
+_cell_length_c   3.88
+_cell_formula_units_Z   10
+_cell_volume   80.349
+_database_code_amcsd   0013020
+_exptl_crystal_density_diffrn   2.482
+_cod_database_code   9014004
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-x+y,z
+  x,x-y,-z
+  -x+y,-x,-z
+  x-y,x,z
+  -y,-x,z
+  y,x,-z
+  y,-x+y,-z
+  -y,x-y,z
+  x-y,-y,z
+  -x+y,y,-z
+  x,y,-z
+  -x,-y,z
+  x,x-y,z
+  -x,-x+y,-z
+  x-y,x,-z
+  -x+y,-x,z
+  y,x,z
+  -y,-x,-z
+  -y,x-y,-z
+  y,-x+y,z
+  -x+y,y,z
+  x-y,-y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  C1  0.66667  0.33333  0.18400
+  C2  0.50000  0.50000  0.34000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0013020

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_9008930
+loop_
+ _publ_author_name
+  'Wyckoff, R. W. G.'
+_publ_section_title
+;
+Second edition. Interscience Publishers, New York, New York  Note:
+manganese phosphide structure
+;
+_journal_name_full   'Crystal Structures'
+_journal_page_first   85
+_journal_page_last   237
+_journal_volume   1
+_journal_year   1963
+_chemical_formula_structural   CrP
+_chemical_formula_sum   'Cr P'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2c 2ab'
+_symmetry_space_group_name_H-M   'P b n m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   5.94
+_cell_length_b   5.366
+_cell_length_c   3.13
+_cell_formula_units_Z   4
+_cell_volume   99.766
+_database_code_amcsd   0011608
+_exptl_crystal_density_diffrn   5.524
+_cod_database_code   9008930
+_amcsd_formula_title   CrP
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2+y,1/2-z
+  1/2-x,1/2+y,z
+  1/2+x,1/2-y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Cr  0.16000  0.00000  0.25000
+  P  0.63000  0.20000  0.25000
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0011608

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6552b9ee0e59847b5ae48294",
+  "experiment_name": "NSC_81",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mg-Na-O-P-Ti-Zr",
+  "target_formula": "Na2.53Zr0.66Mg0.66Ti0.66(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T16:48:45.975857",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

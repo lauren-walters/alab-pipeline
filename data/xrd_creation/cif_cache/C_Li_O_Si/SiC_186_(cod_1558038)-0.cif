@@ -1,0 +1,182 @@
+# generated using pymatgen
+data_1558038
+loop_
+ _publ_author_name
+  'El Mendili, Yassine'
+  'Orberger, Beate'
+  'Chateigner, Daniel'
+  'Bardeau, Jean-Fran\,cois'
+  "Gascoin, St\'ephanie"
+  "Petit, S\'ebastien"
+  'Perez, Olivier'
+  'Khadraoui, Fouzia'
+_publ_section_title
+;
+Insight into the structural, elastic and electronic properties of a
+new  orthorhombic 6O-SiC polytype
+;
+_journal_issue   1
+_journal_name_full   'Scientific Reports'
+_journal_page_first   7562
+_journal_paper_doi   10.1038/s41598-020-64415-4
+_journal_volume   10
+_journal_year   2020
+_chemical_formula_sum   'C Si'
+_chemical_formula_weight   40.0962
+_chemical_name_common   '6O-SiC polytype'
+_space_group_IT_number   36
+_space_group_name_Hall   'C 2c -2'
+_space_group_name_H-M_alt   'C m c 21'
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   36
+_symmetry_space_group_name_Hall   'C 2c -2'
+_symmetry_space_group_name_H-M   'C m c 21'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   12
+_cell_length_a   3.0778(6)
+_cell_length_b   5.335(2)
+_cell_length_c   15.1219(6)
+_cell_volume   248.30(11)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   CuK\a
+_diffrn_radiation_wavelength   1.54180
+_exptl_absorpt_coefficient_mu   14.788
+_exptl_crystal_density_diffrn   3.218
+_refine_ls_number_parameters   20
+_refine_ls_number_reflns   316
+_refine_ls_R_factor_gt   0.0329
+_cod_duplicate_entry   3000243
+_cod_data_source_file   SiC.cif
+_cod_data_source_block   1
+_cod_depositor_comments
+;
+Marked entry as a duplicate of entry 3000243.  Antanas Vaitkus,
+2020-05-11
+;
+_cod_database_code   1558038
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,1/2+z
+  3  -x,y,z
+  4  x,-y,1/2+z
+  5  1/2+x,1/2+y,z
+  6  1/2-x,1/2-y,1/2+z
+  7  1/2-x,1/2+y,z
+  8  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Si1  Si  Uiso  0.00000  0.8327(15)  0.8580(10)  1.000  0.0050(11)
+  .  .  .  .
+  Si2  Si  Uiso  0.50000  -0.0007(6)  0.5241(4)  1.000  0.0055(5)  .
+  .  .  .
+  Si3  Si  Uiso  0.50000  0.6643(14)  0.69124(12)  1.000  0.0057(11)
+  .  .  .  .
+  C1  C  Uiso  0.00000  0.504(3)  0.6503(7)  1.000  0.0001(2)  .  .
+  .  .
+  C2  C  Uiso  0.00000  0.840(4)  0.9817(5)  1.000  0.0062(16)  .  .
+  .  .
+  C3  C  Uiso  0.50000  0.671(4)  0.8168(5)  1.000  0.0081(18)  .  .
+  .  .
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  C  0.0181  0.0091
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Si  Si  0.2541  0.3302
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  C2  Si1  C3  110.0(6)  .  .  .  yes
+  C2  Si1  C3  110.0(6)  .  .  1_455  yes
+  C2  Si1  C3  107.9(9)  .  .  5_455  yes
+  C3  Si1  C3  110.7(8)  .  .  1_455  yes
+  C3  Si1  C3  109.1(7)  .  .  5_455  yes
+  C3  Si1  C3  109.1(7)  1_455  .  5_455  yes
+  C2  Si2  C2  110.4(7)  2_564  .  2_664  yes
+  C1  Si2  C2  109.6(4)  5_545  .  2_564  yes
+  C2  Si2  C2  108.5(6)  2_564  .  6_554  yes
+  C1  Si2  C2  109.6(4)  5_545  .  2_664  yes
+  C2  Si2  C2  108.5(6)  2_664  .  6_554  yes
+  C1  Si2  C2  110.3(6)  5_545  .  6_554  yes
+  C1  Si3  C3  109.9(5)  .  .  .  yes
+  C1  Si3  C1  111.1(6)  .  .  1_655  yes
+  C1  Si3  C1  109.1(5)  .  .  5_555  yes
+  C1  Si3  C3  109.9(5)  1_655  .  .  yes
+  C1  Si3  C3  107.8(8)  5_555  .  .  yes
+  C1  Si3  C1  109.1(5)  1_655  .  5_555  yes
+  Si3  C1  Si3  111.1(8)  .  .  1_455  yes
+  Si3  C1  Si3  109.1(5)  .  .  5_445  yes
+  Si2  C1  Si3  109.7(4)  5_455  .  .  yes
+  Si3  C1  Si3  109.1(5)  1_455  .  5_445  yes
+  Si2  C1  Si3  109.7(4)  5_455  .  1_455  yes
+  Si2  C1  Si3  108.1(7)  5_455  .  5_445  yes
+  Si1  C2  Si2  110.6(5)  .  .  2_565  yes
+  Si1  C2  Si2  110.6(5)  .  .  2_665  yes
+  Si1  C2  Si2  108.3(9)  .  .  6_555  yes
+  Si2  C2  Si2  110.4(9)  2_565  .  2_665  yes
+  Si2  C2  Si2  108.5(5)  2_565  .  6_555  yes
+  Si2  C2  Si2  108.5(5)  2_665  .  6_555  yes
+  Si1  C3  Si3  110.0(6)  .  .  .  yes
+  Si1  C3  Si1  110.7(10)  .  .  1_655  yes
+  Si1  C3  Si1  109.1(6)  .  .  5_545  yes
+  Si1  C3  Si3  110.0(6)  1_655  .  .  yes
+  Si1  C3  Si3  108.0(10)  5_545  .  .  yes
+  Si1  C3  Si1  109.1(6)  1_655  .  5_545  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Si1  C2  1.871(17)  .  .  yes
+  Si1  C3  1.871(12)  .  .  yes
+  Si1  C3  1.871(12)  .  1_455  yes
+  Si1  C3  1.91(2)  .  5_455  yes
+  Si2  C2  1.875(11)  .  2_564  yes
+  Si2  C2  1.875(11)  .  2_664  yes
+  Si2  C1  1.909(12)  .  5_545  yes
+  Si2  C2  1.92(2)  .  6_554  yes
+  Si3  C1  1.866(9)  .  .  yes
+  Si3  C3  1.899(8)  .  .  yes
+  Si3  C1  1.866(9)  .  1_655  yes
+  Si3  C1  1.915(17)  .  5_555  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  C2  Si1  C3  Si3  -179.9(9)  .  .  .  .  no
+  C1  Si3  C3  Si1  -57.7(12)  .  .  .  .  no

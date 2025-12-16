@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_7117434
+loop_
+ _publ_author_name
+  'Lopes, M.E.'
+  'Kirk, C.A.'
+  'Blake, S.M.'
+  'Marr, J.'
+  'West, A.R.'
+_publ_section_title   'Li Sb3 O8: the first tetrarutile structure'
+_journal_name_full   'Chemical Communications'
+_journal_page_first   1951
+_journal_page_last   1952
+_journal_volume   2000
+_journal_year   2000
+_chemical_formula_sum   'Li O8 Sb3'
+_chemical_name_systematic   'Li (Sb3 O8)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   96.467
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   10.2578
+_cell_length_b   4.7063
+_cell_length_c   5.6017
+_cell_volume   268.708
+_citation_journal_id_ASTM   CHCOFS
+_cod_data_source_file   Lopes_CHCOFS_2000_987.cif
+_cod_data_source_block   Li1O8Sb3
+_cod_original_cell_volume   268.7085
+_cod_original_sg_symbol_Hall   '-P 2ybc (z,y,-x)'
+_cod_original_formula_sum   'Li1 O8 Sb3'
+_cod_database_code   7117434
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z
+  -x,-y,-z
+  x-1/2,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Li1  Li+1  0  0  0  1  0.0
+  Sb2  Sb+5  0.5  0  0.5  1  0.0
+  O3  O-2  0.8264  0.192  -0.013  1  0.0
+  Sb1  Sb+5  0.25108  0.5202  0.2375  1  0.0
+  O2  O-2  0.421  0.709  0.276  1  0.0
+  O4  O-2  0.5799  0.174  0.23  1  0.0
+  O1  O-2  0.3266  0.226  0.477  1  0.0

@@ -1,0 +1,246 @@
+# generated using pymatgen
+data_4030285
+loop_
+ _publ_author_name
+  'Jouanneaux, A.'
+  'Verbaere, A.'
+  'Guyomard, D.'
+  'Piffard, Y.'
+  'Oyetola, S.'
+  'Fitch, A. N.'
+_publ_section_title
+;
+Sb2(PO4)3, a new mixed-valence antimony phosphate - preparation and
+crystal-structure
+;
+_journal_name_full
+'European Journal of Solid State and Inorganic Chemistry'
+_journal_page_first   755
+_journal_page_last   765
+_journal_volume   28
+_journal_year   1991
+_chemical_formula_sum   'O12 P3 Sb2'
+_chemical_formula_weight   528.43
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   91.12(2)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   11.936(1)
+_cell_length_b   8.7354(8)
+_cell_length_c   8.3185(8)
+_cell_volume   867.17(14)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_wavelength   1.45072
+_exptl_crystal_density_diffrn   4.048
+_exptl_crystal_F_000   972
+_pd_proc_ls_prof_wR_expected   0.069
+_pd_proc_ls_prof_wR_factor   0.117
+_refine_ls_number_reflns   1571
+_refine_ls_R_I_factor   0.064
+_cod_data_source_file   EJSSIC-1991-28-755-765.cif
+_cod_data_source_block   Sb2(PO4)3
+_cod_original_sg_symbol_H-M   'P 21/n'
+_cod_database_code   4030285
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  1/2-x,1/2+y,1/2-z
+  3  -x,-y,-z
+  4  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sb1  Sb  Uiso  0.11800(10)  0.0305(3)  0.2536(2)  1.000  0.0066(3)
+  Sb2  Sb  Uiso  0.38720(10)  0.0324(3)  0.7468(2)  1.000  0.0066(3)
+  P1  P  Uiso  0.1458(4)  0.3840(6)  0.3891(7)  1.000  0.0198(8)
+  P2  P  Uiso  0.6496(4)  0.6181(6)  0.1220(7)  1.000  0.0198(8)
+  P3  P  Uiso  0.4948(5)  0.7547(7)  0.5395(6)  1.000  0.0198(8)
+  O1  O  Uiso  0.4060(10)  0.6830(10)  0.449(2)  1.000  0.0329(10)
+  O2  O  Uiso  0.4390(10)  0.8360(10)  0.675(2)  1.000  0.0329(10)
+  O3  O  Uiso  0.5830(10)  0.6430(10)  0.596(2)  1.000  0.0329(10)
+  O4  O  Uiso  0.5520(10)  0.8790(10)  0.4490(10)  1.000  0.0329(10)
+  O5  O  Uiso  0.1560(10)  0.2100(10)  0.408(2)  1.000  0.0329(10)
+  O6  O  Uiso  0.0210(10)  0.4130(10)  0.366(2)  1.000  0.0329(10)
+  O7  O  Uiso  0.1754(9)  0.4370(10)  0.564(2)  1.000  0.0329(10)
+  O8  O  Uiso  0.2079(9)  0.473(2)  0.277(2)  1.000  0.0329(10)
+  O9  O  Uiso  0.6920(10)  0.7850(10)  0.185(2)  1.000  0.0329(10)
+  O10  O  Uiso  0.6130(10)  0.6280(10)  0.944(2)  1.000  0.0329(10)
+  O11  O  Uiso  0.5516(9)  0.546(2)  0.230(2)  1.000  0.0329(10)
+  O12  O  Uiso  0.7460(9)  0.5110(10)  0.140(2)  1.000  0.0329(10)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0447  0.0284
+  'S.Brennan & P.L.Cowan (1992).Rev.Sci.Instr.,63,650'
+  P  P  0.2787  0.3872
+  'S.Brennan & P.L.Cowan (1992).Rev.Sci.Instr.,63,650'
+  Sb  Sb  0.0573  5.3347
+  'S.Brennan & P.L.Cowan (1992).Rev.Sci.Instr.,63,650'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  Sb1  O5  92.4(5)  2_545  .  yes
+  O5  Sb1  O8  92.9(6)  .  2_545  yes
+  O5  Sb1  O11  96.6(6)  .  2_545  yes
+  O3  Sb1  O5  178.3(6)  4_454  .  yes
+  O5  Sb1  O10  92.3(5)  .  4_454  yes
+  O1  Sb1  O8  99.5(6)  2_545  2_545  yes
+  O1  Sb1  O11  84.0(6)  2_545  2_545  yes
+  O1  Sb1  O3  86.3(5)  2_545  4_454  yes
+  O1  Sb1  O10  170.4(5)  2_545  4_454  yes
+  O8  Sb1  O11  169.9(7)  2_545  2_545  yes
+  O3  Sb1  O8  86.4(6)  4_454  2_545  yes
+  O8  Sb1  O10  88.7(6)  2_545  4_454  yes
+  O3  Sb1  O11  84.3(6)  4_454  2_545  yes
+  O10  Sb1  O11  87.2(6)  4_454  2_545  yes
+  O3  Sb1  O10  89.2(5)  4_454  4_454  yes
+  O2  Sb2  O7  90.0(5)  1_545  2_546  yes
+  O2  Sb2  O4  88.1(5)  1_545  3_666  yes
+  O2  Sb2  O9  169.7(5)  1_545  3_666  yes
+  O2  Sb2  O12  88.0(5)  1_545  4_455  yes
+  O2  Sb2  O6  96.5(5)  1_545  4_555  yes
+  O4  Sb2  O7  177.6(4)  3_666  2_546  yes
+  O7  Sb2  O9  85.3(5)  2_546  3_666  yes
+  O7  Sb2  O12  86.7(6)  2_546  4_455  yes
+  O6  Sb2  O7  91.0(6)  4_555  2_546  yes
+  O4  Sb2  O9  96.3(5)  3_666  3_666  yes
+  O4  Sb2  O12  91.7(6)  3_666  4_455  yes
+  O4  Sb2  O6  90.8(6)  3_666  4_555  yes
+  O9  Sb2  O12  82.5(5)  3_666  4_455  yes
+  O6  Sb2  O9  92.9(5)  4_555  3_666  yes
+  O6  Sb2  O12  175.0(6)  4_555  4_455  yes
+  O5  P1  O6  104.7(6)  .  .  yes
+  O5  P1  O7  100.5(8)  .  .  yes
+  O5  P1  O8  124.3(9)  .  .  yes
+  O6  P1  O7  105.8(8)  .  .  yes
+  O6  P1  O8  110.2(8)  .  .  yes
+  O7  P1  O8  109.6(8)  .  .  yes
+  O9  P2  O11  113.2(9)  .  .  yes
+  O9  P2  O12  107.2(7)  .  .  yes
+  O9  P2  O10  109.9(7)  .  1_554  yes
+  O11  P2  O12  105.4(8)  .  .  yes
+  O10  P2  O11  111.2(7)  1_554  .  yes
+  O10  P2  O12  109.7(8)  1_554  .  yes
+  O1  P3  O2  105.5(8)  .  .  yes
+  O1  P3  O3  112.8(7)  .  .  yes
+  O1  P3  O4  113.2(8)  .  .  yes
+  O2  P3  O3  113.0(9)  .  .  yes
+  O2  P3  O4  104.4(6)  .  .  yes
+  O3  P3  O4  107.8(7)  .  .  yes
+  Sb1  O1  P3  139.8(8)  2_555  .  yes
+  Sb2  O2  P3  143.8(9)  1_565  .  yes
+  Sb1  O3  P3  144.6(9)  4_555  .  yes
+  Sb2  O4  P3  152.6(6)  3_666  .  yes
+  Sb1  O5  P1  132.2(10)  .  .  yes
+  Sb2  O6  P1  155.3(11)  4_454  .  yes
+  Sb2  O7  P1  143.0(7)  2_556  .  yes
+  Sb1  O8  P1  135.7(9)  2_555  .  yes
+  Sb2  O9  P2  132.8(7)  3_666  .  yes
+  Sb1  O10  P2  132.5(6)  4_555  1_556  yes
+  Sb1  O11  P2  142.6(10)  2_555  .  yes
+  Sb2  O12  P2  146.9(9)  4_554  .  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Sb1  O5  2.072(13)  .  yes
+  Sb1  O1  2.163(14)  2_545  yes
+  Sb1  O8  2.158(11)  2_545  yes
+  Sb1  O11  2.036(11)  2_545  yes
+  Sb1  O3  2.042(13)  4_454  yes
+  Sb1  O10  2.105(14)  4_454  yes
+  Sb2  O2  1.923(10)  1_545  yes
+  Sb2  O7  1.943(15)  2_546  yes
+  Sb2  O4  1.956(9)  3_666  yes
+  Sb2  O9  1.944(11)  3_666  yes
+  Sb2  O12  1.927(12)  4_455  yes
+  Sb2  O6  1.923(13)  4_555  yes
+  P1  O5  1.533(10)  .  yes
+  P1  O6  1.520(13)  .  yes
+  P1  O7  1.561(17)  .  yes
+  P1  O8  1.432(16)  .  yes
+  P2  O9  1.627(11)  .  yes
+  P2  O11  1.617(15)  .  yes
+  P2  O12  1.488(11)  .  yes
+  P2  O10  1.538(17)  1_554  yes
+  P3  O1  1.432(14)  .  yes
+  P3  O2  1.499(15)  .  yes
+  P3  O3  1.504(13)  .  yes
+  P3  O4  1.494(11)  .  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O1  Sb1  O5  P1  11.0(10)  2_545  .  .  no
+  O8  Sb1  O5  P1  110.6(11)  2_545  .  .  no
+  O11  Sb1  O5  P1  -73.2(11)  2_545  .  .  no
+  O10  Sb1  O5  P1  -160.6(10)  4_454  .  .  no
+  O5  Sb1  O1  P3  -100.2(13)  .  2_545  2_545  no
+  O5  Sb1  O8  P1  -163.5(15)  .  2_545  2_545  no
+  O5  Sb1  O11  P2  -16.7(18)  .  2_545  2_545  no
+  O5  Sb1  O10  P2  -11.7(10)  .  4_454  4_455  no
+  O6  P1  O5  Sb1  63.1(12)  .  .  .  no
+  O7  P1  O5  Sb1  172.6(9)  .  .  .  no
+  O8  P1  O5  Sb1  -64.7(13)  .  .  .  no
+  O5  P1  O6  Sb2  -109.0(16)  .  .  4_454  no
+  O7  P1  O6  Sb2  145.3(15)  .  .  4_454  no
+  O8  P1  O6  Sb2  26.9(19)  .  .  4_454  no
+  O5  P1  O7  Sb2  -112.6(11)  .  .  2_556  no
+  O6  P1  O7  Sb2  -3.9(13)  .  .  2_556  no
+  O8  P1  O7  Sb2  114.9(12)  .  .  2_556  no
+  O5  P1  O8  Sb1  -65.9(18)  .  .  2_555  no
+  O6  P1  O8  Sb1  168.6(12)  .  .  2_555  no
+  O7  P1  O8  Sb1  52.6(16)  .  .  2_555  no
+  O11  P2  O9  Sb2  -45.7(15)  .  .  3_666  no
+  O12  P2  O9  Sb2  -161.5(12)  .  .  3_666  no
+  O10  P2  O9  Sb2  79.4(14)  1_554  .  3_666  no
+  O9  P2  O11  Sb1  92.9(17)  .  .  2_555  no
+  O12  P2  O11  Sb1  -150.2(16)  .  .  2_555  no
+  O10  P2  O11  Sb1  -31.4(19)  1_554  .  2_555  no
+  O9  P2  O12  Sb2  22(2)  .  .  4_554  no
+  O11  P2  O12  Sb2  -98.8(17)  .  .  4_554  no
+  O10  P2  O12  Sb2  141.4(16)  1_554  .  4_554  no
+  O9  P2  O10  Sb1  148.1(9)  .  1_554  4_554  no
+  O11  P2  O10  Sb1  -85.7(12)  .  1_554  4_554  no
+  O12  P2  O10  Sb1  30.5(11)  .  1_554  4_554  no
+  O2  P3  O1  Sb1  -175.3(11)  .  .  2_555  no
+  O3  P3  O1  Sb1  -51.5(15)  .  .  2_555  no
+  O4  P3  O1  Sb1  71.2(13)  .  .  2_555  no
+  O1  P3  O2  Sb2  -100.0(14)  .  .  1_565  no
+  O3  P3  O2  Sb2  136.4(13)  .  .  1_565  no
+  O4  P3  O2  Sb2  19.6(16)  .  .  1_565  no
+  O1  P3  O3  Sb1  -72.3(17)  .  .  4_555  no
+  O2  P3  O3  Sb1  47.3(16)  .  .  4_555  no
+  O4  P3  O3  Sb1  162.1(12)  .  .  4_555  no
+  O1  P3  O4  Sb2  -38.4(19)  .  .  3_666  no
+  O2  P3  O4  Sb2  -152.6(16)  .  .  3_666  no
+  O3  P3  O4  Sb2  87.0(17)  .  .  3_666  no

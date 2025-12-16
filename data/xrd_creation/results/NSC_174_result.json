@@ -1,0 +1,17 @@
+{
+  "experiment_id": "664c537eb64ca0e9d7b4ab5c",
+  "experiment_name": "NSC_174",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Ge-Na-O-P-Ti",
+  "target_formula": "Na1.1Ti1.0Ge1.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:07:58.153270",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

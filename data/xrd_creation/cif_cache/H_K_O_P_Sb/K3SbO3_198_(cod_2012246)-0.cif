@@ -1,0 +1,215 @@
+# generated using pymatgen
+data_2012246
+loop_
+ _publ_author_name
+  'Emmerling, Franziska'
+  'R\"ohr, Caroline'
+_publ_section_title
+;
+Alkaline metal oxoantimonates(III), <i>A</i>~3~[SbO~3~] (<i>A</i> = K
+or Cs)
+;
+_journal_issue   10
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   1127
+_journal_page_last   1128
+_journal_paper_doi   10.1107/S0108270101006230
+_journal_volume   57
+_journal_year   2001
+_chemical_formula_iupac   'K3 [Sb O3]'
+_chemical_formula_sum   'K3 O3 Sb'
+_chemical_formula_weight   287.05
+_chemical_name_systematic   'Tripotassium trioxoantimonate(III)'
+_space_group_IT_number   198
+_symmetry_cell_setting   cubic
+_symmetry_space_group_name_Hall   'P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P 21 3'
+_audit_creation_method   SHELXL97
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.352(5)
+_cell_length_b   8.352(5)
+_cell_length_c   8.352(5)
+_cell_measurement_reflns_used   25
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   29.3
+_cell_measurement_theta_min   3.8
+_cell_volume   582.6(6)
+_computing_cell_refinement   'CAD-4 Software Query'
+_computing_data_collection
+'CAD-4 Software (Enraf-Nonius, 1989) Query'
+_computing_data_reduction   'HELENA (Spek, 1996)'
+_computing_molecular_graphics
+'ORTEP (Johnson, 1968) and DRAWxtl (Finger & Kroeker, 1999)'
+_computing_publication_material   SHELXL97
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 1997)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   .996
+_diffrn_measured_fraction_theta_max   .996
+_diffrn_measurement_device_type   'Enraf-Nonius CAD-4'
+_diffrn_measurement_method   \w/2\q
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   .71070
+_diffrn_reflns_av_R_equivalents   .090
+_diffrn_reflns_av_sigmaI/netI   .057
+_diffrn_reflns_limit_h_max   10
+_diffrn_reflns_limit_h_min   0
+_diffrn_reflns_limit_k_max   10
+_diffrn_reflns_limit_k_min   -10
+_diffrn_reflns_limit_l_max   0
+_diffrn_reflns_limit_l_min   -10
+_diffrn_reflns_number   1510
+_diffrn_reflns_theta_full   27.40
+_diffrn_reflns_theta_max   27.40
+_diffrn_reflns_theta_min   4.23
+_diffrn_standards_decay_%   0
+_diffrn_standards_interval_time   120
+_diffrn_standards_number   3
+_exptl_absorpt_coefficient_mu   6.774
+_exptl_absorpt_correction_T_max   .508
+_exptl_absorpt_correction_T_min   .497
+_exptl_absorpt_correction_type   '\y scan'
+_exptl_absorpt_process_details   '(North et al., 1968)'
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   3.272
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   prism
+_exptl_crystal_F_000   528
+_exptl_crystal_size_max   .1
+_exptl_crystal_size_mid   .1
+_exptl_crystal_size_min   .1
+_refine_diff_density_max   .72
+_refine_diff_density_min   -1.03
+_refine_ls_abs_structure_details   'Flack (1983), 189 Friedel pairs'
+_refine_ls_abs_structure_Flack   -.03(11)
+_refine_ls_extinction_coef   .0025(9)
+_refine_ls_extinction_method   'SHELXL97 (Sheldrick, 1997)'
+_refine_ls_goodness_of_fit_ref   1.043
+_refine_ls_hydrogen_treatment   none
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   20
+_refine_ls_number_reflns   455
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.043
+_refine_ls_R_factor_all   .045
+_refine_ls_R_factor_gt   .026
+_refine_ls_shift/su_max   <0.001
+_refine_ls_shift/su_mean   .000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w = 1/[\s^2^(Fo^2^)+(0.0219P)^2^] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_ref   .054
+_reflns_number_gt   377
+_reflns_number_total   455
+_reflns_threshold_expression   I>2\s(I)
+_cod_data_source_file   br1326.cif
+_cod_data_source_block   I
+_cod_original_cell_volume   582.7(5)
+_cod_database_code   2012246
+_cod_database_fobs_code   2012246
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  'z, x, y'
+  'y, z, x'
+  'x+1/2, -y+1/2, -z'
+  'z+1/2, -x+1/2, -y'
+  'y+1/2, -z+1/2, -x'
+  '-x, y+1/2, -z+1/2'
+  '-z, x+1/2, -y+1/2'
+  '-y, z+1/2, -x+1/2'
+  '-x+1/2, -y, z+1/2'
+  '-z+1/2, -x, y+1/2'
+  '-y+1/2, -z, x+1/2'
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+ _atom_site_type_symbol
+  Sb  .51456(4)  .51456(4)  .51456(4)  .01377(18)  Uani  d  S  1  .
+  .  Sb
+  K1  .7890(2)  .7890(2)  .7890(2)  .0192(5)  Uani  d  S  1  .  .  K
+  K2  .2839(2)  .2839(2)  .2839(2)  .0177(5)  Uani  d  S  1  .  .  K
+  K3  .02565(16)  .02565(16)  .02565(16)  .0242(4)  Uani  d  S  1  .
+  .  K
+  O1  .0051(5)  .2108(4)  .4391(4)  .0206(8)  Uani  d  .  1  .  .  O
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Sb  .01377(18)  .01377(18)  .01377(18)  -.00078(16)  -.00078(16)
+  -.00078(16)
+  K1  .0192(5)  .0192(5)  .0192(5)  .0025(8)  .0025(8)  .0025(8)
+  K2  .0177(5)  .0177(5)  .0177(5)  -.0006(7)  -.0006(7)  -.0006(7)
+  K3  .0242(4)  .0242(4)  .0242(4)  -.0008(5)  -.0008(5)  -.0008(5)
+  O1  .0165(19)  .0179(17)  .0274(17)  -.003(2)  -.0001(19)
+  .0076(13)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  K  K  .2009  .2494
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Sb  Sb  -.5866  1.5461
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  .0106  .0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O1  Sb  O1  4_556  8_655  99.50(15)  y
+  O1  Sb  O1  4_556  12_565  99.50(15)  ?
+  O1  Sb  O1  8_655  12_565  99.51(15)  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Sb  O1  4_556  1.923(4)  y
+  Sb  O1  8_655  1.923(4)  ?
+  Sb  O1  12_565  1.923(4)  ?
+  K1  O1  5_556  2.758(5)  y
+  K1  O1  9_655  2.758(5)  n
+  K1  O1  10_565  2.758(5)  n
+  K1  O1  7_656  2.922(5)  y
+  K1  O1  6_566  2.922(5)  n
+  K1  O1  11_665  2.922(5)  n
+  K2  O1  2  2.734(4)  y
+  K2  O1  3  2.734(4)  n
+  K2  O1  .  2.734(4)  n
+  K2  O1  4_556  2.961(5)  y
+  K2  O1  12_565  2.961(5)  n
+  K2  O1  8_655  2.961(5)  n
+  K3  O1  7_545  2.659(4)  y
+  K3  O1  11_554  2.659(4)  n
+  K3  O1  6_455  2.659(4)  n
+  O1  Sb  4_456  1.923(4)  n
+  O1  K3  7  2.659(4)  n
+  O1  K1  10_564  2.758(5)  n
+  O1  K1  7_646  2.922(5)  n
+  O1  K2  4_456  2.961(5)  n

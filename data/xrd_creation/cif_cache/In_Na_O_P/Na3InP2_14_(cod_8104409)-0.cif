@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_8104409
+loop_
+ _publ_author_name
+  'Blase, W.'
+  'Cordier, G.'
+  'Somer, M.'
+_publ_section_title
+'Crystal structure of trisodium diphosphidoindate'
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   119
+_journal_page_last   120
+_journal_volume   195
+_journal_year   1991
+_chemical_formula_sum   'In Na3 P2'
+_chemical_name_systematic   'Na3 (In P2)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   92.39
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   9.401
+_cell_length_b   7.371
+_cell_length_c   15.358
+_cell_volume   1063.303
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Blase_ZEKRDZ_1991_1437.cif
+_cod_data_source_block   In1Na3P2
+_cod_original_formula_sum   'In1 Na3 P2'
+_cod_database_code   8104409
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  In1  In+3  0.63554  0.15572  0.21068  1  0.0
+  Na2  Na+1  0.56136  0.50949  0.89588  1  0.0
+  P4  P-3  0.87413  0.71615  0.97645  1  0.0
+  In2  In+3  0.87347  0.14081  0.45924  1  0.0
+  Na1  Na+1  0.87612  0.84555  0.29585  1  0.0
+  P1  P-3  0.6536  0.23703  0.04261  1  0.0
+  P3  P-3  0.40768  0.2023  0.77389  1  0.0
+  P2  P-3  0.87317  0.23919  0.2948  1  0.0
+  Na6  Na+1  0.32025  0.99722  0.1356  1  0.0
+  Na4  Na+1  0.38178  0.15411  0.95372  1  0.0
+  Na3  Na+1  0.18779  0.03533  0.34856  1  0.0
+  Na5  Na+1  0.93423  0.0228  0.10606  1  0.0

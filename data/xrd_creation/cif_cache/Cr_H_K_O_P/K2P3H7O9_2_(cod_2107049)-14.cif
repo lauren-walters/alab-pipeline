@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_2107049
+loop_
+ _publ_author_name
+  'Loub, J.'
+  'Paulus, H.'
+_publ_section_title
+;
+Structure of the 2:1 Adduct of Potassium Hydrogenphosphite and
+Phosphorous Acid
+;
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   2058
+_journal_page_last   2059
+_journal_volume   37
+_journal_year   1981
+_chemical_formula_sum   'H7 K2 O9 P3'
+_chemical_name_systematic   'K2 (H2 P O3)2 (H3 P O3)'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   112.58
+_cell_angle_beta   87.88
+_cell_angle_gamma   101.21
+_cell_formula_units_Z   2
+_cell_length_a   8.59
+_cell_length_b   9.01
+_cell_length_c   7.576
+_cell_volume   530.616
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Loub_ACBCAR_1981_1575.cif
+_cod_data_source_block   H7K2O9P3
+_cod_original_cell_volume   530.6157
+_cod_database_code   2107049
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  -0.2792  0.1886  0.0063  1  0.0
+  K2  K+1  0.9238  0.1499  0.4084  1  0.0
+  O8  O-2  0.291  0.1973  1.0214  1  0.0
+  P1  P+3  -0.1057  0.2224  -0.0621  1  0.0
+  H5  H+1  0.495  0.323  0.921  1  0.0
+  O9  O-2  0.2702  0.3652  0.8353  1  0.0
+  P2  P+3  0.2813  0.5183  0.4661  1  0.0
+  O6  O-2  0.1408  0.5331  0.3515  1  0.0
+  O2  O-2  0.0102  0.2412  0.0955  1  0.0
+  H2  H+1  -0.282  0.257  0.132  1  0.0
+  O7  O-2  0.3783  0.1017  0.6795  1  0.0
+  O5  O-2  0.2431  0.3634  0.5031  1  0.0
+  K1  K+1  0.4033  0.0974  0.3152  1  0.0
+  H4  H+1  0.09  0.438  0.261  1  0.0
+  P3  P+3  0.3659  0.2434  0.8563  1  0.0
+  O4  O-2  0.3231  0.6775  0.6334  1  0.0
+  H7  H+1  0.269  0.361  0.703  1  0.0
+  H6  H+1  0.194  0.218  1.058  1  0.0
+  O1  O-2  -0.0949  0.0942  -0.2545  1  0.0
+  H1  H+1  -0.094  0.368  -0.066  1  0.0
+  H3  H+1  0.39  0.499  0.341  1  0.0

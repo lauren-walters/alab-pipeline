@@ -1,0 +1,265 @@
+# generated using pymatgen
+data_2100155
+loop_
+ _publ_author_name
+  'Ricci, John S.'
+  'Stevens, Raymond C.'
+  'McMullan, Richard K.'
+  'Klooster, Wim T.'
+_publ_section_title
+;
+Structure of strontium hydroxide octahydrate, Sr(OH)~2~&#x00B7;8H~2~O,
+at 20, 100 and 200K from neutron diffraction
+;
+_journal_coeditor_code   BS5014
+_journal_issue   4
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   381
+_journal_page_last   386
+_journal_paper_doi   10.1107/S0108768105013480
+_journal_volume   61
+_journal_year   2005
+_chemical_formula_structural   Sr(OH)2.8H2O
+_chemical_formula_sum   'H18 O10 Sr'
+_chemical_formula_weight   265.76
+_space_group_IT_number   130
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   'P 4ab 2n -1ab'
+_symmetry_space_group_name_H-M   'P 4/n c c :1'
+_cell_angle_alpha   90.
+_cell_angle_beta   90.
+_cell_angle_gamma   90.
+_cell_formula_units_Z   4
+_cell_length_a   8.9990(10)
+_cell_length_b   8.9990(10)
+_cell_length_c   11.566(2)
+_cell_measurement_reflns_used   32
+_cell_measurement_temperature   200
+_cell_measurement_theta_max   30
+_cell_measurement_theta_min   27
+_cell_volume   936.6(2)
+_computing_cell_refinement   local
+_computing_data_collection   local
+_computing_data_reduction   local
+_computing_structure_refinement   'UPALS (Lundgren, 1982)'
+_computing_structure_solution   'structure known'
+_diffrn_ambient_temperature   200
+_diffrn_measurement_device   'H6S at HFBR'
+_diffrn_measurement_method   \q/2\q
+_diffrn_radiation_monochromator   'Ge (220)'
+_diffrn_radiation_probe   neutron
+_diffrn_radiation_source   reactor
+_diffrn_radiation_type   neutron
+_diffrn_radiation_wavelength   1.15940(10)
+_diffrn_reflns_av_R_equivalents   0.017
+_diffrn_reflns_limit_h_max   12
+_diffrn_reflns_limit_h_min   0
+_diffrn_reflns_limit_k_max   0
+_diffrn_reflns_limit_k_min   -12
+_diffrn_reflns_limit_l_max   16
+_diffrn_reflns_limit_l_min   0
+_diffrn_reflns_number   1423
+_diffrn_reflns_theta_max   55
+_diffrn_reflns_theta_min   2
+_diffrn_standards_decay_%   0
+_diffrn_standards_interval_time   60
+_diffrn_standards_number   2
+_exptl_absorpt_coefficient_mu   0.3173
+_exptl_absorpt_correction_T_max   0.596
+_exptl_absorpt_correction_T_min   0.486
+_exptl_absorpt_correction_type   analytical
+_exptl_crystal_colour   colourless
+_exptl_crystal_density_diffrn   1.8850(10)
+_exptl_crystal_density_meas   yes
+_exptl_crystal_density_method   calculated
+_exptl_crystal_description   'tetragonal bipyramid'
+_exptl_crystal_F_000   '-9.16 fm'
+_exptl_crystal_size_max   3.0
+_exptl_crystal_size_mid   2.0
+_exptl_crystal_size_min   1.7
+_refine_diff_density_max   '<2 % of largest O peak'
+_refine_diff_density_min   '<2 % of largest O peak'
+_refine_ls_abs_structure_details   ?
+_refine_ls_extinction_method   'type I, isotropic, Lorentzian mosaic'
+_refine_ls_goodness_of_fit_all   1.069
+_refine_ls_goodness_of_fit_obs   1.069
+_refine_ls_hydrogen_treatment   'refined (anisotropically)'
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   71
+_refine_ls_number_reflns   703
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_all   0.038
+_refine_ls_R_factor_gt   0.038
+_refine_ls_shift/esd_max   <0.1
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details   'w = 1/(s^2(F^2)+[0.02*F^2]^2'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_all   0.051
+_refine_ls_wR_factor_gt   0.051
+_reflns_number_observed   509
+_reflns_number_total   703
+_reflns_observed_criterion   >3s
+_cod_data_source_file   bs5014.cif
+_cod_data_source_block   SrOH_n200
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_cell_measurement_temperature' value '200 K' was changed to '200' -
+the value should be numeric and without a unit designator.
+'_atom_site_thermal_displace_type' tag value 'Uij' was replaced with
+'Uani' value 11 times. Automatic conversion script Id: cif_fix_values
+1646 2011-03-28 12:23:43Z adriana  The following automatic conversions
+were performed: '_cell_measurement_temperature' value '200 K' was
+changed to '200' - the value should be numeric and without a unit
+designator. Automatic conversion script Id: cif_fix_values 1715
+2011-07-08 13:25:40Z adriana  The following automatic conversions were
+performed: '_refine_ls_weighting_scheme' value
+'1/(s^2(F^2)+[0.02*F^2]^2' was changed to 'calc'. New tag
+'_refine_ls_weighting_details' was created. The value of the new tag
+was set to 'w = 1/(s^2(F^2)+[0.02*F^2]^2'. Automatic conversion script
+Id: cif_fix_values 3143 2015-03-26 13:38:13Z robertas
+;
+_cod_original_cell_volume   936.6(4)
+_cod_original_sg_symbol_H-M   'P 4/n c c'
+_cod_database_code   2100155
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -y,x,-z
+  y,-x,-z
+  -x,y,1/2+z
+  x,-y,1/2+z
+  y,x,1/2-z
+  -y,-x,1/2-z
+  1/2+x,1/2+y,-z
+  1/2-x,1/2-y,-z
+  1/2-y,1/2+x,z
+  1/2+y,1/2-x,z
+  1/2-x,1/2+y,1/2-z
+  1/2+x,1/2-y,1/2-z
+  1/2-y,1/2-x,1/2+z
+  1/2+y,1/2+x,1/2+z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Sr  0.0080(2)  0.0080(2)  0.0104(4)  -0.0001(5)  0.0000  0.0000
+  O1  0.0147(4)  0.0147(4)  0.0137(6)  0.0000  0.0000  0.0000
+  O2  0.0156(4)  0.0156(4)  0.0132(6)  0.0000  0.0000  0.0000
+  O3  0.0152(4)  0.0138(4)  0.0203(3)  -0.0003(3)  0.0018(2)
+  0.0004(2)
+  O4  0.0161(4)  0.0124(4)  0.0188(4)  0.0010(3)  -0.0016(2)
+  -0.0027(2)
+  H1  0.0321(7)  0.0321(7)  0.0192(12)  0.0000  0.0000  0.0000
+  H2  0.0344(8)  0.0344(8)  0.0198(11)  0.0000  0.0000  0.0000
+  H3  0.0261(7)  0.0226(8)  0.0297(7)  0.0039(5)  0.0016(5)
+  0.0011(4)
+  H4  0.0225(6)  0.0316(7)  0.0371(7)  0.0002(5)  -0.0007(5)
+  0.0004(5)
+  H5  0.0269(7)  0.0201(7)  0.0281(6)  0.0029(5)  -0.0017(5)
+  -0.0008(4)
+  H6  0.0348(7)  0.0310(7)  0.0266(6)  -0.0003(6)  0.0003(5)
+  0.0014(6)
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_calc_flag
+ _atom_site_calc_attached_atom
+ _atom_site_thermal_displace_type
+  Sr  0.00000  0.00000  0.25000  1.0000  d  ?  Uani
+  O1  0.00000  0.50000  0.09559(12)  1.0000  d  ?  Uani
+  O2  0.00000  0.50000  0.34153(12)  1.0000  d  ?  Uani
+  O3  0.09520(9)  0.22224(9)  0.12583(6)  1.0000  d  ?  Uani
+  O4  0.09536(9)  0.22369(9)  0.87663(6)  1.0000  d  ?  Uani
+  H1  0.0000  0.5000  0.0125(2)  1.0000  d  ?  Uani
+  H2  0.0000  0.5000  0.2583(2)  1.0000  d  ?  Uani
+  H3  0.0544(2)  0.3257(2)  0.12040(10)  1.0000  d  ?  Uani
+  H4  0.2027(2)  0.2370(2)  0.13310(10)  1.0000  d  ?  Uani
+  H5  0.0553(2)  0.3263(2)  0.86270(10)  1.0000  d  ?  Uani
+  H6  0.0892(2)  0.2094(2)  0.95950(10)  1.0000  d  ?  Uani
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_source
+  H  -3.7406  International_Tables_Vol_C
+  O  5.803  International_Tables_Vol_C
+  Sr  7.02  International_Tables_Vol_C
+loop_
+ _diffrn_standard_refln_index_h
+ _diffrn_standard_refln_index_k
+ _diffrn_standard_refln_index_l
+  2  -4  7
+  6  0  -4
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_publ_flag
+  H3  O3  H4  104.00(10)  yes
+  H5  O3  H6  105.10(10)  yes
+  O1  O3  O4  98.85(3)  no
+  O2  O4  O3  99.00(4)  no
+  O1  H1  O2  180.00  no
+  O2  H2  O1  180.00  no
+  O3  H3  O1  172.40(10)  no
+  O3  H4  O4  171.00(10)  no
+  O4  H5  O2  176.30(10)  no
+  O4  H6  O3  167.90(10)  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Sr  O3  .  .  2.6071(8)  yes
+  Sr  O4  .  .  2.6331(8)  yes
+  O3  O4  .  ?  3.0830(10)  yes
+  O3  O4  .  ?  3.0890(10)  yes
+  O3  O3  .  ?  3.296(2)  yes
+  O3  O4  .  ?  3.3700(10)  yes
+  O4  O4  .  ?  3.354(2)  yes
+  O1  H1  .  .  0.961(3)  yes
+  O2  H2  .  .  0.963(3)  yes
+  O3  H3  .  .  1.003(2)  yes
+  O3  H4  .  .  0.980(2)  yes
+  O4  H5  .  .  1.004(2)  yes
+  O4  H6  .  .  0.970(2)  yes
+loop_
+ _geom_contact_atom_site_label_1
+ _geom_contact_atom_site_label_2
+ _geom_contact_distance
+ _geom_contact_publ_flag
+  H1  O2  1.977(3)  no
+  O1  O2  2.938(2)  no
+  H2  O1  1.882(3)  no
+  O2  O1  2.844(2)  no
+  H3  O1  1.668(2)  no
+  O3  O1  2.6660(10)  no
+  H4  O4  1.855(2)  no
+  O3  O4  2.8270(10)  no
+  H5  O2  1.659(2)  no
+  O4  O2  2.6620(10)  no
+  H6  O3  1.926(2)  no
+  O4  O3  2.8820(10)  no
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2023-03-28T16:50:00+03:00
+;
+Changed the '_refine_ls_structure_factor_coef' data item value from
+'F2' to 'Fsqd' after consulting the original publication.
+;
+

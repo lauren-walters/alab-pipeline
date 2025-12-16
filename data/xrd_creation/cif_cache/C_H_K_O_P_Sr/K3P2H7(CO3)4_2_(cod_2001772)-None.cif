@@ -1,0 +1,134 @@
+# generated using pymatgen
+data_2001772
+loop_
+ _publ_author_name
+  'Lis, T.'
+_publ_section_title
+;
+Structure of phosphoglycolate (PG) in different ionization states.
+Structure of phosphoglycolic acid (H~3~PG) and its salts: KH~2~PG,
+NaH~2~PG, K~3~H~3~(PG)~2~, Na~2~HPG.0.5H~2~O, Na~5~H(PG)~2~.4H~2~O and
+Na~3~PG.4H~2~O
+;
+_journal_issue   4
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   696
+_journal_page_last   705
+_journal_paper_doi   10.1107/S0108270192010758
+_journal_volume   49
+_journal_year   1993
+_chemical_formula_moiety   'C4 H7 O12 P2,K3'
+_chemical_formula_sum   'C4 H7 K3 O12 P2'
+_chemical_formula_weight   426.34
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   113.97(6)
+_cell_angle_beta   95.41(6)
+_cell_angle_gamma   95.01(6)
+_cell_formula_units_Z   2
+_cell_length_a   8.643(6)
+_cell_length_b   9.013(7)
+_cell_length_c   9.907(7)
+_cell_volume   695.3(10)
+_diffrn_radiation_type   Mo
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   1.26
+_exptl_crystal_density_diffrn   2.036
+_exptl_crystal_density_meas   2.03
+_exptl_crystal_F_000   428
+_cod_data_source_file   mu1010.cif
+_cod_data_source_block   mu1010_structure_4_of_8
+_cod_original_cell_volume   695.3(9)
+_cod_database_code   2001772
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  K(1)  .16876(11)  .18216(9)  .95228(8)  .0341(7)
+  K(2)  .67537(12)  .55877(10)  .31234(9)  .0423(8)
+  K(3)  .5  .0  .5  .0341(9)
+  K(4)  .0  .0  .5  .0308(9)
+  P(A)  .22188(12)  .11771(11)  .27518(9)  .0231(7)
+  P(B)  .25864(12)  .79463(11)  .64340(9)  .0239(7)
+  O(1A)  .0681(3)  .0876(3)  .1798(3)  .0319(16)
+  O(2A)  .2864(3)  -.0523(3)  .2430(3)  .0339(19)
+  O(3A)  .2273(3)  .1926(3)  .4391(3)  .0339(19)
+  O(4A)  .3403(3)  .2129(3)  .2176(3)  .0310(18)
+  O(5A)  .4533(3)  -.2863(3)  .2331(3)  .0350(19)
+  O(6A)  .4356(4)  -.3904(3)  -.0127(3)  .058(3)
+  O(1B)  .3944(3)  .7006(3)  .6228(3)  .0339(17)
+  O(2B)  .1675(3)  .7529(3)  .4817(3)  .0397(19)
+  O(3B)  .2863(3)  .9750(3)  .7160(3)  .0393(19)
+  O(4B)  .1447(3)  .7213(3)  .7211(3)  .0343(19)
+  O(5B)  -.0391(3)  .6962(3)  .2434(3)  .035(2)
+  O(6B)  .0726(3)  .4849(3)  .1053(3)  .041(3)
+  C(1A)  .4096(5)  -.2855(5)  .1136(4)  .032(3)
+  C(2A)  .3175(7)  -.1577(6)  .0995(5)  .039(3)
+  C(1B)  .0519(5)  .5971(5)  .2298(4)  .027(3)
+  C(2B)  .1514(7)  .5950(5)  .3621(4)  .0307(11)
+  H(2A)  .226(6)  -.215(6)  .029(5)  .062(15)
+  H(21A)  .382(6)  -.105(6)  .048(5)  .065(15)
+  H(4A)  .442(8)  .238(8)  .276(7)  .13(3)
+  H(6A)  .5  -.5  .0  .10(3)
+  H(2B)  .250(5)  .569(5)  .339(4)  .034(12)
+  H(21B)  .104(5)  .524(5)  .391(4)  .038(12)
+  H(4B)  .071(6)  .790(6)  .759(5)  .062(16)
+  H(6B)  .0  .5  .0  .16(4)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+  O(1A)  P(A)  O(2A)  109.7(2)
+  O(1A)  P(A)  O(3A)  118.6(2)
+  O(1A)  P(A)  O(4A)  106.0(2)
+  O(2A)  P(A)  O(3A)  103.2(2)
+  O(2A)  P(A)  O(4A)  105.1(2)
+  O(3A)  P(A)  O(4A)  113.6(2)
+  P(A)  O(2A)  C(2A)  122.5(3)
+  O(2A)  C(2A)  C(1A)  109.1(4)
+  C(2A)  C(1A)  O(5A)  122.4(4)
+  C(2A)  C(1A)  O(6A)  112.7(4)
+  O(5A)  C(1A)  O(6A)  125.0(4)
+  O(1B)  P(B)  O(2B)  107.6(2)
+  O(1B)  P(B)  O(3B)  119.7(2)
+  O(1B)  P(B)  O(4B)  106.3(2)
+  O(2B)  P(B)  O(3B)  104.2(2)
+  O(2B)  P(B)  O(4B)  106.1(2)
+  O(3B)  P(B)  O(4B)  112.2(2)
+  P(B)  O(2B)  C(2B)  122.7(3)
+  O(2B)  C(2B)  C(1B)  108.5(4)
+  C(2B)  C(1B)  O(5B)  122.1(4)
+  C(2B)  C(1B)  O(6B)  113.2(4)
+  O(5B)  C(1B)  O(6B)  124.7(4)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+  P(A)  O(1A)  1.491(3)
+  P(A)  O(2A)  1.596(3)
+  P(A)  O(3A)  1.478(3)
+  P(A)  O(4A)  1.570(3)
+  O(2A)  C(2A)  1.420(5)
+  C(2A)  C(1A)  1.500(7)
+  C(1A)  O(5A)  1.211(4)
+  C(1A)  O(6A)  1.280(4)
+  P(B)  O(1B)  1.488(3)
+  P(B)  O(2B)  1.596(3)
+  P(B)  O(3B)  1.472(3)
+  P(B)  O(4B)  1.563(3)
+  O(2B)  C(2B)  1.419(5)
+  C(2B)  C(1B)  1.506(5)
+  C(1B)  O(5B)  1.216(5)
+  C(1B)  O(6B)  1.279(5)

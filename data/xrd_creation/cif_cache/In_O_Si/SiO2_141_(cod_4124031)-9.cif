@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_4124031
+loop_
+ _publ_author_name
+  'Foster, M.D.'
+  'Friedrichs, O.D.'
+  'Bell, R.G.'
+  'Paz, F.A.A.'
+  'Klinowski, J.'
+_publ_section_title
+'Chemical evaluation of hypothetical uninodal zeolites'
+_journal_name_full   'Journal of the American Chemical Society'
+_journal_page_first   9769
+_journal_page_last   9775
+_journal_paper_doi   10.1021/ja037334j
+_journal_volume   126
+_journal_year   2004
+_chemical_formula_sum   'O2 Si'
+_chemical_name_systematic   'Si O2'
+_space_group_IT_number   141
+_symmetry_space_group_name_Hall   'I 4bw 2bw -1bw'
+_symmetry_space_group_name_H-M   'I 41/a m d :1'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   32
+_cell_length_a   10.03404
+_cell_length_b   10.03404
+_cell_length_c   20.60379
+_cell_volume   2074.430
+_citation_journal_id_ASTM   JACSAT
+_cod_data_source_file   Foster_JACSAT_2004_488.cif
+_cod_data_source_block   O2Si1
+_cod_original_cell_volume   2074.43
+_cod_original_sg_symbol_Hall   '-I 4bd 2 (x+1/2,y+1/4,z+1/8)'
+_cod_original_formula_sum   'O2 Si1'
+_cod_struct_determination_method   theoretical
+_cod_database_code   4124031
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x+1/2,z+1/4
+  -x+1/2,-y+1/2,z+1/2
+  y+1/2,-x,z+3/4
+  x,-y+1/2,-z+1/4
+  y+1/2,x+1/2,-z+1/2
+  -x+1/2,y,-z+3/4
+  -y,-x,-z
+  -x,-y+1/2,-z+1/4
+  y,-x,-z
+  x-1/2,y,-z-1/4
+  -y-1/2,x+1/2,-z-1/2
+  -x,y,z
+  -y-1/2,-x,z-1/4
+  x-1/2,-y+1/2,z-1/2
+  y,x+1/2,z+1/4
+  x+1/2,y+1/2,z+1/2
+  -y+1/2,x+1,z+3/4
+  -x+1,-y+1,z+1
+  y+1,-x+1/2,z+5/4
+  x+1/2,-y+1,-z+3/4
+  y+1,x+1,-z+1
+  -x+1,y+1/2,-z+5/4
+  -y+1/2,-x+1/2,-z+1/2
+  -x+1/2,-y+1,-z+3/4
+  y+1/2,-x+1/2,-z+1/2
+  x,y+1/2,-z+1/4
+  -y,x+1,-z
+  -x+1/2,y+1/2,z+1/2
+  -y,-x+1/2,z+1/4
+  x,-y+1,z
+  y+1/2,x+1,z+3/4
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.30128  0.69871  0  1  0.0
+  Si1  Si+4  0.35159  0.65856  0.92796  1  0.0
+  O2  O-2  0.64354  0  0.32682  1  0.0
+  O4  O-2  0.25  0.71933  0.875  1  0.0
+  O3  O-2  0.5  0.78403  0.33533  1  0.0

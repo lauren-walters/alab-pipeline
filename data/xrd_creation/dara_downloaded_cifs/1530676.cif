@@ -1,0 +1,76 @@
+# generated using pymatgen
+data_1530676
+loop_
+ _publ_author_name
+  "Saf'yanov, Yu.N."
+  "Kuz'min, E.A."
+  'Belov, N.V.'
+_publ_section_title
+'Crystal structure of lanthanum decavanadate La2 V10 O28 (H2 O)20'
+_journal_name_full   'Doklady Akademii Nauk SSSR'
+_journal_page_first   603
+_journal_page_last   605
+_journal_volume   242
+_journal_year   1978
+_chemical_formula_sum   'H40 La2 O48 V10'
+_chemical_name_systematic   'La2 V10 O28 (H2 O)20'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2n'
+_symmetry_space_group_name_H-M   'P 1 1 21/n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   101.7
+_cell_formula_units_Z   2
+_cell_length_a   11.134
+_cell_length_b   16.18
+_cell_length_c   12.018
+_cell_volume   2120.037
+_citation_journal_id_ASTM   DANKAS
+_cod_data_source_file   Safyanov_DANKAS_1978_498.cif
+_cod_data_source_block   H40La2O48V10
+_cod_original_sg_symbol_Hall   '-P 2ybc (z,x-z,y)'
+_cod_database_code   1530676
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y+1/2,z+1/2
+  -x,-y,-z
+  x-1/2,y-1/2,-z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O5  O-2  0.4282  0.121  0.526  1  0.0
+  O19  O-2  0.3381  0.2207  0.8351  1  0.0
+  O15  O-2  0.3801  0.1488  0.0593  1  0.0
+  O1  O-2  0.24  0.1314  0.3872  1  0.0
+  O23  O-2  0.4524  0.4257  0.3788  1  0.0
+  O7  O-2  0.204  0.088  0.6156  1  0.0
+  La1  La+3  0.3959  0.3042  0.0106  1  0.0
+  O20  O-2  0.4055  0.2907  0.223  1  0.0
+  O2  O-2  0.3369  0.0185  0.2573  1  0.0
+  O14  O-2  0.5773  0.0838  0.8946  1  0.0
+  O10  O-2  0.5518  0.0643  0.1737  1  0.0
+  V1  V+5  0.3628  0.0852  0.3779  1  0.0
+  V3  V+5  0.6285  0.1302  0.2881  1  0.0
+  O16  O-2  0.1787  0.2348  0.0569  1  0.0
+  O22  O-2  0.2538  0.4869  0.4437  1  0.0
+  O11  O-2  0.7089  0.2101  0.2266  1  0.0
+  O17  O-2  0.5635  0.4242  0.0886  1  0.0
+  O6  O-2  0.5195  0.0195  0.3936  1  0.0
+  O9  O-2  0.4029  0.0846  0.7462  1  0.0
+  O3  O-2  0.4756  0.1651  0.3156  1  0.0
+  O21  O-2  0.597  0.2568  0.9768  1  0.0
+  O18  O-2  0.5114  0.4037  0.8542  1  0.0
+  V4  V+5  0.5865  0.09  0.5373  1  0.0
+  O12  O-2  0.6646  0.1634  0.4493  1  0.0
+  O4  O-2  0.702  0.0157  0.5266  1  0.0
+  O13  O-2  0.6257  0.1233  0.6672  1  0.0
+  O8  O-2  0.7434  0.0625  0.3119  1  0.0
+  O24  O-2  0.6157  0.576  0.3357  1  0.0
+  V5  V+5  0.5383  0.0366  0.7802  1  0.0
+  V2  V+5  0.3164  0.0382  0.6242  1  0.0

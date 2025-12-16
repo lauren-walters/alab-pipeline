@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_8103721
+loop_
+ _publ_author_name
+  'Stefanidis, T.'
+  'Nord, A.G.'
+_publ_section_title
+'The crystal structure of iron(II) diphosphate, Fe2 P2 O7'
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   255
+_journal_page_last   264
+_journal_volume   159
+_journal_year   1982
+_chemical_formula_sum   'Fe2 O7 P2'
+_chemical_name_systematic   'Fe2 (P2 O7)'
+_space_group_IT_number   1
+_symmetry_space_group_name_Hall   'P 1'
+_symmetry_space_group_name_H-M   'P 1'
+_cell_angle_alpha   98.73
+_cell_angle_beta   98.33
+_cell_angle_gamma   103.81
+_cell_formula_units_Z   1
+_cell_length_a   5.517
+_cell_length_b   5.255
+_cell_length_c   4.488
+_cell_volume   122.647
+_citation_journal_id_ASTM   ZEKRDZ
+_cod_data_source_file   Stefanidis_ZEKRDZ_1982_586.cif
+_cod_data_source_block   Fe2O7P2
+_cod_database_code   8103721
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Fe2  Fe+2  0.7001  0.396  0.4542  1  0.0
+  O5  O-2  0.084  0.45  0.696  1  0.0
+  O3  O-2  -0.075  0.703  0.251  1  0.0
+  O7  O-2  0.368  0.449  0.185  1  0.0
+  O1  O-2  0.629  0.694  0.757  1  0.0
+  O2  O-2  0.624  0.004  0.247  1  0.0
+  O4  O-2  0.036  0.028  0.956  1  0.0
+  P1  P+5  -0.2153  0.8632  0.061  1  0.0
+  Fe1  Fe+2  0.2998  0.7553  0.4886  1  0.0
+  O6  O-2  0.344  0.127  0.703  1  0.0
+  P2  P+5  0.206  0.2874  -0.1202  1  0.0

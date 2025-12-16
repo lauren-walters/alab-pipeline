@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_1532695
+loop_
+ _publ_author_name
+  'Boudaren, C.'
+  'Auffredic, J.P.'
+  'Bataille, T.'
+  'Louer, D.'
+_publ_section_title
+;
+Synthesis, structure determination from powder diffraction data and
+thermal behaviour of titanium(IV) oxalate (Ti2 O3 (H2 O)2) (C2 O4) *
+(H2  O)
+;
+_journal_name_full   'Solid State Sciences'
+_journal_page_first   175
+_journal_page_last   182
+_journal_volume   5
+_journal_year   2003
+_chemical_formula_sum   'C2 H4 O9 Ti2'
+_chemical_name_systematic   '(Ti2 O3 (H2 O)2) (C2 O4)'
+_space_group_IT_number   64
+_symmetry_space_group_name_Hall   '-C 2ac 2'
+_symmetry_space_group_name_H-M   'C m c a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   15.436
+_cell_length_b   10.421
+_cell_length_c   9.692
+_cell_volume   1559.041
+_citation_journal_id_ASTM   SSSCFJ
+_cod_data_source_file   Boudaren_SSSCFJ_2003_975.cif
+_cod_data_source_block   C2H4O9Ti2
+_cod_database_code   1532695
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x,-y,-z
+  -x+1/2,y,-z+1/2
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x,y,z
+  x-1/2,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1,-y+1/2,z+1/2
+  x+1/2,-y+1/2,-z
+  -x+1,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x,y+1/2,-z-1/2
+  -x+1/2,y+1/2,z
+  x,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O5  O-2  0.3051  0  0.5  1  0.0
+  O3  O-2  0.25  0.1046  0.75  1  0.0
+  Ti1  Ti+4  0.3168  0.1437  0.6016  1  0.0
+  O2  O-2  0.4308  0.1976  0.4776  1  0.0
+  O1  O-2  0.43  0.0773  0.7239  1  0.0
+  C1  C+3  0.5  0.098  0.66  1  0.0
+  O6  O-2  0.3594  0.32  0.6998  1  0.0
+  O4  O-2  0.25  0.25  0.5  1  0.0
+  C2  C+3  0.5  0.181  0.534  1  0.0

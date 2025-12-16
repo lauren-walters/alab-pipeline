@@ -1,0 +1,17 @@
+{
+  "experiment_id": "664c537cb64ca0e9d7b4ab0f",
+  "experiment_name": "NSC_167",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Al-Na-O-P-Sc",
+  "target_formula": "Na3.3Sc1.0Al1.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:03:57.388292",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

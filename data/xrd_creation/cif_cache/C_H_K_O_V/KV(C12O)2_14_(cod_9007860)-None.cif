@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_9007860
+loop_
+ _publ_author_name
+  'Braga, D.'
+  'Sabatino, P.'
+_publ_section_title
+'Bis(arene)vanadium complexes. A structural study  Sample: 2'
+_journal_name_full   'Acta Crystallographica, Section C'
+_journal_page_first   2308
+_journal_page_last   2312
+_journal_paper_doi   10.1107/S0108270190006539
+_journal_volume   46
+_journal_year   1990
+_chemical_formula_structural   KV(C9H12)2.C4H8O.0.5C4H8O2
+_chemical_formula_sum   'C24 K O2 V'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   89.58
+_cell_angle_gamma   90
+_cell_length_a   10.213
+_cell_length_b   18.518
+_cell_length_c   13.402
+_cell_formula_units_Z   4
+_cell_volume   2534.576
+_database_code_amcsd   0010223
+_exptl_crystal_density_diffrn   1.075
+_cod_original_formula_sum   'V K C24 O2'
+_cod_database_code   9007860
+_amcsd_formula_title   KV(C9H12)2.C4H8O.0.5C4H8O2
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2+y,1/2-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_attached_hydrogens
+  V1  0.05600  0.25260  -0.11690  0.06100  0
+  K1  0.29480  0.15910  0.13690  0.06900  0
+  C1  0.04300  0.16600  -0.00550  0.06000  0
+  C2  0.14550  0.14940  -0.07460  0.06800  1
+  C3  0.24610  0.19930  -0.09570  0.07000  0
+  C4  0.24290  0.26580  -0.04350  0.07500  1
+  C5  0.14580  0.28600  0.02560  0.07500  0
+  C6  0.04390  0.23300  0.04520  0.06300  1
+  C7  -0.05840  0.10940  0.01860  0.09000  3
+  C8  0.15070  0.35710  0.08080  0.11600  3
+  C9  0.35710  0.18020  -0.16500  0.13200  3
+  C10  0.05270  0.25980  -0.28150  0.07700  0
+  C11  0.07160  0.32860  -0.24020  0.07800  1
+  C12  -0.00890  0.35990  -0.16950  0.07700  0
+  C13  -0.11980  0.31840  -0.13780  0.08000  1
+  C14  -0.14540  0.24740  -0.17350  0.06300  0
+  C15  -0.05800  0.21950  -0.24560  0.06000  1
+  C16  -0.26340  0.20390  -0.14530  0.09500  3
+  C17  0.01410  0.43620  -0.13440  0.15800  3
+  C18  0.14000  0.22900  -0.36330  0.12100  3
+  O1  -0.37580  0.42530  -0.25870  0.11100  0
+  O2  -0.06280  0.44900  -0.44190  0.11800  0
+  C19  -0.12740  0.50900  -0.46940  0.13900  2
+  C20  -0.08770  0.53590  -0.55750  0.14600  2
+  C21  -0.48000  0.39190  -0.20430  0.14700  2
+  C22  -0.55200  0.44570  -0.15780  0.23900  2
+  C23  -0.46990  0.51040  -0.15850  0.24500  2
+  C24  -0.36350  0.49520  -0.22230  0.14800  2
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0010223

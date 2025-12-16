@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_9000070
+loop_
+ _publ_author_name
+  'Evans, H. T.'
+  'Mrose, M. E.'
+_publ_section_title
+'A crystal chemical study of montroseite and paramontroseite.'
+_journal_name_full   'American Mineralogist'
+_journal_page_first   861
+_journal_page_last   875
+_journal_volume   40
+_journal_year   1955
+_chemical_formula_structural   VO(OH)
+_chemical_formula_sum   'H O2 V'
+_chemical_name_mineral   Montroseite
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2c 2ab'
+_symmetry_space_group_name_H-M   'P b n m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   4.54
+_cell_length_b   9.97
+_cell_length_c   3.03
+_cell_volume   137.149
+_database_code_amcsd   0000073
+_exptl_crystal_density_diffrn   4.066
+_cod_original_formula_sum   'V (O2 H)'
+_cod_database_code   9000070
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,y,1/2-z
+  -x,-y,1/2+z
+  1/2+x,1/2-y,1/2+z
+  1/2-x,1/2+y,1/2-z
+  1/2-x,1/2+y,z
+  1/2+x,1/2-y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  V  -0.05170  0.14550  0.25000  0.00405  V  0
+  O-H1  0.30100  -0.19700  0.25000  0.00405  O  1
+  O2  -0.19800  -0.05400  0.25000  0.00405  O  0
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:45:42+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0000073

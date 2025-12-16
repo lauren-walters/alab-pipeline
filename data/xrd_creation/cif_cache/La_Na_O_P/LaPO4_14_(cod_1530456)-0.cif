@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_1530456
+loop_
+ _publ_author_name
+  'Mullica, D.F.'
+  'Grossie, D.A.'
+  'Milligan, W.O.'
+  'Beall, G.W.'
+  'Boatner, L.A.'
+_publ_section_title
+;
+Ninefold coordination in La P O4. Pentagonal interpenetrating
+tetrahedral  polyhedron
+;
+_journal_name_full   'Inorganica Chimica Acta'
+_journal_page_first   231
+_journal_page_last   236
+_journal_volume   95
+_journal_year   1984
+_chemical_formula_sum   'La O4 P'
+_chemical_name_systematic   'La P O4'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   103.21
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   6.825
+_cell_length_b   7.057
+_cell_length_c   6.482
+_cell_volume   303.938
+_citation_journal_id_ASTM   ICHAA3
+_cod_data_source_file   Mullica_ICHAA3_1984_981.cif
+_cod_data_source_block   La1O4P1
+_cod_original_cell_volume   303.9381
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum   'La1 O4 P1'
+_cod_database_code   1530456
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0.1289  0.215  0.7104  1  0.0
+  O2  O-2  0.3803  0.3306  0.497  1  0.0
+  La1  La+3  0.2816  0.1603  0.1007  1  0.0
+  O1  O-2  0.2494  0.0077  0.4458  1  0.0
+  P1  P+5  0.3044  0.1636  0.612  1  0.0
+  O3  O-2  0.476  0.1081  0.8023  1  0.0

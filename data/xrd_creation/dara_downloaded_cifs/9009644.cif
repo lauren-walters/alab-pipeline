@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_9009644
+loop_
+ _publ_author_name
+  'Idemoto, Y.'
+  'Richardson, J. W.'
+  'Koura, N.'
+  'Kohara, S.'
+  'Loong, C. K.'
+_publ_section_title
+;
+Crystal structure of (LixK1-x)2CO3 (x = 0,0.43,0.5,0.62,1)  by neutron
+powder diffraction analysis  Sample: neutron powder diffraction
+refinement
+;
+_journal_name_full   'Journal of Physics and Chemistry of Solids'
+_journal_page_first   363
+_journal_page_last   376
+_journal_paper_doi   10.1016/S0022-3697(97)00209-6
+_journal_volume   59
+_journal_year   1998
+_chemical_formula_structural   K2CO3
+_chemical_formula_sum   'C K2 O3'
+_space_group_crystal_system   monoclinic
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2ybc'
+_space_group_name_H-M_alt   'P 1 21/c 1'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   98.703
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.63961
+_cell_length_b   9.83912
+_cell_length_c   6.87407
+_cell_volume   377.042
+_database_code_amcsd   0013249
+_exptl_crystal_density_diffrn   2.435
+_cod_depositor_comments
+;
+Adding the _cell_formula_units_Z data item and updating the space
+group  information.  Antanas Vaitkus,  2018-01-15
+;
+_cod_original_formula_sum   'K2 C O3'
+_cod_database_code   9009644
+_amcsd_formula_title   K2CO3
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  x,1/2-y,1/2+z
+  3  -x,1/2+y,1/2-z
+  4  -x,-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  K1  0.01320  0.01340  0.04060  -0.00260  0.00900  -0.00040
+  K2  0.02930  0.02200  0.01820  0.00480  0.00550  0.00310
+  C  0.01160  0.01530  0.01600  -0.00040  0.00680  0.00030
+  O1  0.02400  0.01280  0.04050  0.00170  0.10900  0.00260
+  O2  0.01190  0.02140  0.04500  -0.00930  0.01370  -0.00440
+  O3  0.02740  0.02480  0.03670  0.00090  0.01590  -0.00770
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  K1  0.24180  0.08310  0.21480
+  K2  0.73910  0.26020  0.97200
+  C  0.24550  0.41740  0.24890
+  O1  0.73680  0.04300  0.20140
+  O2  0.06310  0.34880  0.27700
+  O3  0.41470  0.36090  0.17180
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0013249
+  2  ROD  3500088

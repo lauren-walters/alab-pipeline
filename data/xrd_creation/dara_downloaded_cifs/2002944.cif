@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_2002944
+loop_
+ _publ_author_name
+  'Darlington, C. N. W.'
+  'Knight, K. S.'
+_publ_section_title
+'High-temperature phases of NaNbO~3~ and NaTaO~3~'
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   24
+_journal_page_last   30
+_journal_paper_doi   10.1107/S010876819800963X
+_journal_volume   55
+_journal_year   1999
+_chemical_formula_moiety   'Na1 Nb1 O3'
+_chemical_formula_sum   'Na Nb O3'
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   '-P 4 2ab'
+_symmetry_space_group_name_H-M   'P 4/m b m'
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   5.56896(2)
+_cell_length_b   5.56896(2)
+_cell_length_c   3.94408(2)
+_cell_measurement_temperature   888
+_cell_volume   122.3190(9)
+_diffrn_radiation_probe   neutron
+_diffrn_radiation_type   neutron
+_cod_data_source_file   bm0015.cif
+_cod_data_source_block   Nb888
+_cod_original_formula_sum   'Na1 Nb1 O3'
+_cod_database_code   2002944
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-y, x, z'
+  '-x, -y, z'
+  'y, -x, z'
+  'x+1/2, -y+1/2, -z'
+  '-x+1/2, y+1/2, -z'
+  'y+1/2, x+1/2, -z'
+  '-y+1/2, -x+1/2, -z'
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Nb  .0  .0  .0
+  Na  .0  .5  .5
+  O1  .0  .0  .5
+  O2  .27190(10)  .22810(10)  .0

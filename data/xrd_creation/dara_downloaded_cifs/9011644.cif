@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_9011644
+loop_
+ _publ_author_name
+  'Hanfland, M.'
+  'Schwarz, U.'
+  'Syassen, K.'
+  'Takemura, K.'
+_publ_section_title
+;
+Crystal structure of the high-pressure phase silicon VI  Locality:
+synthetic  Sample: at P = 38.4 GPa  Note: phase VI
+;
+_journal_name_full   'Physical Review Letters'
+_journal_page_first   1197
+_journal_page_last   1200
+_journal_paper_doi   10.1103/PhysRevLett.82.1197
+_journal_volume   82
+_journal_year   1999
+_chemical_formula_sum   Si
+_chemical_name_common   Silicon
+_space_group_IT_number   64
+_space_group_name_Hall   '-C 2ac 2'
+_space_group_name_H-M_alt   'C m c e'
+_symmetry_space_group_name_Hall   '-C 2ac 2'
+_symmetry_space_group_name_H-M   'C m c e'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   8.0242
+_cell_length_b   4.7961
+_cell_length_c   4.7760
+_cell_formula_units_Z   16
+_cell_volume   183.804
+_diffrn_ambient_pressure   3.84e+07
+_exptl_crystal_density_diffrn   4.060
+_cod_original_sg_symbol_H-M   'C m c a'
+_cod_database_code   9011644
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  1/2+x,1/2+y,z
+  x,1/2-y,1/2+z
+  1/2+x,-y,1/2+z
+  -x,1/2+y,1/2-z
+  1/2-x,+y,1/2-z
+  -x,y,z
+  1/2-x,1/2+y,z
+  x,-y,-z
+  1/2+x,1/2-y,-z
+  x,1/2+y,1/2-z
+  1/2+x,+y,1/2-z
+  -x,1/2-y,1/2+z
+  1/2-x,-y,1/2+z
+  -x,-y,-z
+  1/2-x,1/2-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Si1  0.00000  0.17300  0.32800
+  Si2  0.21800  0.00000  0.00000
+_database_code_amcsd   0015281

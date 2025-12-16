@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_1525007
+loop_
+ _publ_author_name
+  'Numakura, H.'
+  'Koiwa, M.'
+  'Asano, H.'
+  'Izumi, F.'
+_publ_section_title
+'Neutron diffraction study of the metastable gamma titanium deuteride'
+_journal_name_full   'Acta Metallurgica'
+_journal_page_first   2267
+_journal_page_last   2273
+_journal_volume   36
+_journal_year   1988
+_chemical_formula_sum   'D3.4 Ti4'
+_chemical_name_systematic   '(Ti2 D3)1.6'
+_space_group_IT_number   66
+_symmetry_space_group_name_Hall   '-C 2 2c'
+_symmetry_space_group_name_H-M   'C c c m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   1
+_cell_length_a   4.189
+_cell_length_b   4.23
+_cell_length_c   4.584
+_cell_volume   81.226
+_citation_journal_id_ASTM   AMETAR
+_cod_data_source_file   Numakura_AMETAR_1988_121.cif
+_cod_data_source_block   D3.4Ti4
+_cod_original_cell_volume   81.22606
+_cod_database_code   1525007
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  x,-y,-z+1/2
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,y,-z
+  -x,y,z-1/2
+  x,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1/2,-y+1/2,z
+  x+1/2,-y+1/2,-z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x+1/2,y+1/2,-z
+  -x+1/2,y+1/2,z-1/2
+  x+1/2,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Ti1  Ti  0.25  0.25  0  1  0.0
+  D1  D  0  0  0.25  0.85  0.0

@@ -1,0 +1,44 @@
+{
+  "experiment_id": "65b2b309d84e296e51f0fcd4",
+  "experiment_name": "Na_204",
+  "success": true,
+  "error": null,
+  "rwp": 29.75,
+  "rp": 21.79,
+  "rexp": 2.8,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "P_64_(cod_4307698)-20",
+      "spacegroup": "C2/m2/c2_1/a",
+      "weight_fraction": 0.0836,
+      "weight_fraction_error": 0.0025,
+      "lattice_a_nm": 0.32832,
+      "lattice_b_nm": 1.04873,
+      "lattice_c_nm": 0.43524,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 30.53
+    },
+    {
+      "phase_name": "Na4Ti5O12_143_(cod_2011660)-None",
+      "spacegroup": "P3",
+      "weight_fraction": 0.0389,
+      "weight_fraction_error": 0.0029,
+      "lattice_a_nm": 0.534,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.95455,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 37.61
+    }
+  ],
+  "chemical_system": "Na-O-P-Ti",
+  "target_formula": "Na4TiP2O9",
+  "analysis_timestamp": "2025-12-06T17:06:39.821461",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

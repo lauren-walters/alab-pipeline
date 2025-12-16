@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_1536423
+loop_
+ _publ_author_name
+  'Palkina, K.K.'
+  'Maksimova, S.I.'
+  'Chibiskova, N.T.'
+  'Chudinova, N.N.'
+  'Karmanovskaya, N.B.'
+_publ_section_title
+"Crystal structure of indium polyphosphate In (P O3)3-C'"
+_journal_name_full   'Zhurnal Neorganicheskoi Khimii'
+_journal_page_first   1270
+_journal_page_last   1272
+_journal_volume   38
+_journal_year   1993
+_chemical_formula_sum   'In O9 P3'
+_chemical_name_systematic   'In (P O3)3'
+_space_group_IT_number   9
+_symmetry_space_group_name_Hall   'C -2yc'
+_symmetry_space_group_name_H-M   'C 1 c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   135.03
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   13.55
+_cell_length_b   6.538
+_cell_length_c   10.894
+_cell_volume   682.070
+_citation_journal_id_ASTM   ZNOKAQ
+_cod_data_source_file   Palkina_ZNOKAQ_1993_1360.cif
+_cod_data_source_block   In1O9P3
+_cod_original_cell_volume   682.0703
+_cod_original_formula_sum   'In1 O9 P3'
+_cod_database_code   1536423
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,-y,z+1/2
+  x+1/2,y+1/2,z
+  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O4  O-2  0.206  0.105  0.659  1  0.0
+  O6  O-2  0.951  0.247  0.344  1  0.0
+  O8  O-2  0.245  0.319  0.525  1  0.0
+  In1  In+3  0  0.006  0  1  0.0
+  O9  O-2  0.089  0.174  0.225  1  0.0
+  O3  O-2  0.944  0.192  0.587  1  0.0
+  P3  P+5  0.1851  0.3417  0.3307  1  0.0
+  O7  O-2  0.113  0.448  0.778  1  0.0
+  P2  P+5  -0.006  0.6753  0.242  1  0.0
+  O5  O-2  0.301  0.372  0.341  1  0.0
+  O2  O-2  0.026  0.238  0.879  1  0.0
+  P1  P+5  0.3135  0.8365  0.1676  1  0.0
+  O1  O-2  0.365  0.01  0.123  1  0.0

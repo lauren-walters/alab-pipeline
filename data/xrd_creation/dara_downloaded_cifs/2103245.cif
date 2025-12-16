@@ -1,0 +1,532 @@
+# generated using pymatgen
+data_2103245
+loop_
+ _publ_author_name
+  'Arakcheeva, Alla'
+  'Chapuis, Gervais'
+  'Grinevitch, Vladimir'
+_publ_section_title   'The self-hosting structure of \b-Ta'
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   1
+_journal_page_last   7
+_journal_paper_doi   10.1107/S0108768101017918
+_journal_volume   58
+_journal_year   2002
+_chemical_formula_sum   Ta
+_chemical_formula_weight   5428.4
+_space_group_IT_number   113
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   'P -4 2ab'
+_symmetry_space_group_name_H-M   'P -4 21 m'
+_atom_sites_solution_primary   'Paterson function'
+_atom_sites_solution_secondary   difmap
+_cell_angle_alpha   90.0000(10)
+_cell_angle_beta   90.0000(10)
+_cell_angle_gamma   90.0000(10)
+_cell_formula_units_Z   30
+_cell_length_a   10.211(3)
+_cell_length_b   10.211(3)
+_cell_length_c   5.3064(10)
+_cell_measurement_pressure   '1 Atm'
+_cell_measurement_reflns_used   2054
+_cell_measurement_temperature   295
+_cell_measurement_theta_max   51.73
+_cell_measurement_theta_min   3.84
+_cell_volume   553.3(2)
+_computing_cell_refinement
+;
+CRYSALIS DATA REDUCTION (KM4 Software, Version 1.164 (release 08.06.00
+CrysAlis164))
+;
+_computing_data_collection
+;
+Oxford Diffraction Ltd, 2001. CrysAlis Software System, Vertion 1.166.
+Oxford. England.
+;
+_computing_data_reduction
+;
+CRYSALIS DATA REDUCTION (KM4 Software, Version 1.164 (release 08.06.00
+CrysAlis164))
+;
+_computing_structure_refinement
+'Jana2000 (V.Petricek &amp; M.Dusek, 2001)'
+_diffrn_measurement_device   CCD
+_diffrn_measurement_device_type   KM4CCD
+_diffrn_measurement_method   \o
+_diffrn_radiation_type   'Mo K\a'
+_diffrn_radiation_wavelength   .71069
+_diffrn_reflns_av_R_equivalents   .1449
+_diffrn_reflns_av_sigmaI/netI   .0719
+_diffrn_reflns_limit_h_max   15
+_diffrn_reflns_limit_h_min   -15
+_diffrn_reflns_limit_k_max   21
+_diffrn_reflns_limit_k_min   -21
+_diffrn_reflns_limit_l_max   11
+_diffrn_reflns_limit_l_min   0
+_diffrn_reflns_number   15963
+_diffrn_reflns_theta_max   51.94
+_diffrn_reflns_theta_min   3.84
+_exptl_absorpt_coefficient_mu   147.4799
+_exptl_absorpt_correction_T_max   .0858
+_exptl_absorpt_correction_T_min   .0280
+_exptl_absorpt_correction_type   sphere
+_exptl_crystal_colour   silver
+_exptl_crystal_density_diffrn   16.287
+_exptl_crystal_density_meas   ?
+_exptl_crystal_description   isometric
+_exptl_crystal_F_000   2190
+_exptl_crystal_size_max   .022
+_exptl_crystal_size_mid   .02
+_exptl_crystal_size_min   .018
+_exptl_crystal_size_rad   .02
+_refine_diff_density_max   19.99
+_refine_diff_density_min   -11.39
+_refine_ls_extinction_coef   .00150(13)
+_refine_ls_extinction_method   'B-C type 1 Gaussian isotropic'
+_refine_ls_goodness_of_fit_obs   3.64
+_refine_ls_goodness_of_fit_ref   3.88
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   230
+_refine_ls_number_reflns   1398
+_refine_ls_R_factor_all   .1663
+_refine_ls_R_factor_gt   .0566
+_refine_ls_shift/su_max   .0056
+_refine_ls_shift/su_mean   .0011
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   w=1/(\s^2^(F)+0.0001F^2^)
+_refine_ls_weighting_scheme   sigma
+_refine_ls_wR_factor_gt   .0258
+_refine_ls_wR_factor_ref   .0298
+_reflns_number_gt   1398
+_reflns_number_total   3114
+_reflns_observed_criterion   5
+_cod_data_source_file   os0079.cif
+_cod_data_source_block   Ta-tetragonal
+_cod_depositor_comments
+;
+Moving the _atom_site_adp_type, _atom_site_occupancy and
+_atom_site_type_symbol data items into the main _atom_site  loop.
+Antanas Vaitkus,  2017-01-10 The following automatic conversions were
+performed: '_exptl_crystal_density_meas' value 'none' was changed to
+'?' - the value is perceived as not measured. Automatic conversion
+script Id: cif_fix_values 3008 2015-01-20 13:52:24Z robertas
+;
+_cod_original_sg_symbol_H-M   P-421m
+_cod_database_code   2103245
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  y,-x,-z
+  3  1/2+x,1/2-y,-z
+  4  -x,-y,z
+  5  1/2-y,1/2-x,z
+  6  -y,x,-z
+  7  1/2-x,1/2+y,-z
+  8  1/2+y,1/2+x,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+  Ta1  Ta  .5  0  .228(2)  1  .0132(11)  Uani
+  Ta5  Ta  .8142(6)  .3142(6)  .0026(14)  1  .0195(13)  Uani
+  Ta3  Ta  .0343(3)  .1267(4)  .2546(15)  1  .0291(12)  Uani
+  Ta4  Ta  .6033(4)  .1033(4)  .764(2)  1  .0279(7)  Uani
+  Ta2  Ta  .7598(3)  .0677(3)  .2350(12)  1  .0152(7)  Uani
+  Ta6  Ta  .3196(5)  .1804(5)  .4912(12)  1  .0194(15)  Uani
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+ _atom_site_aniso_type_symbol
+  Ta1  .0152(16)  .0152(16)  .009(2)  -.005(2)  0  0  Ta
+  Ta5  .017(2)  .017(2)  .024(3)  .008(2)  -.0067(15)  -.0067(15)
+  Ta
+  Ta3  .0202(17)  .0178(18)  .049(2)  .0071(12)  -.016(2)  -.018(2)
+  Ta
+  Ta4  .0194(16)  .0194(16)  .044735  .0035(18)  -.013(2)  -.013(2)
+  Ta
+  Ta2  .0145(12)  .0187(12)  .0123(13)  .0024(8)  .0006(17)
+  -.0004(18)  Ta
+  Ta6  .018(2)  .018(2)  .021(3)  -.002(2)  .0054(17)  -.0054(17)
+  Ta
+loop_
+ _atom_type_symbol
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Ta  -.705  6.523
+  'International Tables Vol C Tables  4.2.6.8 and 6.1.1.1'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+  Ta5  Ta1  Ta5  2_565  6_645  131.0(4)
+  Ta5  Ta1  Ta4  2_565  1_554  69.2(2)
+  Ta5  Ta1  Ta4  2_565  .  111.5(2)
+  Ta5  Ta1  Ta4  2_565  4_654  69.2(2)
+  Ta5  Ta1  Ta4  2_565  4_655  111.5(2)
+  Ta5  Ta1  Ta2  2_565  .  117.8(2)
+  Ta5  Ta1  Ta2  2_565  4_655  62.96(16)
+  Ta5  Ta1  Ta2  2_565  5_555  117.8(2)
+  Ta5  Ta1  Ta2  2_565  8_545  62.96(16)
+  Ta5  Ta1  Ta6  2_565  .  52.72(19)
+  Ta5  Ta1  Ta6  2_565  4_655  176.3(4)
+  Ta5  Ta1  Ta5  6_645  2_565  131.0(4)
+  Ta5  Ta1  Ta4  6_645  1_554  69.2(2)
+  Ta5  Ta1  Ta4  6_645  .  111.5(2)
+  Ta5  Ta1  Ta4  6_645  4_654  69.2(2)
+  Ta5  Ta1  Ta4  6_645  4_655  111.5(2)
+  Ta5  Ta1  Ta2  6_645  .  62.96(16)
+  Ta5  Ta1  Ta2  6_645  4_655  117.8(2)
+  Ta5  Ta1  Ta2  6_645  5_555  62.96(16)
+  Ta5  Ta1  Ta2  6_645  8_545  117.8(2)
+  Ta5  Ta1  Ta6  6_645  .  176.3(4)
+  Ta5  Ta1  Ta6  6_645  4_655  52.72(19)
+  Ta4  Ta1  Ta4  1_554  .  121.1(2)
+  Ta4  Ta1  Ta4  1_554  4_654  62.5(3)
+  Ta4  Ta1  Ta4  1_554  4_655  176.4(2)
+  Ta4  Ta1  Ta2  1_554  .  64.2(2)
+  Ta4  Ta1  Ta2  1_554  4_655  117.3(3)
+  Ta4  Ta1  Ta2  1_554  5_555  117.3(3)
+  Ta4  Ta1  Ta2  1_554  8_545  64.2(2)
+  Ta4  Ta1  Ta6  1_554  .  113.9(2)
+  Ta4  Ta1  Ta6  1_554  4_655  113.9(2)
+  Ta4  Ta1  Ta4  .  1_554  121.1(2)
+  Ta4  Ta1  Ta4  .  4_654  176.4(2)
+  Ta4  Ta1  Ta4  .  4_655  55.3(2)
+  Ta4  Ta1  Ta2  .  .  65.6(2)
+  Ta4  Ta1  Ta2  .  4_655  112.8(3)
+  Ta4  Ta1  Ta2  .  5_555  112.8(3)
+  Ta4  Ta1  Ta2  .  8_545  65.6(2)
+  Ta4  Ta1  Ta6  .  .  65.2(2)
+  Ta4  Ta1  Ta6  .  4_655  65.2(2)
+  Ta4  Ta1  Ta4  4_654  1_554  62.5(3)
+  Ta4  Ta1  Ta4  4_654  .  176.4(2)
+  Ta4  Ta1  Ta4  4_654  4_655  121.1(2)
+  Ta4  Ta1  Ta2  4_654  .  117.3(3)
+  Ta4  Ta1  Ta2  4_654  4_655  64.2(2)
+  Ta4  Ta1  Ta2  4_654  5_555  64.2(2)
+  Ta4  Ta1  Ta2  4_654  8_545  117.3(3)
+  Ta4  Ta1  Ta6  4_654  .  113.9(2)
+  Ta4  Ta1  Ta6  4_654  4_655  113.9(2)
+  Ta4  Ta1  Ta4  4_655  1_554  176.4(2)
+  Ta4  Ta1  Ta4  4_655  .  55.3(2)
+  Ta4  Ta1  Ta4  4_655  4_654  121.1(2)
+  Ta4  Ta1  Ta2  4_655  .  112.8(3)
+  Ta4  Ta1  Ta2  4_655  4_655  65.6(2)
+  Ta4  Ta1  Ta2  4_655  5_555  65.6(2)
+  Ta4  Ta1  Ta2  4_655  8_545  112.8(3)
+  Ta4  Ta1  Ta6  4_655  .  65.2(2)
+  Ta4  Ta1  Ta6  4_655  4_655  65.2(2)
+  Ta2  Ta1  Ta2  .  4_655  178.4(5)
+  Ta2  Ta1  Ta2  .  5_555  119.18(11)
+  Ta2  Ta1  Ta2  .  8_545  60.80(11)
+  Ta2  Ta1  Ta6  .  .  116.0(2)
+  Ta2  Ta1  Ta6  .  4_655  63.10(16)
+  Ta2  Ta1  Ta2  4_655  .  178.4(5)
+  Ta2  Ta1  Ta2  4_655  5_555  60.80(11)
+  Ta2  Ta1  Ta2  4_655  8_545  119.18(11)
+  Ta2  Ta1  Ta6  4_655  .  63.10(16)
+  Ta2  Ta1  Ta6  4_655  4_655  116.0(2)
+  Ta2  Ta1  Ta2  5_555  .  119.18(11)
+  Ta2  Ta1  Ta2  5_555  4_655  60.80(11)
+  Ta2  Ta1  Ta2  5_555  8_545  178.4(5)
+  Ta2  Ta1  Ta6  5_555  .  116.0(2)
+  Ta2  Ta1  Ta6  5_555  4_655  63.10(16)
+  Ta2  Ta1  Ta2  8_545  .  60.80(11)
+  Ta2  Ta1  Ta2  8_545  4_655  119.18(11)
+  Ta2  Ta1  Ta2  8_545  5_555  178.4(5)
+  Ta2  Ta1  Ta6  8_545  .  63.10(16)
+  Ta2  Ta1  Ta6  8_545  4_655  116.0(2)
+  Ta6  Ta1  Ta6  .  4_655  123.5(4)
+  Ta6  Ta1  Ta6  4_655  .  123.5(4)
+  Ta3  Ta5  Ta3  1_655  3_555  154.1(2)
+  Ta3  Ta5  Ta3  1_655  6_655  61.4(2)
+  Ta3  Ta5  Ta3  1_655  8_555  130.5(3)
+  Ta3  Ta5  Ta4  1_655  1_554  103.0(2)
+  Ta3  Ta5  Ta4  1_655  2_666  51.52(15)
+  Ta3  Ta5  Ta4  1_655  6_656  101.3(2)
+  Ta3  Ta5  Ta2  1_655  .  55.69(15)
+  Ta3  Ta5  Ta2  1_655  2_665  54.7(2)
+  Ta3  Ta5  Ta2  1_655  7_655  149.8(2)
+  Ta3  Ta5  Ta2  1_655  8_545  108.5(2)
+  Ta3  Ta5  Ta6  1_655  3_555  114.2(2)
+  Ta3  Ta5  Ta6  1_655  3_556  65.5(2)
+  Ta3  Ta5  Ta3  3_555  1_655  154.1(2)
+  Ta3  Ta5  Ta3  3_555  6_655  98.8(2)
+  Ta3  Ta5  Ta3  3_555  8_555  61.4(2)
+  Ta3  Ta5  Ta4  3_555  1_554  51.75(16)
+  Ta3  Ta5  Ta4  3_555  2_666  154.3(2)
+  Ta3  Ta5  Ta4  3_555  6_656  102.5(2)
+  Ta3  Ta5  Ta2  3_555  .  100.1(2)
+  Ta3  Ta5  Ta2  3_555  2_665  129.7(3)
+  Ta3  Ta5  Ta2  3_555  7_655  55.46(15)
+  Ta3  Ta5  Ta2  3_555  8_545  55.8(2)
+  Ta3  Ta5  Ta6  3_555  3_555  65.9(2)
+  Ta3  Ta5  Ta6  3_555  3_556  115.9(2)
+  Ta3  Ta5  Ta3  6_655  1_655  61.4(2)
+  Ta3  Ta5  Ta3  6_655  3_555  98.8(2)
+  Ta3  Ta5  Ta3  6_655  8_555  154.1(2)
+  Ta3  Ta5  Ta4  6_655  1_554  51.75(16)
+  Ta3  Ta5  Ta4  6_655  2_666  102.5(2)
+  Ta3  Ta5  Ta4  6_655  6_656  154.3(2)
+  Ta3  Ta5  Ta2  6_655  .  55.8(2)
+  Ta3  Ta5  Ta2  6_655  2_665  55.46(15)
+  Ta3  Ta5  Ta2  6_655  7_655  129.7(3)
+  Ta3  Ta5  Ta2  6_655  8_545  100.1(2)
+  Ta3  Ta5  Ta6  6_655  3_555  65.9(2)
+  Ta3  Ta5  Ta6  6_655  3_556  115.9(2)
+  Ta3  Ta5  Ta3  8_555  1_655  130.5(3)
+  Ta3  Ta5  Ta3  8_555  3_555  61.4(2)
+  Ta3  Ta5  Ta3  8_555  6_655  154.1(2)
+  Ta3  Ta5  Ta4  8_555  1_554  103.0(2)
+  Ta3  Ta5  Ta4  8_555  2_666  101.3(2)
+  Ta3  Ta5  Ta4  8_555  6_656  51.52(15)
+  Ta3  Ta5  Ta2  8_555  .  108.5(2)
+  Ta3  Ta5  Ta2  8_555  2_665  149.8(2)
+  Ta3  Ta5  Ta2  8_555  7_655  54.7(2)
+  Ta3  Ta5  Ta2  8_555  8_545  55.69(15)
+  Ta3  Ta5  Ta6  8_555  3_555  114.2(2)
+  Ta3  Ta5  Ta6  8_555  3_556  65.5(2)
+  Ta4  Ta5  Ta4  1_554  2_666  153.1(2)
+  Ta4  Ta5  Ta4  1_554  6_656  153.1(2)
+  Ta4  Ta5  Ta2  1_554  .  57.5(2)
+  Ta4  Ta5  Ta2  1_554  2_665  103.9(2)
+  Ta4  Ta5  Ta2  1_554  7_655  103.9(2)
+  Ta4  Ta5  Ta2  1_554  8_545  57.5(2)
+  Ta4  Ta5  Ta6  1_554  3_555  69.2(2)
+  Ta4  Ta5  Ta6  1_554  3_556  114.2(3)
+  Ta4  Ta5  Ta4  2_666  1_554  153.1(2)
+  Ta4  Ta5  Ta4  2_666  6_656  53.55(16)
+  Ta4  Ta5  Ta2  2_666  .  103.7(2)
+  Ta4  Ta5  Ta2  2_666  2_665  56.5(2)
+  Ta4  Ta5  Ta2  2_666  7_655  99.4(2)
+  Ta4  Ta5  Ta2  2_666  8_545  132.4(3)
+  Ta4  Ta5  Ta6  2_666  3_555  110.4(3)
+  Ta4  Ta5  Ta6  2_666  3_556  66.6(2)
+  Ta4  Ta5  Ta4  6_656  1_554  153.1(2)
+  Ta4  Ta5  Ta4  6_656  2_666  53.55(16)
+  Ta4  Ta5  Ta2  6_656  .  132.4(3)
+  Ta4  Ta5  Ta2  6_656  2_665  99.4(2)
+  Ta4  Ta5  Ta2  6_656  7_655  56.5(2)
+  Ta4  Ta5  Ta2  6_656  8_545  103.7(2)
+  Ta4  Ta5  Ta6  6_656  3_555  110.4(3)
+  Ta4  Ta5  Ta6  6_656  3_556  66.6(2)
+  Ta2  Ta5  Ta2  .  2_665  97.4(2)
+  Ta2  Ta5  Ta2  .  7_655  154.1(2)
+  Ta2  Ta5  Ta2  .  8_545  58.09(16)
+  Ta2  Ta5  Ta6  .  3_555  117.0(3)
+  Ta2  Ta5  Ta6  .  3_556  65.8(2)
+  Ta2  Ta5  Ta2  2_665  .  97.4(2)
+  Ta2  Ta5  Ta2  2_665  7_655  105.2(2)
+  Ta2  Ta5  Ta2  2_665  8_545  154.1(2)
+  Ta2  Ta5  Ta6  2_665  3_555  64.1(2)
+  Ta2  Ta5  Ta6  2_665  3_556  114.2(2)
+  Ta2  Ta5  Ta2  7_655  .  154.1(2)
+  Ta2  Ta5  Ta2  7_655  2_665  105.2(2)
+  Ta2  Ta5  Ta2  7_655  8_545  97.4(2)
+  Ta2  Ta5  Ta6  7_655  3_555  64.1(2)
+  Ta2  Ta5  Ta6  7_655  3_556  114.2(2)
+  Ta2  Ta5  Ta2  8_545  .  58.09(16)
+  Ta2  Ta5  Ta2  8_545  2_665  154.1(2)
+  Ta2  Ta5  Ta2  8_545  7_655  97.4(2)
+  Ta2  Ta5  Ta6  8_545  3_555  117.0(3)
+  Ta2  Ta5  Ta6  8_545  3_556  65.8(2)
+  Ta6  Ta5  Ta6  3_555  3_556  176.6(3)
+  Ta6  Ta5  Ta6  3_556  3_555  176.6(3)
+  Ta3  Ta3  Ta3  2_555  2_556  108.89(18)
+  Ta3  Ta3  Ta3  2_555  4_555  66.0(2)
+  Ta3  Ta3  Ta3  2_555  6_555  47.93(16)
+  Ta3  Ta3  Ta3  2_555  6_556  131.44(18)
+  Ta3  Ta3  Ta4  2_555  2_566  112.5(3)
+  Ta3  Ta3  Ta2  2_555  1_455  98.4(2)
+  Ta3  Ta3  Ta2  2_555  2_565  54.91(18)
+  Ta3  Ta3  Ta2  2_555  2_566  155.40(19)
+  Ta3  Ta3  Ta2  2_555  4_655  54.62(19)
+  Ta3  Ta3  Ta6  2_555  .  98.34(18)
+  Ta3  Ta3  Ta6  2_555  3_456  146.8(2)
+  Ta3  Ta3  Ta3  2_556  2_555  108.89(18)
+  Ta3  Ta3  Ta3  2_556  4_555  65.4(2)
+  Ta3  Ta3  Ta3  2_556  6_555  131.44(18)
+  Ta3  Ta3  Ta3  2_556  6_556  49.18(16)
+  Ta3  Ta3  Ta4  2_556  2_566  116.7(3)
+  Ta3  Ta3  Ta2  2_556  1_455  102.0(2)
+  Ta3  Ta3  Ta2  2_556  2_565  154.8(2)
+  Ta3  Ta3  Ta2  2_556  2_566  55.05(18)
+  Ta3  Ta3  Ta2  2_556  4_655  57.72(19)
+  Ta3  Ta3  Ta6  2_556  .  60.41(17)
+  Ta3  Ta3  Ta6  2_556  3_456  99.9(2)
+  Ta3  Ta3  Ta3  4_555  2_555  66.0(2)
+  Ta3  Ta3  Ta3  4_555  2_556  65.4(2)
+  Ta3  Ta3  Ta3  4_555  6_555  66.0(2)
+  Ta3  Ta3  Ta3  4_555  6_556  65.4(2)
+  Ta3  Ta3  Ta4  4_555  2_566  177.8(4)
+  Ta3  Ta3  Ta2  4_555  1_455  62.75(14)
+  Ta3  Ta3  Ta2  4_555  2_565  114.9(3)
+  Ta3  Ta3  Ta2  4_555  2_566  114.0(3)
+  Ta3  Ta3  Ta2  4_555  4_655  61.79(14)
+  Ta3  Ta3  Ta6  4_555  .  113.6(2)
+  Ta3  Ta3  Ta6  4_555  3_456  114.2(2)
+  Ta3  Ta3  Ta3  6_555  2_555  47.93(16)
+  Ta3  Ta3  Ta3  6_555  2_556  131.44(18)
+  Ta3  Ta3  Ta3  6_555  4_555  66.0(2)
+  Ta3  Ta3  Ta3  6_555  6_556  108.89(18)
+  Ta3  Ta3  Ta4  6_555  2_566  111.8(3)
+  Ta3  Ta3  Ta2  6_555  1_455  54.80(19)
+  Ta3  Ta3  Ta2  6_555  2_565  55.44(19)
+  Ta3  Ta3  Ta2  6_555  2_566  156.45(19)
+  Ta3  Ta3  Ta2  6_555  4_655  97.8(2)
+  Ta3  Ta3  Ta6  6_555  .  145.0(2)
+  Ta3  Ta3  Ta6  6_555  3_456  100.24(18)
+  Ta3  Ta3  Ta3  6_556  2_555  131.44(18)
+  Ta3  Ta3  Ta3  6_556  2_556  49.18(16)
+  Ta3  Ta3  Ta3  6_556  4_555  65.4(2)
+  Ta3  Ta3  Ta3  6_556  6_555  108.89(18)
+  Ta3  Ta3  Ta4  6_556  2_566  116.0(3)
+  Ta3  Ta3  Ta2  6_556  1_455  57.93(19)
+  Ta3  Ta3  Ta2  6_556  2_565  155.9(2)
+  Ta3  Ta3  Ta2  6_556  2_566  55.58(19)
+  Ta3  Ta3  Ta2  6_556  4_655  101.5(2)
+  Ta3  Ta3  Ta6  6_556  .  101.3(2)
+  Ta3  Ta3  Ta6  6_556  3_456  59.77(17)
+  Ta4  Ta3  Ta2  2_566  1_455  116.37(18)
+  Ta4  Ta3  Ta2  2_566  2_565  63.1(3)
+  Ta4  Ta3  Ta2  2_566  2_566  68.0(3)
+  Ta4  Ta3  Ta2  2_566  4_655  118.89(18)
+  Ta4  Ta3  Ta6  2_566  .  68.0(2)
+  Ta4  Ta3  Ta6  2_566  3_456  66.0(2)
+  Ta2  Ta3  Ta2  1_455  2_565  99.7(2)
+  Ta2  Ta3  Ta2  1_455  2_566  103.2(2)
+  Ta2  Ta3  Ta2  1_455  4_655  124.36(18)
+  Ta2  Ta3  Ta6  1_455  .  159.1(3)
+  Ta2  Ta3  Ta6  1_455  3_456  58.81(16)
+  Ta2  Ta3  Ta2  2_565  1_455  99.7(2)
+  Ta2  Ta3  Ta2  2_565  2_566  131.03(19)
+  Ta2  Ta3  Ta2  2_565  4_655  99.1(2)
+  Ta2  Ta3  Ta6  2_565  .  100.2(2)
+  Ta2  Ta3  Ta6  2_565  3_456  102.3(2)
+  Ta2  Ta3  Ta2  2_566  1_455  103.2(2)
+  Ta2  Ta3  Ta2  2_566  2_565  131.03(19)
+  Ta2  Ta3  Ta2  2_566  4_655  102.5(2)
+  Ta2  Ta3  Ta6  2_566  .  58.21(18)
+  Ta2  Ta3  Ta6  2_566  3_456  57.33(17)
+  Ta2  Ta3  Ta2  4_655  1_455  124.36(18)
+  Ta2  Ta3  Ta2  4_655  2_565  99.1(2)
+  Ta2  Ta3  Ta2  4_655  2_566  102.5(2)
+  Ta2  Ta3  Ta6  4_655  .  58.20(16)
+  Ta2  Ta3  Ta6  4_655  3_456  157.4(3)
+  Ta6  Ta3  Ta6  .  3_456  110.3(2)
+  Ta6  Ta3  Ta6  3_456  .  110.3(2)
+  Ta4  Ta4  Ta2  4_655  .  105.6(3)
+  Ta4  Ta4  Ta2  4_655  1_556  107.0(3)
+  Ta4  Ta4  Ta2  4_655  8_545  105.6(3)
+  Ta4  Ta4  Ta2  4_655  8_546  107.0(3)
+  Ta4  Ta4  Ta6  4_655  .  63.4(2)
+  Ta4  Ta4  Ta6  4_655  3_556  156.5(5)
+  Ta4  Ta4  Ta6  4_655  4_655  63.4(2)
+  Ta2  Ta4  Ta2  .  1_556  116.45(19)
+  Ta2  Ta4  Ta2  .  8_545  50.5(2)
+  Ta2  Ta4  Ta2  .  8_546  147.3(2)
+  Ta2  Ta4  Ta6  .  .  94.5(3)
+  Ta2  Ta4  Ta6  .  3_556  53.8(2)
+  Ta2  Ta4  Ta6  .  4_655  53.9(2)
+  Ta2  Ta4  Ta2  1_556  .  116.45(19)
+  Ta2  Ta4  Ta2  1_556  8_545  147.3(2)
+  Ta2  Ta4  Ta2  1_556  8_546  55.3(2)
+  Ta2  Ta4  Ta6  1_556  .  149.0(3)
+  Ta2  Ta4  Ta6  1_556  3_556  93.7(2)
+  Ta2  Ta4  Ta6  1_556  4_655  97.5(2)
+  Ta2  Ta4  Ta2  8_545  .  50.5(2)
+  Ta2  Ta4  Ta2  8_545  1_556  147.3(2)
+  Ta2  Ta4  Ta2  8_545  8_546  116.45(19)
+  Ta2  Ta4  Ta6  8_545  .  53.9(2)
+  Ta2  Ta4  Ta6  8_545  3_556  53.8(2)
+  Ta2  Ta4  Ta6  8_545  4_655  94.5(3)
+  Ta2  Ta4  Ta2  8_546  .  147.3(2)
+  Ta2  Ta4  Ta2  8_546  1_556  55.3(2)
+  Ta2  Ta4  Ta2  8_546  8_545  116.45(19)
+  Ta2  Ta4  Ta6  8_546  .  97.5(2)
+  Ta2  Ta4  Ta6  8_546  3_556  93.7(2)
+  Ta2  Ta4  Ta6  8_546  4_655  149.0(3)
+  Ta6  Ta4  Ta6  .  3_556  103.7(2)
+  Ta6  Ta4  Ta6  .  4_655  102.8(3)
+  Ta6  Ta4  Ta6  3_556  .  103.7(2)
+  Ta6  Ta4  Ta6  3_556  4_655  103.7(2)
+  Ta6  Ta4  Ta6  4_655  .  102.8(3)
+  Ta6  Ta4  Ta6  4_655  3_556  103.7(2)
+  Ta2  Ta2  Ta6  8_545  3_556  62.63(17)
+  Ta2  Ta2  Ta6  8_545  4_655  114.1(2)
+  Ta6  Ta2  Ta6  3_556  4_655  124.0(2)
+  Ta6  Ta2  Ta6  4_655  3_556  124.0(2)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+  Ta1  Ta5  2_565  2.948(8)
+  Ta1  Ta5  6_645  2.948(8)
+  Ta1  Ta4  1_554  2.876(14)
+  Ta1  Ta4  .  3.214(15)
+  Ta1  Ta4  4_654  2.876(14)
+  Ta1  Ta4  4_655  3.214(15)
+  Ta1  Ta2  .  2.742(3)
+  Ta1  Ta2  4_655  2.742(3)
+  Ta1  Ta2  5_555  2.742(3)
+  Ta1  Ta2  8_545  2.742(3)
+  Ta1  Ta6  .  2.956(8)
+  Ta1  Ta6  4_655  2.956(8)
+  Ta5  Ta3  1_655  3.240(8)
+  Ta5  Ta3  3_555  3.224(8)
+  Ta5  Ta3  6_655  3.224(8)
+  Ta5  Ta3  8_555  3.240(8)
+  Ta5  Ta4  1_554  3.298(9)
+  Ta5  Ta4  2_666  3.310(9)
+  Ta5  Ta4  6_656  3.310(9)
+  Ta5  Ta2  .  2.858(7)
+  Ta5  Ta2  2_665  2.977(7)
+  Ta5  Ta2  7_655  2.977(7)
+  Ta5  Ta2  8_545  2.858(7)
+  Ta5  Ta6  3_555  2.622(10)
+  Ta5  Ta6  3_556  2.687(10)
+  Ta3  Ta3  2_555  3.300(10)
+  Ta3  Ta3  2_556  3.222(10)
+  Ta3  Ta3  4_555  2.681(5)
+  Ta3  Ta3  6_555  3.300(10)
+  Ta3  Ta3  6_556  3.222(10)
+  Ta3  Ta4  2_566  2.847(6)
+  Ta3  Ta2  1_455  2.868(5)
+  Ta3  Ta2  2_565  2.865(9)
+  Ta3  Ta2  2_566  2.966(9)
+  Ta3  Ta2  4_655  2.894(5)
+  Ta3  Ta6  .  3.220(7)
+  Ta3  Ta6  3_456  3.241(7)
+  Ta4  Ta4  4_655  2.982(6)
+  Ta4  Ta2  .  3.252(12)
+  Ta4  Ta2  1_556  2.988(12)
+  Ta4  Ta2  8_545  3.252(12)
+  Ta4  Ta2  8_546  2.988(12)
+  Ta4  Ta6  .  3.332(9)
+  Ta4  Ta6  3_556  3.406(9)
+  Ta4  Ta6  4_655  3.332(9)
+  Ta2  Ta2  8_545  2.775(5)
+  Ta2  Ta6  3_556  3.017(7)
+  Ta2  Ta6  4_655  2.987(7)
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  22395

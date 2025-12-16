@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_1541281
+loop_
+ _publ_author_name
+  'Mundt, O.'
+  'Becker, G.'
+  'Hartmann, H.M.'
+  'Schwarz, W.'
+_publ_section_title
+;
+Metallderivate von Molekuelverbindungen. II Darstellung und Struktur
+des  beta - Kaliumsilanids
+;
+_journal_name_full
+'Zeitschrift fuer Anorganische und Allgemeine Chemie'
+_journal_page_first   75
+_journal_page_last   88
+_journal_volume   572
+_journal_year   1989
+_chemical_formula_sum   'H3 K Si'
+_chemical_name_systematic   'K Si H3'
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.8
+_cell_length_b   5.416
+_cell_length_c   6.823
+_cell_volume   325.190
+_citation_journal_id_ASTM   ZAACAB
+_cod_data_source_file   Mundt_ZAACAB_1989_1192.cif
+_cod_data_source_block   H3K1Si1
+_cod_original_cell_volume   325.1896
+_cod_original_formula_sum   'H3 K1 Si1'
+_cod_database_code   1541281
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -x,y+1/2,-z
+  -x,-y,-z
+  x-1/2,y,-z-1/2
+  -x-1/2,y-1/2,z-1/2
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  H2  H-1  0.0839  0.4311  0.8021  1  0.0
+  H1  H-1  -0.1101  0.25  0.6648  1  0.0
+  K1  K+1  0.1857  0.25  0.1579  1  0.0
+  Si1  Si+2  0.0515  0.25  0.6541  1  0.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  15098960

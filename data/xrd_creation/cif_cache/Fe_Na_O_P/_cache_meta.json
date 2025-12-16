@@ -1,0 +1,13 @@
+{
+  "download_attempts": 2,
+  "last_attempt": "2025-12-06T14:04:06.451875",
+  "failures": [
+    {
+      "timestamp": "2025-12-06T13:50:25.616148",
+      "error": "HTTPSConnectionPool(host='www.crystallography.net', port=443): Max retries exceeded with url: /cod/1512523.cif (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.crystallography.net', port=443) at 0x2eaf57550>, 'Connection to www.crystallography.net timed out. (connect timeout=30)'))"
+    }
+  ],
+  "success_count": 162,
+  "complete": true,
+  "last_success": "2025-12-06T14:04:20.122101"
+}

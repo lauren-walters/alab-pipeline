@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_2107436
+loop_
+ _publ_author_name
+  'Weakley, T.J.R.'
+_publ_section_title
+;
+The crystal structures of manganese(II) phosphinate monohydrate, zinc
+phosphinate monohydrate, and anhydrous zinc phosphinate
+;
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   42
+_journal_page_last   45
+_journal_volume   35
+_journal_year   1979
+_chemical_formula_sum   'H6 O5 P2 Zn'
+_chemical_name_systematic   'Zn (H2 P O2)2 (H2 O)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   104.15
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.692
+_cell_length_b   7.391
+_cell_length_c   10.49
+_cell_volume   578.278
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Weakley_ACBCAR_1979_1753.cif
+_cod_data_source_block   H6O5P2Zn1
+_cod_original_cell_volume   578.2784
+_cod_original_formula_sum   'H6 O5 P2 Zn1'
+_cod_database_code   2107436
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P2  P+1  0.4686  0.3773  0.1936  1  0.0
+  O1  O-2  0.0268  0.3531  0.4276  1  0.0
+  O5  O-2  0.2871  -0.1451  -0.0182  1  0.0
+  O2  O-2  0.0624  0.2088  0.2119  1  0.0
+  Zn1  Zn+2  0.1925  0.0413  0.104  1  0.0
+  O3  O-2  0.4053  0.213  0.1081  1  0.0
+  O4  O-2  0.6683  0.3998  0.2345  1  0.0
+  P1  P+1  0.04  0.1835  0.3491  1  0.0

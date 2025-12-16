@@ -1,0 +1,466 @@
+# generated using pymatgen
+data_4032152
+loop_
+ _publ_author_name
+  'Reinauer, F.'
+  'Glaum, R.'
+  'Gruehn, R.'
+_publ_section_title
+;
+Preparation and chemical vapour transport of mixed valent
+titanium(III,  IV)-phosphates. With a note on the crystal structure of
+titanium(IV)-orthophosphate Ti~5~P~4~O~20~
+;
+_journal_name_full
+'European Journal of Solid State and Inorganic Chemistry'
+_journal_page_first   779
+_journal_page_last   791
+_journal_volume   31
+_journal_year   1994
+_chemical_formula_sum   'O20 P4 Ti5'
+_chemical_formula_weight   683.22
+_space_group_crystal_system   orthorhombic
+_space_group_IT_number   19
+_space_group_name_Hall   'P 2ac 2ab'
+_space_group_name_H-M_alt   'P 21 21 21'
+_symmetry_space_group_name_Hall   'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   12.812(13)
+_cell_length_b   14.447(21)
+_cell_length_c   7.456(12)
+_cell_volume   1380(3)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_exptl_absorpt_coefficient_mu   3.359
+_exptl_crystal_density_diffrn   3.289
+_exptl_crystal_F_000   1320
+_cod_data_source_file   EJSSIC-1994-31-779-791.cif
+_cod_data_source_block   Ti5P4O20
+_cod_depositor_comments   'twinned crystals, no R value given'
+_cod_database_code   4032152
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  1/2-x,-y,1/2+z
+  3  1/2+x,1/2-y,-z
+  4  -x,1/2+y,1/2-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_adp_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags_posn
+ _atom_site_refinement_flags_adp
+ _atom_site_refinement_flags_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Ti1  Ti  Uiso  0.85520  0.67570  0.89370  1.000  0.0076  .  .  .
+  .  .  .
+  Ti2  Ti  Uiso  0.62280  0.94060  0.62300  1.000  0.0076  .  .  .
+  .  .  .
+  Ti3  Ti  Uiso  0.39270  0.20550  0.34970  1.000  0.0076  .  .  .
+  .  .  .
+  Ti4  Ti  Uiso  0.36400  0.67080  0.40330  1.000  0.0076  .  .  .
+  .  .  .
+  Ti5  Ti  Uiso  0.11520  0.94660  0.14680  1.000  0.0076  .  .  .
+  .  .  .
+  P1  P  Uiso  0.00360  0.99980  0.76220  1.000  0.0051  .  .  .  .
+  .  .
+  P2  P  Uiso  0.49130  0.75280  0.75960  1.000  0.0051  .  .  .  .
+  .  .
+  P3  P  Uiso  0.75620  0.12180  0.48200  1.000  0.0051  .  .  .  .
+  .  .
+  P4  P  Uiso  0.75470  0.37280  0.00140  1.000  0.0051  .  .  .  .
+  .  .
+  O1  O  Uiso  0.81340  0.55500  0.40480  1.000  0.0152  .  .  .  .
+  .  .
+  O2  O  Uiso  0.44230  0.55960  0.35990  1.000  0.0152  .  .  .  .
+  .  .
+  O3  O  Uiso  0.31710  0.18550  0.13820  1.000  0.0152  .  .  .  .
+  .  .
+  O4  O  Uiso  0.82370  0.05940  0.36130  1.000  0.0152  .  .  .  .
+  .  .
+  O5  O  Uiso  0.43120  0.44230  0.11460  1.000  0.0152  .  .  .  .
+  .  .
+  O6  O  Uiso  0.56440  0.81840  0.65580  1.000  0.0152  .  .  .  .
+  .  .
+  O7  O  Uiso  0.68540  0.05960  0.59780  1.000  0.0152  .  .  .  .
+  .  .
+  O8  O  Uiso  0.01170  0.25620  0.73370  1.000  0.0152  .  .  .  .
+  .  .
+  O9  O  Uiso  0.00080  0.49850  0.29240  1.000  0.0152  .  .  .  .
+  .  .
+  O10  O  Uiso  0.25310  0.37960  0.96620  1.000  0.0152  .  .  .  .
+  .  .
+  O11  O  Uiso  0.83120  0.42490  0.12570  1.000  0.0152  .  .  .  .
+  .  .
+  O12  O  Uiso  0.07940  0.19550  0.38100  1.000  0.0152  .  .  .  .
+  .  .
+  O13  O  Uiso  0.82760  0.18160  0.59620  1.000  0.0152  .  .  .  .
+  .  .
+  O14  O  Uiso  0.92400  0.56370  0.83810  1.000  0.0152  .  .  .  .
+  .  .
+  O15  O  Uiso  0.31350  0.68810  0.13680  1.000  0.0152  .  .  .  .
+  .  .
+  O16  O  Uiso  0.06490  0.30370  0.12390  1.000  0.0152  .  .  .  .
+  .  .
+  O17  O  Uiso  0.26510  0.13790  0.53480  1.000  0.0152  .  .  .  .
+  .  .
+  O18  O  Uiso  0.81160  0.69210  0.61810  1.000  0.0152  .  .  .  .
+  .  .
+  O19  O  Uiso  0.05420  0.81180  0.12180  1.000  0.0152  .  .  .  .
+  .  .
+  O20  O  Uiso  0.57270  0.56580  0.11910  1.000  0.0152  .  .  .  .
+  .  .
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Ti  Ti  0.2776  0.4457
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O14  Ti1  O18  90.34  .  .  .  yes
+  O14  Ti1  O15  156.77  .  .  3_566  yes
+  O8  Ti1  O14  89.81  4_656  .  .  yes
+  O12  Ti1  O14  96.74  4_656  .  .  yes
+  O14  Ti1  O17  102.36  .  .  4_656  yes
+  O15  Ti1  O18  73.72  3_566  .  .  yes
+  O8  Ti1  O18  74.82  4_656  .  .  yes
+  O12  Ti1  O18  161.23  4_656  .  .  yes
+  O17  Ti1  O18  95.67  4_656  .  .  yes
+  O8  Ti1  O15  70.01  4_656  .  3_566  yes
+  O12  Ti1  O15  93.92  4_656  .  3_566  yes
+  O15  Ti1  O17  96.06  3_566  .  4_656  yes
+  O8  Ti1  O12  87.80  4_656  .  4_656  yes
+  O8  Ti1  O17  164.72  4_656  .  4_656  yes
+  O12  Ti1  O17  99.73  4_656  .  4_656  yes
+  O6  Ti2  O7  177.41  .  .  1_565  yes
+  O4  Ti2  O6  91.22  2_665  .  .  yes
+  O6  Ti2  O9  93.59  .  .  3_566  yes
+  O5  Ti2  O6  89.36  4_655  .  .  yes
+  O6  Ti2  O10  86.87  .  .  4_656  yes
+  O4  Ti2  O7  86.59  2_665  .  1_565  yes
+  O7  Ti2  O9  87.77  1_565  .  3_566  yes
+  O5  Ti2  O7  92.84  4_655  .  1_565  yes
+  O7  Ti2  O10  91.79  1_565  .  4_656  yes
+  O4  Ti2  O9  89.22  2_665  .  3_566  yes
+  O4  Ti2  O5  179.22  2_665  .  4_655  yes
+  O4  Ti2  O10  91.43  2_665  .  4_656  yes
+  O5  Ti2  O9  90.23  4_655  .  3_566  yes
+  O9  Ti2  O10  179.20  3_566  .  4_656  yes
+  O5  Ti2  O10  89.12  4_655  .  4_656  yes
+  O3  Ti3  O17  94.04  .  .  .  yes
+  O3  Ti3  O19  159.75  .  .  2_565  yes
+  O3  Ti3  O13  94.89  .  .  3_456  yes
+  O3  Ti3  O8  101.63  .  .  3_556  yes
+  O3  Ti3  O20  93.13  .  .  4_645  yes
+  O17  Ti3  O19  67.59  .  .  2_565  yes
+  O13  Ti3  O17  85.75  3_456  .  .  yes
+  O8  Ti3  O17  162.26  3_556  .  .  yes
+  O17  Ti3  O20  71.30  .  .  4_645  yes
+  O13  Ti3  O19  92.22  3_456  .  2_565  yes
+  O8  Ti3  O19  95.56  3_556  .  2_565  yes
+  O19  Ti3  O20  73.43  2_565  .  4_645  yes
+  O8  Ti3  O13  100.96  3_556  .  3_456  yes
+  O13  Ti3  O20  156.16  3_456  .  4_645  yes
+  O8  Ti3  O20  99.33  3_556  .  4_645  yes
+  O2  Ti4  O15  95.79  .  .  .  yes
+  O2  Ti4  O8  85.94  .  .  2_564  yes
+  O2  Ti4  O10  98.40  .  .  2_564  yes
+  O2  Ti4  O16  93.28  .  .  2_565  yes
+  O2  Ti4  O18  160.71  .  .  3_466  yes
+  O8  Ti4  O15  68.77  2_564  .  .  yes
+  O10  Ti4  O15  92.25  2_564  .  .  yes
+  O15  Ti4  O16  159.04  .  .  2_565  yes
+  O15  Ti4  O18  73.60  .  .  3_466  yes
+  O8  Ti4  O10  160.92  2_564  .  2_564  yes
+  O8  Ti4  O16  93.14  2_564  .  2_565  yes
+  O8  Ti4  O18  75.26  2_564  .  3_466  yes
+  O10  Ti4  O16  105.08  2_564  .  2_565  yes
+  O10  Ti4  O18  98.07  2_564  .  3_466  yes
+  O16  Ti4  O18  92.05  2_565  .  3_466  yes
+  O17  Ti5  O19  72.69  2_564  .  .  yes
+  O19  Ti5  O20  74.75  .  .  3_465  yes
+  O9  Ti5  O19  96.06  4_555  .  .  yes
+  O1  Ti5  O19  161.00  4_655  .  .  yes
+  O11  Ti5  O19  93.55  4_655  .  .  yes
+  O17  Ti5  O20  76.33  2_564  .  3_465  yes
+  O9  Ti5  O17  166.42  4_555  .  2_564  yes
+  O1  Ti5  O17  92.73  4_655  .  2_564  yes
+  O11  Ti5  O17  89.72  4_655  .  2_564  yes
+  O9  Ti5  O20  93.60  4_555  .  3_465  yes
+  O1  Ti5  O20  90.24  4_655  .  3_465  yes
+  O11  Ti5  O20  163.86  4_655  .  3_465  yes
+  O1  Ti5  O9  96.45  4_655  .  4_555  yes
+  O9  Ti5  O11  98.74  4_555  .  4_655  yes
+  O1  Ti5  O11  98.61  4_655  .  4_655  yes
+  O2  P1  O5  111.13  3_466  .  3_466  yes
+  O2  P1  O20  107.24  3_466  .  3_466  yes
+  O2  P1  O14  112.17  3_466  .  4_656  yes
+  O5  P1  O20  109.22  3_466  .  3_466  yes
+  O5  P1  O14  109.36  3_466  .  4_656  yes
+  O14  P1  O20  107.61  4_656  .  3_466  yes
+  O6  P2  O12  111.59  .  .  2_565  yes
+  O6  P2  O16  106.89  .  .  2_565  yes
+  O6  P2  O19  110.38  .  .  3_566  yes
+  O12  P2  O16  113.36  2_565  .  2_565  yes
+  O12  P2  O19  106.18  2_565  .  3_566  yes
+  O16  P2  O19  108.43  2_565  .  3_566  yes
+  O4  P3  O7  108.45  .  .  .  yes
+  O4  P3  O13  108.81  .  .  .  yes
+  O4  P3  O15  110.16  .  .  4_645  yes
+  O7  P3  O13  111.84  .  .  .  yes
+  O7  P3  O15  109.56  .  .  4_645  yes
+  O13  P3  O15  108.02  .  .  4_645  yes
+  O1  P4  O11  108.07  2_664  .  .  yes
+  O11  P4  O18  107.98  .  .  2_664  yes
+  O3  P4  O11  109.78  3_555  .  .  yes
+  O1  P4  O18  111.44  2_664  .  2_664  yes
+  O1  P4  O3  110.15  2_664  .  3_555  yes
+  O3  P4  O18  109.38  3_555  .  2_664  yes
+  Ti5  O1  P4  161.70  4_645  .  2_665  yes
+  Ti4  O2  P1  150.13  .  .  3_566  yes
+  Ti3  O3  P4  155.55  .  .  3_455  yes
+  Ti2  O4  P3  138.37  2_664  .  .  yes
+  Ti2  O5  P1  140.93  4_645  .  3_566  yes
+  Ti2  O6  P2  149.38  .  .  .  yes
+  Ti2  O7  P3  145.95  1_545  .  .  yes
+  Ti3  O8  Ti4  131.38  3_456  .  2_565  yes
+  Ti1  O8  Ti4  86.83  4_646  .  2_565  yes
+  Ti1  O8  Ti3  132.23  4_646  .  3_456  yes
+  Ti2  O9  Ti5  145.30  3_466  .  4_545  yes
+  Ti2  O10  Ti4  144.07  4_646  .  2_565  yes
+  Ti5  O11  P4  149.89  4_645  .  .  yes
+  Ti1  O12  P2  152.33  4_646  .  2_564  yes
+  Ti3  O13  P3  151.97  3_556  .  .  yes
+  Ti1  O14  P1  157.05  .  .  4_646  yes
+  Ti1  O15  Ti4  97.96  3_466  .  .  yes
+  Ti4  O15  P3  129.09  .  .  4_655  yes
+  Ti1  O15  P3  131.77  3_466  .  4_655  yes
+  Ti4  O16  P2  156.99  2_564  .  2_564  yes
+  Ti3  O17  Ti5  88.15  .  .  2_565  yes
+  Ti1  O17  Ti3  132.29  4_646  .  .  yes
+  Ti1  O17  Ti5  134.87  4_646  .  2_565  yes
+  Ti1  O18  P4  128.32  .  .  2_665  yes
+  Ti1  O18  Ti4  95.39  .  .  3_566  yes
+  Ti4  O18  P4  135.29  3_566  .  2_665  yes
+  Ti3  O19  Ti5  94.21  2_564  .  .  yes
+  Ti5  O19  P2  135.57  .  .  3_466  yes
+  Ti3  O19  P2  130.17  2_564  .  3_466  yes
+  Ti5  O20  P1  129.63  3_565  .  3_566  yes
+  Ti3  O20  Ti5  97.79  4_655  .  3_565  yes
+  Ti3  O20  P1  130.02  4_655  .  3_566  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Ti1  O14  1.8889  .  .  yes
+  Ti1  O18  2.1426  .  .  yes
+  Ti1  O15  2.0520  .  3_566  yes
+  Ti1  O8  2.2723  .  4_656  yes
+  Ti1  O12  1.8989  .  4_656  yes
+  Ti1  O17  1.7199  .  4_656  yes
+  Ti2  O6  1.9333  .  .  yes
+  Ti2  O7  1.9067  .  1_565  yes
+  Ti2  O4  1.9044  .  2_665  yes
+  Ti2  O9  1.9014  .  3_566  yes
+  Ti2  O5  1.9020  .  4_655  yes
+  Ti2  O10  1.9358  .  4_656  yes
+  Ti3  O3  1.8731  .  .  yes
+  Ti3  O17  2.3519  .  .  yes
+  Ti3  O19  2.1544  .  2_565  yes
+  Ti3  O13  1.8761  .  3_456  yes
+  Ti3  O8  1.7371  .  3_556  yes
+  Ti3  O20  2.0798  .  4_645  yes
+  Ti4  O2  1.9217  .  .  yes
+  Ti4  O15  2.1046  .  .  yes
+  Ti4  O8  2.2908  .  2_564  yes
+  Ti4  O10  1.7324  .  2_564  yes
+  Ti4  O16  1.9160  .  2_565  yes
+  Ti4  O18  2.0978  .  3_466  yes
+  Ti5  O19  2.1071  .  .  yes
+  Ti5  O17  2.1308  .  2_564  yes
+  Ti5  O20  2.0638  .  3_465  yes
+  Ti5  O9  1.7253  .  4_555  yes
+  Ti5  O1  1.8543  .  4_655  yes
+  Ti5  O11  1.8566  .  4_655  yes
+  P1  O2  1.4773  .  3_466  yes
+  P1  O5  1.5505  .  3_466  yes
+  P1  O20  1.5702  .  3_466  yes
+  P1  O14  1.5074  .  4_656  yes
+  P2  O6  1.5410  .  .  yes
+  P2  O12  1.4825  .  2_565  yes
+  P2  O16  1.4862  .  2_565  yes
+  P2  O19  1.5175  .  3_566  yes
+  P3  O4  1.5397  .  .  yes
+  P3  O7  1.5415  .  .  yes
+  P3  O13  1.5194  .  .  yes
+  P3  O15  1.5811  .  4_645  yes
+  P4  O11  1.5448  .  .  yes
+  P4  O1  1.5390  .  2_664  yes
+  P4  O18  1.5356  .  2_664  yes
+  P4  O3  1.5596  .  3_555  yes
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O18  Ti1  O14  P1  49.53  .  .  .  4_646  no
+  O15  Ti1  O14  P1  3.69  3_566  .  .  4_646  no
+  O8  Ti1  O14  P1  -25.29  4_656  .  .  4_646  no
+  O12  Ti1  O14  P1  -113.05  4_656  .  .  4_646  no
+  O17  Ti1  O14  P1  145.40  4_656  .  .  4_646  no
+  O14  Ti1  O18  P4  59.92  .  .  .  2_665  no
+  O14  Ti1  O18  Ti4  -130.19  .  .  .  3_566  no
+  O15  Ti1  O18  P4  -137.22  3_566  .  .  2_665  no
+  O15  Ti1  O18  Ti4  32.67  3_566  .  .  3_566  no
+  O8  Ti1  O18  P4  149.63  4_656  .  .  2_665  no
+  O8  Ti1  O18  Ti4  -40.49  4_656  .  .  3_566  no
+  O17  Ti1  O18  P4  -42.54  4_656  .  .  2_665  no
+  O17  Ti1  O18  Ti4  127.35  4_656  .  .  3_566  no
+  O14  Ti1  O15  P3  -176.25  .  .  3_566  2_665  no
+  O14  Ti1  O15  Ti4  15.61  .  .  3_566  3_566  no
+  O18  Ti1  O15  P3  135.39  .  .  3_566  2_665  no
+  O18  Ti1  O15  Ti4  -32.74  .  .  3_566  3_566  no
+  O14  Ti1  O8  Ti3  -85.68  .  .  4_656  2_665  no
+  O14  Ti1  O8  Ti4  126.76  .  .  4_656  3_566  no
+  O18  Ti1  O8  Ti3  -176.08  .  .  4_656  2_665  no
+  O18  Ti1  O8  Ti4  36.36  .  .  4_656  3_566  no
+  O14  Ti1  O17  Ti5  -55.49  .  .  4_656  3_566  no
+  O14  Ti1  O17  Ti3  156.96  .  .  4_656  4_656  no
+  O18  Ti1  O17  Ti5  36.10  .  .  4_656  3_566  no
+  O18  Ti1  O17  Ti3  -111.45  .  .  4_656  4_656  no
+  O4  Ti2  O6  P2  58.23  2_665  .  .  .  no
+  O9  Ti2  O6  P2  -31.07  3_566  .  .  .  no
+  O5  Ti2  O6  P2  -121.26  4_655  .  .  .  no
+  O10  Ti2  O6  P2  149.59  4_656  .  .  .  no
+  O6  Ti2  O4  P3  52.17  .  .  2_665  2_665  no
+  O6  Ti2  O10  Ti4  -86.20  .  .  4_656  3_566  no
+  O17  Ti3  O3  P4  -52.17  .  .  .  3_455  no
+  O19  Ti3  O3  P4  -28.09  2_565  .  .  3_455  no
+  O13  Ti3  O3  P4  -138.25  3_456  .  .  3_455  no
+  O8  Ti3  O3  P4  119.49  3_556  .  .  3_455  no
+  O20  Ti3  O3  P4  19.29  4_645  .  .  3_455  no
+  O3  Ti3  O17  Ti5  128.16  .  .  .  2_565  no
+  O3  Ti3  O17  Ti1  -74.20  .  .  .  4_646  no
+  O19  Ti3  O17  Ti5  -43.05  2_565  .  .  2_565  no
+  O19  Ti3  O17  Ti1  114.58  2_565  .  .  4_646  no
+  O13  Ti3  O17  Ti5  -137.22  3_456  .  .  2_565  no
+  O13  Ti3  O17  Ti1  20.41  3_456  .  .  4_646  no
+  O20  Ti3  O17  Ti5  36.22  4_645  .  .  2_565  no
+  O20  Ti3  O17  Ti1  -166.14  4_645  .  .  4_646  no
+  O3  Ti3  O19  Ti5  17.65  .  .  2_565  2_565  no
+  O3  Ti3  O19  P2  -164.58  .  .  2_565  4_646  no
+  O17  Ti3  O19  Ti5  43.78  .  .  2_565  2_565  no
+  O17  Ti3  O19  P2  -138.45  .  .  2_565  4_646  no
+  O3  Ti3  O13  P3  111.67  .  .  3_456  3_456  no
+  O17  Ti3  O13  P3  17.97  .  .  3_456  3_456  no
+  O3  Ti3  O8  Ti1  160.46  .  .  3_556  2_664  no
+  O3  Ti3  O8  Ti4  -65.09  .  .  3_556  4_645  no
+  O3  Ti3  O20  P1  65.98  .  .  4_645  2_564  no
+  O3  Ti3  O20  Ti5  -131.19  .  .  4_645  2_565  no
+  O17  Ti3  O20  P1  159.19  .  .  4_645  2_564  no
+  O17  Ti3  O20  Ti5  -37.98  .  .  4_645  2_565  no
+  O15  Ti4  O2  P1  28.19  .  .  .  3_566  no
+  O8  Ti4  O2  P1  -39.97  2_564  .  .  3_566  no
+  O10  Ti4  O2  P1  121.33  2_564  .  .  3_566  no
+  O16  Ti4  O2  P1  -132.89  2_565  .  .  3_566  no
+  O2  Ti4  O15  Ti1  -130.01  .  .  .  3_466  no
+  O2  Ti4  O15  P3  61.39  .  .  .  4_655  no
+  O8  Ti4  O15  Ti1  -46.65  2_564  .  .  3_466  no
+  O8  Ti4  O15  P3  144.75  2_564  .  .  4_655  no
+  O10  Ti4  O15  Ti1  131.31  2_564  .  .  3_466  no
+  O10  Ti4  O15  P3  -37.29  2_564  .  .  4_655  no
+  O16  Ti4  O15  Ti1  -14.85  2_565  .  .  3_466  no
+  O16  Ti4  O15  P3  176.55  2_565  .  .  4_655  no
+  O18  Ti4  O15  Ti1  33.55  3_466  .  .  3_466  no
+  O18  Ti4  O15  P3  -135.05  3_466  .  .  4_655  no
+  O2  Ti4  O8  Ti1  138.46  .  .  2_564  3_466  no
+  O2  Ti4  O8  Ti3  -9.58  .  .  2_564  4_655  no
+  O15  Ti4  O8  Ti1  40.64  .  .  2_564  3_466  no
+  O15  Ti4  O8  Ti3  -107.39  .  .  2_564  4_655  no
+  O2  Ti4  O10  Ti2  -77.24  .  .  2_564  3_466  no
+  O15  Ti4  O10  Ti2  18.94  .  .  2_564  3_466  no
+  O2  Ti4  O16  P2  133.46  .  .  2_565  .  no
+  O15  Ti4  O16  P2  17.88  .  .  2_565  .  no
+  O8  Ti4  O16  P2  47.36  2_564  .  2_565  .  no
+  O10  Ti4  O16  P2  -126.92  2_564  .  2_565  .  no
+  O18  Ti4  O16  P2  -27.99  3_466  .  2_565  .  no
+  O15  Ti4  O18  Ti1  -31.77  .  .  3_466  3_466  no
+  O15  Ti4  O18  P4  136.93  .  .  3_466  4_655  no
+  O17  Ti5  O19  Ti3  -47.69  2_564  .  .  2_564  no
+  O17  Ti5  O19  P2  134.75  2_564  .  .  3_466  no
+  O20  Ti5  O19  Ti3  32.43  3_465  .  .  2_564  no
+  O20  Ti5  O19  P2  -145.14  3_465  .  .  3_466  no
+  O9  Ti5  O19  Ti3  124.53  4_555  .  .  2_564  no
+  O9  Ti5  O19  P2  -53.04  4_555  .  .  3_466  no
+  O11  Ti5  O19  Ti3  -136.28  4_655  .  .  2_564  no
+  O11  Ti5  O19  P2  46.15  4_655  .  .  3_466  no
+  O19  Ti5  O17  Ti3  42.52  .  .  2_564  2_564  no
+  O19  Ti5  O17  Ti1  -114.08  .  .  2_564  3_466  no
+  O19  Ti5  O20  Ti3  -34.00  .  .  3_465  2_564  no
+  O19  Ti5  O11  P4  64.48  .  .  4_655  4_655  no
+  O12  P2  O6  Ti2  11.99  2_565  .  .  .  no
+  O16  P2  O6  Ti2  136.44  2_565  .  .  .  no
+  O19  P2  O6  Ti2  -105.84  3_566  .  .  .  no
+  O6  P2  O16  Ti4  -38.86  .  .  2_565  .  no
+  O12  P2  O16  Ti4  84.50  2_565  .  2_565  .  no
+  O19  P2  O16  Ti4  -157.86  3_566  .  2_565  .  no
+  O6  P2  O19  Ti5  -94.38  .  .  3_566  3_566  no
+  O6  P2  O19  Ti3  88.80  .  .  3_566  4_656  no
+  O7  P3  O4  Ti2  142.19  .  .  .  2_664  no
+  O13  P3  O4  Ti2  -95.95  .  .  .  2_664  no
+  O15  P3  O4  Ti2  22.30  4_645  .  .  2_664  no
+  O4  P3  O7  Ti2  -20.80  .  .  .  1_545  no
+  O13  P3  O7  Ti2  -140.80  .  .  .  1_545  no
+  O15  P3  O7  Ti2  99.46  4_645  .  .  1_545  no
+  O4  P3  O13  Ti3  103.07  .  .  .  3_556  no
+  O7  P3  O13  Ti3  -137.15  .  .  .  3_556  no
+  O15  P3  O13  Ti3  -16.52  4_645  .  .  3_556  no
+  O4  P3  O15  Ti1  -140.87  .  .  4_645  2_664  no
+  O4  P3  O15  Ti4  23.92  .  .  4_645  4_645  no
+  O7  P3  O15  Ti1  99.91  .  .  4_645  2_664  no
+  O7  P3  O15  Ti4  -95.30  .  .  4_645  4_645  no
+  O13  P3  O15  Ti1  -22.14  .  .  4_645  2_664  no
+  O13  P3  O15  Ti4  142.64  .  .  4_645  4_645  no
+  O1  P4  O11  Ti5  122.25  2_664  .  .  4_645  no
+  O18  P4  O11  Ti5  1.58  2_664  .  .  4_645  no
+  O3  P4  O11  Ti5  -117.59  3_555  .  .  4_645  no
+  O11  P4  O18  Ti1  28.59  .  .  2_664  2_664  no
+  O11  P4  O18  Ti4  -137.02  .  .  2_664  4_645  no
+  O11  P4  O3  Ti3  -81.75  .  .  3_555  3_555  no

@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_1533065
+loop_
+ _publ_author_name
+  'Romano, R.'
+  'Ruiz, A.I.'
+  'Alves, O.L.'
+_publ_section_title
+;
+Multiple-step preparation and physicochemical characterization of
+crystalline alpha-germanium hydrogenphosphate
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   1520
+_journal_page_last   1528
+_journal_volume   177
+_journal_year   2004
+_chemical_formula_sum   'Ge H4 O9 P2'
+_chemical_name_systematic   'Ge (H P O4)2 (H2 O)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   110.2
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.23
+_cell_length_b   4.784
+_cell_length_c   16.502
+_cell_volume   609.760
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Romano_JSSCBI_2004_1680.cif
+_cod_data_source_block   H4Ge1O9P2
+_cod_original_cell_volume   609.7596
+_cod_original_formula_sum   'H4 Ge1 O9 P2'
+_cod_database_code   1533065
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O5  O-2  0.318  0.066  0.065  1  0.0
+  O3  O-2  0.836  0.923  0.575  1  0.0
+  O8  O-2  0.356  0.85  0.906  1  0.0
+  O2  O-2  0.912  0.307  0.544  1  0.0
+  P1  P+5  -0.022  0.66  0.595  1  0.0
+  P2  P+5  0.479  0.236  0.099  1  0.0
+  O4  O-2  0.163  0.706  0.714  1  0.0
+  O9  O-2  0.268  0.272  0.26  1  0.0
+  O1  O-2  0.136  0.93  0.594  1  0.0
+  O6  O-2  0.403  0.533  0.071  1  0.0
+  Ge1  Ge+4  0.732  0.239  0.504  1  0.0
+  O7  O-2  0.613  0.26  0.204  1  0.0

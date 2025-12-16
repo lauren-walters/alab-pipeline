@@ -1,0 +1,154 @@
+# generated using pymatgen
+data_7202540
+loop_
+ _publ_author_name
+  'Catti, Michele'
+  'Sommariva, Marco'
+  'Ibberson, Richard M.'
+_publ_section_title
+;
+Tetragonal superstructure and thermal history of Li0.3La0.567TiO3
+(LLTO) solid electrolyte by neutron diffraction
+;
+_journal_issue   13
+_journal_name_full   'Journal of Materials Chemistry'
+_journal_page_first   1300
+_journal_paper_doi   10.1039/b614345h
+_journal_volume   17
+_journal_year   2007
+_chemical_formula_analytical   Li0.3La0.567TiO3
+_chemical_formula_iupac   Li0.3La0.567TiO3
+_chemical_formula_moiety   'Li0.3 La0.567 Ti O3'
+_chemical_formula_sum   'La0.567 Li0.3 O3 Ti'
+_chemical_name_common   LLTO
+_chemical_name_systematic   'lithium lanthanum titanate'
+_space_group_crystal_system   tetragonal
+_space_group_IT_number   123
+_space_group_name_Hall   '-P 4 2'
+_space_group_name_H-M_alt   'P 4/m m m'
+_symmetry_cell_setting   tetragonal
+_symmetry_Int_Tables_number   123
+_symmetry_space_group_name_Hall   '-P 4 2'
+_symmetry_space_group_name_H-M   'P 4/m m m'
+_cell_angle_alpha   90.00000
+_cell_angle_beta   90.00000
+_cell_angle_gamma   90.00000
+_cell_formula_units_Z   2
+_cell_length_a   3.89827(2)
+_cell_length_b   3.89827(2)
+_cell_length_c   7.8002(1)
+_cell_measurement_temperature   973
+_cell_volume   118.5358(17)
+_computing_structure_refinement   FULLPROF
+_diffrn_ambient_temperature   973
+_diffrn_radiation_probe   neutron
+_diffrn_radiation_type   'Time-of-flight neutron beam'
+_diffrn_source   'ISIS Facility neutron spallation source'
+_diffrn_source_type   'TOF neutron source'
+_pd_char_colour   white
+_pd_instr_dist_spec/detc   1
+_pd_instr_dist_src/spec   100
+_pd_instr_location
+'ISIS Facility - Rutherford Appleton Lab., Chilton (U.K.)'
+_pd_meas_2theta_fixed   168.3300
+_pd_meas_2theta_range_inc   6.895753
+_pd_meas_number_of_points   12457
+_pd_meas_scan_method   tof
+_pd_prep_temperature   1573
+_pd_proc_ls_background_function
+'interpolation of experimental points'
+_pd_proc_ls_pref_orient_corr   ?
+_pd_proc_ls_profile_function   pseudo-Voigt
+_pd_proc_ls_prof_R_factor   6.1610
+_pd_proc_ls_prof_wR_expected   2.7580
+_pd_proc_ls_prof_wR_factor   7.5737
+_pd_spec_mounting   'cylindrical vanadium can'
+_pd_spec_mount_mode   transmission
+_pd_spec_shape   cylinder
+_refine_ls_number_parameters   70
+_refine_ls_number_reflns   84
+_refine_ls_number_restraints   0
+_refine_ls_R_I_factor   8.8179
+_cod_data_source_file   b614345h1.txt
+_cod_data_source_block   Li0.3La0.567TiO3-unquenched-P4/mmm-973K
+_cod_original_cell_volume   118.5358(19)
+_cod_original_formula_sum   'Li0.3 La0.567 Ti O3'
+_cod_database_code   7202540
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x,z
+  3  -x,-y,z
+  4  y,-x,z
+  5  -x,y,z
+  6  y,x,z
+  7  x,-y,z
+  8  -y,-x,z
+  9  -x,-y,-z
+  10  y,-x,-z
+  11  x,y,-z
+  12  -y,x,-z
+  13  x,-y,-z
+  14  -y,-x,-z
+  15  -x,y,-z
+  16  y,x,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_adp_type
+ _atom_site_type_symbol
+  Ti  0.50000  0.50000  0.2431(9)  0.00127  1.00000  Uiso  Ti
+  La1  0.00000  0.00000  0.00000  0.00253  0.314(8)  Uiso  La
+  La2  0.00000  0.00000  0.50000  0.00253  0.819(8)  Uiso  La
+  O1  0.00000  0.50000  0.2675(4)  0.0134(6)  1.00000  Uiso  O
+  O2a  0.50000  0.50000  0.00000  0.0032(13)  1.00000  Uiso  O
+  O2b  0.50000  0.50000  0.50000  0.0142(18)  1.00000  Uiso  O
+loop_
+ _atom_type_symbol
+ _atom_type_scat_length_neutron
+ _atom_type_scat_source
+  TI  -0.34380  V.F._Sears_Neutron_News_3_26_(1992)
+  LA  0.82400  V.F._Sears_Neutron_News_3_26_(1992)
+  O  0.58030  V.F._Sears_Neutron_News_3_26_(1992)
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  ?  ?  ?  ?  ?  ?  ?  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  ?  ?  ?  ?  ?
+loop_
+ _geom_contact_atom_site_label_1
+ _geom_contact_atom_site_label_2
+ _geom_contact_distance
+ _geom_contact_site_symmetry_1
+ _geom_contact_site_symmetry_2
+ _geom_contact_publ_flag
+  ?  ?  ?  ?  ?  ?
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion
+ _geom_torsion_publ_flag
+  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?

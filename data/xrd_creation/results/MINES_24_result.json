@@ -1,0 +1,17 @@
+{
+  "experiment_id": "65bd809f274a3b27b9daa4ac",
+  "experiment_name": "MINES_24",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Al-Li-O-Si-Y",
+  "target_formula": "LiAl0.5Y0.5Si2O6",
+  "analysis_timestamp": "2025-12-06T17:08:20.907632",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

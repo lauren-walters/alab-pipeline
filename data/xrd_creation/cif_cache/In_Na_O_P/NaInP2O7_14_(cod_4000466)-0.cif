@@ -1,0 +1,169 @@
+# generated using pymatgen
+data_4000466
+_journal_name_full   'Chemistry of Materials'
+_journal_year   2004
+_chemical_formula_sum   'In Na O7 P2'
+_chemical_formula_weight   311.75
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_cell_angle_alpha   90.00
+_cell_angle_beta   112.136(3)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   4
+_cell_length_a   7.5003(17)
+_cell_length_b   8.1774(18)
+_cell_length_c   9.835(2)
+_cell_measurement_reflns_used   1031
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   25.05
+_cell_measurement_theta_min   2.93
+_cell_volume   558.8(2)
+_diffrn_ambient_temperature   293(2)
+_diffrn_detector_area_resol_mean   ?
+_diffrn_measurement_device_type   'CCD area detector'
+_diffrn_measurement_method   'phi and omega scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0200
+_diffrn_reflns_av_sigmaI/netI   0.0293
+_diffrn_reflns_limit_h_max   8
+_diffrn_reflns_limit_h_min   -8
+_diffrn_reflns_limit_k_max   9
+_diffrn_reflns_limit_k_min   -5
+_diffrn_reflns_limit_l_max   8
+_diffrn_reflns_limit_l_min   -11
+_diffrn_reflns_number   1624
+_diffrn_reflns_theta_max   25.05
+_diffrn_reflns_theta_min   2.93
+_diffrn_standards_decay_%   0
+_diffrn_standards_interval_count   0
+_diffrn_standards_interval_time   .
+_diffrn_standards_number   0
+_exptl_absorpt_coefficient_mu   4.863
+_exptl_absorpt_correction_T_max   1.0000
+_exptl_absorpt_correction_T_min   .7095
+_exptl_absorpt_correction_type   empirical
+_exptl_absorpt_process_details   'SADABS (Sheldrick, 1996)'
+_exptl_crystal_colour   colorless
+_exptl_crystal_density_diffrn   3.706
+_exptl_crystal_density_meas   ?
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   block
+_exptl_crystal_F_000   584
+_exptl_crystal_size_max   .26
+_exptl_crystal_size_mid   .18
+_exptl_crystal_size_min   .16
+_refine_ls_extinction_coef   0.031(2)
+_refine_ls_extinction_expression
+Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method   SHELXL
+_refine_ls_goodness_of_fit_ref   1.067
+_refine_ls_hydrogen_treatment   mixed
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   101
+_refine_ls_number_reflns   976
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.067
+_refine_ls_R_factor_gt   0.0354
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0678P)^2^+1.4511P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.0954
+_refine_ls_wR_factor_ref   0.1034
+_reflns_number_gt   824
+_reflns_number_total   976
+_reflns_threshold_expression   >2sigma(I)
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Monoclinic' changed to 'monoclinic'
+according to '/home/saulius/struct/CIF-dictionaries/cif_core.dic'
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+Automatic conversion script Id: cif_fix_enum 1527 2010-12-29 10:47:43Z
+saulius
+;
+_cod_original_sg_symbol_H-M   P2(1)/c
+_cod_database_code   4000466
+_refine_ls_r_factor_ref   0.0434
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  In  In  0.74432(5)  -0.00465(4)  0.24997(4)  0.0068(3)  Uani  1  1
+  d  .  .  .
+  P1  P  0.6731(2)  0.21652(18)  -0.04611(16)  0.0088(4)  Uani  1  1
+  d  .  .  .
+  P2  P  0.9264(2)  -0.24794(18)  0.54005(16)  0.0082(4)  Uani  1  1
+  d  .  .  .
+  Na  Na  1.2825(4)  0.0194(4)  0.2869(4)  0.0259(8)  Uani  1  1  d
+  .  .  .
+  O1  O  1.0281(6)  0.0896(5)  0.3720(4)  0.0115(9)  Uani  1  1  d
+  .  .  .
+  O2  O  0.8200(6)  -0.2224(5)  0.3766(5)  0.0139(10)  Uani  1  1  d
+  .  .  .
+  O3  O  0.6257(6)  0.1095(5)  0.3954(5)  0.0132(10)  Uani  1  1  d
+  .  .  .
+  O4  O  0.8266(6)  -0.1291(5)  0.0992(4)  0.0169(10)  Uani  1  1  d
+  .  .  .
+  O5  O  0.5401(6)  0.0902(5)  -0.1448(4)  0.0125(10)  Uani  1  1  d
+  .  .  .
+  O6  O  0.6964(6)  0.2106(5)  0.1133(5)  0.0124(10)  Uani  1  1  d
+  .  .  .
+  O7  O  0.8720(5)  0.1660(5)  -0.0617(4)  0.0130(10)  Uani  1  1  d
+  .  .  .
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  In  0.0070(4)  0.0085(4)  0.0034(4)  -0.00054(14)  0.0002(3)
+  -0.00005(14)
+  P1  0.0090(8)  0.0111(8)  0.0052(8)  -0.0008(6)  0.0013(6)
+  -0.0013(6)
+  P2  0.0068(8)  0.0106(8)  0.0048(8)  0.0002(5)  -0.0004(6)
+  -0.0007(6)
+  Na  0.0193(15)  0.0343(18)  0.0273(15)  -0.0106(13)  0.0124(13)
+  -0.0027(12)
+  O1  0.010(2)  0.012(2)  0.010(2)  -0.0031(17)  0.0010(17)
+  -0.0011(17)
+  O2  0.018(2)  0.013(2)  0.008(2)  0.0032(17)  0.0017(19)
+  0.0018(18)
+  O3  0.013(2)  0.014(2)  0.012(2)  -0.0047(18)  0.0033(18)
+  -0.0059(17)
+  O4  0.019(2)  0.020(2)  0.010(2)  -0.0025(19)  0.0037(18)
+  0.0051(19)
+  O5  0.010(2)  0.018(2)  0.008(2)  -0.0013(18)  0.0021(17)
+  -0.0045(18)
+  O6  0.020(2)  0.010(2)  0.007(2)  -0.0004(17)  0.0045(18)
+  0.0010(18)
+  O7  0.012(2)  0.013(2)  0.011(2)  0.0009(18)  0.0010(18)
+  -0.0006(17)

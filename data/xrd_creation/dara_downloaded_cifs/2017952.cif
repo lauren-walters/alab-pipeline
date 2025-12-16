@@ -1,0 +1,271 @@
+# generated using pymatgen
+data_2017952
+loop_
+ _publ_author_name
+  'Hong, Jung-Hwa'
+  'Song, Seung-Wan'
+  'Hong, Seung-Tae'
+_publ_section_title
+;
+Strontium magnesium phosphate, Sr~2+<i>x~</i>Mg~3{-~<i>x</i>}P~4~O~15~
+(<i>x</i> \sim 0.36), from laboratory X-ray powder data
+;
+_journal_coeditor_code   SQ3270
+_journal_issue   1
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   i1
+_journal_page_last   i3
+_journal_paper_doi   10.1107/S0108270110047967
+_journal_volume   67
+_journal_year   2011
+_chemical_formula_iupac   'Mg2 P2 O7'
+_chemical_formula_moiety   'Mg2 O7 P2'
+_chemical_formula_sum   'Mg2 O7 P2'
+_chemical_formula_weight   222.56
+_chemical_name_systematic   'dimagnesium heptaoxidodiphosphate'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90.0
+_cell_angle_beta   113.816(3)
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   6.9443(4)
+_cell_length_b   8.2861(4)
+_cell_length_c   9.0438(5)
+_cell_measurement_temperature   296
+_cell_volume   476.08(5)
+_computing_cell_refinement   'GSAS (Larson & Von Dreele, 2000)'
+_computing_data_collection   'COMMANDER (Bruker, 2003)'
+_computing_data_reduction   'EVA (Bruker, 2003)'
+_computing_molecular_graphics   'ATOMS (Dowty, 2000)'
+_computing_publication_material   'GSAS (Larson & Von Dreele, 2000)'
+_computing_structure_refinement   'GSAS (Larson & Von Dreele, 2000)'
+_computing_structure_solution
+'SHELXS (Sheldrick, 2008) and CRYSTALS (Betteridge <i>et al.</i>, 2003)'
+_diffrn_ambient_temperature   296
+_diffrn_measurement_device_type   'Bruker D8 Advance'
+_diffrn_radiation_monochromator   'Ge 111'
+_diffrn_radiation_type   'Cu K\a~1~'
+_diffrn_radiation_wavelength   1.5406
+_exptl_crystal_density_diffrn   3.105
+_exptl_crystal_F_000   440.0
+_pd_block_id   2010-08-25T23:07|SMPO_phase2|Jung-Hwa_Hong||
+_pd_char_colour   white
+_pd_meas_2theta_range_inc   0.016682
+_pd_meas_2theta_range_max   140.42172
+_pd_meas_2theta_range_min   8.0
+_pd_meas_number_of_points   7939
+_pd_meas_scan_method   step
+_pd_prep_temperature   296
+_pd_proc_ls_background_function
+;
+GSAS Background function number 1 with 36 terms.  Shifted Chebyshev
+function of 1st kind       1:    667.815     2:   -121.026     3:
+250.928     4:   -108.029       5:    130.095     6:   -120.393     7:
+81.5238     8:   -66.4354       9:    31.4946    10:   -19.2674    11:
+16.0150    12:   -21.1906      13:    24.6787    14:   -7.73173    15:
+5.82669    16:    7.16351      17:    9.66948    18:    8.02466    19:
+5.65618    20:    4.74674      21:   -11.8793    22:  -0.873263    23:
+-2.40368    24:   -9.55052      25:   -6.36605    26:    6.28370
+27:   -8.07052    28:    6.33955      29:   -12.6008    30:    3.68005
+31:    5.95000    32:    7.62516      33:    1.58465    34:    5.63269
+35:   -2.90398    36:    14.7130
+;
+_pd_proc_ls_peak_cutoff   0.00200
+_pd_proc_ls_profile_function
+;
+CW Profile function number 4 with  21 terms Pseudovoigt profile
+coefficients as parameterized in Thompson <i>et al.</i> [Thompson, P.,
+Cox, D. E. & Hastings, J. B. (1987). <i>J. Appl. Cryst.</i> <b>20</b>,
+79--83]. Asymmetry correction of Finger <i>et al.</i> [Finger, L. W.,
+Cox, D. E. & Jephcoat, A. P. (1994). <i>J. Appl. Cryst.</i> <b>27</b>,
+892--900]. Microstrain broadening by Stephens [Stephens, P. W. (1999).
+<i>J. Appl. Cryst.</i> <b>32</b>, 281--289]. Peak tails are ignored
+where the intensity is below 0.0020 times the peak  Aniso. broadening
+axis   0.0   0.0   1.0
+;
+_pd_proc_ls_prof_R_factor   0.0478
+_pd_proc_ls_prof_wR_expected   0.0254
+_pd_proc_ls_prof_wR_factor   0.0631
+_pd_spec_mounting   'packed powder pellet'
+_pd_spec_mount_mode   reflection
+_pd_spec_shape   flat_sheet
+_pd_spec_size_axial   20
+_pd_spec_size_equat   20
+_pd_spec_size_thick   1
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_all   2.50
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   81
+_refine_ls_number_reflns   981
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_all   0.0469
+_refine_ls_shift/su_max   0.02
+_refine_ls_shift/su_mean   0.00
+_refine_ls_weighting_scheme   sigma
+_cod_data_source_file   sq3270.cif
+_cod_data_source_block   phase_2
+_cod_original_sg_symbol_H-M   'P 21/c'
+_cod_database_code   2017952
+_cod_database_fobs_code   2017952
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  +x,+y,+z
+  2  -x,+y+1/2,-z+1/2
+  -1  -x,-y,-z
+  -2  +x,-y+1/2,+z+1/2
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+ _atom_site_aniso_type_symbol
+  ?  ?  ?  ?  ?  ?  ?  ?
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_occupancy
+  Mg  Mg1  0.24957  0.92491  0.12118  0.02084  Uiso  1.0
+  Mg  Mg2  0.69861  0.43311  0.82859  0.02084  Uiso  1.0
+  P  P1  0.94785  0.76438  0.76493  0.02084  Uiso  1.0
+  P  P2  0.52451  0.77297  0.46834  0.02084  Uiso  1.0
+  O  O1  0.72902  0.83262  0.59014  0.02084  Uiso  1.0
+  O  O2  0.37623  0.76109  0.55127  0.02084  Uiso  1.0
+  O  O3  1.12756  0.76909  0.69986  0.02084  Uiso  1.0
+  O  O4  1.01129  0.90711  0.89533  0.02084  Uiso  1.0
+  O  O5  0.92364  0.5963  0.82874  0.02084  Uiso  1.0
+  O  O6  0.47096  0.89728  0.32033  0.02084  Uiso  1.0
+  O  O7  0.59983  0.60601  0.4192  0.02084  Uiso  1.0
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  ?  ?  ?  ?  ?
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O2  Mg1  O3  -2_575  .  -2_475  78.680(4)  n
+  O2  Mg1  O4  -2_575  .  1_454  84.872(3)  n
+  O2  Mg1  O4  -2_575  .  -1_676  154.7676(11)  n
+  O2  Mg1  O6  -2_575  .  1_555  85.052(3)  n
+  O2  Mg1  O7  -2_575  .  2_655  101.344(4)  n
+  O3  Mg1  O4  -2_475  .  1_454  90.507(3)  n
+  O3  Mg1  O4  -2_475  .  -1_676  94.190(4)  n
+  O3  Mg1  O6  -2_475  .  1_555  82.185(3)  n
+  O3  Mg1  O7  -2_475  .  2_655  171.0005(5)  n
+  O4  Mg1  O4  1_454  .  -1_676  70.899(3)  n
+  O4  Mg1  O6  1_454  .  1_555  168.5470(8)  n
+  O4  Mg1  O7  1_454  .  2_655  98.467(3)  n
+  O4  Mg1  O6  -1_676  .  1_555  118.245(3)  n
+  O4  Mg1  O7  -1_676  .  2_655  89.414(4)  n
+  O6  Mg1  O7  1_555  .  2_655  88.844(3)  n
+  O2  Mg2  O3  2_646  .  2_746  83.208(4)  n
+  O2  Mg2  O5  2_646  .  1_555  146.6086(16)  n
+  O2  Mg2  O6  2_646  .  -2_576  98.094(4)  n
+  O2  Mg2  O7  2_646  .  -1_666  95.548(4)  n
+  O3  Mg2  O5  2_746  .  1_555  86.937(4)  n
+  O3  Mg2  O6  2_746  .  -2_576  170.2380(6)  n
+  O3  Mg2  O7  2_746  .  -1_666  97.705(4)  n
+  O5  Mg2  O6  1_555  .  -2_576  96.931(4)  n
+  O5  Mg2  O7  1_555  .  -1_666  117.404(3)  n
+  O6  Mg2  O7  -2_576  .  -1_666  72.552(3)  n
+  O1  P1  O3  1_555  .  1_555  100.385(5)  n
+  O1  P1  O4  1_555  .  1_555  107.510(3)  n
+  O1  P1  O5  1_555  .  1_555  115.771(2)  n
+  O3  P1  O4  1_555  .  1_555  103.426(3)  n
+  O3  P1  O5  1_555  .  1_555  112.5380(13)  n
+  O4  P1  O5  1_555  .  1_555  115.496(4)  n
+  O1  P2  O2  1_555  .  1_555  107.107(5)  n
+  O1  P2  O6  1_555  .  1_555  103.548(3)  n
+  O1  P2  O7  1_555  .  1_555  99.856(3)  n
+  O2  P2  O6  1_555  .  1_555  118.856(3)  n
+  O2  P2  O7  1_555  .  1_555  116.6010(19)  n
+  O6  P2  O7  1_555  .  1_555  108.259(4)  n
+  P1  O1  P2  1_555  .  1_555  140.125(3)  n
+  Mg1  O2  Mg2  -2_575  .  2_656  97.738(4)  n
+  Mg1  O2  P2  -2_466  .  1_555  133.3317(16)  n
+  Mg2  O2  P2  2_656  .  1_555  127.599(2)  n
+  Mg1  O3  Mg2  -2_675  .  2_756  97.926(4)  n
+  Mg1  O3  P1  -2_566  .  1_555  127.0411(19)  n
+  Mg2  O3  P1  2_756  .  1_555  135.016(2)  n
+  Mg1  O4  Mg1  1_656  .  -1_676  109.101(3)  n
+  Mg1  O4  P1  1_656  .  1_555  131.173(2)  n
+  Mg1  O4  P1  -1_676  .  1_555  115.787(3)  n
+  Mg2  O5  P1  1_555  .  1_555  141.9393(17)  n
+  Mg1  O6  Mg2  1_555  .  -2_574  105.681(3)  n
+  Mg1  O6  P2  1_555  .  1_555  135.320(2)  n
+  Mg2  O6  P2  -2_465  .  1_555  118.845(3)  n
+  Mg1  O7  Mg2  2_645  .  -1_666  92.744(3)  n
+  Mg1  O7  P2  2_645  .  1_555  167.7228(6)  n
+  Mg2  O7  P2  -1_666  .  1_555  96.943(3)  n
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Mg1  O2  .  -2_564  1.99943(7)  n
+  Mg1  O3  .  -2_464  2.07254(7)  n
+  Mg1  O4  .  1_454  2.04991(11)  n
+  Mg1  O4  .  -1_676  2.24116(10)  n
+  Mg1  O6  .  1_555  1.85028(10)  n
+  Mg1  O7  .  2_655  1.94606(7)  n
+  Mg2  O2  .  2_646  1.98452(7)  n
+  Mg2  O3  .  2_746  1.90297(7)  n
+  Mg2  O5  .  1_555  2.06611(8)  n
+  Mg2  O6  .  -2_565  2.09388(9)  n
+  Mg2  O7  .  -1_666  2.38144(13)  n
+  P1  O1  .  1_555  1.78537(9)  n
+  P1  O3  .  1_555  1.58060(8)  n
+  P1  O4  .  1_555  1.60125(6)  n
+  P1  O5  .  1_555  1.54254(6)  n
+  P2  O1  .  1_555  1.48702(8)  n
+  P2  O2  .  1_555  1.50206(7)  n
+  P2  O6  .  1_555  1.60908(7)  n
+  P2  O7  .  1_555  1.60401(6)  n
+  O1  P1  .  1_555  1.78537(9)  n
+  O1  P2  .  1_555  1.48702(8)  n
+  O2  Mg1  .  -2_565  1.99943(7)  n
+  O2  Mg2  .  2_656  1.98452(7)  n
+  O2  P2  .  1_555  1.50206(7)  n
+  O3  Mg1  .  -2_665  2.07254(7)  n
+  O3  Mg2  .  2_756  1.90297(7)  n
+  O3  P1  .  1_555  1.58060(8)  n
+  O4  Mg1  .  1_656  2.04991(11)  n
+  O4  Mg1  .  -1_676  2.24116(10)  n
+  O4  P1  .  1_555  1.60125(6)  n
+  O5  Mg2  .  1_555  2.06611(8)  n
+  O5  P1  .  1_555  1.54254(6)  n
+  O6  Mg1  .  1_555  1.85028(10)  n
+  O6  Mg2  .  -2_564  2.09388(9)  n
+  O6  P2  .  1_555  1.60908(7)  n
+  O7  Mg1  .  2_645  1.94606(7)  n
+  O7  Mg2  .  -1_666  2.38144(13)  n
+  O7  P2  .  1_555  1.60401(6)  n
+loop_
+ _pd_block_diffractogram_id
+
+  2010-08-25T23:07|SMPO_H_01|Jung-Hwa_Hong|Bruker_AXS_D8_Advance_Vario
+loop_
+ _pd_phase_mass_%
+  10.14(10)

@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_1537449
+loop_
+ _publ_author_name
+  'Iandelli, A.'
+  'Franceschi, E.'
+_publ_section_title
+;
+On The Crystal Structure of the Compounds Ca P, Sr P, Ca As, Sr As and
+Eu  As
+;
+_journal_name_full   'Journal of the Less-Common Metals'
+_journal_page_first   211
+_journal_page_last   216
+_journal_volume   30
+_journal_year   1973
+_chemical_formula_sum   'P Sr'
+_chemical_name_systematic   'Sr P'
+_space_group_IT_number   189
+_symmetry_space_group_name_Hall   'P -6 -2'
+_symmetry_space_group_name_H-M   'P -6 2 m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   6
+_cell_length_a   8.04
+_cell_length_b   8.04
+_cell_length_c   6.031
+_cell_volume   337.623
+_citation_journal_id_ASTM   JCOMAH
+_cod_data_source_file   Iandelli_JCOMAH_1973_1200.cif
+_cod_data_source_block   P1Sr1
+_cod_original_formula_sum   'P1 Sr1'
+_cod_database_code   1537449
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+y,-x,-z
+  -y,x-y,z
+  x,y,-z
+  -x+y,-x,z
+  -y,x-y,-z
+  y,x,z
+  x-y,-y,-z
+  -x,-x+y,z
+  y,x,-z
+  x-y,-y,z
+  -x,-x+y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P2  P-2  0.3333  0.6667  0.191  1  0.0
+  P1  P-2  0  0  0.309  1  0.0
+  Sr1  Sr+2  0.3  0  0  1  0.0
+  Sr2  Sr+2  0.636  0  0.5  1  0.0

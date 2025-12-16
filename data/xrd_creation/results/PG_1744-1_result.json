@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13c613800728dad6cd22",
+  "experiment_name": "PG_1744-1",
+  "success": true,
+  "error": null,
+  "rwp": 10.58,
+  "rp": 7.53,
+  "rexp": 3.23,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "HfO2_14_(cod_9013470)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.03446,
+      "weight_fraction_error": 0.0002,
+      "lattice_a_nm": 0.511997,
+      "lattice_b_nm": 0.518063,
+      "lattice_c_nm": 0.529179,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 99.2392,
+      "lattice_gamma_deg": null,
+      "r_phase": 14.75
+    },
+    {
+      "phase_name": "Sn1.4O4_136_(cod_1533661)-None",
+      "spacegroup": "P4_2/m2_1/n2/m",
+      "weight_fraction": 0.04206,
+      "weight_fraction_error": 0.00028,
+      "lattice_a_nm": 0.474094,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.31889,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 17.82
+    }
+  ],
+  "chemical_system": "Hf-O-Sn",
+  "target_formula": "HfSnO4",
+  "analysis_timestamp": "2025-12-06T14:07:16.864570",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_2310242
+loop_
+ _publ_author_name
+  'Schob, O.'
+  'Parthe, E.'
+_publ_section_title   'The structure of Hf Sn'
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   452
+_journal_page_last   453
+_journal_volume   17
+_journal_year   1964
+_chemical_formula_sum   'Hf Sn'
+_space_group_IT_number   198
+_symmetry_space_group_name_Hall   'P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P 21 3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.594
+_cell_length_b   5.594
+_cell_length_c   5.594
+_cell_volume   175.052
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Schob_ACCRA9_1964_594.cif
+_cod_data_source_block   Hf1Sn1
+_cod_original_cell_volume   175.0521
+_cod_original_formula_sum   'Hf1 Sn1'
+_cod_database_code   2310242
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  x+1/2,-y+1/2,-z
+  -x,y+1/2,-z+1/2
+  z,x,y
+  -z+1/2,-x,y+1/2
+  z+1/2,-x+1/2,-y
+  -z,x+1/2,-y+1/2
+  y,z,x
+  y+1/2,-z+1/2,-x
+  -y,z+1/2,-x+1/2
+  -y+1/2,-z,x+1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sn1  Sn  0.845  0.845  0.845  1  0.0
+  Hf1  Hf  0.155  0.155  0.155  1  0.0

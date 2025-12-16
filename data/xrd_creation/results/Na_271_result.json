@@ -1,0 +1,44 @@
+{
+  "experiment_id": "666a55ecf632d8df6c42aaa0",
+  "experiment_name": "Na_271",
+  "success": true,
+  "error": null,
+  "rwp": 17.82,
+  "rp": 12.73,
+  "rexp": 2.45,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "Na2O2_225_(cod_2310821)-None",
+      "spacegroup": "F4/m-32/m",
+      "weight_fraction": 0.3894,
+      "weight_fraction_error": 0.0047,
+      "lattice_a_nm": 0.509449,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 31.64
+    },
+    {
+      "phase_name": "AlPO4_20_(cod_1532548)-2",
+      "spacegroup": "C222_1",
+      "weight_fraction": 0.1517,
+      "weight_fraction_error": 0.0041,
+      "lattice_a_nm": 0.70815,
+      "lattice_b_nm": 0.71551,
+      "lattice_c_nm": 0.69289,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 47.8
+    }
+  ],
+  "chemical_system": "Al-Na-O-P",
+  "target_formula": "Na5AlP2O9",
+  "analysis_timestamp": "2025-12-06T13:51:25.194863",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

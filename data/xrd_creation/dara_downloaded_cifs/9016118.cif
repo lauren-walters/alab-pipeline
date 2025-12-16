@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_9016118
+loop_
+ _publ_author_name
+  'Le Bail, A.'
+  'Ferey, G.'
+  'Amoros, P.'
+  'Beltran-Portier D'
+_publ_section_title
+;
+Structure of vanadyl hydrogenphosphate dihydrate alpha-VO(HPO4)*2H2O
+solved from X-ray and neutron powder diffraction  _cod_database_code
+1000083
+;
+_journal_name_full
+'European Journal of Solid State and Inorganic Chemistry'
+_journal_page_first   419
+_journal_page_last   426
+_journal_volume   26
+_journal_year   1989
+_chemical_formula_sum   'O7 P V'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   95.44
+_cell_angle_gamma   90
+_cell_length_a   7.613
+_cell_length_b   7.431
+_cell_length_c   9.482
+_cell_formula_units_Z   4
+_cell_volume   534.002
+_database_code_amcsd   0012528
+_exptl_crystal_density_diffrn   2.412
+_cod_original_formula_sum   'V P O7'
+_cod_database_code   9016118
+_amcsd_formula_title   VO(HPO4)*2H2O
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2-y,1/2+z
+  -x,1/2+y,1/2-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  V  0.52480  0.14630  0.25720
+  P  0.28110  0.14970  0.51280
+  O1  0.30620  0.13840  0.35100
+  O2  0.37950  0.31860  0.57820
+  O3  0.32820  0.97280  0.59910
+  O4  0.07270  0.18510  0.51250
+  O5  0.71710  0.09110  0.12650
+  O6  0.57170  0.14830  0.79520
+  O7  0.97620  0.41740  0.27090
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0012528

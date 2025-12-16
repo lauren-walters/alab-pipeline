@@ -1,0 +1,100 @@
+# generated using pymatgen
+data_4313233
+loop_
+ _publ_author_name
+  'Robert E. Dinnebier'
+  'Sascha Vensky'
+  'Martin Panth\"ofer'
+  'Martin Jansen'
+_publ_contact_author
+;
+Martin Jansen     Max-Planck f\"ur Festk\"orperforschung
+Heisenbergstrasse 1     70569 Stuttgart     Deutschland
+;
+_publ_contact_author_email   m.jansen@fkf.mpg.de
+_publ_contact_author_fax   '049 711 689-1502'
+_publ_contact_author_phone   '049 711 689-1500'
+_publ_section_title
+;
+Crystal and Molecular Structures of Alkali Oxalates: First Proof of a
+Staggered Oxalate Anion in the Solid State
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   1499
+_journal_page_last   1507
+_journal_paper_doi   10.1021/ic0205536
+_journal_volume   42
+_journal_year   2003
+_chemical_formula_sum   'C2 K2 O4'
+_space_group_IT_number   55
+_symmetry_cell_setting   orthorhombic
+_symmetry_space_group_name_Hall   '-P 2 2ab'
+_symmetry_space_group_name_H-M   'P b a m'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   2
+_cell_length_a   10.91176(7)
+_cell_length_b   6.11592(4)
+_cell_length_c   3.440033(24)
+_cell_volume   229.572(3)
+_computing_structure_refinement   GSAS
+_diffrn_radiation_polarisn_ratio   0.97
+_diffrn_radiation_wavelength   0.70003
+_pd_block_id   'Jul 29 14:53:32 |PHASE_1||'
+_pd_calc_method   'Rietveld Refinement'
+_pd_meas_2theta_range_inc   0.005
+_pd_meas_2theta_range_max   46.365
+_pd_meas_2theta_range_min   5.005
+_pd_phase_name   K~2~C~2~O~4~
+_pd_proc_2theta_range_inc   0.005
+_pd_proc_2theta_range_max   46.365
+_pd_proc_2theta_range_min   5.005
+_pd_proc_info_datetime   'Jul 29 14:53:32 2002'
+_pd_proc_ls_prof_R_factor   0.0546
+_pd_proc_ls_prof_wR_expected   0.0609
+_pd_proc_ls_prof_wR_factor   0.0719
+_refine_ls_goodness_of_fit_all   1.18
+_refine_ls_number_parameters   13
+_refine_ls_shift/esd_max   0.07
+_refine_ls_shift/esd_mean   0.01
+_cod_data_source_file   ic0205536_3.cif
+_cod_data_source_block   K2C2O4_R_phase_1
+_cod_original_formula_sum   'K2 C2 O4'
+_cod_database_code   4313233
+_cod_database_fobs_code   4313233
+_pd_instr_radiation_probe   x-ray
+loop_
+ _symmetry_equiv_pos_as_xyz
+  +x,+y,+z
+  -x+1/2,+y+1/2,+z
+  +x+1/2,-y+1/2,+z
+  -x,-y,+z
+  -x,-y,-z
+  +x+1/2,-y+1/2,-z
+  -x+1/2,+y+1/2,-z
+  +x,+y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_thermal_displace_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+  C1  0.43828(20)  1.0699(4)  0.0  1.0  Uiso  0.0195(7)  4
+  O2  0.45049(13)  1.27287(27)  0.0  1.0  Uiso  0.0268(6)  4
+  O3  0.34079(16)  0.96392(19)  0.0  1.0  Uiso  0.0190(5)  4
+  K4  0.34860(6)  0.59497(9)  0.5  1.0  Uiso  0.02141(19)  4
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+  C  4.0
+  O  8.0
+  K  4.0
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  139131120

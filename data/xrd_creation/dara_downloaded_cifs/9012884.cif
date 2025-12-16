@@ -1,0 +1,69 @@
+# generated using pymatgen
+data_9012884
+loop_
+ _publ_author_name
+  'Krainer, E.'
+  'Robitsch, J.'
+_publ_section_title
+;
+Nachweis einer neuen phase bei der funkenerosiven behandlung von
+kobalt
+;
+_journal_name_full   'Zeitschrift fur Metallkunde'
+_journal_page_first   350
+_journal_page_last   354
+_journal_volume   61
+_journal_year   1970
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   Co
+_chemical_name_mineral   Cobalt
+_space_group_IT_number   186
+_symmetry_space_group_name_Hall   'P 6c -2c'
+_symmetry_space_group_name_H-M   'P 63 m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_length_a   8.288
+_cell_length_b   8.288
+_cell_length_c   10.542
+_cell_formula_units_Z   46
+_cell_volume   627.124
+_database_code_amcsd   0015831
+_exptl_crystal_density_diffrn   7.178
+_cod_database_code   9012884
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-x+y,1/2+z
+  x-y,x,1/2+z
+  -y,-x,z
+  -y,x-y,z
+  x-y,-y,1/2+z
+  -x,-y,1/2+z
+  x,x-y,z
+  -x+y,-x,z
+  y,x,1/2+z
+  y,-x+y,1/2+z
+  -x+y,y,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Co1  0.00000  0.00000  0.11850
+  Co2  0.00000  0.00000  0.38140
+  Co3  0.33333  0.66667  0.94300
+  Co4  0.33333  0.66667  0.66820
+  Co5  0.33333  0.66667  0.39480
+  Co6  0.15600  0.84400  0.98600
+  Co7  0.81540  0.18460  0.01900
+  Co8  0.19400  0.80600  0.25100
+  Co9  0.85520  0.14480  0.25000
+  Co10  0.49240  0.50760  0.04270
+  Co11  0.52600  0.47400  0.30560
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  94547
+  2  AMCSD  0015831

@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_1536132
+loop_
+ _publ_author_name
+  'Jeitschko, W.'
+  'Floerke, U.'
+  'Scholz, U.D.'
+_publ_section_title
+;
+Ambient pressure synthesis, properties, and structure refinements of V
+P4  and Co P2
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   320
+_journal_page_last   326
+_journal_volume   52
+_journal_year   1984
+_chemical_formula_sum   'P4 V'
+_chemical_name_systematic   'V P4'
+_space_group_IT_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   110.87
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.259
+_cell_length_b   10.997
+_cell_length_c   5.879
+_cell_volume   317.694
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Jeitschko_JSSCBI_1984_603.cif
+_cod_data_source_block   P4V1
+_cod_original_cell_volume   317.6944
+_cod_original_formula_sum   'P4 V1'
+_cod_database_code   1536132
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,-y,z-1/2
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z+1/2
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P2  P  0.2757  0.22344  0.1886  1  0.0
+  V1  V  0  0.06271  0.25  1  0.0
+  P1  P  0.2767  0.09058  0.678  1  0.0

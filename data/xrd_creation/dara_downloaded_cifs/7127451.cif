@@ -1,0 +1,285 @@
+# generated using pymatgen
+data_7127451
+loop_
+ _publ_author_name
+  'Komura, Kenichi'
+  'Aoki, Hisakazu'
+  'Tanaka, Kentaro'
+  'Ikeda, Takuji'
+_publ_section_title
+;
+GAM-3: a zeolite formed from AlPO<sub>4</sub>-5 <i>via</i> multistep
+structural changes.
+;
+_journal_issue   94
+_journal_name_full   'Chemical communications (Cambridge, England)'
+_journal_page_first   14901
+_journal_page_last   14904
+_journal_paper_doi   10.1039/d0cc06086k
+_journal_volume   56
+_journal_year   2020
+_chemical_formula_sum   'Al12 O67.44 P12'
+_chemical_formula_weight   1774.44
+_chemical_name_common   GAM-3
+_space_group_crystal_system   orthorhombic
+_space_group_IT_number   18
+_space_group_name_Hall   'P 2 2ab'
+_space_group_name_H-M_alt   'P 21 21 2'
+_audit_update_record
+;
+2020-10-28 deposited with the CCDC.     2020-10-28 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   1
+_cell_length_a   15.0698(6)
+_cell_length_b   17.9944(4)
+_cell_length_c   5.03671(8)
+_cell_measurement_temperature   298
+_cell_volume   1365.81(7)
+_computing_cell_refinement   'RIETAN-FP (Izumi and Momma, 2007)'
+_computing_molecular_graphics   'VESTA (Momma and Izumi, 2008)'
+_computing_structure_refinement   'RIETAN-FP (Izumi and Momma, 2007)'
+_diffrn_ambient_temperature   298
+_diffrn_detector   'Bruker VANTECH-1'
+_diffrn_detector_type   PSD
+_diffrn_measurement_device_type   'Bruker D8-Advance'
+_diffrn_radiation_monochromator   Ge(111)
+_diffrn_radiation_type   'Cu K\a~1~'
+_diffrn_radiation_wavelength   1.540590
+_diffrn_source   'Sealed X-ray tube'
+_diffrn_source_target   Cu
+_exptl_crystal_density_diffrn   2.157
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   rod
+_exptl_crystal_F_000   914.21
+_pd_calc_method   'Rietveld Refinement'
+_pd_char_colour   white
+_pd_char_particle_morphology   rod
+_pd_instr_location   ?
+_pd_meas_2theta_range_inc   0.0160
+_pd_meas_2theta_range_max   100.1064
+_pd_meas_2theta_range_min   3.0000
+_pd_meas_number_of_points   5965
+_pd_meas_scan_method   cont
+_pd_prep_temperature   298
+_pd_proc_2theta_range_inc   0.0163
+_pd_proc_2theta_range_max   100.1064
+_pd_proc_2theta_range_min   5.5074
+_pd_proc_ls_background_function   'composite background function'
+_pd_proc_ls_pref_orient_corr   ?
+_pd_proc_ls_profile_function   'split pseudo-Voigt function'
+_pd_proc_ls_prof_R_factor   0.02181
+_pd_proc_ls_prof_wR_expected   0.01188
+_pd_proc_ls_prof_wR_factor   0.02862
+_pd_spec_mounting   ?
+_pd_spec_mount_mode   transmission
+_pd_spec_shape   cylinder
+_refine_diff_density_max   0.0
+_refine_diff_density_min   0.0
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_all   2.4079
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   91
+_refine_ls_number_parameters   94
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_all   0.00938
+_refine_ls_R_Fsqd_factor   0.00910
+_refine_ls_R_I_factor   0.01668
+_refine_ls_shift/su_max   0.0
+_refine_ls_weighting_details   1/<i>y</i>~i~
+_refine_ls_weighting_scheme   sigma
+_cod_data_source_file   d0cc06086k2.cif
+_cod_data_source_block   single_phase
+_cod_original_cell_volume   1365.81(6)
+_cod_database_code   7127451
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x+1/2,y+1/2,-z
+  4  x+1/2,-y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+  Al1  0.592(1)  0.8601(8)  0.801(3)  1  4  c  Uiso  0.016(1)  Al
+  Al2  0.708(1)  0.088(1)  0.188(3)  1  4  c  Uiso  0.016(1)  Al
+  Al3  0.286(1)  0.7264(8)  0.801(3)  1  4  c  Uiso  0.016(1)  Al
+  P1  0.8094(8)  0.2285(7)  0.30099  1  4  c  Uiso  0.016(1)  P
+  P2  0.610(1)  0.1335(8)  0.699(3)  1  4  c  Uiso  0.016(1)  P
+  P3  0.7055(9)  0.9117(9)  0.279(3)  1  4  c  Uiso  0.016(1)  P
+  O1  0.653(2)  0.892(1)  0.554(6)  1  4  c  Uiso  0.025(2)  O
+  O2  0.734(1)  -0.004(2)  0.255(9)  1  4  c  Uiso  0.025(2)  O
+  O3  0.635(2)  0.897(1)  0.064(5)  1  4  c  Uiso  0.025(2)  O
+  O4  0.209(2)  0.760(1)  0.619(6)  1  4  c  Uiso  0.025(2)  O
+  O5  0.263(2)  0.738(1)  0.124(7)  1  4  c  Uiso  0.025(2)  O
+  O6  0.620(2)  0.110(1)  0.382(5)  1  4  c  Uiso  0.025(2)  O
+  O7  0.298(2)  0.636(2)  0.763(8)  1  4  c  Uiso  0.025(2)  O
+  O8  0.805(2)  0.139(2)  0.245(8)  1  4  c  Uiso  0.025(2)  O
+  O9  0.897(2)  0.267(2)  0.213(5)  1  4  c  Uiso  0.025(2)  O
+  O10  0.381(2)  0.776(2)  0.751(6)  1  4  c  Uiso  0.025(2)  O
+  O11  0.676(2)  0.089(1)  0.886(4)  1  4  c  Uiso  0.025(2)  O
+  O12  0.508(2)  0.1124(7)  0.793(6)  1  4  c  Uiso  0.025(2)  O
+  WO1  0.38(2)  0.70(1)  0.00(5)  0.18(5)  4  c  Uiso  0.2533  O
+  WO2  0.559(2)  0.446(2)  0.104(4)  1  4  c  Uiso  0.2533  O
+  WO3  0.425(2)  0.462(2)  0.686(7)  1  4  c  Uiso  0.2533  O
+  WO4  0.427(2)  0.611(1)  0.583(8)  1  4  c  Uiso  0.2533  O
+  WO5  0.472(4)  0.076(1)  0.22(1)  0.69(2)  4  c  Uiso  0.2533  O
+  WO6  0.571(3)  0.691(2)  0.489(7)  0.99(4)  4  c  Uiso  0.2533  O
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Al  Al  0.2130  0.2455
+  'International Tables for Crystallography, Vol. C'
+  O  O  0.0492  0.0322
+  'International Tables for Crystallography, Vol. C'
+  P  P  0.2955  0.4335
+  'International Tables for Crystallography, Vol. C'
+  N  N  0.0311  0.0180
+  'International Tables for Crystallography, Vol. C'
+  C  C  0.0181  0.0091
+  'International Tables for Crystallography, Vol. C'
+  H  H  0.0000  0.0000
+  'International Tables for Crystallography, Vol. C'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O12  Al1  O3  106(2)  2_665  .  1_556  ?
+  O12  Al1  O1  114(2)  2_665  .  1_555  ?
+  O12  Al1  O9  114(1)  2_665  .  3_656  ?
+  O3  Al1  O1  104(2)  1_556  .  1_555  ?
+  O3  Al1  O9  114(2)  1_556  .  3_656  ?
+  O1  Al1  O9  105(2)  1_555  .  3_656  ?
+  O11  Al2  O6  108(2)  1_554  .  1_555  ?
+  O11  Al2  O2  105(2)  1_554  .  1_555  ?
+  O11  Al2  O8  114(2)  1_554  .  1_555  ?
+  O6  Al2  O2  107(2)  1_555  .  1_555  ?
+  O6  Al2  O8  116(2)  1_555  .  1_555  ?
+  O2  Al2  O8  106(1)  1_555  .  1_555  ?
+  O4  Al3  O7  113(2)  1_555  .  1_555  ?
+  O4  Al3  O5  111(2)  1_555  .  1_556  ?
+  O4  Al3  O10  109(2)  1_555  .  1_555  ?
+  O4  Al3  P3  87(1)  1_555  .  4_466  ?
+  O7  Al3  O5  105(2)  1_555  .  1_556  ?
+  O7  Al3  O10  114(2)  1_555  .  1_555  ?
+  O7  Al3  P3  32(1)  1_555  .  4_466  ?
+  O5  Al3  O10  104(2)  1_556  .  1_555  ?
+  O5  Al3  P3  100(1)  1_556  .  4_466  ?
+  O10  Al3  P3  144(1)  1_555  .  4_466  ?
+  O5  P1  O9  105(1)  2_665  .  1_555  ?
+  O5  P1  O4  113(2)  2_665  .  2_665  ?
+  O5  P1  O8  105(2)  2_665  .  1_555  ?
+  O9  P1  O4  112(2)  1_555  .  2_665  ?
+  O9  P1  O8  115(2)  1_555  .  1_555  ?
+  O4  P1  O8  106(2)  2_665  .  1_555  ?
+  O11  P2  O12  107(1)  1_555  .  1_555  ?
+  O11  P2  O6  112(2)  1_555  .  1_555  ?
+  O11  P2  O10  110(2)  1_555  .  2_665  ?
+  O12  P2  O6  108(2)  1_555  .  1_555  ?
+  O12  P2  O10  105(2)  1_555  .  2_665  ?
+  O6  P2  O10  113(2)  1_555  .  2_665  ?
+  O3  P3  O2  107(2)  1_555  .  1_565  ?
+  O3  P3  O1  103(2)  1_555  .  1_555  ?
+  O3  P3  O7  114(2)  1_555  .  4_566  ?
+  O3  P3  Al3  93(1)  1_555  .  4_566  ?
+  O2  P3  O1  114(2)  1_565  .  1_555  ?
+  O2  P3  O7  105(1)  1_565  .  4_566  ?
+  O2  P3  Al3  136(1)  1_565  .  4_566  ?
+  O1  P3  O7  114(2)  1_555  .  4_566  ?
+  O1  P3  Al3  98(1)  1_555  .  4_566  ?
+  O7  P3  Al3  32(1)  4_566  .  4_566  ?
+  P3  O1  Al1  169(2)  1_555  .  1_555  ?
+  P3  O2  Al2  150(1)  1_545  .  1_555  ?
+  P3  O3  Al1  157(2)  1_555  .  1_554  ?
+  Al3  O4  P1  137(2)  1_555  .  2_665  ?
+  P1  O5  Al3  140(2)  2_665  .  1_554  ?
+  P2  O6  Al2  134(2)  1_555  .  1_555  ?
+  P3  O7  Al3  115(2)  4_466  .  1_555  ?
+  P1  O8  Al2  125(2)  1_555  .  1_555  ?
+  P1  O9  Al1  123(2)  1_555  .  3_646  ?
+  P2  O10  Al3  128(2)  2_665  .  1_555  ?
+  Al2  O11  P2  139(2)  1_556  .  1_555  ?
+  Al1  O12  P2  145(1)  2_665  .  1_555  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Al1  O12  1.59(3)  .  2_665  ?
+  Al1  O3  1.62(3)  .  1_556  ?
+  Al1  O1  1.65(3)  .  1_555  ?
+  Al1  O9  1.69(3)  .  3_656  ?
+  Al2  O11  1.59(2)  .  1_554  ?
+  Al2  O6  1.70(3)  .  1_555  ?
+  Al2  O2  1.74(3)  .  1_555  ?
+  Al2  O8  1.75(3)  .  1_555  ?
+  Al3  O4  1.60(3)  .  1_555  ?
+  Al3  O7  1.65(3)  .  1_555  ?
+  Al3  O5  1.67(3)  .  1_556  ?
+  Al3  O10  1.70(3)  .  1_555  ?
+  Al3  P3  2.80(2)  .  4_466  ?
+  P1  O5  1.53(3)  .  2_665  ?
+  P1  O9  1.55(2)  .  1_555  ?
+  P1  O4  1.64(3)  .  2_665  ?
+  P1  O8  1.64(3)  .  1_555  ?
+  P2  O11  1.60(2)  .  1_555  ?
+  P2  O12  1.64(3)  .  1_555  ?
+  P2  O6  1.66(2)  .  1_555  ?
+  P2  O10  1.66(3)  .  2_665  ?
+  P3  O3  1.53(4)  .  1_555  ?
+  P3  O2  1.57(3)  .  1_565  ?
+  P3  O1  1.63(4)  .  1_555  ?
+  P3  O7  1.65(3)  .  4_566  ?
+  P3  Al3  2.80(2)  .  4_566  ?
+  WO1  Al3  1.8(3)  .  1_554  ?
+  WO1  O10  1.9(2)  .  1_554  ?
+  WO1  O5  2.0(2)  .  1_555  ?
+  WO1  O7  2.0(3)  .  1_554  ?
+  WO1  WO4  2.7(2)  .  1_554  ?
+  WO2  WO2  2.63(6)  .  2_665  ?
+  WO2  WO4  2.64(4)  .  2_665  ?
+  WO2  WO3  2.69(3)  .  2_664  ?
+  WO3  O8  2.59(4)  .  4_456  ?
+  WO3  WO4  2.63(3)  .  2_665  ?
+  WO3  WO3  2.64(5)  .  2_665  ?
+  WO3  WO2  2.69(3)  .  2_666  ?
+  WO3  WO4  2.74(5)  .  1_555  ?
+  WO4  O7  2.19(4)  .  1_555  ?
+  WO4  WO3  2.63(3)  .  2_665  ?
+  WO4  WO2  2.64(4)  .  2_665  ?
+  WO4  WO6  2.65(3)  .  1_555  ?
+  WO4  WO1  2.7(2)  .  1_556  ?
+  WO4  WO3  2.74(5)  .  1_555  ?
+  WO5  O3  1.87(7)  .  2_665  ?
+  WO5  O12  2.34(7)  .  1_554  ?
+  WO5  O6  2.45(7)  .  1_555  ?
+  WO5  O1  2.58(7)  .  2_665  ?
+  WO5  Al1  2.62(6)  .  2_664  ?
+  WO5  P3  2.70(7)  .  2_665  ?
+  WO6  O9  2.08(3)  .  3_656  ?
+  WO6  P1  2.19(4)  .  3_656  ?
+  WO6  O4  2.32(5)  .  4_566  ?
+  WO6  O8  2.48(4)  .  3_656  ?
+  WO6  WO4  2.65(3)  .  1_555  ?

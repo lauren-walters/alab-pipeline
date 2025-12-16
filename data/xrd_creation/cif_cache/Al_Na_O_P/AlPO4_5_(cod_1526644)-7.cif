@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_1526644
+loop_
+ _publ_author_name
+  'Kirchner, R.M.'
+  'Grosse-Kunstleve, R.W.'
+  'Pluth, J.J.'
+  'Broach, R.W.'
+  'Wilson, S.T.'
+  'Smith, J.V.'
+_publ_section_title
+;
+The structures of as-synthesized Al P O4 - 53(A), calcined dehydrated
+Al  P O4 - 53(B), and Al P O4 - 53(C), a new phase determined by the
+FOCUS  method
+;
+_journal_name_full   'Microporous and Mesoporous Materials'
+_journal_page_first   319
+_journal_page_last   332
+_journal_volume   39
+_journal_year   2000
+_chemical_formula_sum   'Al O4 P'
+_chemical_name_systematic   'Al (P O4)'
+_space_group_IT_number   5
+_symmetry_space_group_name_Hall   'C 2y'
+_symmetry_space_group_name_H-M   'C 1 2 1'
+_cell_angle_alpha   90
+_cell_angle_beta   88.259
+_cell_angle_gamma   90
+_cell_formula_units_Z   12
+_cell_length_a   16.44398
+_cell_length_b   5.1075
+_cell_length_c   13.4846
+_cell_volume   1132.017
+_citation_journal_id_ASTM   MIMMFJ
+_cod_data_source_file   Kirchner_MIMMFJ_2000_246.cif
+_cod_data_source_block   Al1O4P1
+_cod_original_formula_sum   'Al1 O4 P1'
+_cod_database_code   1526644
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O6  O-2  0.4195  0.6367  0.6265  1  0.0
+  Al1  Al+3  0.9554  0.5478  0.2349  1  0.0
+  Al3  Al+3  0.6466  0.5864  0.4642  1  0.0
+  O4  O-2  0.9267  0.6236  0.1034  1  0.0
+  P2  P+5  0.334  0.0941  0.4102  1  0.0
+  O11  O-2  0.8579  0.7643  0.9378  1  0.0
+  Al2  Al+3  0.8265  0.1033  0.9191  1  0.0
+  O7  O-2  0.3746  0.3573  0.4507  1  0.0
+  P1  P+5  0.4369  0.5297  0.7364  1  0.0
+  O5  O-2  0.3672  0.6291  0.8031  1  0.0
+  P3  P+5  0.1444  0.6198  0.9613  1  0.0
+  O8  O-2  0.3697  0.9071  0.4877  1  0.0
+  O10  O-2  0.867  0.3209  0.9997  1  0.0
+  O1  O-2  0.8651  0.5711  0.3037  1  0.0
+  O9  O-2  0.2413  0.0748  0.4095  1  0.0
+  O2  O-2  0.9862  0.2092  0.2454  1  0.0
+  O3  O-2  0.042  0.7281  0.2461  1  0.0
+  O12  O-2  0.7228  0.1215  0.9002  1  0.0

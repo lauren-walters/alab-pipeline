@@ -1,0 +1,84 @@
+# generated using pymatgen
+data_9012504
+loop_
+ _publ_author_name
+  'Shinn, D. B.'
+  'Eick, H. A.'
+_publ_section_title
+'The crystal structure of lanthanum carbonate octahydrate'
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   1340
+_journal_page_last   1345
+_journal_paper_doi   10.1021/ic50065a018
+_journal_volume   7
+_journal_year   1968
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   'C3 H16 La2 O17'
+_chemical_name_mineral   Lanthanite-(La)
+_space_group_IT_number   56
+_symmetry_space_group_name_Hall   '-P 2ab 2ac'
+_symmetry_space_group_name_H-M   'P c c n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.984
+_cell_length_b   9.580
+_cell_length_c   17.00
+_cell_volume   1463.134
+_database_code_amcsd   0012677
+_exptl_crystal_density_diffrn   2.733
+_cod_original_formula_sum   'La2 C3 O17 H16'
+_cod_database_code   9012504
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2-y,1/2+z
+  -x,1/2+y,1/2-z
+  1/2-x,y,1/2+z
+  1/2+x,-y,1/2-z
+  1/2+x,1/2+y,-z
+  1/2-x,1/2-y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  La1  0.25000  0.25000  0.25000  0.00861  La  0
+  La2  0.25000  0.75000  0.28290  0.00760  La  0
+  C1  0.25000  0.75000  0.11000  0.03065  C  0
+  O1  0.32000  0.66000  0.14800  0.01558  O  0
+  O2  0.25000  0.75000  0.03400  0.07447  O  0
+  C2  0.45600  0.49700  0.28200  0.00519  C  0
+  O3  0.01900  0.38400  0.20800  0.01900  O  0
+  O4  0.01900  0.61800  0.24000  0.02254  O  0
+  O5  0.31700  0.49200  0.29600  0.01393  O  0
+  Wat1  0.31000  0.38500  0.11700  0.01494  O  2
+  Wat2  0.11300  0.32300  0.38000  0.02533  O  2
+  Wat3  0.12100  0.64900  0.40900  0.02964  O  2
+  Wat4  0.38200  0.39300  0.49200  0.08473  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:54:04+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0012677

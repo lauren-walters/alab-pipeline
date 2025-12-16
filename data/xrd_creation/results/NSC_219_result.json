@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66567f74c7e9651dd70e00db",
+  "experiment_name": "NSC_219",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Hf-In-Mg-Na-O-P-Sc-Si-Ti-Zr",
+  "target_formula": "Na3.63Hf0.6Zr0.6Sc0.2Mg0.2Ti0.2In0.2(PO4)1.5(SiO4)1.5",
+  "analysis_timestamp": "2025-12-06T13:48:18.656633",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

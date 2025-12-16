@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_9011014
+loop_
+ _publ_author_name
+  'Evans, H. T.'
+  'Mrose, M. E.'
+_publ_section_title
+;
+The crystal structures of three new vanadium oxide minerals  Note:
+x(OH2) corrected
+;
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   56
+_journal_page_last   58
+_journal_paper_doi   10.1107/S0365110X58000141
+_journal_volume   11
+_journal_year   1958
+_chemical_compound_source
+'Peanut mine, Montrose County, Colorado, USA'
+_chemical_formula_sum   'H2 O3 V'
+_chemical_name_mineral   Duttonite
+_symmetry_space_group_name_H-M   'I 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90.67
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.80
+_cell_length_b   3.95
+_cell_length_c   5.96
+_cell_volume   207.155
+_database_code_amcsd   0009204
+_exptl_crystal_density_diffrn   3.237
+_cod_original_formula_sum   'V O3 H2'
+_cod_database_code   9011014
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  1/2+x,1/2+y,1/2+z
+  x,1/2-y,1/2+z
+  1/2+x,-y,+z
+  -x,y,1/2-z
+  1/2-x,1/2+y,-z
+  -x,1/2-y,-z
+  1/2-x,-y,1/2-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  V  0.00000  0.33600  0.25000  V  0
+  O1  0.00000  0.75400  0.25000  O  0
+  O-H2  0.15000  0.25000  0.50000  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:52:50+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009204

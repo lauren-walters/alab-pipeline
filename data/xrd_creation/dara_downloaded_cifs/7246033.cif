@@ -1,0 +1,496 @@
+# generated using pymatgen
+data_7246033
+loop_
+ _publ_author_name
+  'Arif, Nadia'
+  'Shafiq, Zahid'
+  'Noureen, Sajida'
+  'Khalid, Muhammad'
+  'Ashraf, Abida'
+  'Yaqub, Muhammad'
+  'Irshad, Shabana'
+  'Khan, Muhammad Usman'
+  'Arshad, Muhammad Nadeem'
+  'Carmo Braga, Ataualpa Albert'
+  'Ragab, Ahmed H.'
+  'Al-Mhyawi, Saedah R'
+_publ_section_title
+;
+Synthesis, spectroscopic, SC-XRD/DFT and non-linear optical (NLO)
+properties of chromene derivatives.
+;
+_journal_issue   1
+_journal_name_full   'RSC advances'
+_journal_page_first   464
+_journal_page_last   477
+_journal_paper_doi   10.1039/d2ra07134g
+_journal_volume   13
+_journal_year   2022
+_chemical_compound_source   synthetic
+_chemical_formula_moiety   'Fe25 O32'
+_chemical_formula_sum   'Fe25 O32'
+_chemical_formula_weight   1908.1
+_chemical_name_common   'Iron oxide'
+_chemical_name_systematic   'Iron oxide'
+_space_group_IT_number   189
+_space_group_name_Hall   'P -6 -2'
+_space_group_name_H-M_alt   'P -6 2 m'
+_symmetry_cell_setting   hexagonal
+_symmetry_Int_Tables_number   189
+_symmetry_space_group_name_Hall   'P -6 -2'
+_symmetry_space_group_name_H-M   'P -6 2 m'
+_audit_block_doi   10.25505/fiz.icsd.cc290hc6
+_audit_update_record
+;
+2021-10-14 deposited with the CCDC.     2022-12-09 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   1
+_cell_length_a   13.626(3)
+_cell_length_b   13.626(3)
+_cell_length_c   2.6598(7)
+_cell_measurement_pressure   65000000(1000000)
+_cell_measurement_reflns_used   470
+_cell_measurement_temperature   293
+_cell_measurement_theta_max   16.57
+_cell_measurement_theta_min   2.53
+_cell_volume   427.68(17)
+_computing_cell_refinement
+'CrysAlisPro 1.171.40.67a (Rigaku OD, 2019)'
+_computing_data_collection
+'CrysAlisPro 1.171.40.67a (Rigaku OD, 2019)'
+_computing_data_reduction
+'CrysAlisPro 1.171.40.67a (Rigaku OD, 2019)'
+_computing_molecular_graphics   'Diamond 3.1'
+_computing_structure_refinement   Jana2006
+_computing_structure_solution   Jana2006
+_diffrn_ambient_temperature   293
+_diffrn_detector   'PerkinElmer XRD1621'
+_diffrn_measured_fraction_theta_full   0.94
+_diffrn_measured_fraction_theta_max   0.94
+_diffrn_measurement_device   'customized \w-circle diffractometer'
+_diffrn_measurement_device_type   'P02.2 @ Petra III (DESY)'
+_diffrn_measurement_method   '\w scans'
+_diffrn_radiation_monochromator   synchrotron
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_source   X-ray
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   0.2885
+_diffrn_reflns_av_R_equivalents   0.0474
+_diffrn_reflns_av_unetI/netI   0.0443
+_diffrn_reflns_limit_h_max   15
+_diffrn_reflns_limit_h_min   -15
+_diffrn_reflns_limit_k_max   9
+_diffrn_reflns_limit_k_min   -5
+_diffrn_reflns_limit_l_max   2
+_diffrn_reflns_limit_l_min   -3
+_diffrn_reflns_number   494
+_diffrn_reflns_theta_full   9.78
+_diffrn_reflns_theta_max   9.78
+_diffrn_reflns_theta_min   2.11
+_diffrn_source   synchrotron
+_exptl_absorpt_coefficient_mu   1.549
+_exptl_absorpt_correction_T_max   1
+_exptl_absorpt_correction_T_min   0.687
+_exptl_absorpt_correction_type   multi-scan
+_exptl_absorpt_process_details
+;
+CrysAlisPro 1.171.40.67a (Rigaku Oxford Diffraction, 2019) Empirical
+absorption correction using spherical harmonics,  implemented in
+SCALE3 ABSPACK scaling algorithm.
+;
+_exptl_crystal_colour   black
+_exptl_crystal_density_diffrn   7.4086
+_exptl_crystal_description   block
+_exptl_crystal_F_000   906
+_exptl_crystal_size_max   0.002
+_exptl_crystal_size_mid   0.002
+_exptl_crystal_size_min   0.002
+_exptl_crystal_size_rad   0.002
+_refine_diff_density_max   1.24
+_refine_diff_density_min   -1.11
+_refine_ls_abs_structure_details
+'99 of Friedel pairs used in the refinement'
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_gt   1.53
+_refine_ls_goodness_of_fit_ref   1.46
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   34
+_refine_ls_number_reflns   270
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_all   0.0559
+_refine_ls_R_factor_gt   0.0510
+_refine_ls_shift/su_max   0.0171
+_refine_ls_shift/su_mean   0.0053
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details   w=1/(\s^2^(I)+0.0004I^2^)
+_refine_ls_weighting_scheme   sigma
+_refine_ls_wR_factor_gt   0.0985
+_refine_ls_wR_factor_ref   0.1004
+_reflns_number_gt   242
+_reflns_number_total   270
+_reflns_threshold_expression   I>2\s(I)
+_cod_data_source_file   d2ra07134g2.cif
+_cod_data_source_block   I
+_cod_depositor_comments
+;
+The following automatic conversions were performed: data item
+'_diffrn_radiation_probe' value 'X-ray' was changed to 'x-ray' in
+accordance with the /home/data/users/saulius/crontab/automatic-
+downloads/rss-feeds/RSC/lib/dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 last updated on 2011-04-26. Automatic
+conversion script Id: cif_fix_values 7556 2019-12-06 15:28:31Z antanas
+Adding full bibliography for 7246032--7246034.cif.
+;
+_cod_original_sg_symbol_Hall   'P -6;-2'
+_cod_database_code   7246033
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  x,y,-z
+  5  -y,x-y,-z
+  6  -x+y,-x,-z
+  7  y,x,-z
+  8  x-y,-y,-z
+  9  -x,-x+y,-z
+  10  y,x,z
+  11  x-y,-y,z
+  12  -x,-x+y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_site_symmetry_multiplicity
+ _atom_site_occupancy
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Fe1  Fe  0  0  0  Uiso  0.0078(16)  1  1  d  .  .  .
+  Fe2  Fe  0.2036(3)  0  0  Uiso  0.0087(10)  3  1  d  .  .  .
+  Fe3  Fe  0.3918(3)  0  0  Uiso  0.0068(10)  3  1  d  .  .  .
+  Fe4  Fe  0.1792(3)  0.1792(3)  0.5  Uiso  0.0088(10)  3  1  d  .
+  .  .
+  Fe5  Fe  0.4013(3)  0.2146(3)  0.5  Uiso  0.0092(9)  6  1  d  .  .
+  .
+  Fe6  Fe  0.5939(2)  0.2051(2)  0.5  Uiso  0.0080(7)  6  1  d  .  .
+  .
+  Fe7  Fe  0.4125(3)  0.4125(3)  0  Uiso  0.0079(10)  3  1  d  .  .
+  .
+  O1  O  0.1066(12)  0  0.5  Uiso  0.001(4)  3  1  d  .  .  .
+  O2  O  0.2939(14)  0  0.5  Uiso  0.011(5)  3  1  d  .  .  .
+  O3  O  0.4936(13)  0  0.5  Uiso  0.005(4)  3  1  d  .  .  .
+  O4  O  0.2762(11)  0.1546(11)  0  Uiso  0.004(3)  6  1  d  .  .  .
+  O5  O  0.4701(11)  0.1592(10)  0  Uiso  0.006(3)  6  1  d  .  .  .
+  O6  O  0.666667  0.333333  0  Uiso  0.001(5)  2  1  d  .  .  .
+  O7  O  0.3203(13)  0.3203(13)  0.5  Uiso  0.000(4)  3  1  d  .  .
+  .
+  O8  O  0.4895(10)  0.3368(11)  0  Uiso  0.006(3)  6  1  d  .  .  .
+loop_
+ _atom_type_symbol
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Fe  0.1690  0.2523
+  'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+  O  0.0008  0.0015
+  'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+loop_
+ _citation_id
+ _citation_doi
+ _citation_year
+  1  10.1021/acs.inorgchem.1c03258  2021
+loop_
+ _diffrn_standard_refln_index_h
+ _diffrn_standard_refln_index_k
+ _diffrn_standard_refln_index_l
+  ?  ?  ?
+loop_
+ _exptl_crystal_face_index_h
+ _exptl_crystal_face_index_k
+ _exptl_crystal_face_index_l
+ _exptl_crystal_face_perp_dist
+  ?  ?  ?  ?
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O1  Fe1  O1  1_554  .  .  85.0(5)  ?
+  O1  Fe1  O1  1_554  .  2_554  79.4(3)  ?
+  O1  Fe1  O1  1_554  .  2_555  136.73(17)  ?
+  O1  Fe1  O1  1_554  .  3_554  79.4(5)  ?
+  O1  Fe1  O1  1_554  .  3_555  136.7(6)  ?
+  O1  Fe1  O1  .  .  2_554  136.73(17)  ?
+  O1  Fe1  O1  .  .  2_555  79.4(3)  ?
+  O1  Fe1  O1  .  .  3_554  136.7(6)  ?
+  O1  Fe1  O1  .  .  3_555  79.4(5)  ?
+  O1  Fe1  O1  2_554  .  2_555  85.0(5)  ?
+  O1  Fe1  O1  2_554  .  3_554  79.4(5)  ?
+  O1  Fe1  O1  2_554  .  3_555  136.7(6)  ?
+  O1  Fe1  O1  2_555  .  3_554  136.7(6)  ?
+  O1  Fe1  O1  2_555  .  3_555  79.4(5)  ?
+  O1  Fe1  O1  3_554  .  3_555  85.0(3)  ?
+  Fe3  Fe2  O1  .  .  1_554  134.8(4)  ?
+  Fe3  Fe2  O1  .  .  .  134.8(4)  ?
+  Fe3  Fe2  O2  .  .  1_554  47.2(5)  ?
+  Fe3  Fe2  O2  .  .  .  47.2(5)  ?
+  Fe3  Fe2  O4  .  .  .  92.0(5)  ?
+  Fe3  Fe2  O4  .  .  8_555  92.0(7)  ?
+  O1  Fe2  O1  1_554  .  .  90.4(5)  ?
+  O1  Fe2  O2  1_554  .  1_554  87.6(6)  ?
+  O1  Fe2  O2  1_554  .  .  178.0(6)  ?
+  O1  Fe2  O4  1_554  .  .  88.6(4)  ?
+  O1  Fe2  O4  1_554  .  8_555  88.6(5)  ?
+  O1  Fe2  O2  .  .  1_554  178.0(6)  ?
+  O1  Fe2  O2  .  .  .  87.6(6)  ?
+  O1  Fe2  O4  .  .  .  88.6(4)  ?
+  O1  Fe2  O4  .  .  8_555  88.6(5)  ?
+  O2  Fe2  O2  1_554  .  .  94.4(7)  ?
+  O2  Fe2  O4  1_554  .  .  91.3(4)  ?
+  O2  Fe2  O4  1_554  .  8_555  91.3(5)  ?
+  O2  Fe2  O4  .  .  .  91.3(4)  ?
+  O2  Fe2  O4  .  .  8_555  91.3(5)  ?
+  O4  Fe2  O4  .  .  8_555  176.0(9)  ?
+  Fe2  Fe3  O2  .  .  1_554  44.9(4)  ?
+  Fe2  Fe3  O2  .  .  .  44.9(4)  ?
+  Fe2  Fe3  O3  .  .  1_554  136.2(4)  ?
+  Fe2  Fe3  O3  .  .  .  136.2(4)  ?
+  Fe2  Fe3  O5  .  .  .  89.5(5)  ?
+  Fe2  Fe3  O5  .  .  8_555  89.5(7)  ?
+  O2  Fe3  O2  1_554  .  .  89.9(6)  ?
+  O2  Fe3  O3  1_554  .  1_554  91.3(5)  ?
+  O2  Fe3  O3  1_554  .  .  178.9(6)  ?
+  O2  Fe3  O5  1_554  .  .  89.6(4)  ?
+  O2  Fe3  O5  1_554  .  8_555  89.6(5)  ?
+  O2  Fe3  O3  .  .  1_554  178.9(6)  ?
+  O2  Fe3  O3  .  .  .  91.3(5)  ?
+  O2  Fe3  O5  .  .  .  89.6(4)  ?
+  O2  Fe3  O5  .  .  8_555  89.6(5)  ?
+  O3  Fe3  O3  1_554  .  .  87.6(5)  ?
+  O3  Fe3  O5  1_554  .  .  90.4(4)  ?
+  O3  Fe3  O5  1_554  .  8_555  90.4(5)  ?
+  O3  Fe3  O5  .  .  .  90.4(4)  ?
+  O3  Fe3  O5  .  .  8_555  90.4(5)  ?
+  O5  Fe3  O5  .  .  8_555  179.0(9)  ?
+  O1  Fe4  O1  .  .  2_555  72.5(6)  ?
+  O1  Fe4  O4  .  .  .  77.1(5)  ?
+  O1  Fe4  O4  .  .  1_556  77.1(5)  ?
+  O1  Fe4  O4  .  .  7_555  128.1(4)  ?
+  O1  Fe4  O4  .  .  7_556  128.1(4)  ?
+  O1  Fe4  O7  .  .  .  143.8(8)  ?
+  O1  Fe4  O4  2_555  .  .  128.1(4)  ?
+  O1  Fe4  O4  2_555  .  1_556  128.1(4)  ?
+  O1  Fe4  O4  2_555  .  7_555  77.1(5)  ?
+  O1  Fe4  O4  2_555  .  7_556  77.1(5)  ?
+  O1  Fe4  O7  2_555  .  .  143.8(8)  ?
+  O4  Fe4  O4  .  .  1_556  82.5(5)  ?
+  O4  Fe4  O4  .  .  7_555  90.7(5)  ?
+  O4  Fe4  O4  .  .  7_556  151.7(5)  ?
+  O4  Fe4  O7  .  .  .  75.9(6)  ?
+  O4  Fe4  O4  1_556  .  7_555  151.7(5)  ?
+  O4  Fe4  O4  1_556  .  7_556  90.7(5)  ?
+  O4  Fe4  O7  1_556  .  .  75.9(6)  ?
+  O4  Fe4  O4  7_555  .  7_556  82.5(5)  ?
+  O4  Fe4  O7  7_555  .  .  75.9(6)  ?
+  O4  Fe4  O7  7_556  .  .  75.9(6)  ?
+  O4  Fe5  O4  .  .  1_556  84.0(4)  ?
+  O4  Fe5  O5  .  .  .  82.3(5)  ?
+  O4  Fe5  O5  .  .  1_556  139.9(5)  ?
+  O4  Fe5  O8  .  .  .  86.1(4)  ?
+  O4  Fe5  O8  .  .  1_556  145.5(7)  ?
+  O4  Fe5  O5  1_556  .  .  139.9(5)  ?
+  O4  Fe5  O5  1_556  .  1_556  82.3(5)  ?
+  O4  Fe5  O8  1_556  .  .  145.5(7)  ?
+  O4  Fe5  O8  1_556  .  1_556  86.1(4)  ?
+  O5  Fe5  O5  .  .  1_556  84.3(5)  ?
+  O5  Fe5  O8  .  .  .  70.6(6)  ?
+  O5  Fe5  O8  .  .  1_556  124.2(5)  ?
+  O5  Fe5  O8  1_556  .  .  124.2(5)  ?
+  O5  Fe5  O8  1_556  .  1_556  70.6(6)  ?
+  O8  Fe5  O8  .  .  1_556  83.5(3)  ?
+  Fe6  Fe6  Fe6  2_655  .  3_665  60.00(15)  ?
+  Fe6  Fe6  O5  2_655  .  .  128.0(3)  ?
+  Fe6  Fe6  O5  2_655  .  1_556  128.0(3)  ?
+  Fe6  Fe6  O6  2_655  .  .  49.35(7)  ?
+  Fe6  Fe6  O6  2_655  .  1_556  49.35(7)  ?
+  Fe6  Fe6  O8  2_655  .  2_655  83.4(4)  ?
+  Fe6  Fe6  O8  2_655  .  2_656  83.4(4)  ?
+  Fe6  Fe6  O5  3_665  .  .  87.0(5)  ?
+  Fe6  Fe6  O5  3_665  .  1_556  87.0(5)  ?
+  Fe6  Fe6  O6  3_665  .  .  49.35(8)  ?
+  Fe6  Fe6  O6  3_665  .  1_556  49.35(8)  ?
+  Fe6  Fe6  O8  3_665  .  2_655  124.8(5)  ?
+  Fe6  Fe6  O8  3_665  .  2_656  124.8(5)  ?
+  O5  Fe6  O5  .  .  1_556  84.0(4)  ?
+  O5  Fe6  O6  .  .  .  78.7(3)  ?
+  O5  Fe6  O6  .  .  1_556  133.3(5)  ?
+  O5  Fe6  O8  .  .  2_655  85.3(5)  ?
+  O5  Fe6  O8  .  .  2_656  145.8(6)  ?
+  O5  Fe6  O6  1_556  .  .  133.3(5)  ?
+  O5  Fe6  O6  1_556  .  1_556  78.7(3)  ?
+  O5  Fe6  O8  1_556  .  2_655  145.8(6)  ?
+  O5  Fe6  O8  1_556  .  2_656  85.3(5)  ?
+  O6  Fe6  O6  .  .  1_556  82.44(10)  ?
+  O6  Fe6  O8  .  .  2_655  75.5(5)  ?
+  O6  Fe6  O8  .  .  2_656  130.1(4)  ?
+  O6  Fe6  O8  1_556  .  2_655  130.1(4)  ?
+  O6  Fe6  O8  1_556  .  2_656  75.5(5)  ?
+  O8  Fe6  O8  2_655  .  2_656  85.4(6)  ?
+  O3  Fe7  O3  3_664  .  3_665  92.2(4)  ?
+  O3  Fe7  O7  3_664  .  1_554  87.2(4)  ?
+  O3  Fe7  O7  3_664  .  .  179.4(4)  ?
+  O3  Fe7  O8  3_664  .  .  89.8(7)  ?
+  O3  Fe7  O8  3_664  .  7_555  89.8(7)  ?
+  O3  Fe7  O7  3_665  .  1_554  179.4(4)  ?
+  O3  Fe7  O7  3_665  .  .  87.2(4)  ?
+  O3  Fe7  O8  3_665  .  .  89.8(7)  ?
+  O3  Fe7  O8  3_665  .  7_555  89.8(7)  ?
+  O7  Fe7  O7  1_554  .  .  93.3(4)  ?
+  O7  Fe7  O8  1_554  .  .  90.2(7)  ?
+  O7  Fe7  O8  1_554  .  7_555  90.2(7)  ?
+  O7  Fe7  O8  .  .  .  90.2(7)  ?
+  O7  Fe7  O8  .  .  7_555  90.2(7)  ?
+  O8  Fe7  O8  .  .  7_555  179.4(5)  ?
+  Fe1  O1  Fe1  .  .  1_556  85.0(6)  ?
+  Fe1  O1  Fe2  .  .  .  92.33(9)  ?
+  Fe1  O1  Fe2  .  .  1_556  177.3(7)  ?
+  Fe1  O1  Fe4  .  .  .  85.4(4)  ?
+  Fe1  O1  Fe4  .  .  3_555  85.4(4)  ?
+  Fe1  O1  Fe2  1_556  .  .  177.3(7)  ?
+  Fe1  O1  Fe2  1_556  .  1_556  92.33(9)  ?
+  Fe1  O1  Fe4  1_556  .  .  85.4(4)  ?
+  Fe1  O1  Fe4  1_556  .  3_555  85.4(4)  ?
+  Fe2  O1  Fe2  .  .  1_556  90.4(7)  ?
+  Fe2  O1  Fe4  .  .  .  94.4(3)  ?
+  Fe2  O1  Fe4  .  .  3_555  94.4(3)  ?
+  Fe2  O1  Fe4  1_556  .  .  94.4(3)  ?
+  Fe2  O1  Fe4  1_556  .  3_555  94.4(3)  ?
+  Fe4  O1  Fe4  .  .  3_555  167.5(9)  ?
+  Fe2  O2  Fe2  .  .  1_556  94.4(9)  ?
+  Fe2  O2  Fe3  .  .  .  87.87(14)  ?
+  Fe2  O2  Fe3  .  .  1_556  177.7(9)  ?
+  Fe2  O2  Fe3  1_556  .  .  177.7(9)  ?
+  Fe2  O2  Fe3  1_556  .  1_556  87.87(14)  ?
+  Fe3  O2  Fe3  .  .  1_556  89.9(8)  ?
+  Fe3  O3  Fe3  .  .  1_556  87.6(7)  ?
+  Fe3  O3  Fe7  .  .  2_655  90.12(16)  ?
+  Fe3  O3  Fe7  .  .  2_656  177.7(8)  ?
+  Fe3  O3  Fe7  1_556  .  2_655  177.7(8)  ?
+  Fe3  O3  Fe7  1_556  .  2_656  90.12(16)  ?
+  Fe7  O3  Fe7  2_655  .  2_656  92.2(8)  ?
+  Fe2  O4  Fe4  .  .  1_554  99.8(5)  ?
+  Fe2  O4  Fe4  .  .  .  99.8(5)  ?
+  Fe2  O4  Fe5  .  .  1_554  109.5(7)  ?
+  Fe2  O4  Fe5  .  .  .  109.5(7)  ?
+  Fe4  O4  Fe4  1_554  .  .  82.5(7)  ?
+  Fe4  O4  Fe5  1_554  .  1_554  89.4(2)  ?
+  Fe4  O4  Fe5  1_554  .  .  150.6(8)  ?
+  Fe4  O4  Fe5  .  .  1_554  150.6(8)  ?
+  Fe4  O4  Fe5  .  .  .  89.4(2)  ?
+  Fe5  O4  Fe5  1_554  .  .  84.0(5)  ?
+  Fe3  O5  Fe5  .  .  1_554  109.6(5)  ?
+  Fe3  O5  Fe5  .  .  .  109.6(5)  ?
+  Fe3  O5  Fe6  .  .  1_554  105.5(7)  ?
+  Fe3  O5  Fe6  .  .  .  105.5(7)  ?
+  Fe5  O5  Fe5  1_554  .  .  84.3(7)  ?
+  Fe5  O5  Fe6  1_554  .  1_554  85.4(2)  ?
+  Fe5  O5  Fe6  1_554  .  .  144.9(7)  ?
+  Fe5  O5  Fe6  .  .  1_554  144.9(7)  ?
+  Fe5  O5  Fe6  .  .  .  85.4(2)  ?
+  Fe6  O5  Fe6  1_554  .  .  84.0(6)  ?
+  Fe6  O6  Fe6  1_554  .  .  82.44(7)  ?
+  Fe6  O6  Fe6  1_554  .  2_654  81.29(10)  ?
+  Fe6  O6  Fe6  1_554  .  2_655  135.82(16)  ?
+  Fe6  O6  Fe6  1_554  .  3_664  81.29(11)  ?
+  Fe6  O6  Fe6  1_554  .  3_665  135.82(13)  ?
+  Fe6  O6  Fe6  .  .  2_654  135.82(16)  ?
+  Fe6  O6  Fe6  .  .  2_655  81.29(10)  ?
+  Fe6  O6  Fe6  .  .  3_664  135.82(13)  ?
+  Fe6  O6  Fe6  .  .  3_665  81.29(11)  ?
+  Fe6  O6  Fe6  2_654  .  2_655  82.44(8)  ?
+  Fe6  O6  Fe6  2_654  .  3_664  81.29(15)  ?
+  Fe6  O6  Fe6  2_654  .  3_665  135.82(13)  ?
+  Fe6  O6  Fe6  2_655  .  3_664  135.82(13)  ?
+  Fe6  O6  Fe6  2_655  .  3_665  81.29(15)  ?
+  Fe6  O6  Fe6  3_664  .  3_665  82.44(12)  ?
+  Fe4  O7  Fe7  .  .  .  133.3(3)  ?
+  Fe4  O7  Fe7  .  .  1_556  133.3(3)  ?
+  Fe7  O7  Fe7  .  .  1_556  93.3(6)  ?
+  Fe5  O8  Fe5  1_554  .  .  83.5(4)  ?
+  Fe5  O8  Fe6  1_554  .  3_664  87.8(3)  ?
+  Fe5  O8  Fe6  1_554  .  3_665  149.9(10)  ?
+  Fe5  O8  Fe7  1_554  .  .  101.4(6)  ?
+  Fe5  O8  Fe6  .  .  3_664  149.9(10)  ?
+  Fe5  O8  Fe6  .  .  3_665  87.8(3)  ?
+  Fe5  O8  Fe7  .  .  .  101.4(6)  ?
+  Fe6  O8  Fe6  3_664  .  3_665  85.4(5)  ?
+  Fe6  O8  Fe7  3_664  .  .  108.6(6)  ?
+  Fe6  O8  Fe7  3_665  .  .  108.6(6)  ?
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Fe1  O1  .  1_554  1.969(12)  ?
+  Fe1  O1  .  .  1.969(12)  ?
+  Fe1  O1  .  2_554  1.969(12)  ?
+  Fe1  O1  .  2_555  1.969(12)  ?
+  Fe1  O1  .  3_554  1.969(9)  ?
+  Fe1  O1  .  3_555  1.969(9)  ?
+  Fe2  Fe3  .  .  2.565(6)  ?
+  Fe2  O1  .  1_554  1.875(12)  ?
+  Fe2  O1  .  .  1.875(12)  ?
+  Fe2  O2  .  1_554  1.812(13)  ?
+  Fe2  O2  .  .  1.812(13)  ?
+  Fe2  O4  .  .  1.825(13)  ?
+  Fe2  O4  .  8_555  1.825(12)  ?
+  Fe3  O2  .  1_554  1.883(14)  ?
+  Fe3  O2  .  .  1.883(14)  ?
+  Fe3  O3  .  1_554  1.922(13)  ?
+  Fe3  O3  .  .  1.922(13)  ?
+  Fe3  O5  .  .  1.879(12)  ?
+  Fe3  O5  .  8_555  1.879(12)  ?
+  Fe4  O1  .  .  2.127(5)  ?
+  Fe4  O1  .  2_555  2.127(5)  ?
+  Fe4  O4  .  .  2.018(14)  ?
+  Fe4  O4  .  1_556  2.018(14)  ?
+  Fe4  O4  .  7_555  2.018(14)  ?
+  Fe4  O4  .  7_556  2.018(14)  ?
+  Fe4  O7  .  .  1.923(13)  ?
+  Fe5  O4  .  .  1.987(10)  ?
+  Fe5  O4  .  1_556  1.987(10)  ?
+  Fe5  O5  .  .  1.982(14)  ?
+  Fe5  O5  .  1_556  1.982(14)  ?
+  Fe5  O8  .  .  1.996(9)  ?
+  Fe5  O8  .  1_556  1.996(9)  ?
+  Fe6  Fe6  .  2_655  2.629(4)  ?
+  Fe6  Fe6  .  3_665  2.629(5)  ?
+  Fe6  O5  .  .  1.987(11)  ?
+  Fe6  O5  .  1_556  1.987(11)  ?
+  Fe6  O6  .  .  2.018(2)  ?
+  Fe6  O6  .  1_556  2.018(2)  ?
+  Fe6  O8  .  2_655  1.961(16)  ?
+  Fe6  O8  .  2_656  1.961(16)  ?
+  Fe7  O3  .  3_664  1.846(9)  ?
+  Fe7  O3  .  3_665  1.846(9)  ?
+  Fe7  O7  .  1_554  1.829(9)  ?
+  Fe7  O7  .  .  1.829(9)  ?
+  Fe7  O8  .  .  1.802(19)  ?
+  Fe7  O8  .  7_555  1.802(19)  ?

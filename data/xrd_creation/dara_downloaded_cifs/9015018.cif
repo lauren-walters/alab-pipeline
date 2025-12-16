@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_9015018
+loop_
+ _publ_author_name
+  'Boudjada, A.'
+  'Masse, R.'
+  'Guitel, J. C.'
+_publ_section_title
+;
+Structure cristalline de l'orthophosphate monoacide de strontium:
+SrHPO4 alpha:  forme triclinique
+;
+_journal_issue   9
+_journal_name_full   'Acta Crystallographica, Section B'
+_journal_page_first   2692
+_journal_page_last   2695
+_journal_paper_doi   10.1107/S0567740878009036
+_journal_volume   34
+_journal_year   1978
+_chemical_formula_sum   'O4 P Sr'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   94.68
+_cell_angle_beta   104.97
+_cell_angle_gamma   88.77
+_cell_length_a   7.184
+_cell_length_b   6.790
+_cell_length_c   7.256
+_cell_formula_units_Z   4
+_cell_volume   340.791
+_database_code_amcsd   0015978
+_exptl_crystal_density_diffrn   3.559
+_cod_duplicate_entry   1008031
+_cod_original_formula_sum   'Sr P O4'
+_cod_database_code   9015018
+_amcsd_formula_title   SrHPO4
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Sr1  0.28890  0.44760  0.25190
+  Sr2  0.18030  0.84320  0.68360
+  P1  0.79150  0.62660  0.28900
+  P2  0.29870  0.94980  0.21290
+  O1  0.86470  0.80930  0.41700
+  O2  0.65320  0.50860  0.36750
+  O3  0.67470  0.69280  0.08420
+  O4  0.94870  0.49130  0.24610
+  O5  0.10370  0.06460  0.15700
+  O6  0.32520  0.81640  0.04440
+  O7  0.45540  0.10580  0.28120
+  O8  0.29670  0.81700  0.37440
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0015978

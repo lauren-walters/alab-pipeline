@@ -1,0 +1,73 @@
+# generated using pymatgen
+data_1544459
+loop_
+ _publ_author_name
+  'Kataoka, K.'
+  'Akimoto, J.'
+_publ_section_title
+;
+Soft chemical synthesis and crystal structure of novel hydrogen
+titanium  oxide H2Ti12O25
+;
+_journal_name_full   'Journal of the Ceramic Society of Japan'
+_journal_page_first   710
+_journal_page_last   713
+_journal_volume   124
+_journal_year   2016
+_chemical_formula_sum   'H2 O25 Ti12'
+_chemical_name_common   H2Ti12O25
+_space_group_IT_number   12
+_space_group_name_H-M_alt   'C 1 2/m 1'
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   95.244(2)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   12.4485(2)
+_cell_length_b   3.74414(3)
+_cell_length_c   19.9523(5)
+_cell_volume   926.06(3)
+_cod_data_source_file   H2Ti12O25.cif
+_cod_data_source_block   H2Ti12O25
+_cod_original_formula_sum   'H2 Ti12 O25'
+_cod_database_code   1544459
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-x, -y, -z'
+  '-x, y, -z'
+  'x, -y, z'
+  'x+1/2, y+1/2, z'
+  '-x+1/2, -y+1/2, -z'
+  '-x+1/2, y+1/2, -z'
+  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+  H1  1.0  0.366800  0.000000  0.033600  Biso  1.000000  H
+  Ti1  1.0  0.730100  0.000000  0.096300  Biso  1.000000  Ti
+  Ti2  1.0  0.017000  0.000000  0.099100  Biso  1.000000  Ti
+  Ti3  1.0  0.126200  0.000000  0.764300  Biso  1.000000  Ti
+  Ti4  1.0  0.110600  0.000000  0.572800  Biso  1.000000  Ti
+  Ti5  1.0  0.579400  0.000000  0.236000  Biso  1.000000  Ti
+  Ti6  1.0  0.399700  0.000000  0.571300  Biso  1.000000  Ti
+  O1  1.0  0.000000  0.000000  0.000000  Biso  1.000000  O
+  O2  1.0  0.541600  0.000000  0.121500  Biso  1.000000  O
+  O3  1.0  0.402100  0.000000  0.230800  Biso  1.000000  O
+  O4  1.0  0.667500  0.000000  0.000100  Biso  1.000000  O
+  O5  1.0  0.874600  0.000000  0.124400  Biso  1.000000  O
+  O6  1.0  0.061700  0.000000  0.445300  Biso  1.000000  O
+  O7  1.0  0.252400  0.000000  0.558700  Biso  1.000000  O
+  O8  1.0  0.183800  0.000000  0.102400  Biso  1.000000  O
+  O9  1.0  0.410500  0.000000  0.448300  Biso  1.000000  O
+  O10  1.0  0.051300  0.000000  0.220800  Biso  1.000000  O
+  O11  1.0  0.725500  0.000000  0.210000  Biso  1.000000  O
+  O12  1.0  0.106800  0.000000  0.668600  Biso  1.000000  O
+  O13  1.0  0.588800  0.000000  0.332200  Biso  1.000000  O

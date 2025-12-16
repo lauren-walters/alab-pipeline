@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_7221164
+loop_
+ _publ_author_name
+  'Mueller, W.'
+_publ_section_title   'Darstellung und Struktur der Phase Li7 Sn3'
+_journal_name_full
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie,
+Organische  Chemie (2,1947-32,1977)
+;
+_journal_page_first   304
+_journal_page_last   307
+_journal_volume   29
+_journal_year   1974
+_chemical_formula_sum   'Li7 Sn3'
+_space_group_IT_number   11
+_symmetry_space_group_name_Hall   '-P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   105.95
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   8.56
+_cell_length_b   4.72
+_cell_length_c   9.45
+_cell_volume   367.111
+_citation_journal_id_ASTM   ZENBAX
+_cod_data_source_file   Mueller_ZENBAX_1974_1005.cif
+_cod_data_source_block   Li7Sn3
+_cod_original_cell_volume   367.1113
+_cod_database_code   7221164
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z
+  -x,-y,-z
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sn3  Sn  0.1979  0.25  0.4318  1  0.0
+  Li7  Li  0.606  0.25  0.021  1  0.0
+  Li3  Li  0.998  0.25  0.622  1  0.0
+  Sn2  Sn  0.1974  0.25  0.9179  1  0.0
+  Li5  Li  0.81  0.25  0.821  1  0.0
+  Sn1  Sn  0.3995  0.25  0.2251  1  0.0
+  Li6  Li  0.601  0.25  0.533  1  0.0
+  Li1  Li  0.392  0.25  0.732  1  0.0
+  Li2  Li  0.007  0.25  0.134  1  0.0
+  Li4  Li  0.803  0.25  0.312  1  0.0

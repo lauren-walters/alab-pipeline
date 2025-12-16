@@ -1,0 +1,321 @@
+# generated using pymatgen
+data_2012121
+loop_
+ _publ_author_name
+  'Bern\`es, Sylvain'
+  'Trujillo Tovar, Sonia'
+  "Castellanos R., Mar\'ia A."
+_publ_section_title
+;
+A comparison of the X-ray single-crystal structure of Li~3~SbO~4~ with
+the Rietveld refinement
+;
+_journal_issue   8
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   883
+_journal_page_last   884
+_journal_paper_doi   10.1107/S0108270101007569
+_journal_volume   57
+_journal_year   2001
+_chemical_formula_iupac   'Li3 Sb O4'
+_chemical_formula_moiety   'Li3 Sb O4'
+_chemical_formula_sum   'Li3 O4 Sb'
+_chemical_formula_weight   206.57
+_space_group_IT_number   13
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yc'
+_symmetry_space_group_name_H-M   'P 1 2/c 1'
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   108.859(8)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   5.1456(5)
+_cell_length_b   6.0794(5)
+_cell_length_c   5.1291(6)
+_cell_measurement_reflns_used   44
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   13.75
+_cell_measurement_theta_min   4.19
+_cell_volume   151.84(3)
+_computing_cell_refinement   XSCANS
+_computing_data_collection   'XSCANS (Fait, 1991)'
+_computing_data_reduction   XSCANS
+_computing_molecular_graphics   SHELXTL-Plus
+_computing_publication_material   SHELXL97
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 1997)'
+_computing_structure_solution   'SHELXTL-Plus (Sheldrick, 1995)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_full   1.000
+_diffrn_measured_fraction_theta_max   1.000
+_diffrn_measurement_device_type   'Siemens P4'
+_diffrn_measurement_method   2\q/\w
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   .71073
+_diffrn_reflns_av_R_equivalents   .0258
+_diffrn_reflns_av_sigmaI/netI   .0325
+_diffrn_reflns_limit_h_max   6
+_diffrn_reflns_limit_h_min   -6
+_diffrn_reflns_limit_k_max   7
+_diffrn_reflns_limit_k_min   -7
+_diffrn_reflns_limit_l_max   6
+_diffrn_reflns_limit_l_min   -6
+_diffrn_reflns_number   774
+_diffrn_reflns_theta_full   27.49
+_diffrn_reflns_theta_max   27.49
+_diffrn_reflns_theta_min   3.35
+_diffrn_standards_decay_%   1.68
+_diffrn_standards_interval_count   48
+_diffrn_standards_number   2
+_exptl_absorpt_coefficient_mu   8.900
+_exptl_absorpt_correction_T_max   .899
+_exptl_absorpt_correction_T_min   .782
+_exptl_absorpt_correction_type   '\y scan'
+_exptl_absorpt_process_details   'XSCANS (Fait, 1991)'
+_exptl_crystal_colour   White
+_exptl_crystal_density_diffrn   4.518
+_exptl_crystal_density_meas   4.354
+_exptl_crystal_density_method   pycnometer
+_exptl_crystal_description   Needle
+_exptl_crystal_F_000   184
+_exptl_crystal_size_max   .7
+_exptl_crystal_size_mid   .1
+_exptl_crystal_size_min   .1
+_refine_diff_density_max   .582
+_refine_diff_density_min   -1.042
+_refine_ls_extinction_coef   .024(2)
+_refine_ls_extinction_method   SHELXL97
+_refine_ls_goodness_of_fit_ref   1.043
+_refine_ls_hydrogen_treatment   none
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   40
+_refine_ls_number_reflns   355
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.043
+_refine_ls_R_factor_all   .0163
+_refine_ls_R_factor_gt   .0149
+_refine_ls_shift/su_max   .001
+_refine_ls_shift/su_mean   .000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w = 1/[\s^2^(Fo^2^)+(0.0110P)^2^] where P = (Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_ref   .0355
+_reflns_number_gt   342
+_reflns_number_total   355
+_reflns_threshold_expression   I>2\s(I)
+_cod_data_source_file   br1318.cif
+_cod_data_source_block   I
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Monoclinic' changed to 'monoclinic'
+according to '/home/saulius/struct/CIF-dictionaries/cif_core.dic'
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+Automatic conversion script Id: cif_fix_enum 1527 2010-12-29 10:47:43Z
+saulius  The following automatic conversions were performed:
+'_symmetry_cell_setting' value 'Monoclinic' changed to 'monoclinic'
+according to /home/saulius/struct/CIF-dictionaries/cif_core.dic
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+Automatic conversion script Id: cif_fix_values 1715 2011-07-08
+13:25:40Z adriana
+;
+_cod_original_sg_symbol_H-M   'P 2/c'
+_cod_original_formula_sum   'Li3 Sb O4'
+_cod_database_code   2012121
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, y, -z+1/2'
+  '-x, -y, -z'
+  'x, -y, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+ _atom_site_type_symbol
+  Sb1  .0000  .14338(5)  .2500  .00466(15)  Uani  d  S  1  .  .  Sb
+  O1  .2214(5)  .1021(4)  -.0036(5)  .0077(5)  Uani  d  .  1  .  .
+  O
+  O2  -.2455(5)  .3591(4)  .0231(5)  .0083(5)  Uani  d  .  1  .  .
+  O
+  Li1  .0000  .6161(15)  .2500  .019(2)  Uani  d  S  1  .  .  Li
+  Li2  -.5000  .1485(15)  -.2500  .019(2)  Uani  d  S  1  .  .  Li
+  Li3  -.5000  .4227(19)  .2500  .0194(19)  Uani  d  S  1  .  .  Li
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Sb1  .00534(19)  .00371(19)  .00469(19)  .000  .00130(11)  .000
+  O1  .0077(11)  .0072(12)  .0088(11)  -.0005(9)  .0034(9)
+  -.0024(8)
+  O2  .0086(11)  .0062(11)  .0074(11)  .0012(9)  -.0011(9)  .0017(8)
+  Li1  .026(5)  .009(5)  .019(5)  .000  .002(4)  .000
+  Li2  .015(5)  .011(4)  .030(5)  .000  .007(4)  .000
+  Li3  .018(5)  .025(5)  .020(4)  .000  .013(4)  .000
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  Sb  Sb  -.5866  1.5461
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  .0106  .0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Li  Li  -.0003  .0001
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _diffrn_standard_refln_index_h
+ _diffrn_standard_refln_index_k
+ _diffrn_standard_refln_index_l
+  1  0  0
+  1  2  1
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O2  Sb1  O2  2  .  94.31(14)  n
+  O2  Sb1  O1  2  2  95.31(10)  n
+  O2  Sb1  O1  .  2  94.48(10)  n
+  O2  Sb1  O1  2  .  94.48(10)  n
+  O2  Sb1  O1  .  .  95.31(10)  n
+  O1  Sb1  O1  2  .  165.59(13)  n
+  O2  Sb1  O1  2  3  173.42(10)  n
+  O2  Sb1  O1  .  3  89.88(11)  n
+  O1  Sb1  O1  2  3  89.41(9)  n
+  O1  Sb1  O1  .  3  80.06(11)  n
+  O2  Sb1  O1  2  4_556  89.88(11)  n
+  O2  Sb1  O1  .  4_556  173.42(10)  n
+  O1  Sb1  O1  2  4_556  80.06(11)  n
+  O1  Sb1  O1  .  4_556  89.41(9)  n
+  O1  Sb1  O1  3  4_556  86.42(13)  n
+  Sb1  O1  Sb1  .  3  99.94(11)  n
+  Sb1  O1  Li2  .  3  95.82(10)  n
+  Sb1  O1  Li2  3  3  89.23(18)  n
+  Sb1  O1  Li1  .  3_565  88.73(9)  n
+  Sb1  O1  Li1  3  3_565  97.50(18)  n
+  Li2  O1  Li1  3  3_565  171.1(2)  n
+  Sb1  O1  Li2  .  1_655  164.5(3)  n
+  Sb1  O1  Li2  3  1_655  94.26(19)  n
+  Li2  O1  Li2  3  1_655  90.4(2)  n
+  Li1  O1  Li2  3_565  1_655  83.3(2)  n
+  Sb1  O1  Li3  .  1_655  85.17(8)  n
+  Sb1  O1  Li3  3  1_655  173.41(15)  n
+  Li2  O1  Li3  3  1_655  94.4(3)  n
+  Li1  O1  Li3  3_565  1_655  78.3(2)  n
+  Li2  O1  Li3  1_655  1_655  80.24(19)  n
+  Sb1  O2  Li2  .  .  97.9(2)  n
+  Sb1  O2  Li3  .  .  101.5(2)  n
+  Li2  O2  Li3  .  .  97.0(2)  n
+  Sb1  O2  Li3  .  3_465  174.7(2)  n
+  Li2  O2  Li3  .  3_465  79.1(3)  n
+  Li3  O2  Li3  .  3_465  83.25(19)  n
+  Sb1  O2  Li1  .  .  90.7(2)  n
+  Li2  O2  Li1  .  .  170.2(3)  n
+  Li3  O2  Li1  .  .  85.7(3)  n
+  Li3  O2  Li1  3_465  .  91.9(3)  n
+  Sb1  O2  Li1  .  3_565  91.8(2)  n
+  Li2  O2  Li1  .  3_565  88.78(18)  n
+  Li3  O2  Li1  .  3_565  164.5(4)  n
+  Li3  O2  Li1  3_465  3_565  83.77(18)  n
+  Li1  O2  Li1  .  3_565  86.3(2)  n
+  O2  Li1  O2  .  2  84.3(4)  n
+  O2  Li1  O2  .  4_566  92.2(2)  n
+  O2  Li1  O2  2  4_566  93.7(2)  n
+  O2  Li1  O2  .  3_565  93.7(2)  n
+  O2  Li1  O2  2  3_565  92.2(2)  n
+  O2  Li1  O2  4_566  3_565  172.1(5)  n
+  O2  Li1  O1  .  4_566  174.37(18)  n
+  O2  Li1  O1  2  4_566  98.77(10)  n
+  O2  Li1  O1  4_566  4_566  83.0(2)  n
+  O2  Li1  O1  3_565  4_566  90.9(2)  n
+  O2  Li1  O1  .  3_565  98.77(10)  n
+  O2  Li1  O1  2  3_565  174.37(18)  n
+  O2  Li1  O1  4_566  3_565  90.9(2)  n
+  O2  Li1  O1  3_565  3_565  83.0(2)  n
+  O1  Li1  O1  4_566  3_565  78.6(3)  n
+  O2  Li2  O2  .  2_454  101.9(4)  n
+  O2  Li2  O1  .  4_455  173.2(3)  n
+  O2  Li2  O1  2_454  4_455  82.97(10)  n
+  O2  Li2  O1  .  3  82.97(10)  n
+  O2  Li2  O1  2_454  3  173.2(3)  n
+  O1  Li2  O1  4_455  3  92.6(3)  n
+  O2  Li2  O1  .  1_455  94.52(16)  n
+  O2  Li2  O1  2_454  1_455  94.70(16)  n
+  O1  Li2  O1  4_455  1_455  80.28(18)  n
+  O1  Li2  O1  3  1_455  89.6(2)  n
+  O2  Li2  O1  .  2_554  94.70(16)  n
+  O2  Li2  O1  2_454  2_554  94.52(16)  n
+  O1  Li2  O1  4_455  2_554  89.6(2)  n
+  O1  Li2  O1  3  2_554  80.28(18)  n
+  O1  Li2  O1  1_455  2_554  165.3(5)  n
+  O2  Li3  O2  2_455  .  158.3(6)  n
+  O2  Li3  O2  2_455  4_566  96.75(19)  n
+  O2  Li3  O2  .  4_566  97.2(2)  n
+  O2  Li3  O2  2_455  3_465  97.2(2)  n
+  O2  Li3  O2  .  3_465  96.75(19)  n
+  O2  Li3  O2  4_566  3_465  99.9(5)  n
+  O2  Li3  O1  2_455  1_455  77.6(3)  n
+  O2  Li3  O1  .  1_455  85.5(3)  n
+  O2  Li3  O1  4_566  1_455  168.4(4)  n
+  O2  Li3  O1  3_465  1_455  90.95(12)  n
+  O2  Li3  O1  2_455  2  85.5(3)  n
+  O2  Li3  O1  .  2  77.6(3)  n
+  O2  Li3  O1  4_566  2  90.95(12)  n
+  O2  Li3  O1  3_465  2  168.4(4)  n
+  O1  Li3  O1  1_455  2  78.6(4)  n
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Sb1  O2  2  1.929(2)  no
+  Sb1  O2  .  1.929(2)  y
+  Sb1  O1  2  2.003(2)  no
+  Sb1  O1  .  2.003(2)  y
+  Sb1  O1  3  2.047(2)  y
+  Sb1  O1  4_556  2.047(2)  no
+  O1  Sb1  3  2.047(2)  n
+  O1  Li2  3  2.205(6)  n
+  O1  Li1  3_565  2.214(7)  n
+  O1  Li2  1_655  2.214(3)  n
+  O1  Li3  1_655  2.518(9)  n
+  O2  Li2  .  2.032(6)  n
+  O2  Li3  .  2.050(3)  n
+  O2  Li3  3_465  2.062(8)  n
+  O2  Li1  .  2.107(7)  n
+  O2  Li1  3_565  2.174(3)  n
+  Li1  O2  2  2.107(7)  y
+  Li1  O2  4_566  2.174(3)  y
+  Li1  O2  3_565  2.174(3)  n
+  Li1  O1  4_566  2.214(7)  y
+  Li1  O1  3_565  2.214(7)  n
+  Li2  O2  2_454  2.032(6)  y
+  Li2  O1  4_455  2.205(6)  n
+  Li2  O1  3  2.205(6)  y
+  Li2  O1  1_455  2.214(3)  n
+  Li2  O1  2_554  2.214(3)  y
+  Li3  O2  2_455  2.050(3)  y
+  Li3  O2  4_566  2.062(8)  y
+  Li3  O2  3_465  2.062(8)  n
+  Li3  O1  1_455  2.518(9)  n
+  Li3  O1  2  2.518(9)  y

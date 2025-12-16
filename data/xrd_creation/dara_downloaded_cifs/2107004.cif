@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_2107004
+loop_
+ _publ_author_name
+  'Jeitschko, W.'
+  'Donohue, P.C.'
+_publ_section_title
+;
+High-pressure Cr P2 and Cr As2 with Os Ge2-type structures and crystal
+chemistry of transition-metal dipnictides
+;
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   783
+_journal_page_last   789
+_journal_volume   29
+_journal_year   1973
+_chemical_formula_sum   'Cr P2'
+_space_group_IT_number   12
+_symmetry_space_group_name_Hall   '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   119.47
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.213
+_cell_length_b   3.034
+_cell_length_c   7.098
+_cell_volume   153.985
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Jeitschko_ACBCAR_1973_652.cif
+_cod_data_source_block   Cr1P2
+_cod_original_cell_volume   153.9851
+_cod_original_formula_sum   'Cr1 P2'
+_cod_database_code   2107004
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z
+  -x,-y,-z
+  x,-y,z
+  x+1/2,y+1/2,z
+  -x+1/2,y+1/2,-z
+  -x+1/2,-y+1/2,-z
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  P1  P  0.6017  0  0.4005  1  0.0
+  P2  P  0.1437  0  0.0288  1  0.0
+  Cr1  Cr  0.8426  0  0.2958  1  0.0

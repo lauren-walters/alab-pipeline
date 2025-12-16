@@ -1,0 +1,31 @@
+{
+  "experiment_id": "66471f2ce84e87556c0988b3",
+  "experiment_name": "NSC_148",
+  "success": true,
+  "error": null,
+  "rwp": 40.76,
+  "rp": 28.4,
+  "rexp": 2.6,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "NaO3_44_(cod_1008882)-84",
+      "spacegroup": "Imm2",
+      "weight_fraction": 0.2277,
+      "weight_fraction_error": 0.0072,
+      "lattice_a_nm": 0.34719,
+      "lattice_b_nm": 0.52724,
+      "lattice_c_nm": 0.58204,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 42.69
+    }
+  ],
+  "chemical_system": "Hf-Na-O-Si",
+  "target_formula": "Na4.4Hf2.0(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:11:14.919832",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

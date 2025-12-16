@@ -1,0 +1,70 @@
+# generated using pymatgen
+data_7222652
+loop_
+ _publ_author_name
+  'Jaeger, G.'
+  'Jones, P.G.'
+  'Sheldrick, G.M.'
+  'Schwarzmann, E.'
+_publ_section_title
+'Darstellung und Kristallstruktur von Antimon(V)oxidhydroxid H Sb3 O8'
+_journal_name_full
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie,
+Organische  Chemie (33,1978-41,1986)
+;
+_journal_page_first   698
+_journal_page_last   701
+_journal_volume   38
+_journal_year   1983
+_chemical_formula_sum   'H O8 Sb3'
+_chemical_name_systematic   'H Sb3 O8'
+_space_group_IT_number   13
+_symmetry_space_group_name_Hall   '-P 2yac'
+_symmetry_space_group_name_H-M   'P 1 2/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   90.25
+_cell_angle_gamma   90
+_cell_formula_units_Z   6
+_cell_length_a   9.456
+_cell_length_b   8.691
+_cell_length_c   9.909
+_cell_volume   814.335
+_citation_journal_id_ASTM   ZNBAD2
+_cod_data_source_file   Jaeger_ZNBAD2_1983_203.cif
+_cod_data_source_block   H1O8Sb3
+_cod_original_cell_volume   814.3347
+_cod_original_sg_symbol_Hall   '-P 2yc (x-z,y,z)'
+_cod_original_formula_sum   'H1 O8 Sb3'
+_cod_database_code   7222652
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y,-z+1/2
+  -x,-y,-z
+  x-1/2,-y,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Sb3  Sb+5  -0.0036  0.645  0.2486  1  0.0
+  O9  O-2  0.1539  0.3225  0.4233  1  0.0
+  O8  O-2  -0.1413  0.6631  0.0913  1  0.0
+  O3  O-2  0.1534  0.6638  0.9151  1  0.0
+  O7  O-2  0.1157  0.6546  0.4081  1  0.0
+  O11  O-2  0.3801  0.1535  0.3448  1  0.0
+  O6  O-2  0.126  1.0009  0.4101  1  0.0
+  O4  O-2  0.0932  0.8263  0.1771  1  0.0
+  O12  O-2  0.3871  0.4977  0.3414  1  0.0
+  Sb2  Sb+5  -0.008  1.0062  0.2373  1  0.0
+  O10  O-2  0.116  0.1665  0.6645  1  0.0
+  O2  O-2  0.1306  0.5095  0.6654  1  0.0
+  Sb4  Sb+5  0.2532  0.155  0.5074  1  0.0
+  O5  O-2  -0.1403  1.0052  0.0872  1  0.0
+  O1  O-2  0.1121  0.8377  0.6749  1  0.0
+  Sb5  Sb+5  0.2468  0.509  0.4817  1  0.0
+  Sb1  Sb+5  0.25  0.6945  0.75  1  0.0

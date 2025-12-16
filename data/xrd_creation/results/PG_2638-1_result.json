@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66e25a199838a9e733a969d2",
+  "experiment_name": "PG_2638-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mn-Nb-O",
+  "target_formula": "Mn2Nb2O7",
+  "analysis_timestamp": "2025-12-06T15:27:09.713089",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

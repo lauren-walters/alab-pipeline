@@ -1,0 +1,66 @@
+# generated using pymatgen
+data_6000195
+loop_
+ _publ_author_name
+  'Dinnebier, Robert E.'
+  'Dollase, Wayne A.'
+  'Helluy, Xavier'
+  'K\"ummerlen, J\"org'
+  'Sebald, Angelika'
+  'Schmidt, Martin U.'
+  'Pagola, Silvina'
+  'Stephens, Peter W.'
+  'van Smaalen, Sander'
+_publ_section_title
+;
+Order--disorder phenomena determined by high-resolution powder
+diffraction: the structures of tetrakis(trimethylsilyl)methane
+C[Si(CH~3~)~3~]~4~ and tetrakis(trimethylsilyl)silane
+Si[Si(CH~3~)~3~]~4~
+;
+_journal_issue   6
+_journal_name_full   'Acta Crystallographica Section B'
+_journal_page_first   1014
+_journal_page_last   1029
+_journal_paper_doi   10.1107/S0108768199006126
+_journal_volume   55
+_journal_year   1999
+_chemical_formula_iupac   Si(Si(CH3)3)4
+_chemical_formula_sum   'C12 H36 Si5'
+_chemical_formula_weight   320.87
+_space_group_name_H-M_alt   'P 21 3'
+_symmetry_cell_setting   cubic
+_symmetry_space_group_name_Hall   'P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P 21 3'
+_cell_angle_alpha   90.0
+_cell_angle_beta   90.0
+_cell_angle_gamma   90.0
+_cell_formula_units_Z   4
+_cell_length_a   13.17158(6)
+_cell_length_b   13.17158(6)
+_cell_length_c   13.17158(6)
+_cell_measurement_temperature   200
+_cell_volume   2285.144(18)
+_diffrn_ambient_temperature   200
+_diffrn_radiation_type   synchrotron
+_diffrn_radiation_wavelength   1.14946(2)
+_exptl_crystal_density_diffrn   .932
+_cod_data_source_file   se0261.cif
+_cod_data_source_block   TSi200
+_cod_original_cell_volume   2285.15(2)
+_cod_database_code   6000195
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+  Si(0)  .0048  .0048  .0048  .0279(5)  1.0  0
+  Si(1)  .1072(2)  .1072(2)  .1072(2)  .0279(5)  1.0  0
+  Si(2)  .0661(2)  -.1602(2)  .0078(2)  .0279(5)  1.0  0
+  C(11)  .2452(3)  .0899(5)  .0877(4)  .119(2)  1.5  3
+  C(21)  .1134(5)  -.1936(5)  .1436(4)  .119(2)  1.5  3
+  C(22)  -.0361(5)  -.2510(4)  -.0396(6)  .119(2)  1.5  3
+  C(23)  .1905(5)  -.1711(6)  -.0710(4)  .119(2)  1.5  3

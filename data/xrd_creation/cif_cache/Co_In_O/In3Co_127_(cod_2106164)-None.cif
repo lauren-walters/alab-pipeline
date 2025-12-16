@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_2106164
+loop_
+ _publ_author_name
+  'Stadelmaier, H.H.'
+  'Schoebel, J.D.'
+  'Jones, R.A.'
+  'Shumaker, C.A.'
+_publ_section_title
+'The crystal structure of stoichiometric Co In3'
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   2926
+_journal_page_last   2929
+_journal_volume   29
+_journal_year   1973
+_chemical_formula_sum   'Co In3'
+_space_group_IT_number   127
+_symmetry_space_group_name_Hall   '-P 4 2ab'
+_symmetry_space_group_name_H-M   'P 4/m b m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   6.83
+_cell_length_b   6.83
+_cell_length_c   3.547
+_cell_volume   165.464
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Stadelmaier_ACBCAR_1973_1078.cif
+_cod_data_source_block   Co1In3
+_cod_original_cell_volume   165.4636
+_cod_original_formula_sum   'Co1 In3'
+_cod_database_code   2106164
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x,z
+  -x,-y,z
+  y,-x,z
+  x+1/2,-y+1/2,-z
+  y+1/2,x+1/2,-z
+  -x+1/2,y+1/2,-z
+  -y+1/2,-x+1/2,-z
+  -x,-y,-z
+  y,-x,-z
+  x,y,-z
+  -y,x,-z
+  -x-1/2,y-1/2,z
+  -y-1/2,-x-1/2,z
+  x-1/2,-y-1/2,z
+  y-1/2,x-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  In1  In  0  0  0  1  0.0
+  In2  In  0.3458  0.8458  0.5  1  0.0
+  Co1  Co  0.1499  0.6499  0  0.5  0.0

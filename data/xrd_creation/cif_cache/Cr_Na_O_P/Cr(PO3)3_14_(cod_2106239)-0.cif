@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_2106239
+loop_
+ _publ_author_name
+  'Bagieu-Beucher, M.'
+  'Guitel, J.C.'
+_publ_section_title
+"Structure cristalline de l'hexametaphosphate de chrome. Cr2 P6 O18"
+_journal_name_full   'Acta Crystallographica B (24,1968-38,1982)'
+_journal_page_first   2529
+_journal_page_last   2533
+_journal_volume   33
+_journal_year   1977
+_chemical_formula_sum   'Cr2 O18 P6'
+_chemical_name_systematic   'Cr2 P6 O18'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   105.85
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   8.311
+_cell_length_b   15.221
+_cell_length_c   6.22
+_cell_volume   756.925
+_citation_journal_id_ASTM   ACBCAR
+_cod_data_source_file   Bagieu-Beucher_ACBCAR_1977_588.cif
+_cod_data_source_block   Cr2O18P6
+_cod_original_sg_symbol_Hall   '-P 2ybc (z,y,-x)'
+_cod_database_code   2106239
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z
+  -x,-y,-z
+  x-1/2,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O6  O-2  0.3547  0.1599  0.803  1  0.0
+  O8  O-2  0.338  0.0104  0.0519  1  0.0
+  O4  O-2  -0.0931  0.2377  0.183  1  0.0
+  O5  O-2  0.1332  0.1533  0.0665  1  0.0
+  O9  O-2  0.3796  -0.1213  0.8261  1  0.0
+  O1  O-2  0.1129  0.1519  0.4648  1  0.0
+  P3  P+5  0.2787  -0.0443  0.8499  1  0.0
+  O2  O-2  -0.0945  0.0745  0.1623  1  0.0
+  O7  O-2  0.3994  0.1125  0.434  1  0.0
+  P2  P+5  0.2918  0.1128  0.5885  1  0.0
+  P1  P+5  0.0162  0.1611  0.2065  1  0.0
+  Cr1  Cr+3  0.3764  0.1371  0.1189  1  0.0
+  O3  O-2  0.2465  0.0143  0.6309  1  0.0

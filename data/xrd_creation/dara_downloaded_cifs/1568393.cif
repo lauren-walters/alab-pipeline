@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_1568393
+loop_
+ _publ_author_name
+  'Radevych, Danylo'
+  'Gajdardziska-Josifovska, Marija'
+  'Weinert, Michael'
+_publ_section_title
+'Two-dimensional crystal phases of graphene monoxide'
+_journal_issue   5
+_journal_name_full   'Physical Review B'
+_journal_paper_doi   10.1103/PhysRevB.107.054104
+_journal_volume   107
+_journal_year   2023
+_chemical_formula_sum   'C4 O4'
+_chemical_formula_weight   56.02
+_chemical_name_common   'Pmam graphene monoxide (Pmam-GmO)'
+_space_group_IT_number   51
+_space_group_name_Hall   '-P 2 2a'
+_space_group_name_H-M_alt   'P m a m'
+_space_group.reference_setting   '051:-P 2a 2a'
+_space_group.transform_Pp_abc   a,b,c;0,0,0
+_symmetry_Int_Tables_number   51
+_symmetry_space_group_name_H-M   'P m a m'
+_cell_angle_alpha   90.0000000000
+_cell_angle_beta   90.0000000000
+_cell_angle_gamma   90.0000000000
+_cell_formula_units_Z   2
+_cell_length_a   4.9836925490
+_cell_length_b   3.0826388530
+_cell_length_c   25.0000000000
+_cell_volume   384.073
+_journal_article_reference   054104
+_cod_data_source_file   pmam-gmo.cif
+_cod_data_source_block   findsym-output
+_cod_depositor_comments
+'DOI added.  The layer is placed in xy-plane.'
+_cod_original_cell_volume   384.0731070739
+_cod_original_sg_symbol_Hall   '-P 2a 2a'
+_cod_original_sg_symbol_H-M   'P 21/m 2/a 2/m'
+_cod_struct_determination_method   theoretical
+_cod_database_code   1568393
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  x,y,z
+  2  x+1/2,-y,-z
+  3  -x,-y,z
+  4  -x+1/2,y,-z
+  5  -x,-y,-z
+  6  -x+1/2,y,z
+  7  x,y,-z
+  8  x+1/2,-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_fract_symmform
+  C1  C  4  i  0.08390  0.71172  0.00000  1.00000  Dx,Dy,0
+  O1  O  4  g  0.00000  0.00000  0.04165  1.00000  0,0,Dz

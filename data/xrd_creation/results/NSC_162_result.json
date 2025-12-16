@@ -1,0 +1,31 @@
+{
+  "experiment_id": "66478819c93ffe3bc3e81136",
+  "experiment_name": "NSC_162",
+  "success": true,
+  "error": null,
+  "rwp": 4.92,
+  "rp": 3.29,
+  "rexp": 3.54,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "Si_227_(cod_9013102)-0",
+      "spacegroup": "F4_1/d-32/m",
+      "weight_fraction": 0.01,
+      "weight_fraction_error": 0.37,
+      "lattice_a_nm": 1.0,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 3.09
+    }
+  ],
+  "chemical_system": "La-Na-O-Si",
+  "target_formula": "Na6.6La2.0(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T13:01:48.162711",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

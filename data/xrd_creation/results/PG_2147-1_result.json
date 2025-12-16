@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13cd13800728dad6ce77",
+  "experiment_name": "PG_2147-1",
+  "success": true,
+  "error": null,
+  "rwp": 37.7,
+  "rp": 25.85,
+  "rexp": 2.95,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "VO2_14_(cod_9009089)-1",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.067,
+      "weight_fraction_error": 0.0025,
+      "lattice_a_nm": 0.53115,
+      "lattice_b_nm": 0.44718,
+      "lattice_c_nm": 0.53748,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 114.538,
+      "lattice_gamma_deg": null,
+      "r_phase": 34.27
+    },
+    {
+      "phase_name": "V2H0.96_229_(cod_2300581)-None",
+      "spacegroup": "I4/m-32/m",
+      "weight_fraction": 0.0342,
+      "weight_fraction_error": 0.0012,
+      "lattice_a_nm": 0.316352,
+      "lattice_b_nm": null,
+      "lattice_c_nm": null,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 18.41
+    }
+  ],
+  "chemical_system": "H-La-O-V",
+  "target_formula": "La2V2(H2O3)3",
+  "analysis_timestamp": "2025-12-06T14:42:14.311748",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

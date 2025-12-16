@@ -1,0 +1,17 @@
+{
+  "experiment_id": "65133ced141bda94808fd848",
+  "experiment_name": "TRI_-2",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Ca-O-Ru",
+  "target_formula": "CaRuO4",
+  "analysis_timestamp": "2025-12-06T16:22:23.242804",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

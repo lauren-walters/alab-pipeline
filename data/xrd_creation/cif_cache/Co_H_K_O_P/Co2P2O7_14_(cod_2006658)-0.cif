@@ -1,0 +1,196 @@
+# generated using pymatgen
+data_2006658
+loop_
+ _publ_author_name
+  'Kobashi, Dilshat'
+  'Kohara, Shizuo'
+  'Yamakawa, Junji'
+  'Kawahara, Akira'
+_publ_section_title
+"Structure d'un Diphosphate Synth\'etique de Cobalt: Co~2~P~2~O~7~"
+_journal_issue   11
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   1523
+_journal_page_last   1525
+_journal_paper_doi   10.1107/S0108270197006689
+_journal_volume   53
+_journal_year   1997
+_chemical_formula_sum   'Co2 O7 P2'
+_chemical_formula_weight   291.80
+_chemical_name_systematic
+"Diphosphate synth\'etique de Cobalt: Co~2~P~2~O~7~"
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yab'
+_symmetry_space_group_name_H-M   'P 1 21/a 1'
+_atom_type_scat_source
+'International Tables for X-ray Crystallography (Vol. IV)'
+_cell_angle_alpha   90.00
+_cell_angle_beta   97.45(2)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   2
+_cell_length_a   5.3390(10)
+_cell_length_b   9.9230(10)
+_cell_length_c   4.4880(10)
+_cell_measurement_reflns_used   25
+_cell_measurement_temperature   293
+_cell_measurement_theta_max   27.46
+_cell_measurement_theta_min   26.94
+_cell_volume   235.76(7)
+_computing_cell_refinement   'AFC/MSC Diffractometer Control System'
+_computing_data_collection
+'AFC/MSC Diffractometer Control System (Rigaku Corporation, 1991)'
+_computing_molecular_graphics   'ORTEPII (Johnson, 1971)'
+_computing_publication_material
+'LISTHKL (Yamakawa & Kawahara, 1994), ATOMS2.2 (Dowty, 1992)'
+_computing_structure_refinement   'RSFLS-4, UNICS (Sakurai, 1971)'
+_computing_structure_solution
+;
+TEXSAN (Molecular Structure Corporation, 1985), CCPC (Kawamura &
+Kawahara, 1980)
+;
+_diffrn_measurement_device_type   'Rigaku AFC5R'
+_diffrn_measurement_method   \w--2\q
+_diffrn_radiation_type   'Mo K\a'
+_diffrn_radiation_wavelength   0.71069
+_diffrn_reflns_limit_h_max   6
+_diffrn_reflns_limit_h_min   0
+_diffrn_reflns_limit_k_max   13
+_diffrn_reflns_limit_k_min   0
+_diffrn_reflns_limit_l_max   7
+_diffrn_reflns_limit_l_min   -7
+_diffrn_reflns_number   671
+_diffrn_reflns_theta_max   27.5
+_diffrn_standards_decay_%   0
+_diffrn_standards_interval_count   100
+_diffrn_standards_number   3
+_exptl_absorpt_coefficient_mu   7.955
+_exptl_absorpt_correction_T_max   .672
+_exptl_absorpt_correction_T_min   .641
+_exptl_absorpt_correction_type   psi-scan
+_exptl_absorpt_process_details
+'(ABSC; Takano, Tanaka & Kusunoki, 1973)'
+_exptl_crystal_colour   violet
+_exptl_crystal_density_diffrn   4.11
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   prismatique
+_exptl_crystal_F_000   280
+_exptl_crystal_size_max   0.08
+_exptl_crystal_size_mid   0.06
+_exptl_crystal_size_min   0.05
+_refine_diff_density_max   1.13
+_refine_diff_density_min   -2.05
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_obs   1.31
+_refine_ls_hydrogen_treatment   none
+_refine_ls_number_parameters   51
+_refine_ls_number_reflns   518
+_refine_ls_R_factor_gt   0.040
+_refine_ls_shift/su_max   0,093
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   'w = 1/[\s^2^(F)+0,001F^2^]'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_ref   0.052
+_reflns_number_gt   518
+_reflns_number_total   671
+_reflns_threshold_expression   'I > 3\s(I)'
+_cod_data_source_file   du1177.cif
+_cod_data_source_block   I
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_refine_ls_weighting_scheme' value 'calc w = 1/[\s^2^(F)+0,001F^2^]'
+was changed to 'calc'. New tag '_refine_ls_weighting_details' was
+created. The value of the new tag was set to 'w =
+1/[\s^2^(F)+0,001F^2^]'. Automatic conversion script Id:
+cif_fix_values 3143 2015-03-26 13:38:13Z robertas
+;
+_cod_original_cell_volume   235.72(6)
+_cod_original_sg_symbol_H-M   'P 21/a'
+_cod_original_formula_sum   'Co2 P2 O7'
+_cod_database_code   2006658
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z
+  -x,-y,-z
+  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_type_symbol
+  Co  .08970(10)  .15750(10)  .3929(2)  .006  Ueq  Co
+  P  .6543(2)  .11040(10)  .8558(3)  .0050(10)  Ueq  P
+  O1  .7603(6)  .2015(4)  .1125(9)  .008(2)  Ueq  O
+  O2  .8616(6)  .0394(4)  .7102(9)  .010(2)  Ueq  O
+  O3  .4681(7)  .1807(3)  .6220(8)  .008(2)  Ueq  O
+  O4  .5000  0  0  .020(3)  Ueq  O
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+ _atom_site_aniso_type_symbol
+  Co  .0064(4)  .0080(4)  .0042(4)  -.0016(2)  -.0017(3)  .0007(2)
+  Co
+  P  .0064(6)  .0073(6)  .0009(6)  .0000(4)  -.0007(4)  -.0003(4)  P
+  O1  .0079(16)  .0123(16)  .0041(16)  -.0028(14)  -.0016(13)
+  .0000(13)  O
+  O2  .0100(16)  .0117(15)  .0079(17)  -.0021(14)  -.0004(13)
+  .0042(13)  O
+  O3  .0083(16)  .0117(16)  .0043(17)  .0020(13)  -.0004(13)
+  .0002(12)  O
+  O4  .025(3)  .021(3)  .015(3)  .007(2)  .002(2)  -.012(2)  O
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O1  Co  O1  1_455  4_455  84.2(2)  yes
+  O1  Co  O2  1_455  1_455  90.4(2)  yes
+  O1  Co  O2  1_455  3_656  100.8(2)  yes
+  O1  Co  O3  1_455  .  159.3(2)  yes
+  O1  Co  O3  1_455  4_455  80.8(3)  yes
+  O1  Co  O2  4_455  1_455  169.6  yes
+  O1  Co  O2  4_455  3_656  114.5(3)  yes
+  O1  Co  O3  4_455  .  76.6(4)  yes
+  O1  Co  O3  4_455  4_455  88.2(4)  yes
+  O2  Co  O2  3_656  1_455  75.3(3)  yes
+  O2  Co  O3  1_455  .  107.2(3)  yes
+  O2  Co  O3  1_455  4_455  82.1(4)  yes
+  O2  Co  O3  3_656  .  94.10(10)  yes
+  O2  Co  O3  3_656  4_455  157.30(10)  yes
+  O3  Co  O3  4_455  .  90.9(3)  yes
+  O1  P  O2  1_556  .  112.3(4)  yes
+  O1  P  O3  1_556  .  113.5(5)  yes
+  O1  P  O4  1_556  1_556  105.6(2)  yes
+  O2  P  O3  .  .  111.2(2)  yes
+  O2  P  O4  .  1_556  107.7(4)  yes
+  O3  P  O4  .  1_556  106.0(2)  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Co  O1  .  1_455  2.072(17)  yes
+  Co  O1  .  4_455  2.161(8)  yes
+  Co  O2  .  1_455  2.309(12)  yes
+  Co  O2  .  3_656  2.0320(10)  yes
+  Co  O3  .  .  2.157(15)  yes
+  Co  O3  .  4_455  2.057(5)  yes
+  P  O1  .  1_556  1.515(7)  yes
+  P  O2  .  .  1.528(8)  yes
+  P  O3  .  .  1.517(11)  yes
+  P  O4  .  1_556  1.561(5)  yes

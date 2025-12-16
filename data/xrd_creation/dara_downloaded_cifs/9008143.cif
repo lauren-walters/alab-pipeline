@@ -1,0 +1,115 @@
+# generated using pymatgen
+data_9008143
+loop_
+ _publ_author_name
+  'Araki, T.'
+  'Zoltai, T.'
+_publ_section_title   'The crystal structure of wavellite'
+_journal_name_full   'Zeitschrift fur Kristallographie'
+_journal_page_first   21
+_journal_page_last   33
+_journal_volume   127
+_journal_year   1968
+_chemical_compound_source   'Montgomery County, Arkansas, USA'
+_chemical_formula_sum   'Al3 H15 O16 P2'
+_chemical_name_mineral   Wavellite
+_space_group_IT_number   62
+_symmetry_space_group_name_Hall   '-P 2n 2ac'
+_symmetry_space_group_name_H-M   'P c m n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   9.621
+_cell_length_b   17.3630
+_cell_length_c   6.994
+_cell_volume   1168.344
+_database_code_amcsd   0010659
+_exptl_crystal_density_diffrn   2.354
+_cod_original_formula_sum   'Al3 P2 O16 H15'
+_cod_database_code   9008143
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2-y,z
+  -x,1/2+y,-z
+  1/2+x,1/2+y,1/2-z
+  1/2-x,1/2-y,1/2+z
+  1/2-x,y,1/2+z
+  1/2+x,-y,1/2-z
+  -x,-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Al1  0.01027  0.00794  0.00783  0.00000  0.00239  0.00000
+  Al2  0.00413  0.00687  0.00307  -0.00017  0.00133  0.00006
+  P  0.00652  0.00779  0.00193  -0.00042  -0.00092  -0.00080
+  O1  0.01322  0.01558  0.00563  -0.00178  -0.00487  0.00320
+  O2  0.01515  0.01237  0.01973  -0.00449  0.00317  -0.00517
+  O3  0.01275  0.01863  0.00706  0.00008  0.00191  0.00098
+  O4  0.01679  0.01497  0.00580  -0.00085  0.00337  0.00498
+  O-H1  0.00985  0.00947  0.01028  0.00000  0.00348  0.00000
+  O-H2  0.01149  0.01512  0.01313  -0.00203  -0.00290  0.00123
+  Wat1  0.02054  0.03131  0.03313  0.00482  -0.00361  -0.00234
+  Wat2  0.02143  0.02031  0.01128  0.00626  0.00143  0.00049
+  Wat31  0.07784  0.03650  0.09751  0.00000  0.01053  0.00000
+  Wat32  0.07709  0.02245  0.08505  0.00000  0.03388  0.00000
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Al1  0.22384  0.25000  0.12326  1.00000  0.00866  Al  0
+  Al2  0.75605  0.01638  0.14186  1.00000  0.00470  Al  0
+  P  0.06061  0.09221  0.10399  1.00000  0.00538  P  0
+  O1  0.90525  0.08349  0.06432  1.00000  0.01145  O  0
+  O2  0.08916  0.17642  0.15555  1.00000  0.01573  O  0
+  O3  0.10095  0.04183  0.27355  1.00000  0.01280  O  0
+  O4  0.36037  0.07246  0.42258  1.00000  0.01253  O  0
+  O-H1  0.27997  0.25000  0.36925  1.00000  0.00984  O  1
+  O-H2  0.82173  0.01851  0.39490  1.00000  0.01324  O  1
+  Wat1  0.37060  0.17055  0.09551  1.00000  0.02833  O  2
+  Wat2  0.64979  0.11144  0.19740  1.00000  0.01767  O  2
+  Wat31  0.81314  0.25000  0.23453  0.50000  0.07061  O  2
+  Wat32  0.78308  0.25000  0.11326  0.50000  0.06150  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-18T11:39:57+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+  2
+;
+cod-tools version 3.10.1 Id: cif_fix_AMCSD_aniso_labels 10200
+2024-08-01 14:09:44Z saulius
+;
+  2024-08-02T12:21:08+03:00
+;
+Changed the following '_atom_site_aniso_label' values: 'OH1' -> 'O-H1'
+'OH2' -> 'O-H2'
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0010659

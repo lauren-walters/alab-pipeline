@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66471f2ce84e87556c0988a8",
+  "experiment_name": "NSC_147",
+  "success": true,
+  "error": null,
+  "rwp": 8.38,
+  "rp": 6.16,
+  "rexp": 3.14,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "Na3La(PO4)2_29_(cod_4345164)-0",
+      "spacegroup": "Pca2_1",
+      "weight_fraction": 0.06997,
+      "weight_fraction_error": 0.0005,
+      "lattice_a_nm": 1.40989,
+      "lattice_b_nm": 0.535315,
+      "lattice_c_nm": 1.87387,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 11.93
+    },
+    {
+      "phase_name": "LaPO4_14_(cod_1530456)-0",
+      "spacegroup": "P12_1/c1",
+      "weight_fraction": 0.02039,
+      "weight_fraction_error": 0.0003,
+      "lattice_a_nm": 0.651344,
+      "lattice_b_nm": 0.708173,
+      "lattice_c_nm": 0.829732,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": 126.6013,
+      "lattice_gamma_deg": null,
+      "r_phase": 10.07
+    }
+  ],
+  "chemical_system": "La-Na-O-P",
+  "target_formula": "Na3.3La2.0(PO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:55:54.379033",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

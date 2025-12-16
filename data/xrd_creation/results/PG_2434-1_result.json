@@ -1,0 +1,17 @@
+{
+  "experiment_id": "664e8cf6134aa6f2c622a355",
+  "experiment_name": "PG_2434-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "H-Li-N-O-P",
+  "target_formula": "LiPH9NO6",
+  "analysis_timestamp": "2025-12-06T13:29:22.840821",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

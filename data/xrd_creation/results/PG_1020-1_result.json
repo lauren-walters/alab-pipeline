@@ -1,0 +1,44 @@
+{
+  "experiment_id": "66ba6192c6d00d03d869dbe8",
+  "experiment_name": "PG_1020-1",
+  "success": true,
+  "error": null,
+  "rwp": 6.18,
+  "rp": 4.33,
+  "rexp": 2.96,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "KP(HO2)2_122_(cod_9010000)-5",
+      "spacegroup": "I-42d",
+      "weight_fraction": 0.17215,
+      "weight_fraction_error": 0.00085,
+      "lattice_a_nm": 0.74556,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.697663,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 5.38
+    },
+    {
+      "phase_name": "Cr2O3_167_(cod_2104122)-0",
+      "spacegroup": "R-32/c",
+      "weight_fraction": 0.09921,
+      "weight_fraction_error": 0.00058,
+      "lattice_a_nm": 0.496063,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 1.36,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 14.72
+    }
+  ],
+  "chemical_system": "Cr-H-K-O-P",
+  "target_formula": "K2Cr2P2H4O11",
+  "analysis_timestamp": "2025-12-06T15:08:36.418873",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

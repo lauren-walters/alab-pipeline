@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_1537397
+loop_
+ _publ_author_name
+  'Hemily, P.W.'
+_publ_section_title
+"Structure des cristaux de soude a sept molecules d'eau"
+_journal_name_full
+;
+Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences
+(1884 -  1965)
+;
+_journal_page_first   1579
+_journal_page_last   1581
+_journal_volume   236
+_journal_year   1953
+_chemical_formula_sum   'H15 Na O8'
+_chemical_name_systematic   'Na O H (H2 O)7'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   92.92
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   7.32
+_cell_length_b   16.38
+_cell_length_c   6.88
+_cell_volume   823.852
+_citation_journal_id_ASTM   COREAF
+_cod_data_source_file   Hemily_COREAF_1953_1672.cif
+_cod_data_source_block   H15Na1O8
+_cod_original_cell_volume   823.8519
+_cod_original_formula_sum   'H15 Na1 O8'
+_cod_database_code   1537397
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z+1/2
+  -x,-y,-z
+  x,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O7  O-2  0.854  0.078  0.19  1  0.0
+  O1  O-2  0.18  0.071  0.1  1  0.0
+  O8  O-2  0.056  0.15  0.78  1  0.0
+  O4  O-2  0.537  0.109  0.996  1  0.0
+  O3  O-2  0.309  0.227  0.264  1  0.0
+  Na1  Na+1  0.541  0.244  0.529  1  0.0
+  O5  O-2  0.547  0.108  0.619  1  0.0
+  O6  O-2  0.228  0.04  0.5  1  0.0
+  O2  O-2  0.755  0.241  0.296  1  0.0

@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_1537516
+loop_
+ _publ_author_name
+  'Kierkegaard, P.'
+_publ_section_title
+'The crystal structure of Na W O2 P O4 and Na Mo O2 P O4'
+_journal_name_full   'Arkiv foer Kemi'
+_journal_page_first   553
+_journal_page_last   575
+_journal_volume   18
+_journal_year   1962
+_chemical_formula_sum   'Mo Na O6 P'
+_chemical_name_systematic   'Na (Mo O2) (P O4)'
+_space_group_IT_number   14
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_cell_angle_alpha   90
+_cell_angle_beta   91.19
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   12.08
+_cell_length_b   11.96
+_cell_length_c   6.359
+_cell_volume   918.530
+_citation_journal_id_ASTM   ARKEAD
+_cod_data_source_file   Kierkegaard_ARKEAD_1962_1693.cif
+_cod_data_source_block   Mo1Na1O6P1
+_cod_original_cell_volume   918.5298
+_cod_original_sg_symbol_Hall   '-P 2ybc (x-z,y,z)'
+_cod_original_formula_sum   'Mo1 Na1 O6 P1'
+_cod_database_code   1537516
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,y+1/2,-z+1/2
+  -x,-y,-z
+  x-1/2,-y-1/2,z-1/2
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O5  O-2  0.47  0.475  0.25  1  0.0
+  O8  O-2  0.44  0.07  0.25  1  0.0
+  O7  O-2  0.25  0.48  0.25  1  0.0
+  O11  O-2  0.34  0.045  0.75  1  0.0
+  P2  P+5  0.122  0.458  0.25  1  0.0
+  O9  O-2  0.01  0.185  0.25  1  0.0
+  O3  O-2  0.09  0.39  0.055  1  0.0
+  P1  P+5  0.06  0.109  0.75  1  0.0
+  Mo2  Mo+6  0.11  0.397  0.75  1  0.0
+  O1  O-2  0.64  0.405  0.05  1  0.0
+  O6  O-2  0.03  0.235  0.75  1  0.0
+  Mo1  Mo+6  0.133  0.103  0.25  1  0.0
+  Na2  Na+1  0.35  0.34  0.435  1  0.0
+  Na1  Na+1  0.395  0.205  0.985  1  0.0
+  O4  O-2  0.09  0.39  0.45  1  0.0
+  O10  O-2  0.235  0.21  0.25  1  0.0
+  O2  O-2  0.64  0.405  0.44  1  0.0
+  O12  O-2  0.245  0.305  0.75  1  0.0

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_2010213
+loop_
+ _publ_author_name
+  'Kohlmann, Monika'
+  'Sowa, Heidrun'
+  'Reithmayer, Klaus'
+  'Schulz, Heinz'
+  'Kr\"uger, Rolf-R\"udiger'
+  'Abriel, Walter'
+_publ_section_title
+;
+Structure of a Y~1-x~(Gd,Dy,Er)~x~PO~4~.2H~2~O Microcrystal Studied
+Using Synchrotron Radiation
+;
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   1651
+_journal_page_last   1652
+_journal_volume   50
+_journal_year   1994
+_chemical_formula_sum   'Dy0.028 Er0.018 Gd0.007 H4 O6 P Y0.947'
+_chemical_formula_weight   223.85
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_H-M   'I 1 2/a 1'
+_cell_angle_alpha   90
+_cell_angle_beta   117.83(2)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   5.5780(10)
+_cell_length_b   15.006(3)
+_cell_length_c   6.275(2)
+_cell_measurement_temperature   293
+_cell_volume   464.5(2)
+_diffrn_ambient_temperature   293
+_exptl_crystal_density_diffrn   3.20
+_refine_ls_R_factor_obs   0.077
+_refine_ls_wR_factor_obs   0.052
+_cod_original_sg_symbol_H-M   'I 2/a'
+_cod_database_code   2010213
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Y  .0038(5)  .0078(5)  .0061(4)  .0000  .0000(3)  .0000
+  P  .0090(10)  .0130(10)  .0170(10)  .0000  .0040(10)  .0000
+  O1  .018(3)  .026(4)  .017(3)  .003(3)  .004(3)  -.006(3)
+  O2  .008(3)  .022(4)  .015(3)  .002(3)  -.001(2)  -.002(3)
+  O3  .022(3)  .018(4)  .025(3)  -.004(3)  .012(3)  .003(3)
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+  Y  .2500  .82890(10)  .0  .0059(5)  Uani
+  P  .2500  .3307(3)  .0  .0130(10)  Uani
+  O1  .3020(10)  .3857(5)  .2240(10)  .020(3)  Uani
+  O2  .5060(10)  .2714(5)  .0840(10)  .015(3)  Uani
+  O3  .630(2)  .0680(5)  .2180(10)  .022(4)  Uani
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Y  O1  2.434(6)  yes
+  Y  O2  2.251(6)  yes
+  Y  O2  2.470(7)  yes
+  Y  O3  2.360(7)  yes
+  P  O1  1.536(8)  yes
+  P  O2  1.550(6)  yes
+  O1  O2  2.440(10)  yes
+  O1  O2  2.560(10)  yes
+  O1  O1  2.590(10)  yes
+  O1  O3  2.690(7)  yes
+  O1  O3  2.760(10)  yes
+  O2  O2  2.547(7)  yes
+  O2  O2  2.622(7)  yes
+  O2  O1  2.560(10)  yes

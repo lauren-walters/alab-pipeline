@@ -1,0 +1,17 @@
+{
+  "experiment_id": "65fab02c2d682ecd7d7d0fbc",
+  "experiment_name": "NSC_132",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Ge-Hf-Na-O-P-Zr",
+  "target_formula": "Na1.1Zr0.667Ge0.667(PO4)4.0Hf0.667",
+  "analysis_timestamp": "2025-12-06T17:18:50.410971",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

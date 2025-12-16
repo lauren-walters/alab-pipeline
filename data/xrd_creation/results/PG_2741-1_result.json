@@ -1,0 +1,17 @@
+{
+  "experiment_id": "668c66ede500f9b8dc625ce8",
+  "experiment_name": "PG_2741-1",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Mn-O-Sb",
+  "target_formula": "Mn6Sb6O17",
+  "analysis_timestamp": "2025-12-06T15:33:12.820066",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

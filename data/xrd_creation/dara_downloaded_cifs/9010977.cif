@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_9010977
+loop_
+ _publ_author_name
+  'Eversheim, P.'
+  'Kleber, W.'
+_publ_section_title
+;
+Morphologie und struktur des reddingits, P2O5*3FeO*3H2O  Note: z(FeII)
+adjusted to match symmetry constraint
+;
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   215
+_journal_page_last   216
+_journal_paper_doi   10.1107/S0365110X53000600
+_journal_volume   6
+_journal_year   1953
+_chemical_formula_sum   'Fe3 H6 O11 P2'
+_chemical_name_mineral   Phosphoferrite
+_space_group_IT_number   57
+_symmetry_space_group_name_Hall   '-P 2bc 2c'
+_symmetry_space_group_name_H-M   'P c m b'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.73
+_cell_length_b   10.152
+_cell_length_c   9.57
+_cell_volume   848.160
+_database_code_amcsd   0009153
+_exptl_crystal_density_diffrn   3.223
+_cod_original_formula_sum   'Fe3 P2 O11 H6'
+_cod_database_code   9010977
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2+y,1/2-z
+  -x,1/2-y,1/2+z
+  -x,y,1/2+z
+  x,-y,1/2-z
+  x,1/2-y,z
+  -x,1/2+y,-z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  FeI  0.22000  0.25000  0.50000  Fe  0
+  FeIIA  0.02500  0.00000  0.25000  Fe  0
+  FeIIB  0.52500  0.00000  0.25000  Fe  0
+  P1  0.18000  0.25000  0.16000  P  0
+  P2  0.68000  0.25000  0.16000  P  0
+  OIA  0.05700  0.25000  0.32000  O  0
+  OIB  0.55700  0.25000  0.32000  O  0
+  OIIA  0.34000  0.25000  0.27500  O  0
+  OIIB  0.84000  0.25000  0.27500  O  0
+  OIIIA  0.20000  0.12500  0.11500  O  0
+  OIIIB  0.70000  0.12500  0.11500  O  0
+  Wat7  0.17000  0.10000  0.45000  O  2
+  Wat8  0.50000  0.25000  0.50000  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:52:48+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0009153

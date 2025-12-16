@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_1006164
+loop_
+ _publ_author_name
+  'Suarez, M'
+  'Barcina, L M'
+  'Llavona, R'
+  'Rodriguez, J'
+  'Salvado, M A'
+  'Pertierra, P'
+  'Garcia-Granda, S'
+_publ_section_title
+;
+Synthesis, crystal structure and intercalation behaviour of hafnium
+phosphate dihydrogenphosphate dihydrate
+;
+_journal_coden_ASTM   JCDTBI
+_journal_name_full
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic
+Chemistry (1972-)
+;
+_journal_page_first   99
+_journal_page_last   102
+_journal_volume   1998
+_journal_year   1998
+_chemical_formula_structural   'Hf (P O4) (H2 P O4) (H2 O)2'
+_chemical_formula_sum   'H6 Hf O10 P2'
+_chemical_name_systematic
+'Hafnium phosphate(V) dihydrogenphosphate(V) dihydrate'
+_space_group_IT_number   4
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   4
+_symmetry_space_group_name_Hall   'P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21 1'
+_cell_angle_alpha   90
+_cell_angle_beta   98.594(5)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   5.3499(3)
+_cell_length_b   6.5949(4)
+_cell_length_c   12.3939(8)
+_cell_volume   432.4
+_refine_ls_R_factor_all   0.031
+_cod_database_code   1006164
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,1/2+y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Hf1  Hf4+  2  a  0.8026(4)  0.25  0.1258(2)  1.  0  d
+  P1  P5+  2  a  0.244(1)  0.240(1)  0.9395(5)  1.  0  d
+  P2  P5+  2  a  0.370(1)  0.187(1)  0.3089(5)  1.  0  d
+  O1  O2-  2  a  0.054(3)  0.216(5)  0.018(1)  1.  0  d
+  O2  O2-  2  a  0.201(9)  0.059(4)  0.863(3)  1.  0  d
+  O3  O2-  2  a  0.21(1)  0.434(3)  0.873(3)  1.  0  d
+  O4  O2-  2  a  0.520(2)  0.228(7)  0.993(1)  1.  0  d
+  O5  O2-  2  a  0.089(2)  0.225(7)  0.258(1)  1.  0  d
+  O6  O2-  2  a  0.543(4)  0.255(7)  0.227(1)  1.  0  d
+  O7  O2-  2  a  0.368(5)  0.952(1)  0.315(2)  1.  1  d
+  O8  O2-  2  a  0.398(4)  0.318(3)  0.4127(9)  1.  1  d
+  O9  O2-  2  a  0.185(3)  0.190(3)  0.641(1)  1.  2  d
+  O10  O2-  2  a  0.123(4)  0.524(3)  0.539(2)  1.  2  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Hf4+  4.000
+  P5+  5.000
+  O2-  -2.000
+  H1+  1.000

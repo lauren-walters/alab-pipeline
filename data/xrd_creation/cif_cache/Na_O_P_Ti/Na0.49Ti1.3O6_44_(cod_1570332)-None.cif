@@ -1,0 +1,185 @@
+# generated using pymatgen
+data_1570332
+loop_
+ _publ_author_name
+  'Ma, Xuanao'
+  'Liu, Yang'
+  'Zhang, Yunhuai'
+  'Gong, Yun'
+_publ_section_title
+;
+Layered sodium titanate with a matched lattice: a single ion conductor
+in  a solid-state sodium metal battery.
+;
+_journal_issue   47
+_journal_name_full   'Chemical science'
+_journal_page_first   13812
+_journal_page_last   13824
+_journal_paper_doi   10.1039/d3sc04355j
+_journal_volume   14
+_journal_year   2023
+_chemical_formula_moiety   'Na0.98, Ti1.3, O3'
+_chemical_formula_sum   'Na1.96 O6 Ti2.6'
+_chemical_formula_weight   265.52
+_space_group_IT_number   44
+_space_group_name_Hall   'I 2 -2'
+_space_group_name_H-M_alt   'I m m 2'
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   44
+_symmetry_space_group_name_H-M   'I m m 2'
+_audit_block_doi   10.5517/ccdc.csd.cc2hc401
+_audit_update_record
+;
+2023-10-30 deposited with the CCDC.     2023-11-13 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90.000
+_cell_angle_beta   90.000
+_cell_angle_gamma   90.000
+_cell_formula_units_Z   1
+_cell_length_a   3.805
+_cell_length_b   16.987
+_cell_length_c   3.023
+_cell_measurement_radiation   CuK\a
+_cell_measurement_reflns_used   25
+_cell_measurement_temperature   293
+_cell_measurement_theta_max   23.59
+_cell_measurement_theta_min   2.40
+_cell_measurement_wavelength   1.5406
+_cell_volume   195.393
+_computing_molecular_graphics   'SIR2011 (Burla et al., 2011)'
+_computing_publication_material   'SIR2011 (Burla et al., 2011)'
+_computing_structure_refinement   'SIR2011 (Burla et al., 2011)'
+_computing_structure_solution   'SIR2011 (Burla et al., 2011)'
+_diffrn_ambient_temperature   293
+_diffrn_measured_fraction_theta_full   60
+_diffrn_measured_fraction_theta_max   60
+_diffrn_measurement_device   PANalytical
+_diffrn_radiation_type   CuK\a
+_diffrn_radiation_wavelength   1.5406
+_diffrn_reflns_av_R_equivalents   0.1
+_diffrn_reflns_limit_h_max   4
+_diffrn_reflns_limit_h_min   0
+_diffrn_reflns_limit_k_max   18
+_diffrn_reflns_limit_k_min   0
+_diffrn_reflns_limit_l_max   3
+_diffrn_reflns_limit_l_min   0
+_diffrn_reflns_number   8758
+_diffrn_reflns_theta_full   23.59
+_diffrn_reflns_theta_max   23.59
+_diffrn_reflns_theta_min   2.40
+_exptl_absorpt_correction_T_max   0.0000
+_exptl_absorpt_correction_T_min   0.0000
+_exptl_absorpt_correction_type   psi-scan
+_exptl_crystal_colour   colorless
+_exptl_crystal_density_diffrn   2.257
+_exptl_crystal_description   block
+_exptl_crystal_F_000   126.8
+_exptl_crystal_size_max   0.03
+_exptl_crystal_size_mid   0.02
+_exptl_crystal_size_min   0.01
+_refine_ls_abs_structure_details   ""
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_all   0.957
+_refine_ls_goodness_of_fit_gt   0.957
+_refine_ls_matrix_type   full
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   1
+_refine_ls_number_reflns   12
+_refine_ls_number_restraints   0
+_refine_ls_R_factor_all   0.0757
+_refine_ls_R_factor_gt   0.0757
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   F
+_refine_ls_weighting_details   w=1.0
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_all   0.0895
+_refine_ls_wR_factor_gt   0.0895
+_reflns_d_resolution_high   0.889
+_reflns_d_resolution_low   8.493
+_reflns_limit_h_max   4
+_reflns_limit_h_min   0
+_reflns_limit_k_max   18
+_reflns_limit_k_min   0
+_reflns_limit_l_max   3
+_reflns_limit_l_min   0
+_reflns_number_gt   12
+_reflns_number_total   20
+_reflns_threshold_expression   'F >3.0 \s(F)'
+_cod_data_source_file   d3sc04355j2.cif
+_cod_data_source_block   global
+_cod_depositor_comments
+;
+The following automatic conversions were performed: data item
+'_atom_site_thermal_displace_type' value 'uani' was changed to 'Uani'
+in accordance with the /home/data/users/saulius/crontab/automatic-
+downloads/rss-feeds/RSC/lib/dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 last updated on 2011-04-26 (4 times).
+data item '_refine_ls_matrix_type' value 'Full' was changed to 'full'
+in accordance with the /home/data/users/saulius/crontab/automatic-
+downloads/rss-feeds/RSC/lib/dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 last updated on 2011-04-26. data item
+'_symmetry_cell_setting' value 'Orthorhombic' was changed to
+'orthorhombic' in accordance with the
+/home/data/users/saulius/crontab/automatic-downloads/rss-
+feeds/RSC/lib/dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.2 last updated on 2011-04-26. Automatic
+conversion script Id: cif_fix_values 8170 2020-07-09 18:12:32Z antanas
+Adding full bibliography for 1570332.cif.
+;
+_cod_original_cell_volume   195.39
+_cod_original_formula_sum   'Na1.96, Ti2.60, O6'
+_cod_database_code   1570332
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,z
+  4  x,-y,z
+  5  1/2+x,1/2+y,1/2+z
+  6  1/2-x,1/2-y,1/2+z
+  7  1/2-x,1/2+y,1/2+z
+  8  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_thermal_displace_type
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+  Na1  0.0000  0.0000  -0.0472  0.2450  0.003  Uani  Na  1
+  Ti1  0.0000  0.3118  0.6306  0.3250  0.005  Uani  Ti  1
+  O1  0.0000  0.3837  0.1021  0.5000  0.013  Uani  O  0
+  O2  0.0000  0.2187  0.1645  1.0000  0.013  Uani  O  2
+loop_
+ _atom_type_symbol
+ _atom_type_number_in_cell
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  2  Oxygen  0.0106  0.0060  'Int. Tab. C, 4.2.6.8, 6.1.1.4'
+  Na  1  Sodium  0.0362  0.0249  'Int. Tab. C, 4.2.6.8, 6.1.1.4'
+  Ti  1  Titanium  0.2776  0.4457  'Int. Tab. C, 4.2.6.8, 6.1.1.4'
+loop_
+ _diffrn_standard_refln_index_h
+ _diffrn_standard_refln_index_k
+ _diffrn_standard_refln_index_l
+  ?  ?  ?
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1  'Vaitkus, Antanas'  2023-12-14T19:57:45+02:00
+;
+Updated values of the '_atom_site_type_symbol' and '_atom_type_symbol'
+data  items to establish proper relationships between different
+category loops.
+;
+

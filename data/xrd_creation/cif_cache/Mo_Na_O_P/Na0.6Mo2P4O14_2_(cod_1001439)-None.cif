@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_1001439
+loop_
+ _publ_author_name
+  'Leclaire, A'
+  'Borel, M M'
+  'Grandin, A'
+  'Raveau, B'
+_publ_section_title
+;
+Na~x~MoP~2~O~7~, a mixed valence molybdenum diphosphate with a tunnel
+structure
+;
+_journal_coden_ASTM   ZEKRDZ
+_journal_name_full   'Zeitschrift fuer Kristallographie (149,1979-)'
+_journal_page_first   247
+_journal_page_last   255
+_journal_volume   184
+_journal_year   1988
+_chemical_formula_structural   'Na.3 Mo (P2 O7)'
+_chemical_formula_sum   'Mo Na0.3 O7 P2'
+_chemical_name_systematic   'Sodium molybdenum diphosphate (.3/1/1)'
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_Int_Tables_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   91.400(5)
+_cell_angle_beta   92.466(8)
+_cell_angle_gamma   106.551(9)
+_cell_formula_units_Z   2
+_cell_length_a   4.8813(6)
+_cell_length_b   7.0110(5)
+_cell_length_c   8.2563(4)
+_cell_volume   270.4
+_refine_ls_R_factor_all   0.03
+_cod_original_formula_sum   'Mo Na.3 O7 P2'
+_cod_database_code   1001439
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Mo1  Mo4+  1  a  0.  0.  0.  1.  0  d
+  Mo2  Mo4+  1  h  0.5  0.5  0.5  1.  0  d
+  P1  P5+  2  i  -0.38075(9)  0.24019(6)  0.19526(5)  1.  0  d
+  P2  P5+  2  i  0.02281(9)  -0.36972(6)  0.25600(5)  1.  0  d
+  O1  O2-  2  i  -0.18760(33)  0.10297(22)  0.18306(18)  1.  0  d
+  O2  O2-  2  i  0.10535(34)  -0.19509(22)  0.14722(20)  1.  0  d
+  O3  O2-  2  i  0.37337(30)  0.18907(22)  0.06736(19)  1.  0  d
+  O4  O2-  2  i  0.12703(33)  0.32130(23)  0.59689(19)  1.  0  d
+  O5  O2-  2  i  0.27468(35)  0.55597(26)  0.29875(19)  1.  0  d
+  O6  O2-  2  i  0.52932(35)  0.24450(22)  0.36858(17)  1.  0  d
+  O7  O2-  2  i  -0.20427(31)  0.45792(20)  0.14898(17)  1.  0  d
+  Na1  Na1+  2  i  -0.0956(28)  0.0080(7)  0.4766(9)  0.3  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Mo4+  3.700
+  P5+  5.000
+  O2-  -2.000
+  Na1+  1.000

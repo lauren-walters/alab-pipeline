@@ -1,0 +1,74 @@
+# generated using pymatgen
+data_1008509
+loop_
+ _publ_author_name
+  'Fanjat, N'
+  'Soubeyroux, J L'
+_publ_section_title
+;
+Powder neutron diffraction study of Fe~2~Na~3~(P O~4~)~3~ in the low
+temperature phase
+;
+_journal_coden_ASTM   JMMMDC
+_journal_name_full   'Journal of Magnetism and Magnetic Materials'
+_journal_page_first   933
+_journal_page_last   934
+_journal_volume   104
+_journal_year   1992
+_chemical_formula_structural   'Fe2 Na3 (P O4)3'
+_chemical_formula_sum   'Fe2 Na3 O12 P3'
+_chemical_name_systematic   'Diiron(III) trisodium tris(phosphate)'
+_space_group_IT_number   15
+_symmetry_cell_setting   monoclinic
+_symmetry_Int_Tables_number   15
+_symmetry_space_group_name_Hall   '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   125.1(1)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   15.07(7)
+_cell_length_b   8.740(5)
+_cell_length_c   8.724(9)
+_cell_volume   940.1
+_refine_ls_R_factor_all   0.0176
+_cod_database_code   1008509
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,1/2-z
+  -x,-y,-z
+  x,-y,1/2+z
+  1/2+x,1/2+y,z
+  1/2-x,1/2+y,1/2-z
+  1/2-x,1/2-y,-z
+  1/2+x,1/2-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Fe1  Fe3+  8  f  0.109(8)  0.235(1)  0.059(1)  1.  0  d
+  O1  O2-  8  f  0.145(8)  0.43  0.224(7)  1.  0  d
+  O2  O2-  8  f  0.416(2)  0.461(3)  0.059(3)  1.  0  d
+  O3  O2-  8  f  0.258(3)  0.171(2)  0.243(5)  1.  0  d
+  O4  O2-  8  f  0.328(1)  0.144(4)  0.070(2)  1.  0  d
+  O5  O2-  8  f  0.472(9)  0.151(8)  0.436(3)  1.  0  d
+  O6  O2-  8  f  0.074(4)  0.140(8)  0.243(5)  1.  0  d
+  P1  P5+  8  f  0.358  0.107(8)  0.270(8)  1.  0  d
+  P2  P5+  4  e  0.  0.033(2)  0.25  1.  0  d
+  Na1  Na1+  4  d  0.25  0.25  0.5  1.  0  d
+  Na2  Na1+  8  f  0.331(4)  0.368(9)  0.282(2)  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Fe3+  3.000
+  O2-  -2.000
+  P5+  5.000
+  Na1+  1.000

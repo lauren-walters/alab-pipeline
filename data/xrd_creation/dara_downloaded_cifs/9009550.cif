@@ -1,0 +1,94 @@
+# generated using pymatgen
+data_9009550
+loop_
+ _publ_author_name
+  'Ilyushin, G. D.'
+  'Voronkov, A. A.'
+  'Nevskii, N. N.'
+  'Ilyukhin, V. V.'
+  'Belov, N. V.'
+_publ_section_title
+'Crystal structure of hilairite, Na2ZrSi3O9*3H2O'
+_journal_name_full   'Doklady Akademii Nauk SSSR'
+_journal_page_first   1118
+_journal_page_last   1120
+_journal_volume   260
+_journal_year   1981
+_chemical_formula_sum   'H12 Na3.634 O24 Si6 Zr2'
+_chemical_name_mineral   Hilairite
+_space_group_IT_number   155
+_symmetry_space_group_name_Hall   'R 3 2"'
+_symmetry_space_group_name_H-M   'R 3 2 :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   3
+_cell_length_a   10.556
+_cell_length_b   10.556
+_cell_length_c   15.855
+_cell_volume   1530.015
+_database_code_amcsd   0012472
+_exptl_crystal_density_diffrn   2.704
+_cod_original_sg_symbol_H-M   'R 3 2'
+_cod_original_formula_sum   'Na3.634 Zr2 Si6 O24 H12'
+_cod_database_code   9009550
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  2/3+x,1/3+y,1/3+z
+  1/3+x,2/3+y,2/3+z
+  -x,-x+y,-z
+  2/3-x,1/3-x+y,1/3-z
+  1/3-x,2/3-x+y,2/3-z
+  y,x,-z
+  2/3+y,1/3+x,1/3-z
+  1/3+y,2/3+x,2/3-z
+  x-y,-y,-z
+  2/3+x-y,1/3-y,1/3-z
+  1/3+x-y,2/3-y,2/3-z
+  -y,x-y,z
+  2/3-y,1/3+x-y,1/3+z
+  1/3-y,2/3+x-y,2/3+z
+  -x+y,-x,z
+  2/3-x+y,1/3-x,1/3+z
+  1/3-x+y,2/3-x,2/3+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Na1  0.00000  0.00000  0.19700  0.80000  0.10005  Na  0
+  Na2  0.38880  0.00000  0.50000  0.67800  0.03293  Na  0
+  Zr1  0.00000  0.00000  0.00000  1.00000  0.01507  Zr  0
+  Zr2  0.00000  0.00000  0.50000  1.00000  0.01267  Zr  0
+  Si  0.41740  0.41280  0.24860  1.00000  0.00912  Si  0
+  O1  0.09210  0.18460  0.07680  1.00000  0.01507  O  0
+  O2  0.09890  0.19020  0.57200  1.00000  0.01494  O  0
+  O3  0.65390  0.00000  0.00000  1.00000  0.01507  O  0
+  O4  0.64340  0.00000  0.50000  1.00000  0.01545  O  0
+  Wat  0.50000  0.14600  0.06300  1.00000  0.04597  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:51:54+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0012472

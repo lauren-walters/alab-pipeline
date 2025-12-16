@@ -1,0 +1,439 @@
+# generated using pymatgen
+data_2018708
+loop_
+ _publ_author_name
+  'Dal Bo, Fabrice'
+  "Hatert, Fr\'ed\'eric"
+_publ_section_title
+;
+Fe~6.67~(PO~4~)~5.35~(HPO~4~)~0.65~ and
+Fe~6.23~(PO~4~)~4.45~(HPO~4~)~1.55~: two new mixed-valence iron
+phosphates
+;
+_journal_coeditor_code   FN3113
+_journal_issue   12
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   i83
+_journal_page_last   i85
+_journal_paper_doi   10.1107/S0108270112043016
+_journal_volume   68
+_journal_year   2012
+_chemical_formula_analytical   Fe^II^~2.228~Fe^III^~4~(PO~4~)6
+_chemical_formula_iupac   'Fe6.23 (P O4)4.45 (H P O4)1.55'
+_chemical_formula_moiety   'Fe6.23 H1.55 O24 P6'
+_chemical_formula_sum   'Fe6.23 H1.55 O24 P6'
+_chemical_formula_weight   919.26
+_chemical_name_common   'Iron Phosphate'
+_chemical_name_systematic
+'Heptairon tetraphosphate bis(hydrogen phosphate)'
+_space_group_crystal_system   triclinic
+_space_group_IT_number   2
+_space_group_name_Hall   '-P 1'
+_space_group_name_H-M_alt   'P -1'
+_symmetry_cell_setting   triclinic
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_cell_angle_alpha   105.303(3)
+_cell_angle_beta   108.176(3)
+_cell_angle_gamma   101.700(3)
+_cell_formula_units_Z   1
+_cell_length_a   6.3445(2)
+_cell_length_b   7.9353(3)
+_cell_length_c   9.2829(3)
+_cell_measurement_reflns_used   11179
+_cell_measurement_temperature   293.0
+_cell_measurement_theta_max   30.4031
+_cell_measurement_theta_min   2.4619
+_cell_volume   407.03(3)
+_computing_cell_refinement   'CrysAlis PRO (Agilent, 2012)'
+_computing_data_collection   'CrysAlis PRO (Agilent, 2012)'
+_computing_data_reduction   'CrysAlis PRO (Agilent, 2012)'
+_computing_molecular_graphics   'ATOMS (Dowty, 1993)'
+_computing_publication_material
+'OLEX2 (Dolomanov <i>et al.</i>, 2009)'
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 2008)'
+_computing_structure_solution   'SHELXS97 (Sheldrick, 2008)'
+_diffrn_ambient_temperature   293
+_diffrn_detector_area_resol_mean   16.0087
+_diffrn_measured_fraction_theta_full   0.963
+_diffrn_measured_fraction_theta_max   0.963
+_diffrn_measurement_device_type   'Agilent Xcalibur Eos'
+_diffrn_measurement_method   '\w scans'
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_type   'Mo K\a'
+_diffrn_radiation_wavelength   0.7107
+_diffrn_reflns_av_R_equivalents   0.0310
+_diffrn_reflns_limit_h_max   9
+_diffrn_reflns_limit_h_min   -9
+_diffrn_reflns_limit_k_max   11
+_diffrn_reflns_limit_k_min   -11
+_diffrn_reflns_limit_l_max   13
+_diffrn_reflns_limit_l_min   -13
+_diffrn_reflns_number   21571
+_diffrn_reflns_theta_full   30.47
+_diffrn_reflns_theta_max   30.47
+_diffrn_reflns_theta_min   2.47
+_diffrn_standards_decay_%   0
+_exptl_absorpt_coefficient_mu   6.131
+_exptl_absorpt_correction_T_max   0.786
+_exptl_absorpt_correction_T_min   0.573
+_exptl_absorpt_correction_type   analytical
+_exptl_absorpt_process_details
+;
+[CrysAlis PRO (Agilent, 2012), based on expressions derived by Clark &
+Reid (1995)]
+;
+_exptl_crystal_colour   Black
+_exptl_crystal_density_diffrn   3.750
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   'Isometric crystal'
+_exptl_crystal_F_000   445.53
+_exptl_crystal_size_max   0.1519
+_exptl_crystal_size_mid   0.1035
+_exptl_crystal_size_min   0.0577
+_refine_diff_density_max   0.956
+_refine_diff_density_min   -0.677
+_refine_ls_extinction_method   none
+_refine_ls_goodness_of_fit_ref   1.138
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   170
+_refine_ls_number_reflns   2378
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.138
+_refine_ls_R_factor_all   0.0309
+_refine_ls_R_factor_gt   0.0267
+_refine_ls_shift/su_max   0.000
+_refine_ls_shift/su_mean   0.000
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.0503P)^2^+0.6294P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.0831
+_refine_ls_wR_factor_ref   0.0854
+_reflns_number_gt   2167
+_reflns_number_total   2378
+_reflns_threshold_expression   I>2sigma(I)
+_iucr_refine_instructions_details
+;
+TITL H347 in P-1 CELL 0.71073 6.344536 7.935259 9.282851 105.3028
+108.1758 101.6998 ZERR 1 0.000196 0.000268 0.000284 0.0028 0.0027
+0.0027 LATT 1 SFAC O Fe P H UNIT 24 6.28 6 1 L.S. 10 0 0 511 PLAN  20
+TEMP 19.85 REM reset to P-1 BOND fmap 2 acta REM <HKL>C:/XcaliburData/
+Fabrice/H347-X-2/struct/olex2_H347-X-2/H347-X-2.hkl</HK WGHT
+0.050300    0.629400 FVAR       5.09428 FE1   2   -0.616967
+0.458504    0.116784    11.00000    0.00555    0.00905 =
+0.00715    0.00362    0.00292    0.00150 FE2   2   -0.049318
+0.276983    0.473715    11.00000    0.00734    0.00644 =
+0.00721    0.00266    0.00257    0.00230 FE3   2    1.000000
+1.000000    0.000000    10.50000    0.01051    0.00754 =
+0.00978    0.00300    0.00467    0.00357 FE4   2    0.286544
+0.814426    0.288984     0.61364    0.01020    0.00907 =
+0.01296    0.00481    0.00698    0.00463 P2    3    0.773671
+0.849892    0.231963    11.00000    0.00422    0.00544 =
+0.00535    0.00149    0.00217    0.00131 P1    3   -0.094245
+0.405538    0.166371    11.00000    0.00515    0.00578 =
+0.00516    0.00199    0.00248    0.00204 P3    3   -0.602786
+0.232459    0.367856    11.00000    0.00532    0.00721 =
+0.00718    0.00348    0.00302    0.00236 O1    1   -0.310939
+0.459382    0.083588    11.00000    0.00318    0.01125 =
+0.00737    0.00417    0.00202    0.00232 O3    1    0.545007
+0.732725    0.227089    11.00000    0.00576    0.00923 =
+0.00900    0.00233    0.00400    0.00104 O4    1   -0.067283
+0.449367    0.345937    11.00000    0.00911    0.00778 =
+0.00583    0.00318    0.00340    0.00317 O5    1    0.790914
+1.049885    0.292881    11.00000    0.01128    0.00746 =
+0.01135    0.00207    0.00381    0.00334 O6    1    0.983664
+0.812012    0.341657    11.00000    0.00550    0.01179 =
+0.00894    0.00473    0.00234    0.00352 O2    1    0.121173
+0.532158    0.161099    11.00000    0.00707    0.01084 =
+0.00903    0.00411    0.00483    0.00267 O9    1   -0.371147
+0.234437    0.489177    11.00000    0.00617    0.01791 =
+0.01099    0.00816    0.00380    0.00740 O10   1    0.247438
+0.279652    0.462580    11.00000    0.00797    0.02027 =
+0.01033    0.00481    0.00611    0.00747 O11   1    0.774910
+0.800730    0.057527    11.00000    0.00923    0.00853 =
+0.00568    0.00128    0.00376    0.00142 O12   1    0.878483
+1.208100    0.081075    11.00000    0.02194    0.00856 =
+0.01355    0.00276    0.00970    0.00652 O8    1   -0.548959
+0.372585    0.288590    11.00000    0.01241    0.01353 =
+0.01108    0.00855    0.00270    0.00182 O7    1    0.730618
+0.957401   -0.232083    11.00000    0.01542    0.00755 =
+0.01603   -0.00067    0.00589    0.00090 HKLF 4 REM  H347-X-2 in P-1
+REM R1 =  0.0267 for   2167 Fo > 4sig(Fo)  and  0.0309 for all   2378
+data REM    170 parameters refined using      0 restraints END WGHT
+0.0503      0.6294 REM Highest difference peak  0.956,  deepest hole
+-0.677,  1-sigma level  0.228 Q1    1  -0.0848  0.3628  0.3975
+11.00000  0.05    0.96 Q2    1  -0.0013  0.4161  0.5214  11.00000
+0.05    0.92 Q3    1  -0.5240  0.5230  0.2381  11.00000  0.05    0.91
+Q4    1  -0.1486  0.2082  0.3455  11.00000  0.05    0.90 Q5    1
+0.7290  0.6852  0.0235  11.00000  0.05    0.88 Q6    1   0.8779
+1.1597  0.3839  11.00000  0.05    0.88 Q7    1   0.7876  0.9678
+0.2488  11.00000  0.05    0.85 Q8    1   0.9355  0.7247  0.3853
+11.00000  0.05    0.85 Q9    1   0.6722  0.8678 -0.2948  11.00000
+0.05    0.85 Q10   1   0.7024  0.7049 -0.0140  11.00000  0.05    0.85
+Q11   1  -0.6686  0.3144  0.0525  11.00000  0.05    0.84 Q12   1
+0.0542  0.3688  0.6035  11.00000  0.05    0.83 Q13   1  -0.7097
+0.4233 -0.0001  11.00000  0.05    0.83 Q14   1  -0.0587  0.5383
+0.4072  11.00000  0.05    0.81 Q15   1   0.8227  1.1668  0.3029
+11.00000  0.05    0.80 Q16   1   0.0000  0.5000  0.5000  10.50000
+0.05    0.79 Q17   1  -0.5653  0.3888  0.2028  11.00000  0.05    0.78
+Q18   1  -0.0207  0.1762  0.5168  11.00000  0.05    0.77 Q19   1
+0.6482  0.9045 -0.3380  11.00000  0.05    0.71 Q20   1  -0.5862
+0.5899  0.1396  11.00000  0.05    0.71
+;
+_cod_data_source_file   fn3113.cif
+_cod_data_source_block   H347
+_cod_original_cell_volume   407.03(2)
+_cod_database_code   2018708
+_cod_database_fobs_code   2018708
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+  Fe  Fe1  -0.61697(6)  0.45850(5)  0.11678(4)  0.00709(11)  Uani  d
+  .  1  1
+  Fe  Fe2  -0.04932(6)  0.27698(5)  0.47371(5)  0.00698(11)  Uani  d
+  .  1  1
+  Fe  Fe3  1.0000  1.0000  0.0000  0.00897(13)  Uani  d  S  1  2
+  Fe  Fe4  0.28654(11)  0.81443(9)  0.28898(8)  0.0096(2)  Uani  d
+  P  0.614(2)  1
+  P  P1  -0.09424(11)  0.40554(9)  0.16637(8)  0.00517(14)  Uani  d
+  .  1  1
+  P  P2  0.77367(11)  0.84989(9)  0.23196(8)  0.00504(13)  Uani  d
+  .  1  1
+  P  P3  -0.60279(11)  0.23246(9)  0.36786(8)  0.00614(14)  Uani  d
+  .  1  1
+  O  O1  -0.3109(3)  0.4594(3)  0.0836(2)  0.0071(4)  Uani  d  .  1
+  1
+  O  O2  0.1212(3)  0.5322(3)  0.1611(2)  0.0084(4)  Uani  d  .  1
+  1
+  O  O3  0.5450(3)  0.7327(3)  0.2271(2)  0.0081(3)  Uani  d  .  1
+  1
+  O  O4  -0.0673(3)  0.4494(3)  0.3459(2)  0.0072(3)  Uani  d  .  1
+  1
+  O  O5  0.7909(3)  1.0499(3)  0.2929(2)  0.0104(4)  Uani  d  .  1
+  1
+  O  O6  0.9837(3)  0.8120(3)  0.3417(2)  0.0085(4)  Uani  d  .  1
+  1
+  O  O7  0.7306(4)  0.9574(3)  -0.2321(3)  0.0145(4)  Uani  d  .  1
+  1
+  O  O8  -0.5490(4)  0.3726(3)  0.2886(2)  0.0123(4)  Uani  d  .  1
+  1
+  O  O9  -0.3711(3)  0.2344(3)  0.4892(2)  0.0103(4)  Uani  d  .  1
+  1
+  O  O10  0.2474(3)  0.2797(3)  0.4626(2)  0.0118(4)  Uani  d  .  1
+  1
+  O  O11  0.7749(3)  0.8007(3)  0.0575(2)  0.0081(4)  Uani  d  .  1
+  1
+  O  O12  0.8785(4)  1.2081(3)  0.0811(3)  0.0139(4)  Uani  d  .  1
+  1
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Fe1  0.00555(19)  0.0090(2)  0.00715(19)  0.00150(14)  0.00292(14)
+  0.00362(15)
+  Fe2  0.00734(18)  0.00644(18)  0.00721(19)  0.00230(13)
+  0.00257(14)  0.00266(14)
+  Fe3  0.0105(3)  0.0075(2)  0.0098(3)  0.00357(19)  0.0047(2)
+  0.0030(2)
+  Fe4  0.0102(3)  0.0091(3)  0.0130(4)  0.0046(2)  0.0070(2)
+  0.0048(3)
+  P1  0.0052(3)  0.0058(3)  0.0052(3)  0.0020(2)  0.0025(2)
+  0.0020(2)
+  P2  0.0042(3)  0.0054(3)  0.0054(3)  0.0013(2)  0.0022(2)
+  0.0015(2)
+  P3  0.0053(3)  0.0072(3)  0.0072(3)  0.0024(2)  0.0030(2)
+  0.0035(2)
+  O1  0.0032(8)  0.0112(9)  0.0074(8)  0.0023(7)  0.0020(6)
+  0.0042(7)
+  O2  0.0071(8)  0.0108(9)  0.0090(9)  0.0027(7)  0.0048(7)
+  0.0041(7)
+  O3  0.0058(8)  0.0092(9)  0.0090(8)  0.0010(7)  0.0040(7)
+  0.0023(7)
+  O4  0.0091(8)  0.0078(8)  0.0058(8)  0.0032(7)  0.0034(7)
+  0.0032(7)
+  O5  0.0113(9)  0.0075(9)  0.0114(9)  0.0033(7)  0.0038(7)
+  0.0021(7)
+  O6  0.0055(8)  0.0118(9)  0.0089(8)  0.0035(7)  0.0023(7)
+  0.0047(7)
+  O7  0.0154(10)  0.0076(9)  0.0160(10)  0.0009(7)  0.0059(8)
+  -0.0007(8)
+  O8  0.0124(9)  0.0135(9)  0.0111(9)  0.0018(7)  0.0027(7)
+  0.0086(8)
+  O9  0.0062(8)  0.0179(10)  0.0110(9)  0.0074(7)  0.0038(7)
+  0.0082(8)
+  O10  0.0080(9)  0.0203(10)  0.0103(9)  0.0075(8)  0.0061(7)
+  0.0048(8)
+  O11  0.0092(8)  0.0085(9)  0.0057(8)  0.0014(7)  0.0038(7)
+  0.0013(7)
+  O12  0.0219(10)  0.0086(9)  0.0135(10)  0.0065(8)  0.0097(8)
+  0.0028(8)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Fe  Fe  0.3463  0.8444
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  H  H  0.0000  0.0000
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _exptl_crystal_face_index_h
+ _exptl_crystal_face_index_k
+ _exptl_crystal_face_index_l
+ _exptl_crystal_face_perp_dist
+  -8  1  9  0.0383
+  0  6  7  0.0279
+  5  -7  -7  0.0327
+  3  -5  -10  0.0312
+  6  1  -12  0.0269
+  3  -1  -12  0.0228
+  -3  -2  13  0.0305
+  -1  7  -12  0.0286
+  9  -3  -5  0.0191
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+  O1  Fe1  O1  .  2_465  82.31(8)
+  O1  Fe1  O11  .  2_565  89.06(8)
+  O3  Fe1  O1  1_455  2_465  79.82(8)
+  O3  Fe1  O1  1_455  .  83.24(8)
+  O3  Fe1  O11  1_455  2_565  161.92(8)
+  O2  Fe1  O1  1_455  .  164.01(8)
+  O2  Fe1  O1  1_455  2_465  90.55(8)
+  O2  Fe1  O3  1_455  1_455  81.42(8)
+  O2  Fe1  O11  1_455  2_565  104.31(8)
+  O11  Fe1  O1  2_565  2_465  82.96(8)
+  O8  Fe1  O1  .  2_465  176.45(9)
+  O8  Fe1  O1  .  .  95.60(8)
+  O8  Fe1  O3  .  1_455  102.83(8)
+  O8  Fe1  O2  .  1_455  92.18(9)
+  O8  Fe1  O11  .  2_565  94.16(9)
+  O4  Fe2  O4  .  2_566  74.85(8)
+  O4  Fe2  O9  .  .  100.32(8)
+  O5  Fe2  O4  1_445  2_566  167.77(8)
+  O5  Fe2  O4  1_445  .  97.53(8)
+  O5  Fe2  O6  1_445  2_666  101.47(8)
+  O5  Fe2  O9  1_445  .  82.49(9)
+  O6  Fe2  O4  2_666  2_566  86.23(8)
+  O6  Fe2  O4  2_666  .  160.96(8)
+  O6  Fe2  O9  2_666  .  81.21(8)
+  O9  Fe2  O4  .  2_566  89.40(8)
+  O10  Fe2  O4  .  2_566  96.57(8)
+  O10  Fe2  O4  .  .  87.76(8)
+  O10  Fe2  O5  .  1_445  92.61(9)
+  O10  Fe2  O6  .  2_666  92.45(8)
+  O10  Fe2  O9  .  .  171.01(9)
+  O11  Fe3  O11  2_775  .  180.0
+  O12  Fe3  O11  2_775  2_775  94.28(8)
+  O12  Fe3  O11  .  2_775  85.72(8)
+  O12  Fe3  O11  2_775  .  85.72(8)
+  O12  Fe3  O11  .  .  94.28(8)
+  O12  Fe3  O12  2_775  .  180.00(10)
+  O12  Fe3  O7  2_775  .  97.10(8)
+  O12  Fe3  O7  .  2_775  97.10(8)
+  O12  Fe3  O7  .  .  82.90(8)
+  O12  Fe3  O7  2_775  2_775  82.90(8)
+  O7  Fe3  O11  2_775  .  85.84(7)
+  O7  Fe3  O11  .  .  94.16(7)
+  O7  Fe3  O11  .  2_775  85.84(7)
+  O7  Fe3  O11  2_775  2_775  94.16(7)
+  O7  Fe3  O7  2_775  .  180.0
+  O3  Fe4  O6  .  1_455  162.47(8)
+  O3  Fe4  O2  .  .  78.04(8)
+  O3  Fe4  O9  .  2_566  96.77(8)
+  O2  Fe4  O6  .  1_455  85.71(8)
+  O2  Fe4  O9  .  2_566  90.12(8)
+  O9  Fe4  O6  2_566  1_455  76.56(7)
+  O7  Fe4  O3  2_675  .  107.08(9)
+  O7  Fe4  O6  2_675  1_455  88.87(8)
+  O7  Fe4  O2  2_675  .  133.66(9)
+  O7  Fe4  O9  2_675  2_566  132.99(9)
+  O3  P2  O6  .  .  110.00(11)
+  O3  P2  O11  .  .  110.02(11)
+  O5  P2  O3  .  .  109.10(11)
+  O5  P2  O6  .  .  110.91(11)
+  O5  P2  O11  .  .  108.23(11)
+  O6  P2  O11  .  .  108.56(11)
+  O1  P1  O4  .  .  105.52(11)
+  O2  P1  O1  .  .  107.80(11)
+  O2  P1  O4  .  .  108.80(11)
+  O12  P1  O1  1_445  .  111.44(12)
+  O12  P1  O4  1_445  .  113.52(11)
+  O12  P1  O2  1_445  .  109.54(12)
+  O9  P3  O7  .  2_565  111.39(12)
+  O10  P3  O9  1_455  .  107.21(11)
+  O10  P3  O8  1_455  .  111.87(12)
+  O10  P3  O7  1_455  2_565  110.15(12)
+  O8  P3  O9  .  .  108.64(11)
+  O8  P3  O7  .  2_565  107.60(12)
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+  Fe1  O1  2_465  2.0792(19)
+  Fe1  O1  .  2.0576(18)
+  Fe1  O3  1_455  2.025(2)
+  Fe1  O2  1_455  1.9910(19)
+  Fe1  O11  2_565  2.0614(19)
+  Fe1  O8  .  1.8597(19)
+  Fe2  O4  .  2.0314(18)
+  Fe2  O4  2_566  2.1731(19)
+  Fe2  O5  1_445  1.922(2)
+  Fe2  O6  2_666  1.9805(19)
+  Fe2  O9  .  2.0573(19)
+  Fe2  O10  .  1.914(2)
+  Fe3  O11  2_775  2.1979(19)
+  Fe3  O11  .  2.1979(19)
+  Fe3  O12  .  2.027(2)
+  Fe3  O12  2_775  2.027(2)
+  Fe3  O7  2_775  2.182(2)
+  Fe3  O7  .  2.182(2)
+  Fe4  O3  .  2.064(2)
+  Fe4  O6  1_455  2.123(2)
+  Fe4  O2  .  2.096(2)
+  Fe4  O9  2_566  2.120(2)
+  Fe4  O7  2_675  2.029(2)
+  P2  O3  .  1.537(2)
+  P2  O5  .  1.506(2)
+  P2  O6  .  1.5427(19)
+  P2  O11  .  1.5652(19)
+  P1  O1  .  1.5542(19)
+  P1  O4  .  1.5559(19)
+  P1  O2  .  1.5462(19)
+  P1  O12  1_445  1.504(2)
+  P3  O9  .  1.542(2)
+  P3  O10  1_455  1.519(2)
+  P3  O8  .  1.526(2)
+  P3  O7  2_565  1.543(2)

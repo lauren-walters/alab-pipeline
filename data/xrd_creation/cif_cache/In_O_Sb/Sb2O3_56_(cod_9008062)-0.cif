@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_9008062
+loop_
+ _publ_author_name
+  'Buerger, M. J.'
+  'Hendricks, S. B.'
+_publ_section_title
+'The Crystal Structure of Valentinite (Orthorhombic Sb~2~O~3~)'
+_journal_issue   1-6
+_journal_name_full
+'Zeitschrift f"ur Kristallographie - Crystalline Materials'
+_journal_page_first   1
+_journal_page_last   30
+_journal_paper_doi   10.1524/zkri.1938.98.1.1
+_journal_volume   98
+_journal_year   1938
+_chemical_formula_sum   'O3 Sb2'
+_chemical_name_mineral   Valentinite
+_space_group_IT_number   56
+_symmetry_space_group_name_Hall   '-P 2ab 2ac'
+_symmetry_space_group_name_H-M   'P c c n'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   4.92
+_cell_length_b   12.46
+_cell_length_c   5.42
+_cell_formula_units_Z   4
+_cell_volume   332.263
+_database_code_amcsd   0010568
+_exptl_crystal_density_diffrn   5.827
+_cod_original_formula_sum   'Sb2 O3'
+_cod_database_code   9008062
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  x,1/2-y,1/2+z
+  -x,1/2+y,1/2-z
+  1/2-x,y,1/2+z
+  1/2+x,-y,1/2-z
+  1/2+x,1/2+y,-z
+  1/2-x,1/2-y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  Sb  0.04440  0.12830  0.17900
+  O1  0.25000  0.25000  -0.07500
+  O2  0.14700  0.05800  -0.13900
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  ChemSpider  14110
+  2  AMCSD  0010568

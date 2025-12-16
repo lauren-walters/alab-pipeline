@@ -1,0 +1,155 @@
+# generated using pymatgen
+data_4317561
+loop_
+ _publ_author_name
+  'Sam Bradley'
+  'Kenneth D. Camm'
+  'Xiaoming Liu'
+  'Patrick C. McGowan'
+  'Raheela Mumtaz'
+  'Karrie A. Oughton'
+  'Thomas J. Podesta'
+  'Mark Thornton-Pett'
+_publ_contact_author
+;
+Patrick McGowan      School of Chemistry      University of Leeds
+Leeds LS2 9JT      UK
+;
+_publ_contact_author_email   patrickm@chem.leeds.ac.uk
+_publ_contact_author_fax   '+44 (0)113 2336565'
+_publ_contact_author_phone   '+44 (0)113 2336404'
+_publ_section_title
+;
+Synthesis and Structural Studies of 1,1'-Bis-Amino-Functionalized
+Ferrocenes, Ferrocene Salts, and Ferrocenium Salts
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   715
+_journal_page_last   726
+_journal_paper_doi   10.1021/ic010821k
+_journal_volume   41
+_journal_year   2002
+_chemical_formula_sum   'C24 H34 F6 Fe N2 O4'
+_chemical_formula_weight   584.38
+_chemical_name_systematic   ?
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2yn'
+_symmetry_space_group_name_H-M   'P 1 21/n 1'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary   direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90.00
+_cell_angle_beta   100.2990(10)
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   12
+_cell_length_a   12.2379(2)
+_cell_length_b   31.2235(7)
+_cell_length_c   21.5825(5)
+_cell_measurement_temperature   150(2)
+_cell_volume   8114.0(3)
+_computing_structure_refinement   'SHELXL-97 (Sheldrick, 1997)'
+_computing_structure_solution   'SHELXS-97 (Sheldrick, 1990)'
+_diffrn_ambient_temperature   150(2)
+_diffrn_measured_fraction_theta_full   0.986
+_diffrn_measured_fraction_theta_max   0.986
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.0846
+_diffrn_reflns_av_sigmaI/netI   0.0941
+_diffrn_reflns_limit_h_max   13
+_diffrn_reflns_limit_h_min   -13
+_diffrn_reflns_limit_k_max   35
+_diffrn_reflns_limit_k_min   -35
+_diffrn_reflns_limit_l_max   24
+_diffrn_reflns_limit_l_min   -23
+_diffrn_reflns_number   38755
+_diffrn_reflns_theta_full   23.52
+_diffrn_reflns_theta_max   23.52
+_diffrn_reflns_theta_min   1.81
+_exptl_absorpt_coefficient_mu   0.631
+_exptl_absorpt_correction_T_max   0.8842
+_exptl_absorpt_correction_T_min   0.8842
+_exptl_crystal_density_diffrn   1.435
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_F_000   3648
+_exptl_crystal_size_max   0.20
+_exptl_crystal_size_mid   0.20
+_exptl_crystal_size_min   0.20
+_refine_diff_density_max   9.081
+_refine_diff_density_min   -1.839
+_refine_diff_density_rms   0.492
+_refine_ls_extinction_coef   0.035(10)
+_refine_ls_extinction_expression
+Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method   SHELXL
+_refine_ls_goodness_of_fit_ref   6.702
+_refine_ls_hydrogen_treatment   mixed
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   14
+_refine_ls_number_reflns   11857
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   6.702
+_refine_ls_R_factor_all   0.6224
+_refine_ls_R_factor_gt   0.5574
+_refine_ls_shift/su_max   2.502
+_refine_ls_shift/su_mean   1.299
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'calc w=1/[\s^2^(Fo^2^)+(0.1000P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_gt   0.8564
+_refine_ls_wR_factor_ref   0.8831
+_reflns_number_gt   6201
+_reflns_number_total   11857
+_reflns_threshold_expression   >2sigma(I)
+_cod_data_source_file   ic010821k_4.cif
+_cod_data_source_block   rah1
+_cod_database_code   4317561
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x+1/2, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x-1/2, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  Fe1  Fe  0.9314(5)  0.23619(17)  0.4993(3)  0.046(2)  Uiso  1  1
+  d  .  .  .
+  Fe2  Fe  0.9257(5)  0.2409(2)  0.1624(3)  0.063(3)  Uiso  1  1  d
+  .  .  .
+  Fe3  Fe  0.9407(6)  0.24827(18)  0.8285(4)  0.060(3)  Uiso  1  1
+  d  .  .  .
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  C  0.0033  0.0016
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  H  H  0.0000  0.0000
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  F  F  0.0171  0.0103
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Fe  Fe  0.3463  0.8444
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  N  N  0.0061  0.0033
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'

@@ -1,0 +1,83 @@
+# generated using pymatgen
+data_5000081
+loop_
+ _publ_author_name
+  'Ernst, J.'
+  'Sheldrick, W. S.'
+  'Fuhrhop, J.-H.'
+_publ_section_title
+;
+Die Strukturen der essentiellen unges\"attigten Fetts\"auren,
+Kristallstruktur der Linols\"aure sowie Hinweise auf die
+Kristallstrukturen der \a-Linolens\"aure und der Arachidons\"aure /
+The Structures of the Essential Unsaturated Fatty Acids. Crystal
+Structure  of Linoleic Acid and Evidence for the Crystal Structures of
+\a-Linolenic  Acid and Arachidonic Acid
+;
+_journal_issue   5
+_journal_name_full   'Zeitschrift f\"ur Naturforschung B'
+_journal_page_first   706
+_journal_page_last   711
+_journal_paper_doi   10.1515/znb-1979-0512
+_journal_volume   34
+_journal_year   1979
+_chemical_formula_sum   'C18 H32 O2'
+_chemical_name_common   'linoleic acid'
+_space_group_IT_number   14
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_cell_angle_alpha   90
+_cell_angle_beta   109.38(8)
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   42.98(3)
+_cell_length_b   4.632(3)
+_cell_length_c   9.377(6)
+_cod_original_sg_symbol_H-M   'P 21/c'
+_cod_database_code   5000081
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,1/2+y,1/2-z
+  3  -x,-y,-z
+  4  x,-1/2-y,-1/2+z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_attached_hydrogens
+  O1  O  0.03670  -0.07940  0.98210  0
+  O2  O  0.00420  0.29780  0.88720  1
+  C1  C  0.03090  0.15120  0.91140  0
+  C2  C  0.05490  0.28640  0.84480  2
+  C3  C  0.08090  0.08100  0.82060  2
+  C4  C  0.10690  0.25520  0.77860  2
+  C5  C  0.13260  0.06440  0.74720  2
+  C6  C  0.15850  0.24260  0.70640  2
+  C7  C  0.18500  0.06270  0.67480  2
+  C8  C  0.21000  0.24480  0.63220  2
+  C9  C  0.23570  0.06420  0.59450  1
+  C10  C  0.26800  0.06790  0.66440  1
+  C11  C  0.28720  0.25840  0.79390  2
+  C12  C  0.30670  0.06400  0.92430  1
+  C13  C  0.33870  0.06100  0.99570  1
+  C14  C  0.36370  0.24500  0.95650  2
+  C15  C  0.38930  0.04910  0.91850  2
+  C16  C  0.41630  0.23170  0.88780  2
+  C17  C  0.44160  0.03690  0.84880  2
+  C18  C  0.46950  0.21100  0.82200  3
+loop_
+ _atom_type_symbol
+ _atom_type_radius_bond
+  C  0.68
+  O  0.68
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  PubChem  5280450
+  2  ROD  1000012

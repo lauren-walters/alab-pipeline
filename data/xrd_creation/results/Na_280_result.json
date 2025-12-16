@@ -1,0 +1,17 @@
+{
+  "experiment_id": "666c93270cf47fd9cd40aab0",
+  "experiment_name": "Na_280",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Cr-Na-O-P",
+  "target_formula": "Na4CrP2O9",
+  "analysis_timestamp": "2025-12-06T13:53:35.151283",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

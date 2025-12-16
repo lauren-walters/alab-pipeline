@@ -1,0 +1,328 @@
+# generated using pymatgen
+data_2007710
+loop_
+ _publ_author_name
+  'Erragh, Fatima'
+  'Boukhari, Ali'
+  'Sadel, Abderahim'
+  'Holt, Elizabeth M.'
+_publ_section_title
+'Disodium Zinc Pyrophosphate and Disodium (Europium) Zinc Pyrophosphate'
+_journal_issue   10
+_journal_name_full   'Acta Crystallographica Section C'
+_journal_page_first   1373
+_journal_page_last   1376
+_journal_paper_doi   10.1107/S0108270198006246
+_journal_volume   54
+_journal_year   1998
+_chemical_formula_iupac   'Na2 Zn1 P2 O7'
+_chemical_formula_moiety   'Na2 O7 P2 Zn'
+_chemical_formula_sum   'Na2 O7 P2 Zn'
+_chemical_formula_weight   285.29
+_chemical_name_common   'Disodium Zinc Diphosphate'
+_chemical_name_systematic   'Disodium Zinc Diphosphate'
+_space_group_IT_number   136
+_symmetry_cell_setting   tetragonal
+_symmetry_space_group_name_Hall   '-P 4n 2n'
+_symmetry_space_group_name_H-M   'P 42/m n m'
+_cell_angle_alpha   90.00
+_cell_angle_beta   90.00
+_cell_angle_gamma   90.00
+_cell_formula_units_Z   4
+_cell_length_a   7.6560(10)
+_cell_length_b   7.6560(10)
+_cell_length_c   10.233(2)
+_cell_measurement_reflns_used   49
+_cell_measurement_temperature   293(2)
+_cell_measurement_theta_max   21.78
+_cell_measurement_theta_min   5.32
+_cell_volume   599.80(16)
+_computing_cell_refinement   XSCANS
+_computing_data_collection   'XSCANS (Siemens, 1991)'
+_computing_data_reduction   XSCANS
+_computing_molecular_graphics   'XP (Siemens, 1990)'
+_computing_publication_material   SHELXL97
+_computing_structure_refinement   'SHELXL97 (Sheldrick, 1997)'
+_computing_structure_solution   'SHELXS97 (Sheldrick, 1990)'
+_diffrn_ambient_temperature   293(2)
+_diffrn_measured_fraction_theta_max   0.901
+_diffrn_measurement_device_type   'Syntex P4 four-circle'
+_diffrn_measurement_method   \q/2\q
+_diffrn_radiation_monochromator   graphite
+_diffrn_radiation_source   'fine-focus sealed tube'
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71073
+_diffrn_reflns_av_R_equivalents   0.045
+_diffrn_reflns_av_sigmaI/netI   0.0381
+_diffrn_reflns_limit_h_max   1
+_diffrn_reflns_limit_h_min   -10
+_diffrn_reflns_limit_k_max   1
+_diffrn_reflns_limit_k_min   -10
+_diffrn_reflns_limit_l_max   14
+_diffrn_reflns_limit_l_min   -1
+_diffrn_reflns_number   1293
+_diffrn_reflns_theta_full   2.00
+_diffrn_reflns_theta_max   29.99
+_diffrn_reflns_theta_min   3.32
+_diffrn_standards_decay_%   0.000
+_diffrn_standards_interval_count   97
+_diffrn_standards_number   3
+_exptl_absorpt_coefficient_mu   4.762
+_exptl_absorpt_correction_T_max   0.39
+_exptl_absorpt_correction_T_min   0.13
+_exptl_absorpt_correction_type   '\y scan (XEMP; Sheldrick, 1990)'
+_exptl_crystal_colour   transparent
+_exptl_crystal_density_diffrn   3.16
+_exptl_crystal_density_method   'not measured'
+_exptl_crystal_description   chunk
+_exptl_crystal_F_000   552
+_exptl_crystal_size_max   0.2
+_exptl_crystal_size_mid   0.2
+_exptl_crystal_size_min   0.2
+_refine_diff_density_max   0.728
+_refine_diff_density_min   -0.995
+_refine_ls_extinction_coef   0.0000(13)
+_refine_ls_extinction_method   SHELXL97
+_refine_ls_goodness_of_fit_obs   1.113
+_refine_ls_goodness_of_fit_ref   1.113
+_refine_ls_matrix_type   full
+_refine_ls_number_parameters   45
+_refine_ls_number_reflns   503
+_refine_ls_number_restraints   0
+_refine_ls_restrained_S_all   1.113
+_refine_ls_R_factor_all   0.052
+_refine_ls_R_factor_gt   0.039
+_refine_ls_shift/su_max   0.041
+_refine_ls_shift/su_mean   0.022
+_refine_ls_structure_factor_coef   Fsqd
+_refine_ls_weighting_details
+'w = 1/[\s^2^(Fo^2^)+(0.0534P)^2^+0.4146P] where P = (Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme   calc
+_refine_ls_wR_factor_obs   0.102
+_refine_ls_wR_factor_ref   0.102
+_reflns_number_gt   403
+_reflns_number_total   503
+_reflns_threshold_expression   I>2\s(I)
+_cod_data_source_file   br1194.cif
+_cod_data_source_block   I
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_refine_ls_weighting_scheme' value 'calc w =
+1/[\s^2^(Fo^2^)+(0.0534P)^2^+0.4146P] where P = (Fo^2^+2Fc^2^)/3' was
+changed to 'calc'. New tag '_refine_ls_weighting_details' was created.
+The value of the new tag was set to 'w =
+1/[\s^2^(Fo^2^)+(0.0534P)^2^+0.4146P] where P = (Fo^2^+2Fc^2^)/3'.
+Automatic conversion script Id: cif_fix_values 3143 2015-03-26
+13:38:13Z robertas
+;
+_cod_original_sg_symbol_H-M   P42/mnm
+_cod_database_code   2007710
+_cod_database_fobs_code   2007710
+loop_
+ _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+  '-x, -y, z'
+  '-y+1/2, x+1/2, z+1/2'
+  'y+1/2, -x+1/2, z+1/2'
+  '-x+1/2, y+1/2, -z+1/2'
+  'x+1/2, -y+1/2, -z+1/2'
+  'y, x, -z'
+  '-y, -x, -z'
+  '-x, -y, -z'
+  'x, y, -z'
+  'y-1/2, -x-1/2, -z-1/2'
+  '-y-1/2, x-1/2, -z-1/2'
+  'x-1/2, -y-1/2, z-1/2'
+  '-x-1/2, y-1/2, z-1/2'
+  '-y, -x, z'
+  'y, x, z'
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_adp_type
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_occupancy
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+ _atom_site_type_symbol
+  Zn1  0  0.5  0.25  0.0187(3)  Uani  d  S  1  .  .  Zn
+  Na2  0.6977(3)  0.6977(3)  0.5  0.0287(7)  Uani  d  S  1  .  .  Na
+  Na3  0.6404(3)  0.6404(3)  0  0.0251(7)  Uani  d  S  1  .  .  Na
+  P1  0.13630(12)  0.13630(12)  0.21145(11)  0.0169(3)  Uani  d  S
+  1  .  .  P
+  O11  0.1348(3)  0.1348(3)  0.3575(3)  0.0235(8)  Uani  d  S  1  .
+  .  O
+  O12  0.0776(5)  0.3029(4)  0.1485(3)  0.0543(12)  Uani  d  .  1  .
+  .  O
+  O13  0.5319(6)  0.5319(6)  0.6580(6)  0.024(2)  Uani  d  SP  0.50
+  .  .  O
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_12
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_23
+  Zn1  0.0212(3)  0.0212(3)  0.0138(4)  0.000  0.000  0.000
+  Na2  0.0334(10)  0.0334(10)  0.0193(13)  -0.0158(14)  0.000  0.000
+  Na3  0.0285(9)  0.0285(9)  0.0184(13)  -0.0062(13)  0.000  0.000
+  P1  0.0205(4)  0.0205(4)  0.0096(5)  0.0015(5)  0.0014(3)
+  0.0014(3)
+  O11  0.0301(12)  0.0301(12)  0.0102(14)  -.0066(16)  0.0004(9)
+  0.0004(9)
+  O12  0.116(3)  0.0302(16)  0.0164(12)  0.035(2)  0.0075(18)
+  0.0040(13)
+  O13  0.029(3)  0.029(3)  0.014(3)  0.004(3)  0.0019(18)
+  0.0019(18)
+loop_
+ _atom_type_symbol
+ _atom_type_description
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  O  O  0.0106  0.0060
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Na  Na  0.0362  0.0249
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  P  P  0.1023  0.0942
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+  Zn  Zn  0.2839  1.4301
+  'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O12  Zn1  O12  12_666  .  106.92(8)  no
+  O12  Zn1  O12  12_666  2_565  106.92(8)  no
+  O12  Zn1  O12  .  2_565  114.69(17)  no
+  O12  Zn1  O12  12_666  11_566  114.69(17)  no
+  O12  Zn1  O12  .  11_566  106.92(8)  no
+  O12  Zn1  O12  2_565  11_566  106.92(8)  no
+  O11  Na2  O11  9_666  2_665  77.61(19)  no
+  O11  Na2  O13  9_666  10_556  176.8(2)  no
+  O11  Na2  O13  2_665  10_556  99.19(18)  no
+  O11  Na2  O13  9_666  .  99.19(18)  no
+  O11  Na2  O13  2_665  .  176.8(2)  no
+  O13  Na2  O13  10_556  .  84.0(3)  no
+  O11  Na2  O12  9_666  5  127.86(9)  no
+  O11  Na2  O12  2_665  5  85.05(9)  no
+  O13  Na2  O12  10_556  5  51.30(8)  no
+  O13  Na2  O12  .  5  97.02(15)  no
+  O11  Na2  O12  9_666  14_666  85.05(9)  no
+  O11  Na2  O12  2_665  14_666  127.86(9)  no
+  O13  Na2  O12  10_556  14_666  97.02(15)  no
+  O13  Na2  O12  .  14_666  51.30(8)  no
+  O12  Na2  O12  5  14_666  67.91(14)  no
+  O11  Na2  O12  9_666  11_666  127.86(9)  no
+  O11  Na2  O12  2_665  11_666  85.05(9)  no
+  O13  Na2  O12  10_556  11_666  51.30(8)  no
+  O13  Na2  O12  .  11_666  97.02(15)  no
+  O12  Na2  O12  5  11_666  98.45(13)  no
+  O12  Na2  O12  14_666  11_666  140.44(17)  no
+  O11  Na2  O12  9_666  4  85.05(9)  no
+  O11  Na2  O12  2_665  4  127.86(9)  no
+  O13  Na2  O12  10_556  4  97.02(15)  no
+  O13  Na2  O12  .  4  51.30(8)  no
+  O12  Na2  O12  5  4  140.44(17)  no
+  O12  Na2  O12  14_666  4  98.45(13)  no
+  O12  Na2  O12  11_666  4  67.91(14)  no
+  O11  Na2  O13  9_666  9_666  174.24(17)  no
+  O11  Na2  O13  2_665  9_666  108.15(16)  no
+  O13  Na2  O13  10_556  9_666  8.96(18)  no
+  O13  Na2  O13  .  9_666  75.0(2)  no
+  O12  Na2  O13  5  9_666  53.97(8)  no
+  O12  Na2  O13  14_666  9_666  91.20(13)  no
+  O12  Na2  O13  11_666  9_666  53.97(8)  no
+  O12  Na2  O13  4  9_666  91.20(13)  no
+  O11  Na2  O13  9_666  2_665  108.15(16)  no
+  O11  Na2  O13  2_665  2_665  174.24(17)  no
+  O13  Na2  O13  10_556  2_665  75.0(2)  no
+  O13  Na2  O13  .  2_665  8.96(18)  no
+  O12  Na2  O13  5  2_665  91.20(13)  no
+  O12  Na2  O13  14_666  2_665  53.97(8)  no
+  O12  Na2  O13  11_666  2_665  91.20(13)  no
+  O12  Na2  O13  4  2_665  53.97(8)  no
+  O13  Na2  O13  9_666  2_665  66.1(3)  no
+  O11  Na3  O11  3_554  4_554  69.41(15)  no
+  O11  Na3  O11  3_554  12_666  69.38(14)  no
+  O11  Na3  O11  4_554  12_666  107.22(14)  no
+  O11  Na3  O11  3_554  11_666  107.22(14)  no
+  O11  Na3  O11  4_554  11_666  69.38(14)  no
+  O11  Na3  O11  12_666  11_666  69.41(15)  no
+  O11  Na3  O12  3_554  15_665  118.04(9)  no
+  O11  Na3  O12  4_554  15_665  171.63(12)  no
+  O11  Na3  O12  12_666  15_665  79.85(8)  no
+  O11  Na3  O12  11_666  15_665  110.06(10)  no
+  O11  Na3  O12  3_554  2_665  171.63(12)  no
+  O11  Na3  O12  4_554  2_665  118.04(9)  no
+  O11  Na3  O12  12_666  2_665  110.06(10)  no
+  O11  Na3  O12  11_666  2_665  79.85(8)  no
+  O12  Na3  O12  15_665  2_665  54.26(13)  no
+  O11  Na3  O12  3_554  8_665  79.85(8)  no
+  O11  Na3  O12  4_554  8_665  110.06(10)  no
+  O11  Na3  O12  12_666  8_665  118.04(9)  no
+  O11  Na3  O12  11_666  8_665  171.63(12)  no
+  O12  Na3  O12  15_665  8_665  69.20(16)  no
+  O12  Na3  O12  2_665  8_665  93.49(17)  no
+  O11  Na3  O12  3_554  9_665  110.06(10)  no
+  O11  Na3  O12  4_554  9_665  79.85(8)  no
+  O11  Na3  O12  12_666  9_665  171.63(12)  no
+  O11  Na3  O12  11_666  9_665  118.04(9)  no
+  O12  Na3  O12  15_665  9_665  93.49(17)  no
+  O12  Na3  O12  2_665  9_665  69.20(16)  no
+  O12  Na3  O12  8_665  9_665  54.26(13)  no
+  O11  P1  O12  .  .  115.75(13)  no
+  O11  P1  O12  .  16  115.75(13)  no
+  O12  P1  O12  .  16  109.0(3)  no
+  O11  P1  O13  .  3_544  109.2(3)  no
+  O12  P1  O13  .  3_544  92.1(3)  no
+  O12  P1  O13  16  3_544  112.7(3)  no
+  O11  P1  O13  .  4_454  109.2(3)  no
+  O12  P1  O13  .  4_454  112.7(3)  no
+  O12  P1  O13  16  4_454  92.1(3)  no
+  O13  P1  O13  3_544  4_454  24.7(5)  no
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Zn1  O12  12_666  1.926(3)  yes
+  Zn1  O12  .  1.926(3)  yes
+  Zn1  O12  2_565  1.926(3)  yes
+  Zn1  O12  11_566  1.926(3)  yes
+  Na2  O11  9_666  2.328(4)  yes
+  Na2  O11  2_665  2.328(4)  yes
+  Na2  O13  10_556  2.416(7)  yes
+  Na2  O13  .  2.416(7)  yes
+  Na2  O12  5  2.720(4)  yes
+  Na2  O12  14_666  2.720(4)  yes
+  Na2  O12  11_666  2.720(4)  yes
+  Na2  O12  4  2.720(4)  yes
+  Na2  O13  9_666  2.965(7)  yes
+  Na2  O13  2_665  2.965(7)  yes
+  Na2  P1  12_666  3.383(2)  no
+  Na2  P1  11_666  3.383(2)  no
+  Na3  O11  3_554  2.563(3)  yes
+  Na3  O11  4_554  2.563(3)  yes
+  Na3  O11  12_666  2.563(3)  yes
+  Na3  O11  11_666  2.563(3)  yes
+  Na3  O12  15_665  2.675(4)  yes
+  Na3  O12  2_665  2.675(4)  yes
+  Na3  O12  8_665  2.675(4)  yes
+  Na3  O12  9_665  2.675(4)  yes
+  P1  O11  .  1.494(3)  yes
+  P1  O12  .  1.498(3)  yes
+  P1  O12  16  1.498(3)  yes
+  P1  O13  3_544  1.611(3)  yes
+  P1  O13  4_454  1.611(3)  yes

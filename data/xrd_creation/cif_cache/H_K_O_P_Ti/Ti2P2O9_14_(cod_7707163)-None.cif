@@ -1,0 +1,194 @@
+# generated using pymatgen
+data_7707163
+loop_
+ _publ_author_name
+  'Babaryk, Artem A.'
+  'Adawy, Alaa'
+  "Garc\'ia, In\'es"
+  'Trobajo, Camino'
+  'Amghouz, Zakariae'
+  'P Colodrero, Rosario M'
+  'Cabeza, Aurelio'
+  'Olivera-Pastor, Pascual'
+  "Bazaga-Garc\'ia, Montse"
+  "Dos Santos-G\'omez, Luc\'ia"
+_publ_section_title
+;
+Structural and proton conductivity studies of fibrous
+\p-Ti<sub>2</sub>O(PO<sub>4</sub>)<sub>2</sub>&#x00B7;2H<sub>2</sub>O:
+application in chitosan-based composite membranes.
+;
+_journal_issue   22
+_journal_name_full
+'Dalton transactions (Cambridge, England : 2003)'
+_journal_page_first   7667
+_journal_page_last   7677
+_journal_paper_doi   10.1039/d1dt00735a
+_journal_volume   50
+_journal_year   2021
+_chemical_formula_iupac   'Ti2 P2 O9'
+_chemical_formula_moiety   '(Ti2 O) (P O4)2'
+_chemical_formula_sum   'O9 P2 Ti2'
+_chemical_formula_weight   301.68
+_chemical_name_systematic   'oxo-bis-titanium (iv) bis-phosphate'
+_chemical_properties_physical   Moisture-sensitive,Hygroscopic
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2ybc'
+_space_group_name_H-M_alt   'P 1 21/c 1'
+_symmetry_cell_setting   monoclinic
+_symmetry_space_group_name_Hall   '-P 2ybc'
+_symmetry_space_group_name_H-M   'P 1 21/c 1'
+_audit_update_record
+;
+2020-12-25 deposited with the CCDC.     2021-04-21 downloaded from the
+CCDC.
+;
+_cell_angle_alpha   90.0000
+_cell_angle_beta   107.645(17)
+_cell_angle_gamma   90.0000
+_cell_formula_units_Z   4
+_cell_length_a   5.1187(13)
+_cell_length_b   11.0600(21)
+_cell_length_c   14.4556(26)
+_cell_measurement_temperature   773
+_cell_volume   779.9(3)
+_computing_structure_refinement   'TOPAS v.4.2 (Bruker AXS, 2009)'
+_diffrn_ambient_temperature   773
+_diffrn_measurement_device   "Malvern PANalytical X'Pert Pro"
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_wavelength   1.54178
+_exptl_crystal_colour   white
+_exptl_crystal_density_diffrn   2.56961(96)
+_exptl_crystal_description   powder
+_exptl_crystal_F_000   584.0
+_exptl_crystal_recrystallization_method   'in situ HT-PXRD'
+_pd_char_colour   white
+_pd_meas_2theta_range_inc   0.026
+_pd_meas_2theta_range_max   80.566
+_pd_meas_2theta_range_min   8.000
+_pd_proc_ls_prof_R_factor   0.030
+_pd_proc_ls_prof_wR_expected   0.029
+_pd_proc_ls_prof_wR_factor   0.040
+_refine_ls_goodness_of_fit_all   1.377
+_refine_ls_matrix_type   full
+_refine_ls_number_restraints   42
+_refine_ls_R_I_factor   0.011
+_refine_ls_shift/su_max   0.001
+_reflns_number_gt   406
+_cod_data_source_file   d1dt00735a2.cif
+_cod_data_source_block   pi_TiP_500
+_cod_depositor_comments
+'Adding full bibliography for 7707162--7707163.cif.'
+_cod_original_cell_volume   779.87(29)
+_cod_original_sg_symbol_H-M   'P1 21/c 1'
+_cod_database_code   7707163
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  '-x, -y, -z'
+  2  '-x, y+1/2, -z+1/2'
+  3  'x, -y+1/2, z+1/2'
+  4  'x, y, z'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_symmetry_multiplicity
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+  Ti1  Ti  0.2858(23)  0.18853(87)  0.04740(54)  1  4  Biso
+  2.10(21)
+  Ti2  Ti  0.1350(24)  0.4451(11)  0.15256(60)  1  4  Biso  2.10(21)
+  P1  P  0.2947(21)  0.66182(78)  0.02418(65)  1  4  Biso  2.10(21)
+  P2  P  0.1579(28)  0.5382(13)  0.37079(85)  1  4  Biso  2.10(21)
+  O1  O  0.0416(44)  0.7313(18)  0.00924(94)  1  4  Biso  2.10(21)
+  O2  O  0.8010(35)  0.4251(15)  0.06837(87)  1  4  Biso  2.10(21)
+  O3  O  0.3185(33)  0.5722(11)  0.11204(70)  1  4  Biso  2.10(21)
+  O4  O  0.4219(35)  0.2179(13)  0.45441(77)  1  4  Biso  2.10(21)
+  O5  O  0.2507(42)  0.4332(12)  0.45055(90)  1  4  Biso  2.10(21)
+  O6  O  0.1435(32)  0.0786(16)  0.1278(11)  1  4  Biso  2.10(21)
+  O7  O  0.1310(42)  0.4677(15)  0.27865(77)  1  4  Biso  2.10(21)
+  O8  O  0.6389(30)  0.1302(12)  0.1091(15)  1  4  Biso  2.10(21)
+  O9  O  0.2961(61)  0.3096(16)  0.1433(12)  1  4  Biso  2.10(21)
+loop_
+ _diffrn_radiation_type
+  'Cu K\a'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O1  Ti1  O5  98.15(2)  1_565  .  3_554  yes
+  O1  Ti1  O6  96.29(2)  1_565  .  .  yes
+  O1  Ti1  O8  171.58(1)  1_565  .  .  yes
+  O1  Ti1  O9  78.94(2)  1_565  .  .  yes
+  O1  Ti1  O4  84.68(2)  1_565  .  3_554  yes
+  O5  Ti1  O6  91.60(1)  3_554  .  .  yes
+  O5  Ti1  O8  88.23(1)  3_554  .  .  yes
+  O5  Ti1  O9  176.30(1)  3_554  .  .  yes
+  O4  Ti1  O5  81.10(1)  3_554  .  3_554  yes
+  O6  Ti1  O8  88.99(2)  .  .  .  yes
+  O6  Ti1  O9  86.47(1)  .  .  .  yes
+  O4  Ti1  O6  172.71(1)  3_554  .  .  yes
+  O8  Ti1  O9  94.89(1)  .  .  .  yes
+  O4  Ti1  O8  90.92(2)  3_554  .  .  yes
+  O4  Ti1  O9  100.81(1)  3_554  .  .  yes
+  O2  Ti2  O9  102.68(1)  4_455  .  .  yes
+  O2  Ti2  O3  110.22(1)  4_455  .  .  yes
+  O2  Ti2  O7  113.25(2)  4_455  .  .  yes
+  O3  Ti2  O9  109.13(2)  .  .  .  yes
+  O7  Ti2  O9  109.93(1)  .  .  .  yes
+  O3  Ti2  O7  111.25(1)  .  .  .  yes
+  Ti1  O9  Ti2  138.56(1)  .  .  .  yes
+  O1  P1  O2  99.15(2)  .  .  1_665  yes
+  O1  P1  O3  107.20(1)  .  .  .  yes
+  O1  P1  O4  124.23(2)  .  .  2_655  yes
+  O2  P1  O3  102.94(2)  1_665  .  .  yes
+  O2  P1  O4  116.55(1)  1_665  .  2_655  yes
+  O3  P1  O4  104.77(2)  .  .  2_655  yes
+  O5  P2  O7  100.83(2)  .  .  .  yes
+  O5  P2  O6  105.52(1)  .  .  2_555  yes
+  O5  P2  O8  109.43(2)  .  .  2_655  yes
+  O6  P2  O7  108.77(2)  2_555  .  .  yes
+  O7  P2  O8  114.51(1)  .  .  2_655  yes
+  O6  P2  O8  116.29(1)  2_555  .  2_655  yes
+  Ti1  O1  P1  163.17(1)  1_565  .  .  yes
+  Ti2  O2  P1  129.17(1)  4_655  .  1_665  yes
+  Ti2  O3  P1  142.39(1)  .  .  .  yes
+  Ti1  O4  P1  125.76(1)  3_555  .  2_645  yes
+  Ti1  O5  P2  168.08(1)  3_555  .  .  yes
+  Ti1  O6  P2  134.88(1)  .  .  2_545  yes
+  Ti2  O7  P2  156.01(1)  .  .  .  yes
+  Ti1  O8  P2  152.37(1)  .  .  2_645  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  Ti1  O1  1.8529(5)  .  1_565  yes
+  Ti1  O5  1.9112(5)  .  3_554  yes
+  Ti1  O6  1.9680(5)  .  .  yes
+  Ti1  O8  1.8711(5)  .  .  yes
+  Ti1  O9  1.9166(5)  .  .  yes
+  Ti1  O4  1.9827(5)  .  3_554  yes
+  Ti2  O2  1.7865(5)  .  4_455  yes
+  Ti2  O9  1.7352(4)  .  .  yes
+  Ti2  O3  1.8802(5)  .  .  yes
+  Ti2  O7  1.8461(5)  .  .  yes
+  P1  O1  1.4649(4)  .  .  yes
+  P1  O2  1.5990(4)  .  1_665  yes
+  P1  O3  1.5864(4)  .  .  yes
+  P1  O4  1.5207(4)  .  2_655  yes
+  P2  O5  1.6036(4)  .  .  yes
+  P2  O7  1.5133(4)  .  .  yes
+  P2  O6  1.6122(4)  .  2_555  yes
+  P2  O8  1.4207(4)  .  2_655  yes

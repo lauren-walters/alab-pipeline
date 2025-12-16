@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_5000190
+loop_
+ _publ_author_name
+  'Goedkoop, J. A.'
+  'MacGillavry, C. H.'
+_publ_section_title   'The crystal structure of malonic acid'
+_journal_issue   2
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   125
+_journal_page_last   127
+_journal_paper_doi   10.1107/S0365110X57000353
+_journal_volume   10
+_journal_year   1957
+_chemical_formula_moiety   'C3 H4 O4'
+_chemical_formula_sum   'C3 H4 O4'
+_chemical_name_systematic   'Malonic acid'
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_Int_Tables_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   102.7
+_cell_angle_beta   135.17
+_cell_angle_gamma   85.17
+_cell_formula_units_Z   2
+_cell_length_a   5.33
+_cell_length_b   5.14
+_cell_length_c   11.25
+_cell_volume   210.816
+_diffrn_ambient_temperature   ?
+_refine_ls_R_factor_gt   13.2
+_refine_ls_wR_factor_gt   13.2
+_cod_database_code   5000190
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+  C1  C  -0.38000  0.12900  0.25000
+  C2  C  -0.43500  0.29700  0.36100
+  C3  C  -0.44300  0.29000  0.13400
+  O1  O  -0.43500  0.54200  0.37100
+  O2  O  -0.43000  0.17000  0.44900
+  O3  O  -0.18500  0.41500  0.18500
+  O4  O  -0.78000  0.27400  -0.01300
+loop_
+ _atom_type_symbol
+ _atom_type_radius_bond
+  C  0.68
+  O  0.68

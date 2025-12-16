@@ -1,0 +1,85 @@
+# generated using pymatgen
+data_1010464
+loop_
+ _publ_author_name
+  'Levi, G R'
+  'Peyronel, G'
+_publ_section_title
+;
+Struttura Cristallographica del Gruppo Isomorpho (Si,Ti,Zr,Sn,Hf) P~2~
+O~7~
+;
+_journal_coden_ASTM   ZEKGAX
+_journal_name_full
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+;
+_journal_page_first   190
+_journal_page_last   209
+_journal_volume   92
+_journal_year   1935
+_chemical_formula_structural   'Zr P2 O7'
+_chemical_formula_sum   'O7 P2 Zr'
+_chemical_name_systematic   'Zirconium diphosphate'
+_space_group_IT_number   205
+_symmetry_cell_setting   cubic
+_symmetry_Int_Tables_number   205
+_symmetry_space_group_name_Hall   '-P 2ac 2ab 3'
+_symmetry_space_group_name_H-M   'P a -3'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   8.20(1)
+_cell_length_b   8.20(1)
+_cell_length_c   8.20(1)
+_cell_volume   551.4
+_cod_database_code   1010464
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  1/2+x,1/2-y,-z
+  -x,1/2+y,1/2-z
+  1/2-x,-y,1/2+z
+  y,z,x
+  1/2-y,-z,1/2+x
+  1/2+y,1/2-z,-x
+  -y,1/2+z,1/2-x
+  z,x,y
+  -z,1/2+x,1/2-y
+  1/2-z,-x,1/2+y
+  1/2+z,1/2-x,-y
+  -x,-y,-z
+  1/2-x,1/2+y,z
+  x,1/2-y,1/2+z
+  1/2+x,y,1/2-z
+  -y,-z,-x
+  1/2+y,z,1/2-x
+  1/2-y,1/2+z,x
+  y,1/2-z,1/2+x
+  -z,-x,-y
+  z,1/2-x,1/2+y
+  1/2+z,x,1/2-y
+  1/2-z,1/2+x,y
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_attached_hydrogens
+ _atom_site_calc_flag
+  Zr1  Zr4+  4  a  0.  0.  0.  1.  0  d
+  O1  O2-  4  b  0.5  0.5  0.5  1.  0  d
+  O2  O2-  24  d  0.394  0.218  0.458  1.  0  d
+  P1  P5+  8  c  0.39  0.39  0.39  1.  0  d
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Zr4+  4.000
+  O2-  -2.000
+  P5+  5.000

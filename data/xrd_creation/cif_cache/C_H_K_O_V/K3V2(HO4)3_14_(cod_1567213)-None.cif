@@ -1,0 +1,78 @@
+# generated using pymatgen
+data_1567213
+loop_
+ _publ_author_name
+  'Lesnugin, A. V.'
+  'Rybakov, V. B.'
+  'Aslanov, L. A.'
+  'Anisimov, A. V.'
+_publ_section_title
+'Synthesis and Structure of Potassium Oxodiperoxovanadate'
+_journal_issue   2
+_journal_name_full   'Russian Journal of Coordination Chemistry'
+_journal_page_first   116
+_journal_page_last   118
+_journal_paper_doi   10.1023/A:1009579300359
+_journal_volume   27
+_journal_year   2001
+_chemical_formula_moiety   '3(K), H3 O, O11 V2'
+_chemical_formula_sum   'H3 K3 O12 V2'
+_chemical_name_systematic
+'tripotassium hydroxonium (mu-2-oxo)tetraperoxo-dioxo-divanadate(V)'
+_space_group_crystal_system   monoclinic
+_space_group_IT_number   14
+_space_group_name_Hall   '-P 2ybc'
+_space_group_name_H-M_alt   'P 1 21/c 1'
+_audit_creation_method   'manually at INEOS RAS'
+_cell_angle_alpha   90
+_cell_angle_beta   93.72(1)
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   6.6993(9)
+_cell_length_b   9.945(3)
+_cell_length_c   15.797(3)
+_cell_volume   1050.3(4)
+_diffrn_ambient_temperature   295
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_exptl_crystal_density_diffrn   2.62
+_refine_ls_R_factor_gt   0.043
+_refine_ls_wR_factor_ref   0.096
+_cod_data_source_file   R14old.cif
+_cod_data_source_block   compound_R14old
+_cod_original_cell_volume   1050.3(3)
+_cod_original_formula_sum   'H3 O12 K3 V2'
+_cod_database_code   1567213
+loop_
+ _space_group_symop_operation_xyz
+  'x, y, z'
+  '-x, y+1/2, -z+1/2'
+  '-x, -y, -z'
+  'x, -y-1/2, z-1/2'
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  V(1)  V  0.2554(1)  0.1890(1)  0.0413(1)  0.015(1)
+  V(2)  V  0.2354(1)  0.3780(1)  0.1921(1)  0.015(1)
+  K(1)  K  0.2324(1)  -0.2091(1)  0.1306(1)  0.020(1)
+  K(2)  K  0.2998(1)  0.0615(1)  0.3120(1)  0.025(1)
+  K(3)  K  0.7598(1)  0.0878(1)  0.1242(1)  0.031(1)
+  O(1)  O  0.1399(2)  0.3680(2)  0.0697(1)  0.019(1)
+  O(11)  O  0.3246(2)  0.0527(2)  0.1201(1)  0.023(1)
+  O(12)  O  0.1703(2)  0.1409(2)  0.1514(1)  0.019(1)
+  O(13)  O  0.4196(2)  0.2851(2)  -0.0308(1)  0.024(1)
+  O(14)  O  0.4872(3)  0.1479(2)  -0.0155(1)  0.027(1)
+  O(15)  O  0.759(2)  0.1331(2)  -0.0204(1)  0.027(1)
+  O(21)  O  0.1138(2)  0.3269(2)  0.2918(1)  0.026(1)
+  O(22)  O  -0.0306(2)  0.3463(2)  0.2179(1)  0.027(1)
+  O(23)  O  0.4775(2)  0.3208(2)  0.1466(1)  0.022(1)
+  O(24)  O  0.4745(2)  0.3043(2)  0.2379(1)  0.026(1)
+  O(25)  O  0.2629(3)  0.5383(2)  0.2016(1)  0.028(1)
+  O(2)  O  0.2407(2)  -0.4252(2)  -0.0273(1)  0.039(1)
+  H(2a)  H  0.2200(40)  -0.5040(40)  0.0130(20)  0.061(10)
+  H(2b)  H  0.3830(40)  -0.4230(40)  -0.0480(20)  0.066(11)
+  H(2c)  H  0.1960(40)  -0.3550(30)  0.0160(20)  0.061(10)

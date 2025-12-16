@@ -1,0 +1,136 @@
+# generated using pymatgen
+data_1520767
+loop_
+ _publ_author_name
+  'Christensen, A. Norlund'
+  'Hazell, R. G.'
+_publ_section_title
+;
+Thermal Analysis and Crystal Structure of Tetragonal Strontium Oxalate
+Dihydrate and of Triclinic Strontium Oxalate Hydrate
+;
+_journal_name_full   'Acta Chemica Scandinavica'
+_journal_page_first   508
+_journal_page_last   512
+_journal_paper_doi   10.3891/acta.chem.scand.52-0508
+_journal_volume   52
+_journal_year   1998
+_chemical_formula_sum   'C2 D2 O5 Sr'
+_chemical_formula_weight   195.638
+_space_group_IT_number   2
+_symmetry_cell_setting   triclinic
+_symmetry_Int_Tables_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   108.63(2)
+_cell_angle_beta   109.48(2)
+_cell_angle_gamma   77.49(2)
+_cell_formula_units_Z   2
+_cell_length_a   6.489(2)
+_cell_length_b   6.514(2)
+_cell_length_c   6.461(2)
+_cell_volume   242.12(13)
+_diffrn_ambient_temperature   293
+_diffrn_radiation_probe   x-ray
+_diffrn_radiation_type   MoK\a
+_diffrn_radiation_wavelength   0.71069
+_exptl_absorpt_coefficient_mu   11.8
+_exptl_crystal_density_diffrn   2.72
+_refine_ls_number_reflns   1022
+_refine_ls_R_factor_gt   0.057
+_refine_ls_wR_factor_gt   0.069
+_cod_data_source_file   Acta-Chem-Scand-1998-52-508-512-1.cif
+_cod_data_source_block   1
+_cod_original_cell_volume   20
+_cod_database_code   1520767
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_aniso_label
+ _atom_site_aniso_U_11
+ _atom_site_aniso_U_22
+ _atom_site_aniso_U_33
+ _atom_site_aniso_U_23
+ _atom_site_aniso_U_13
+ _atom_site_aniso_U_12
+  O3  0.015(4)  0.131(11)  0.139(12)  0.125(10)  0.029(6)  0.019(5)
+  O4  0.014(3)  0.036(4)  0.031(4)  0.024(3)  0.009(3)  -0.002(3)
+  C2  0.019(5)  0.029(5)  0.039(6)  0.019(5)  0.018(5)  -0.004(4)
+  O1  0.043(5)  0.012(3)  0.016(3)  0.007(3)  0.013(3)  -0.006(3)
+  O2  0.035(4)  0.014(3)  0.015(3)  0.000(3)  0.012(3)  -0.006(3)
+  C1  0.016(4)  0.012(4)  0.022(5)  0.006(3)  0.013(4)  -0.003(3)
+  O5  0.025(5)  0.151(14)  0.156(14)  0.138(13)  0.018(7)  0.006(7)
+  Sr  0.0150(10)  0.0110(10)  0.0150(10)  0.0060(10)  0.0080(10)
+  0.0000(10)
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_thermal_displace_type
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_calc_flag
+ _atom_site_refinement_flags
+ _atom_site_disorder_assembly
+ _atom_site_disorder_group
+  O3  O  Uani  0.3810(10)  0.170(2)  0.324(2)  1.000  0.076(6)  .  .
+  .  .
+  O4  O  Uani  0.7250(10)  0.0180(10)  0.4200(10)  1.000  0.023(2)
+  .  .  .  .
+  C2  C  Uani  0.531(2)  0.055(2)  0.427(2)  1.000  0.024(3)  .  .
+  .  .
+  O1  O  Uani  0.9850(10)  0.2190(10)  0.9220(10)  1.000  0.021(2)
+  .  .  .  .
+  O2  O  Uani  0.9850(10)  0.4320(10)  0.7100(10)  1.000  0.0205(19)
+  .  .  .  .
+  C1  C  Uani  0.922(2)  0.3980(10)  0.892(2)  1.000  0.014(3)  .  .
+  .  .
+  O5  O  Uani  0.581(2)  0.377(3)  0.169(3)  1.000  0.091(7)  .  .
+  .  .
+  Sr  Sr  Uani  0.9769(2)  0.1880(2)  0.3058(2)  1.000  0.0123(6)  .
+  .  .  .
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle_publ_flag
+  O3  C2  O4  125.8(12)  .  .  .  yes
+  O3  C2  C2  116.5(12)  .  .  2_656  yes
+  O4  C2  C2  117.7(11)  .  .  2_656  yes
+  O1  C1  O2  114.2(9)  .  .  .  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_distance
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_publ_flag
+  O3  C2  1.234(18)  .  .  yes
+  O4  C2  1.243(16)  .  .  yes
+  O1  C1  1.204(10)  .  .  yes
+  O2  C1  1.458(14)  .  .  yes
+  C2  C2  1.541(18)  .  2_656  no
+loop_
+ _geom_torsion_atom_site_label_1
+ _geom_torsion_atom_site_label_2
+ _geom_torsion_atom_site_label_3
+ _geom_torsion_atom_site_label_4
+ _geom_torsion
+ _geom_torsion_site_symmetry_1
+ _geom_torsion_site_symmetry_2
+ _geom_torsion_site_symmetry_3
+ _geom_torsion_site_symmetry_4
+ _geom_torsion_publ_flag
+  O3  C2  C2  O3  -180.0(13)  .  .  2_656  2_656  no
+  O3  C2  C2  O4  -1.1(17)  .  .  2_656  2_656  no
+  O4  C2  C2  O3  1.1(17)  .  .  2_656  2_656  no
+  O4  C2  C2  O4  -180.0(10)  .  .  2_656  2_656  no

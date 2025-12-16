@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_1527602
+loop_
+ _publ_author_name
+  'Jonsson, O.'
+_publ_section_title
+'The crystal structure of Na2 Cr3 O8 O H and K2 Cr3 O8 O H'
+_journal_name_full   'Acta Chemica Scandinavica (1-27,1973-42,1988)'
+_journal_page_first   3627
+_journal_page_last   3644
+_journal_volume   24
+_journal_year   1970
+_chemical_formula_sum   'Cr3 H K2 O9'
+_chemical_name_systematic   'K2 Cr3 O8 O H'
+_space_group_IT_number   11
+_symmetry_space_group_name_Hall   '-P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21/m 1'
+_cell_angle_alpha   90
+_cell_angle_beta   114.082
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   9.267
+_cell_length_b   6.077
+_cell_length_c   7.813
+_cell_volume   401.697
+_citation_journal_id_ASTM   ACSAA4
+_cod_data_source_file   Jonsson_ACSAA4_1970_1200.cif
+_cod_data_source_block   H1Cr3K2O9
+_cod_original_cell_volume   401.6975
+_cod_original_formula_sum   'H1 Cr3 K2 O9'
+_cod_database_code   1527602
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z
+  -x,-y,-z
+  x,-y-1/2,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O7  O-2  0.4484  0.25  0.9583  1  0.0
+  O3  O-2  0.4311  0.75  0.3237  1  0.0
+  Cr3  Cr+6  0.3345  0.25  0.0682  1  0.0
+  O4  O-2  0.0524  0.25  0.2405  1  0.0
+  Cr1  Cr+3  0.5  0  0.5  1  0.0
+  Cr2  Cr+6  0.1736  0.25  0.4578  1  0.0
+  O2  O-2  0.446  0.25  0.3183  1  0.0
+  K1  K+1  0.0867  0.75  0.1778  1  0.0
+  O1  O-2  0.2864  0.0273  0.5035  1  0.0
+  K2  K+1  0.2445  0.75  0.7521  1  0.0
+  O6  O-2  0.2229  0.0389  0.0106  1  0.0
+  O5  O-2  0.073  0.25  0.5832  1  0.0

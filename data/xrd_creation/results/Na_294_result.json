@@ -1,0 +1,17 @@
+{
+  "experiment_id": "6671cb6bd3e1f98cc04482c1",
+  "experiment_name": "Na_294",
+  "success": false,
+  "error": "Command '['/Users/silen/Downloads/A-Lab_Samples/data/xrd_creation/venv/lib/python3.11/site-packages/dara/bgmn/BGMNwin/eflech', '/var/folders/wy/l2n7bpj15sgb25k6ylm9txkh0000gn/T/tmp65llvg22/control.sav']' timed out after 1800 seconds",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-O-P-Ta",
+  "target_formula": "Na3TaP2O9",
+  "analysis_timestamp": "2025-12-06T14:30:22.516469",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

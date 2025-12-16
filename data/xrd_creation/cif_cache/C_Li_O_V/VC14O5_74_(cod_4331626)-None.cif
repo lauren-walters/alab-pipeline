@@ -1,0 +1,210 @@
+# generated using pymatgen
+data_4331626
+loop_
+ _publ_author_name
+  'Ying-Ya Liu'
+  'Sarah Couck'
+  'Matthias Vandichel'
+  'Maciej Grzywa'
+  'Karen Leus'
+  'Shyam Biswas'
+  'Dirk Volkmer'
+  'Jorge Gascon'
+  'Freek Kapteijn'
+  'Joeri F. M. Denayer'
+  'Michel Waroquier'
+  'Veronique Van Speybroeck'
+  'Pascal Van Der Voort'
+_publ_contact_author_address
+;
+Ghent University  Department of Inorganic and Physical Chemistry
+Krijgslaan 281-S3 9000 Ghent Belgium
+;
+_publ_contact_author_email   pascal.vandervoort@ugent.be
+_publ_contact_author_fax   0032(0)92644983
+_publ_contact_author_name   'Pascal Van Der Voort'
+_publ_contact_author_phone   0032(0)92644442
+_publ_section_title
+;
+New VIV-Based Metal-Organic Framework Having Framework Flexibility and
+High CO2Adsorption Capacity
+;
+_journal_name_full   'Inorganic Chemistry'
+_journal_page_first   113
+_journal_page_last   120
+_journal_paper_doi   10.1021/ic301338a
+_journal_volume   52
+_journal_year   2013
+_chemical_formula_moiety   'C14 O5 V1'
+_chemical_formula_sum   'C14 O5 V'
+_chemical_formula_weight   299.1
+_chemical_name_common   [V(IV)O(BPDC)]
+_chemical_name_systematic   ?
+_space_group_IT_number   74
+_symmetry_cell_setting   orthorhombic
+_symmetry_Int_Tables_number   74
+_symmetry_space_group_name_Hall   '-I 2b 2'
+_symmetry_space_group_name_H-M   'I m m a'
+_audit_creation_method   SHELXL-97
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   21.443(3)
+_cell_length_b   6.957(4)
+_cell_length_c   20.570(2)
+_cell_measurement_temperature   293(2)
+_cell_volume   3068.6(18)
+_computing_cell_refinement   PROSZKI
+_computing_data_collection   'Diffractometer software'
+_computing_molecular_graphics   'Mercury 2.3'
+_computing_publication_material   Jana2006
+_computing_structure_refinement   Jana2006
+_diffrn_ambient_temperature   293(2)
+_diffrn_detector   Meteor
+_diffrn_detector_type   PSD
+_diffrn_measurement_device   'STOE STADI P'
+_diffrn_measurement_device_type   Bragg-Brentano
+_diffrn_radiation_monochromator   germanium
+_diffrn_radiation_type   'Cu K\a'
+_diffrn_radiation_wavelength   1.5418
+_diffrn_source   x-ray
+_diffrn_source_target   Cu
+_diffrn_source_type   'fine-focus sealed tube'
+_exptl_absorpt_coefficient_mu   5.585
+_exptl_crystal_colour   yellow
+_exptl_crystal_density_diffrn   1.2944
+_exptl_crystal_description   'microcrystalline powder'
+_pd_meas_2theta_range_inc   0.02
+_pd_meas_2theta_range_max   70.000
+_pd_meas_2theta_range_min   4.500
+_pd_meas_number_of_points   3276
+_pd_proc_2theta_range_inc   0.02
+_pd_proc_2theta_range_max   70
+_pd_proc_2theta_range_min   4.5
+_pd_proc_ls_background_function   '15 Legendre polynoms'
+_pd_proc_ls_pref_orient_corr   'March & Dollase'
+_pd_proc_ls_profile_function   Pseudo-Voigt
+_pd_proc_ls_prof_R_factor   0.0350
+_pd_proc_ls_prof_wR_expected   0.0354
+_pd_proc_ls_prof_wR_factor   0.0507
+_refine_ls_number_constraints   0
+_refine_ls_number_parameters   30
+_refine_ls_number_restraints   6
+_refine_ls_R_factor_all   0.1298
+_refine_ls_R_factor_gt   0.0875
+_refine_ls_shift/su_max   0.0406
+_refine_ls_shift/su_mean   0.0033
+_refine_ls_weighting_scheme   sigma
+_refine_ls_wR_factor_gt   0.0640
+_refine_ls_wR_factor_ref   0.0979
+_cod_data_source_file   ic301338a_si_002.cif
+_cod_data_source_block   COMOC-2
+_cod_original_cell_volume   3069(5)
+_cod_original_sg_symbol_Hall   '-I -2x;-2yb;-2zb'
+_cod_original_formula_sum   'C14 O5 V1'
+_cod_database_code   4331626
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y+1/2,z
+  3  -x+1/2,y,-z+1/2
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x,y+1/2,-z
+  7  x+1/2,-y,z+1/2
+  8  -x+1/2,y+1/2,z+1/2
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y,z+1/2
+  11  -x,y+1/2,-z
+  12  x,-y,-z
+  13  -x+1/2,-y+1/2,-z+1/2
+  14  x+1/2,y,-z+1/2
+  15  x,-y+1/2,z
+  16  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_U_iso_or_equiv
+ _atom_site_symmetry_multiplicity
+ _atom_site_occupancy
+ _atom_site_calc_flag
+  V1  V  0  0.5  0  Uiso  0.018(7)  4  1  d
+  O2  O  0  0.25  0.038(4)  Uiso  0.017(10)  4  1  d
+  O1  O  0.0645(9)  0.577(2)  0.051(2)  Uiso  0.017(10)  16  1  d
+  C1  C  0.082(3)  0.75  0.074(2)  Uiso  0.0631(10)  8  1  d
+  C2  C  0.129(3)  0.75  0.130(3)  Uiso  0.0631(10)  8  1  d
+  C3  C  0.151(2)  0.5664(8)  0.155(2)  Uiso  0.0631(10)  16  1  d
+  C4  C  0.201(2)  0.5640(8)  0.204(3)  Uiso  0.0631(10)  16  1  d
+  C5  C  0.224(6)  0.75  0.226(7)  Uiso  0.0631(10)  8  1  d
+loop_
+ _atom_type_symbol
+ _atom_type_scat_dispersion_real
+ _atom_type_scat_dispersion_imag
+ _atom_type_scat_source
+  C  0.019  0.009
+  'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+  V  0.077  2.109
+  'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+  O  0.052  0.034
+  'International Tables Vol C tables 4.2.6.8 and 6.1.1.1'
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  O2  V1  O2  .  11_555  180.0(5)  yes
+  O2  V1  O1  .  .  91.9(16)  yes
+  O2  V1  O1  .  12_565  88.1(16)  yes
+  O2  V1  O1  .  5_565  88.1(16)  yes
+  O2  V1  O1  .  16_555  91.9(16)  yes
+  O2  V1  O1  11_555  .  88.1(16)  yes
+  O2  V1  O1  11_555  12_565  91.9(16)  yes
+  O2  V1  O1  11_555  5_565  91.9(16)  yes
+  O2  V1  O1  11_555  16_555  88.1(16)  yes
+  O1  V1  O1  .  12_565  80.6(14)  yes
+  O1  V1  O1  .  5_565  180.0(5)  yes
+  O1  V1  O1  .  16_555  99.4(14)  yes
+  O1  V1  O1  12_565  5_565  99.4(14)  yes
+  O1  V1  O1  12_565  16_555  180.0(5)  yes
+  O1  V1  O1  5_565  16_555  80.6(14)  yes
+  V1  O2  V1  .  2_555  132(5)  yes
+  V1  O1  C1  .  .  133(3)  yes
+  O1  C1  O1  .  15_565  126(4)  yes
+  O1  C1  C2  .  .  117(2)  yes
+  O1  C1  C2  15_565  .  117(2)  yes
+  C1  C2  C3  .  .  119(3)  yes
+  C1  C2  C3  .  15_565  119(3)  yes
+  C3  C2  C3  .  15_565  122(5)  yes
+  C2  C3  C4  .  .  120(3)  yes
+  C3  C4  C5  .  .  117(5)  yes
+  C4  C5  C4  .  15_565  125(10)  yes
+  C4  C5  C5  .  3_555  118(5)  yes
+  C4  C5  C5  15_565  3_555  118(5)  yes
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  V1  O2  .  1.91(3)  yes
+  V1  O2  11_555  1.91(3)  yes
+  V1  O1  .  1.81(3)  yes
+  V1  O1  12_565  1.81(3)  yes
+  V1  O1  5_565  1.81(3)  yes
+  V1  O1  16_555  1.81(3)  yes
+  O1  C1  .  1.35(3)  yes
+  C1  C2  .  1.52(8)  yes
+  C2  C3  .  1.46(4)  yes
+  C2  C3  15_565  1.46(4)  yes
+  C3  C4  .  1.46(7)  yes
+  C4  C5  .  1.46(7)  yes
+  C5  C5  3_555  1.50(19)  yes

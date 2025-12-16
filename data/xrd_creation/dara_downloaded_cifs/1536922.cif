@@ -1,0 +1,72 @@
+# generated using pymatgen
+data_1536922
+loop_
+ _publ_author_name
+  'Zakharova, B.S.'
+  'Chudinova, N.N.'
+  'Ilyukhin, A.B.'
+_publ_section_title
+;
+Synthesis and crystal structure of vanadyl phosphite (V O (H P O3) (H2
+O)2)n .3n(H2 O)
+;
+_journal_name_full   'Zhurnal Neorganicheskoi Khimii'
+_journal_page_first   1443
+_journal_page_last   1445
+_journal_volume   39
+_journal_year   1994
+_chemical_formula_sum   'H11 O9 P V'
+_chemical_name_systematic   '(V O (H2 O)2) (H P O3) (H2 O)3'
+_space_group_IT_number   76
+_symmetry_space_group_name_Hall   'P 4w'
+_symmetry_space_group_name_H-M   'P 41'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   4
+_cell_length_a   11.431
+_cell_length_b   11.431
+_cell_length_c   6.354
+_cell_volume   830.263
+_citation_journal_id_ASTM   ZNOKAQ
+_cod_data_source_file   Zakharova_ZNOKAQ_1994_1453.cif
+_cod_data_source_block   H11O9P1V1
+_cod_original_cell_volume   830.2629
+_cod_original_formula_sum   'H11 O9 P1 V1'
+_cod_database_code   1536922
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x,z+1/4
+  -x,-y,z+1/2
+  y,-x,z+3/4
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  H2  H+1  0.145  0.218  -0.08  1  0.0
+  H1  H+1  0.105  0.215  0.1  1  0.0
+  O1  O-2  -0.0123  0.4647  0.0007  1  0.0
+  O6  O-2  0.3284  0.3807  0.0085  1  0.0
+  H3  H+1  0.35  0.322  0.08  1  0.0
+  H5  H+1  0.52  0.674  0.16  1  0.0
+  H8  H+1  0.107  0.969  0.19  1  0.0
+  H11  H+1  -0.019  0.666  -0.02  1  0.0
+  H6  H+1  0.573  0.572  0.05  1  0.0
+  O7  O-2  0.5385  0.6303  0.1685  1  0.0
+  H10  H+1  0.286  0.204  -0.36  1  0.0
+  H4  H+1  0.366  0.359  -0.09  1  0.0
+  P1  P+3  -0.08726  0.57491  0.0024  1  0.0
+  V1  V+4  0.15971  0.44519  0  1  0.0
+  O5  O-2  0.1121  0.2531  -0.0098  1  0.0
+  O3  O-2  -0.1657  0.5833  0.1938  1  0.0
+  O2  O-2  -0.1654  0.5848  -0.1921  1  0.0
+  H7  H+1  0.119  0.855  0.14  1  0.0
+  O9  O-2  0.2513  0.1514  -0.336  1  0.0
+  H9  H+1  0.281  0.102  -0.32  1  0.0
+  O4  O-2  0.1986  0.579  0.0037  1  0.0
+  O8  O-2  0.1033  0.904  0.0842  1  0.0

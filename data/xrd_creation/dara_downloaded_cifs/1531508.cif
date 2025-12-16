@@ -1,0 +1,82 @@
+# generated using pymatgen
+data_1531508
+loop_
+ _publ_author_name
+  'Hagman, L.O.'
+  'Kierkegaard, P.'
+_publ_section_title
+'The crystal structure of Na Me2 (P O4)3, Me = Ge, Ti, Zr'
+_journal_name_full   'Acta Chemica Scandinavica (1-27,1973-42,1988)'
+_journal_page_first   1822
+_journal_page_last   1832
+_journal_volume   22
+_journal_year   1968
+_chemical_formula_sum   'Na O12 P3 Zr2'
+_chemical_name_systematic   'Na Zr2 (P O4)3'
+_space_group_IT_number   167
+_symmetry_space_group_name_Hall   '-R 3 2"c'
+_symmetry_space_group_name_H-M   'R -3 c :H'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   6
+_cell_length_a   8.8043
+_cell_length_b   8.8043
+_cell_length_c   22.7585
+_cell_volume   1527.791
+_citation_journal_id_ASTM   ACSAA4
+_cod_data_source_file   Hagman_ACSAA4_1968_733.cif
+_cod_data_source_block   Na1O12P3Zr2
+_cod_original_formula_sum   'Na1 O12 P3 Zr2'
+_cod_database_code   1531508
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  y,x,-z+1/2
+  -x,-x+y,-z+1/2
+  x-y,-y,-z+1/2
+  -x,-y,-z
+  y,-x+y,-z
+  x-y,x,-z
+  -y,-x,z-1/2
+  x,x-y,z-1/2
+  -x+y,y,z-1/2
+  x+2/3,y+1/3,z+1/3
+  -y+2/3,x-y+1/3,z+1/3
+  -x+y+2/3,-x+1/3,z+1/3
+  y+2/3,x+1/3,-z+5/6
+  -x+2/3,-x+y+1/3,-z+5/6
+  x-y+2/3,-y+1/3,-z+5/6
+  -x+2/3,-y+1/3,-z+1/3
+  y+2/3,-x+y+1/3,-z+1/3
+  x-y+2/3,x+1/3,-z+1/3
+  -y+2/3,-x+1/3,z-1/6
+  x+2/3,x-y+1/3,z-1/6
+  -x+y+2/3,y+1/3,z-1/6
+  x+1/3,y+2/3,z+2/3
+  -y+1/3,x-y+2/3,z+2/3
+  -x+y+1/3,-x+2/3,z+2/3
+  y+1/3,x+2/3,-z+7/6
+  -x+1/3,-x+y+2/3,-z+7/6
+  x-y+1/3,-y+2/3,-z+7/6
+  -x+1/3,-y+2/3,-z+2/3
+  y+1/3,-x+y+2/3,-z+2/3
+  x-y+1/3,x+2/3,-z+2/3
+  -y+1/3,-x+2/3,z+1/6
+  x+1/3,x-y+2/3,z+1/6
+  -x+y+1/3,y+2/3,z+1/6
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O1  O-2  0.186  -0.0144  0.1949  1  0.0
+  P1  P+5  0.2909  0  0.25  1  0.0
+  Zr1  Zr+4  0  0  0.1456  1  0.0
+  Na1  Na+1  0  0  0  1  0.0
+  O2  O-2  0.1913  0.1683  0.0866  1  0.0

@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_9006968
+loop_
+ _publ_author_name
+  'Graetsch, H.'
+_publ_section_title
+;
+X-ray powder diffraction study on the modulated high temperature forms
+of SiO2 tridymite between 110 and 220 C  Sample: superstructure, T =
+115 C
+;
+_journal_name_full   'Physics and Chemistry of Minerals'
+_journal_page_first   313
+_journal_page_last   321
+_journal_paper_doi   10.1007/s002690100160
+_journal_volume   28
+_journal_year   2001
+_chemical_compound_source   Synthetic
+_chemical_formula_sum   'O2 Si'
+_chemical_name_mineral   Tridymite
+_space_group_IT_number   19
+_symmetry_space_group_name_Hall   'P 2ac 2ab'
+_symmetry_space_group_name_H-M   'P 21 21 21'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_length_a   26.1753
+_cell_length_b   4.98437
+_cell_length_c   8.2006
+_cell_formula_units_Z   24
+_cell_volume   1069.911
+_database_code_amcsd   0008553
+_diffrn_ambient_temperature   388.15
+_exptl_crystal_density_diffrn   2.238
+_cod_original_formula_sum   'Si O2'
+_cod_database_code   9006968
+loop_
+ _space_group_symop_operation_xyz
+  x,y,z
+  -x,1/2+y,1/2-z
+  1/2+x,1/2-y,-z
+  1/2-x,-y,1/2+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+  Si1  0.13890  0.51100  0.69490  0.03730
+  Si2  0.14000  0.39100  0.32920  0.03730
+  Si3  0.19440  0.88800  0.19930  0.03730
+  Si4  0.19480  0.01900  0.83020  0.03730
+  Si5  0.02870  0.39500  0.18670  0.03730
+  Si6  0.02830  0.51000  0.81580  0.03730
+  O1  0.19660  -0.04300  0.01530  0.06020
+  O2  0.14910  0.45700  0.51030  0.06020
+  O3  0.08230  0.42900  0.27780  0.06020
+  O4  0.08140  0.56800  0.72990  0.06020
+  O5  0.25020  0.08000  0.77040  0.06020
+  O6  0.15710  0.26000  0.80020  0.06020
+  O7  0.17570  0.58300  0.22620  0.06020
+  O8  0.15700  0.08700  0.29020  0.06020
+  O9  0.17290  0.76600  0.73300  0.06020
+  O10  0.46340  0.54100  0.50210  0.06020
+  O11  0.49060  0.90500  0.72340  0.06020
+  O12  0.49600  0.72600  0.21240  0.06020
+loop_
+ _cod_related_entry_id
+ _cod_related_entry_database
+ _cod_related_entry_code
+  1  AMCSD  0008553

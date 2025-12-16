@@ -1,0 +1,17 @@
+{
+  "experiment_id": "66478817c93ffe3bc3e810de",
+  "experiment_name": "NSC_154",
+  "success": false,
+  "error": "No reference CIFs found",
+  "rwp": null,
+  "rp": null,
+  "rexp": null,
+  "num_phases": 0,
+  "phases": null,
+  "chemical_system": "Na-O-Si-Ti",
+  "target_formula": "Na4.4Ti2.0(SiO4)3.0",
+  "analysis_timestamp": "2025-12-06T12:56:06.089981",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

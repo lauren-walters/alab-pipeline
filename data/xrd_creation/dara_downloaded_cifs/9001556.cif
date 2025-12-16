@@ -1,0 +1,81 @@
+# generated using pymatgen
+data_9001556
+loop_
+ _publ_author_name
+  'Birch, W. D.'
+  'Pring, A.'
+  'Reller, A.'
+  'Schmalle, H. W.'
+_publ_section_title
+;
+Bernalite, Fe(OH)3, a new mineral from Broken Hill, New South Wales:
+Description and structure
+;
+_journal_name_full   'American Mineralogist'
+_journal_page_first   827
+_journal_page_last   834
+_journal_volume   78
+_journal_year   1993
+_chemical_formula_sum   'Fe4 H14 O13'
+_chemical_name_mineral   Bernalite
+_space_group_IT_number   71
+_symmetry_space_group_name_Hall   '-I 2 2'
+_symmetry_space_group_name_H-M   'I m m m'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   7.544
+_cell_length_b   7.560
+_cell_length_c   7.558
+_cell_volume   431.053
+_exptl_crystal_density_diffrn   3.419
+_cod_original_formula_sum   'Fe4 O13 H14'
+_cod_database_code   9001556
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  1/2+x,1/2+y,1/2+z
+  x,-y,z
+  1/2+x,1/2-y,1/2+z
+  -x,y,-z
+  1/2-x,1/2+y,1/2-z
+  -x,y,z
+  1/2-x,1/2+y,1/2+z
+  x,-y,-z
+  1/2+x,1/2-y,1/2-z
+  x,y,-z
+  1/2+x,1/2+y,1/2-z
+  -x,-y,z
+  1/2-x,1/2-y,1/2+z
+  -x,-y,-z
+  1/2-x,1/2-y,1/2-z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  Fe  0.25000  0.25000  0.25000  0.00490  Fe  0
+  O-H1  0.50000  0.17800  0.30800  0.00100  O  1
+  O-H2  0.19500  0.19000  0.50000  0.00100  O  1
+  O-H3  0.31800  0.50000  0.32300  0.00100  O  1
+  Wat  0.00000  0.50000  0.50000  0.00640  O  2
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9581 2023-05-17
+12:35:41Z saulius
+;
+  2023-05-23T09:17:59+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+

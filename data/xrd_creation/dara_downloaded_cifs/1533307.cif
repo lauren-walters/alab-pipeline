@@ -1,0 +1,71 @@
+# generated using pymatgen
+data_1533307
+loop_
+ _publ_author_name
+  'Zhang, Y.-C.'
+  'Kan, Z.-G.'
+  'Cheng, W.-D.'
+  'Wu, D.-S.'
+  'Zhang, H.'
+  'Chen, D.-G.'
+  'Gong, Y.-J.'
+_publ_section_title
+;
+Crystal structure and energy band and optical properties of phosphate
+Sr3  P4 O13
+;
+_journal_name_full   'Journal of Solid State Chemistry'
+_journal_page_first   2610
+_journal_page_last   2616
+_journal_volume   177
+_journal_year   2004
+_chemical_formula_sum   'O13 P4 Sr3'
+_chemical_name_systematic   'Sr3 (P4 O13)'
+_space_group_IT_number   2
+_symmetry_space_group_name_Hall   '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_cell_angle_alpha   102.28
+_cell_angle_beta   103.46
+_cell_angle_gamma   94.35
+_cell_formula_units_Z   2
+_cell_length_a   7.2755
+_cell_length_b   7.726
+_cell_length_c   10.1935
+_cell_volume   539.735
+_citation_journal_id_ASTM   JSSCBI
+_cod_data_source_file   Zhang_JSSCBI_2004_1794.cif
+_cod_data_source_block   O13P4Sr3
+_cod_original_cell_volume   539.7355
+_cod_database_code   1533307
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O13  O-2  0.545  0.4899  0.2125  1  0.0
+  O5  O-2  0.3975  0.8718  0.667  1  0.0
+  O2  O-2  0.1551  0.8966  0.4551  1  0.0
+  O9  O-2  0.2542  0.598  0.4867  1  0.0
+  O11  O-2  -0.1812  0.7178  -0.3636  1  0.0
+  P2  P+5  0.3287  0.8092  0.5129  1  0.0
+  O10  O-2  0.01  0.1924  0.0439  1  0.0
+  O12  O-2  0.2092  0.5323  0.2303  1  0.0
+  Sr1  Sr+2  0.24861  0.98443  0.24312  1  0.0
+  O3  O-2  0.1187  0.1196  -0.1786  1  0.0
+  P3  P+5  0.1746  0.1909  -0.0214  1  0.0
+  O1  O-2  0.3366  0.1  0.0466  1  0.0
+  Sr3  Sr+2  0.21542  0.22782  0.62632  1  0.0
+  O4  O-2  0.2633  0.3985  0.0004  1  0.0
+  O7  O-2  0.4742  0.8186  0.43  1  0.0
+  P4  P+5  -0.1374  0.5373  -0.3474  1  0.0
+  Sr2  Sr+2  0.29161  0.78097  -0.13614  1  0.0
+  O6  O-2  0.3691  0.7179  0.1096  1  0.0
+  P1  P+5  0.3627  0.5397  0.1418  1  0.0
+  O8  O-2  0.0657  0.5124  -0.3173  1  0.0

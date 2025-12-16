@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_2310413
+loop_
+ _publ_author_name
+  'Jamieson, P.B.'
+  'Dent Glasser, L.S.'
+_publ_section_title
+;
+Sodium silicate hydrates. III. The crystal structure of Na2 O Si O2
+(H2  O)6 and of the isostructural Na2 O Ge O2 (H2 O)6
+;
+_journal_name_full   'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first   507
+_journal_page_last   522
+_journal_volume   22
+_journal_year   1967
+_chemical_formula_sum   'Ge H12 Na2 O9'
+_chemical_name_systematic   'Na2 H2 Ge O4 (H2 O)5'
+_space_group_IT_number   4
+_symmetry_space_group_name_Hall   'P 2yb'
+_symmetry_space_group_name_H-M   'P 1 21 1'
+_cell_angle_alpha   90
+_cell_angle_beta   102.1
+_cell_angle_gamma   90
+_cell_formula_units_Z   2
+_cell_length_a   11.51
+_cell_length_b   6.15
+_cell_length_c   6.36
+_cell_volume   440.200
+_citation_journal_id_ASTM   ACCRA9
+_cod_data_source_file   Jamieson_ACCRA9_1967_1407.cif
+_cod_data_source_block   H12Ge1Na2O9
+_cod_original_cell_volume   440.2001
+_cod_original_formula_sum   'H12 Ge1 Na2 O9'
+_cod_database_code   2310413
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  Ge1  Ge+4  0.1312  0.0122  0.2092  1  0.0
+  O8  O-2  0.4193  0.856  0.056  1  0.0
+  O2  O-2  0.1033  0.978  0.934  1  0.0
+  O4  O-2  0.0876  0.288  0.27  1  0.0
+  O9  O-2  0.1849  0.556  0.944  1  0.0
+  O6  O-2  0.4172  0.325  0.294  1  0.0
+  Na2  Na+1  0.1314  0.5  0.5694  1  0.0
+  O1  O-2  0.2768  0.984  0.344  1  0.0
+  O5  O-2  0.2769  0.149  0.748  1  0.0
+  Na1  Na+1  0.3826  0.4681  0.9298  1  0.0
+  O7  O-2  0.3427  0.625  0.568  1  0.0
+  O3  O-2  0.045  0.82  0.323  1  0.0

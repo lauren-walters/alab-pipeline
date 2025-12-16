@@ -1,0 +1,80 @@
+# generated using pymatgen
+data_9007430
+loop_
+ _publ_author_name
+  'Frazer B C'
+  'Pepinsky R'
+_publ_section_title
+;
+X-ray analysis of the ferroelectric transition in KH2PO4  Sample: at T
+= 116 K  Locality: synthetic
+;
+_journal_name_full   'Acta Crystallographica'
+_journal_page_first   273
+_journal_page_last   285
+_journal_paper_doi   10.1107/S0365110X53000776
+_journal_volume   6
+_journal_year   1953
+_chemical_formula_sum   'H2 K O4 P'
+_chemical_name_mineral   Archerite
+_symmetry_space_group_name_H-M   'F d d'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_formula_units_Z   8
+_cell_length_a   10.53
+_cell_length_b   10.44
+_cell_length_c   6.90
+_cell_volume   758.539
+_diffrn_ambient_temperature   116
+_cod_original_formula_sum   'K P (O4 H2)'
+_cod_database_code   9007430
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x,1/2+y,1/2+z
+  1/2+x,y,1/2+z
+  1/2+x,1/2+y,z
+  3/4-x,3/4+y,3/4+z
+  3/4-x,1/4+y,1/4+z
+  1/4-x,3/4+y,1/4+z
+  1/4-x,1/4+y,3/4+z
+  1/2-x,-y,1/2+z
+  1/2-x,1/2-y,+z
+  -x,-y,+z
+  -x,1/2-y,1/2+z
+  3/4+x,1/4-y,1/4+z
+  3/4+x,3/4-y,3/4+z
+  1/4+x,1/4-y,3/4+z
+  1/4+x,3/4-y,1/4+z
+loop_
+ _atom_site_label
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_attached_hydrogens
+  K  0.00000  0.00000  0.51200  1.00000  0.00583  K  0
+  P  0.00000  0.00000  0.00000  1.00000  0.00494  P  0
+  O1  0.11600  0.03500  0.13600  0.50000  0.00469  O  0
+  O-H1  0.11600  0.03500  0.13600  0.50000  0.00469  O  1
+  O2  -0.03500  0.11600  -0.12400  0.50000  0.00469  O  0
+  O-H2  -0.03500  0.11600  -0.12400  0.50000  0.00469  O  1
+loop_
+ _cod_changelog_entry_id
+ _cod_changelog_entry_author
+ _cod_changelog_entry_date
+ _cod_changelog_entry_text
+  1
+;
+cod-tools version 3.8.0 Id: cif_guess_AMCSD_atom_types 9574 2023-05-10
+09:00:05Z saulius
+;
+  2023-05-10T18:50:42+03:00
+;
+Derived atom types and hydrogen counts from atom names that follow the
+AMCSD naming convention (Wat == water, O-H == hydroxyl).
+;
+

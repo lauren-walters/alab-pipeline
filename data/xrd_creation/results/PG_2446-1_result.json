@@ -1,0 +1,44 @@
+{
+  "experiment_id": "667a13d013800728dad6cf06",
+  "experiment_name": "PG_2446-1",
+  "success": true,
+  "error": null,
+  "rwp": 16.79,
+  "rp": 11.06,
+  "rexp": 3.31,
+  "num_phases": 2,
+  "phases": [
+    {
+      "phase_name": "TiO2_141_(cod_7206075)-0",
+      "spacegroup": "I4_1/a2/m2/d",
+      "weight_fraction": 0.1347,
+      "weight_fraction_error": 0.0011,
+      "lattice_a_nm": 0.378423,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.95101,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 28.52
+    },
+    {
+      "phase_name": "TiO2_61_(cod_8104269)-3",
+      "spacegroup": "P2_1/b2_1/c2_1/a",
+      "weight_fraction": 0.0256,
+      "weight_fraction_error": 0.0011,
+      "lattice_a_nm": 0.51964,
+      "lattice_b_nm": 0.90932,
+      "lattice_c_nm": 0.54686,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 28.57
+    }
+  ],
+  "chemical_system": "H-Li-O-Ti",
+  "target_formula": "LiTiH3O4",
+  "analysis_timestamp": "2025-12-06T14:53:38.820866",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

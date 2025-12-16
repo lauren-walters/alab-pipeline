@@ -1,0 +1,31 @@
+{
+  "experiment_id": "667a13cc13800728dad6ce4b",
+  "experiment_name": "PG_2143-1",
+  "success": true,
+  "error": null,
+  "rwp": 42.23,
+  "rp": 28.38,
+  "rexp": 2.86,
+  "num_phases": 1,
+  "phases": [
+    {
+      "phase_name": "Si2O_156_(cod_1536253)-None",
+      "spacegroup": "P3m1",
+      "weight_fraction": 0.0845,
+      "weight_fraction_error": 0.0028,
+      "lattice_a_nm": 0.38104,
+      "lattice_b_nm": null,
+      "lattice_c_nm": 0.5841,
+      "lattice_alpha_deg": null,
+      "lattice_beta_deg": null,
+      "lattice_gamma_deg": null,
+      "r_phase": 60.03
+    }
+  ],
+  "chemical_system": "H-La-O-Si",
+  "target_formula": "LaSiH3O5",
+  "analysis_timestamp": "2025-12-06T14:40:21.743163",
+  "mode": "phase_search",
+  "wmin": 10,
+  "wmax": 80
+}

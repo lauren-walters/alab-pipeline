@@ -1,0 +1,75 @@
+# generated using pymatgen
+data_4124032
+loop_
+ _publ_author_name
+  'Foster, M.D.'
+  'Klinowski, J.'
+  'Friedrichs, O.D.'
+  'Paz, F.A.A.'
+  'Bell, R.G.'
+_publ_section_title
+'Chemical evaluation of hypothetical uninodal zeolites'
+_journal_name_full   'Journal of the American Chemical Society'
+_journal_page_first   9769
+_journal_page_last   9775
+_journal_paper_doi   10.1021/ja037334j
+_journal_volume   126
+_journal_year   2004
+_chemical_formula_sum   'O2 Si'
+_chemical_name_systematic   'Si O2'
+_space_group_IT_number   194
+_symmetry_space_group_name_Hall   '-P 6c 2c'
+_symmetry_space_group_name_H-M   'P 63/m m c'
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   120
+_cell_formula_units_Z   12
+_cell_length_a   10.00243
+_cell_length_b   10.00243
+_cell_length_c   10.18004
+_cell_volume   882.046
+_citation_journal_id_ASTM   JACSAT
+_cod_data_source_file   Foster_JACSAT_2004_489.cif
+_cod_data_source_block   O2Si1
+_cod_original_cell_volume   882.0458
+_cod_original_formula_sum   'O2 Si1'
+_cod_struct_determination_method   theoretical
+_cod_database_code   4124032
+loop_
+ _symmetry_equiv_pos_as_xyz
+  x,y,z
+  x-y,x,z+1/2
+  -y,x-y,z
+  -x,-y,z+1/2
+  -x+y,-x,z
+  y,-x+y,z+1/2
+  -y,-x,-z+1/2
+  x-y,-y,-z
+  x,x-y,-z+1/2
+  y,x,-z
+  -x+y,y,-z+1/2
+  -x,-x+y,-z
+  -x,-y,-z
+  -x+y,-x,-z-1/2
+  y,-x+y,-z
+  x,y,-z-1/2
+  x-y,x,-z
+  -y,x-y,-z-1/2
+  y,x,z-1/2
+  -x+y,y,z
+  -x,-x+y,z-1/2
+  -y,-x,z
+  x-y,-y,z-1/2
+  x,x-y,z
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+ _atom_site_U_iso_or_equiv
+  O3  O-2  0.93396  0.46698  0.75  1  0.0
+  Si1  Si+4  0.43182  0.86364  0.39716  1  0.0
+  O2  O-2  0.50824  0.75412  0.41602  1  0.0
+  O1  O-2  0  0.5  0.5  1  0.0
