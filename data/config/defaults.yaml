@@ -4,19 +4,31 @@
 # This file contains global defaults for the pipeline.
 # Product-specific configs can override these values.
 #
-# To customize: Copy values to your product's config.yaml and modify there.
+# Configuration Priority:
+#   1. Environment variables (highest - for deployment/secrets)
+#   2. This YAML file (middle - for general config)
+#   3. Code defaults (lowest - fallback only)
+#
+# Environment Variables (see .env.example for full list):
+#   ALAB_MONGO_URI, ALAB_MONGO_DB, ALAB_MONGO_COLLECTION
+#   ALAB_S3_BUCKET, ALAB_S3_PREFIX
+#   ALAB_MP_API_KEY
+#
+# To customize: Either set env vars OR copy values to your product's config.yaml
 # =============================================================================
 
 # Pipeline version
 version: '2.0'
 
 # MongoDB connection (used by mongodb_to_parquet.py)
+# Override with: ALAB_MONGO_URI, ALAB_MONGO_DB, ALAB_MONGO_COLLECTION
 mongodb:
   uri: 'mongodb://localhost:27017/'
   database: 'temporary'
   collection: 'release'
 
 # Parquet transformation defaults
+# Override with: ALAB_SKIP_TEMP_LOGS, ALAB_SKIP_XRD_POINTS, etc.
 parquet:
   # Skip large arrays by default for faster processing
   skip_temperature_logs: false
@@ -52,6 +64,7 @@ analyses:
     config: {}
 
 # Upload settings
+# Override with: ALAB_S3_BUCKET, ALAB_S3_PREFIX, ALAB_S3_EXCLUDE_LARGE
 upload:
   # S3 bucket for OpenData uploads
   s3_bucket: 'materialsproject-contribs'

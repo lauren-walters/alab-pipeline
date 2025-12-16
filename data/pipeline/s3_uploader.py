@@ -17,6 +17,7 @@ Set in .env file:
 import json
 import logging
 import os
+import sys
 from pathlib import Path
 from typing import Optional, List, Dict, Any
 
@@ -24,10 +25,14 @@ import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
 
+# Import config loader
+sys.path.insert(0, str(Path(__file__).parent.parent / "config"))
+from config_loader import get_config
+
 logger = logging.getLogger(__name__)
 
-# MPContribs OpenData bucket
-OPENDATA_BUCKET = "materialsproject-contribs"
+# Load configuration (env vars > yaml > defaults)
+config = get_config()
 
 
 def prepare_metadata_from_config(config: Dict[str, Any]) -> Dict[str, Dict[str, Any]]:
@@ -165,7 +170,7 @@ class S3Uploader:
         local_path = Path(local_path)
         key = key or f"{self.project_name}/{local_path.name}"
         
-        s3_url = f"s3://{OPENDATA_BUCKET}/{key}"
+        s3_url = f"s3://{config.s3_bucket}/{key}"
         
         if dry_run:
             size_mb = local_path.stat().st_size / (1024 * 1024)
@@ -194,7 +199,7 @@ class S3Uploader:
         
         try:
             with open(upload_path, "rb") as f:
-                self.client.upload_fileobj(f, Bucket=OPENDATA_BUCKET, Key=key)
+                self.client.upload_fileobj(f, Bucket=config.s3_bucket, Key=key)
             
             logger.info(f"✓ Uploaded: {local_path.name} -> {s3_url}")
             return s3_url
@@ -269,12 +274,12 @@ class S3Uploader:
             True if successful
         """
         if dry_run:
-            logger.info(f"[DRY RUN] Would delete: s3://{OPENDATA_BUCKET}/{key}")
+            logger.info(f"[DRY RUN] Would delete: s3://{config.s3_bucket}/{key}")
             return True
         
         try:
-            self.client.delete_object(Bucket=OPENDATA_BUCKET, Key=key)
-            logger.info(f"✓ Deleted: s3://{OPENDATA_BUCKET}/{key}")
+            self.client.delete_object(Bucket=config.s3_bucket, Key=key)
+            logger.info(f"✓ Deleted: s3://{config.s3_bucket}/{key}")
             return True
         except Exception as e:
             logger.error(f"Failed to delete {key}: {e}")
@@ -292,7 +297,7 @@ class S3Uploader:
         """
         try:
             response = self.client.list_objects_v2(
-                Bucket=OPENDATA_BUCKET,
+                Bucket=config.s3_bucket,
                 Prefix=f"{self.project_name}/"
             )
             
@@ -327,7 +332,7 @@ class S3Uploader:
         Returns:
             HTTPS URL for accessing the file
         """
-        return f"https://{OPENDATA_BUCKET}.s3.amazonaws.com/{key}"
+        return f"https://{config.s3_bucket}.s3.amazonaws.com/{key}"
 
 
 def upload_product_to_s3(

@@ -12,6 +12,7 @@ Provides a flexible framework for defining data products with:
 
 import yaml
 import json
+import sys
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional, Any, Type
@@ -20,6 +21,10 @@ from enum import Enum
 import pandas as pd
 import subprocess
 from rich.console import Console
+
+# Import config loader
+sys.path.insert(0, str(Path(__file__).parent.parent / "config"))
+from config_loader import get_config
 
 console = Console()
 
@@ -561,10 +566,11 @@ class ProductManager:
         from collections import defaultdict
         
         try:
-            # Connect to MongoDB
-            client = MongoClient("mongodb://localhost:27017/", serverSelectionTimeoutMS=5000)
-            db = client["temporary"]
-            collection = db["release"]
+            # Connect to MongoDB (using config loader)
+            config = get_config()
+            client = MongoClient(config.mongo_uri, serverSelectionTimeoutMS=5000)
+            db = client[config.mongo_db]
+            collection = db[config.mongo_collection]
             
             # Get all experiment names
             experiments = collection.find({}, {"name": 1, "_id": 0})

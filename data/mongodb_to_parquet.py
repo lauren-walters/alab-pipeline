@@ -27,6 +27,10 @@ import numpy as np
 from pymongo import MongoClient
 from tqdm import tqdm
 
+# Import config loader
+sys.path.insert(0, str(Path(__file__).parent / "config"))
+from config_loader import get_config
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -38,10 +42,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Configuration
-MONGO_URI = "mongodb://localhost:27017/"
-MONGO_DB = "temporary"
-MONGO_COLLECTION = "release"
+# Load configuration (env vars > yaml > defaults)
+config = get_config()
 
 # Output directory for parquet files
 OUTPUT_DIR = Path(__file__).parent / "parquet"
@@ -50,15 +52,20 @@ OUTPUT_DIR = Path(__file__).parent / "parquet"
 class MongoToParquetTransformer:
     """Transform MongoDB experiments to consolidated Parquet files"""
     
-    def __init__(self, mongo_uri: str = MONGO_URI, output_dir: Path = OUTPUT_DIR):
-        self.mongo_uri = mongo_uri
+    def __init__(self, mongo_uri: str = None, mongo_db: str = None, 
+                 mongo_collection: str = None, output_dir: Path = OUTPUT_DIR):
+        # Use config if not explicitly provided
+        self.mongo_uri = mongo_uri or config.mongo_uri
+        self.mongo_db = mongo_db or config.mongo_db
+        self.mongo_collection = mongo_collection or config.mongo_collection
+        
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
         
         # Connect to MongoDB
-        self.client = MongoClient(mongo_uri)
-        self.db = self.client[MONGO_DB]
-        self.collection = self.db[MONGO_COLLECTION]
+        self.client = MongoClient(self.mongo_uri)
+        self.db = self.client[self.mongo_db]
+        self.collection = self.db[self.mongo_collection]
         
         logger.info(f"Connected to MongoDB: {mongo_uri}")
         logger.info(f"Output directory: {self.output_dir}")
@@ -433,11 +440,11 @@ class MongoToParquetTransformer:
             # Optimize data types for better compression
             df = self._optimize_dtypes(df)
             
-            # Save with compression
+            # Save with compression (from config)
             df.to_parquet(
                 output_path, 
-                engine='pyarrow',
-                compression='snappy',
+                engine=config.parquet_engine,
+                compression=config.parquet_compression,
                 index=False
             )
             
@@ -482,8 +489,8 @@ class MongoToParquetTransformer:
             'source': {
                 'type': 'mongodb',
                 'uri': self.mongo_uri,
-                'database': MONGO_DB,
-                'collection': MONGO_COLLECTION
+                'database': self.mongo_db,
+                'collection': self.mongo_collection
             },
             'output_directory': str(self.output_dir),
             'schema': {
@@ -525,8 +532,8 @@ def main():
     )
     parser.add_argument(
         '--mongo-uri', '-m',
-        default=MONGO_URI,
-        help='MongoDB connection URI'
+        default=None,
+        help=f'MongoDB connection URI (default: from config, currently {config.mongo_uri})'
     )
     parser.add_argument(
         '--limit', '-l',

@@ -32,13 +32,14 @@ import shutil
 sys.path.insert(0, str(Path(__file__).parent.parent))
 sys.path.insert(0, str(Path(__file__).parent.parent / "products"))
 sys.path.insert(0, str(Path(__file__).parent.parent / "analyses"))
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent.parent / "config"))
 
 from base_product import ProductConfig, ProductManager
 from base_analyzer import AnalysisPluginManager
 from mongodb_to_parquet import MongoToParquetTransformer
 from pipeline_state import PipelineStateManager
 from s3_uploader import S3Uploader, upload_product_to_s3
+from config_loader import get_config
 
 # Add tools directory for diagram generation
 sys.path.insert(0, str(Path(__file__).parent.parent / "tools"))
@@ -86,10 +87,11 @@ class ProductPipeline:
         """
         from pymongo import MongoClient
         
-        # Connect to MongoDB
-        client = MongoClient("mongodb://localhost:27017/")
-        db = client["temporary"]
-        collection = db["release"]
+        # Connect to MongoDB (using config loader)
+        config = get_config()
+        client = MongoClient(config.mongo_uri)
+        db = client[config.mongo_db]
+        collection = db[config.mongo_collection]
         
         # Build query from filter
         query = self.config.experiment_filter.to_mongo_query()

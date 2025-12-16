@@ -92,6 +92,13 @@ if [ ! -d "$VENV_DIR" ]; then
 else
     echo -e "${GREEN}✓ Virtual environment found${NC}"
     source "$VENV_DIR/bin/activate"
+    
+    # Check if pyarrow is installed (needed for parquet files)
+    if ! python -c "import pyarrow" 2>/dev/null; then
+        echo -e "${YELLOW}📦 Installing missing dependencies...${NC}"
+        pip install -r plotly_dashboard/requirements.txt --quiet
+        echo -e "${GREEN}✓ Dependencies updated${NC}"
+    fi
 fi
 
 # Check if Parquet data exists
