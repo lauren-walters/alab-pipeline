@@ -3,10 +3,11 @@
 # Product Pipeline Runner - Uses existing data/venv
 #
 # Usage:
-#   ./run_product_pipeline.sh create                    # Create new product
-#   ./run_product_pipeline.sh list                      # List products
-#   ./run_product_pipeline.sh run --product <name>      # Run pipeline
-#   ./run_product_pipeline.sh status --product <name>   # Check status
+#   ./run_product_pipeline.sh create                                # Create new product
+#   ./run_product_pipeline.sh list                                  # List products
+#   ./run_product_pipeline.sh run --product <name>                  # Run pipeline (dry run)
+#   ./run_product_pipeline.sh run --product <name> --upload         # Upload (MPContribs + S3)
+#   ./run_product_pipeline.sh status --product <name>               # Check status
 #
 
 set -e

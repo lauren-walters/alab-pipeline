@@ -67,7 +67,7 @@ pip install -r data/requirements.txt
 # Dry run (default) - see what would be uploaded
 ./run_product_pipeline.sh run --product reaction_genome
 
-# Live upload to S3 OpenData
+# Live upload (MPContribs setup + S3 upload)
 ./run_product_pipeline.sh run --product reaction_genome --upload
 
 # Run specific stages only
@@ -243,15 +243,6 @@ class ExperimentFilter(BaseModel):
 | **Filters**  | `data/config/filters.yaml` | Add YAML entry                        |
 
 ---
-
-## Scheduled Runs
-
-Use cron for automation:
-
-```bash
-# Daily at 2 AM
-0 2 * * * cd /path/to/A-Lab_Samples && ./run_product_pipeline.sh run --product reaction_genome --upload >> logs/pipeline.log 2>&1
-```
 
 ## Troubleshooting
 

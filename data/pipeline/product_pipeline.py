@@ -39,6 +39,7 @@ from base_analyzer import AnalysisPluginManager
 from mongodb_to_parquet import MongoToParquetTransformer
 from pipeline_state import PipelineStateManager
 from s3_uploader import S3Uploader, upload_product_to_s3
+from mpcontribs_setup import setup_mpcontribs_project
 from config_loader import get_config
 
 # Add tools directory for diagram generation
@@ -299,6 +300,35 @@ class ProductPipeline:
         
         return parquet_files
     
+    def setup_mpcontribs_project(self, dry_run: bool = False) -> bool:
+        """
+        Setup empty MPContribs project with metadata only.
+        Does NOT upload data - that goes to S3.
+        
+        Args:
+            dry_run: If True, only simulate the operation
+            
+        Returns:
+            True if successful
+        """
+        try:
+            # Convert config to dict if it's a Pydantic model
+            if hasattr(self.config, 'dict'):
+                config_dict = self.config.dict()
+            else:
+                config_dict = self.config
+            
+            return setup_mpcontribs_project(
+                product_config=config_dict,
+                dry_run=dry_run
+            )
+            
+        except Exception as e:
+            logger.error(f"Error setting up MPContribs project: {e}")
+            import traceback
+            traceback.print_exc()
+            return False
+    
     def upload_to_s3(self, dry_run: bool = True) -> bool:
         """
         Upload parquet files directly to S3 OpenData.
@@ -409,7 +439,7 @@ class ProductPipeline:
         Run the complete pipeline
         
         Args:
-            stages: List of stages to run ['filter', 'transform', 'analyze', 'validate', 'diagram', 'upload']
+            stages: List of stages to run ['filter', 'transform', 'analyze', 'validate', 'diagram', 'mpcontribs', 'upload']
             dry_run: If True, simulate upload without actually uploading
         
         Returns:
@@ -422,6 +452,8 @@ class ProductPipeline:
         logger.info(f"Product Pipeline: {self.product_name}")
         logger.info(f"Stages: {', '.join(stages)}")
         logger.info(f"Mode: {'DRY RUN' if dry_run else 'LIVE'}")
+        if not dry_run and 'upload' in stages:
+            logger.info(f"Upload: MPContribs setup + S3 upload")
         logger.info("=" * 60)
         
         # Load config
@@ -485,15 +517,21 @@ class ProductPipeline:
         
         # Stage 5: Generate Diagram
         if 'diagram' in stages:
-            logger.info("\n[Stage 5/6] Generating schema diagram...")
+            logger.info("\n[Stage 5/7] Generating schema diagram...")
             self.generate_diagram()
         
-        # Stage 6: Upload to S3
+        # Stage 6: Setup MPContribs (always when uploading for real)
+        if 'upload' in stages and not dry_run:
+            logger.info("\n[Stage 6/7] Setting up MPContribs project...")
+            if not self.setup_mpcontribs_project(dry_run=dry_run):
+                logger.warning("MPContribs setup failed (continuing anyway)")
+        
+        # Stage 7: Upload to S3
         if 'upload' in stages:
             if dry_run:
-                logger.info("\n[Stage 6/6] Uploading to S3 OpenData (DRY RUN - no actual upload)...")
+                logger.info("\n[Stage 7/7] Uploading to S3 OpenData (DRY RUN - no actual upload)...")
             else:
-                logger.info("\n[Stage 6/6] Uploading to S3 OpenData...")
+                logger.info("\n[Stage 7/7] Uploading to S3 OpenData...")
             
             if not self.upload_to_s3(dry_run=dry_run):
                 return False

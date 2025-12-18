@@ -130,7 +130,7 @@ cd data/xrd_creation
 ./run_product_pipeline.sh create                    # Create new product
 ./run_product_pipeline.sh list                      # List products
 ./run_product_pipeline.sh run --product <name>      # Run pipeline (dry run)
-./run_product_pipeline.sh run --product <name> --upload  # Upload to S3
+./run_product_pipeline.sh run --product <name> --upload  # Upload (MPContribs + S3)
 ./run_product_pipeline.sh status --product <name>   # Check status
 ```
 

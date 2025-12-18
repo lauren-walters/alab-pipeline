@@ -14,7 +14,7 @@ Commands:
 Usage:
     python run_pipeline.py create
     python run_pipeline.py run --product reaction_genome
-    python run_pipeline.py run --product reaction_genome --submit-to-mpcontribs
+    python run_pipeline.py run --product reaction_genome --upload
 """
 
 import argparse
@@ -83,10 +83,10 @@ class PipelineCLI:
             
             console.print(f"\n[green]✓ Dry run completed successfully![/green]")
             
-            # Ask if they want to upload for real
+            # Ask if they want to upload for real (MPContribs + S3)
             import inquirer
             upload = inquirer.confirm(
-                message=f"Upload {config.name} to MPContribs now?",
+                message=f"Upload {config.name}? (MPContribs setup + S3 upload)",
                 default=False
             )
             
@@ -102,7 +102,7 @@ class PipelineCLI:
                     return 1
             else:
                 console.print(f"\n[dim]To upload later, run:[/dim]")
-                console.print(f"  ./run_product_pipeline.sh run --product {config.name} --submit-to-mpcontribs")
+                console.print(f"  ./run_product_pipeline.sh run --product {config.name} --upload")
                 
         except KeyboardInterrupt:
             console.print("\n[yellow]Product creation cancelled[/yellow]")
@@ -205,9 +205,11 @@ class PipelineCLI:
         # Run pipeline
         pipeline = ProductPipeline(args.product)
         
+        dry_run = not args.upload
+        
         success = pipeline.run(
             stages=args.stages,
-            dry_run=not args.submit_to_mpcontribs
+            dry_run=dry_run
         )
         
         return 0 if success else 1
@@ -381,8 +383,8 @@ def main():
     run_parser.add_argument('--stages', '-s', nargs='+',
                           choices=['filter', 'transform', 'analyze', 'validate', 'diagram', 'upload'],
                           help='Stages to run (default: all)')
-    run_parser.add_argument('--submit-to-mpcontribs', action='store_true',
-                          help='Actually upload (default is dry run)')
+    run_parser.add_argument('--upload', action='store_true',
+                          help='Upload for real: MPContribs setup + S3 upload (default is dry run)')
     
     # Status command
     status_parser = subparsers.add_parser('status', help='Show product status')
