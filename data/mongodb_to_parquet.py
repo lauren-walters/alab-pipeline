@@ -31,6 +31,11 @@ from tqdm import tqdm
 sys.path.insert(0, str(Path(__file__).parent / "config"))
 from config_loader import get_config
 
+# Import schema utilities to respect ExcludeFromUpload fields
+sys.path.insert(0, str(Path(__file__).parent / "products"))
+from schema.base import get_excluded_fields
+from schema.experiments import Experiment
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -69,6 +74,11 @@ class MongoToParquetTransformer:
         
         logger.info(f"Connected to MongoDB: {mongo_uri}")
         logger.info(f"Output directory: {self.output_dir}")
+        
+        # Get excluded fields from schema (marked with ExcludeFromUpload)
+        self.excluded_experiment_fields = set(get_excluded_fields(Experiment))
+        if self.excluded_experiment_fields:
+            logger.info(f"Excluded fields (marked as embargoed): {sorted(self.excluded_experiment_fields)}")
         
         # Counter for skipped experiments
         self.skipped_no_sampleid = 0
@@ -238,21 +248,31 @@ class MongoToParquetTransformer:
         if total_dosed_mg and total_dosed_mg > 0 and collected_weight:
             yield_pct = (collected_weight / total_dosed_mg) * 100
         
-        experiment_record.update({
+        recovery_data = {
             'recovery_total_dosed_mass_mg': total_dosed_mg if total_dosed_mg > 0 else None,
-            'recovery_weight_collected_mg': collected_weight,
+            'recovery_weight_collected_mg': collected_weight,  # May be excluded
             'recovery_yield_percent': yield_pct,
             'recovery_initial_crucible_weight_mg': recovery.get('initial_crucible_weight'),
             'recovery_failure_classification': recovery.get('failure_classification'),
-        })
+        }
+        
+        # Filter out excluded fields
+        recovery_data = {k: v for k, v in recovery_data.items() 
+                        if k not in self.excluded_experiment_fields}
+        experiment_record.update(recovery_data)
         
         # --- XRD measurement fields (prefix: xrd_) ---
-        experiment_record.update({
+        xrd_data = {
             'xrd_sampleid_in_aeris': xrd.get('sampleid_in_aeris'),
             'xrd_holder_index': xrd.get('xrd_holder_index'),
-            'xrd_total_mass_dispensed_mg': xrd.get('total_mass_dispensed_mg'),
+            'xrd_total_mass_dispensed_mg': xrd.get('total_mass_dispensed_mg'),  # May be excluded
             'xrd_met_target_mass': xrd.get('met_target_mass'),
-        })
+        }
+        
+        # Filter out excluded fields
+        xrd_data = {k: v for k, v in xrd_data.items() 
+                   if k not in self.excluded_experiment_fields}
+        experiment_record.update(xrd_data)
         
         # --- Sample finalization fields (prefix: finalization_) ---
         ending = metadata.get('ending_results', {})
@@ -417,8 +437,38 @@ class MongoToParquetTransformer:
                     return params.get('destination')
         return None
     
+    def _validate_experiments_against_schema(self, df: pd.DataFrame):
+        """Validate that experiments dataframe respects schema exclusions"""
+        logger.info("Validating experiments against schema...")
+        
+        # Check for forbidden fields
+        forbidden_found = []
+        for field in self.excluded_experiment_fields:
+            if field in df.columns:
+                forbidden_found.append(field)
+        
+        if forbidden_found:
+            error_msg = (
+                f"❌ SCHEMA VIOLATION: Forbidden fields found in data!\n"
+                f"   Fields marked with ExcludeFromUpload are present: {forbidden_found}\n"
+                f"   These fields should NOT be in the parquet file.\n"
+                f"   This indicates a bug in the extraction logic."
+            )
+            logger.error(error_msg)
+            raise ValueError(error_msg)
+        
+        logger.info("✓ Schema validation passed: No forbidden fields in data")
+    
     def _save_all_parquet_files(self):
         """Convert all lists to dataframes and save as parquet"""
+        
+        # Log excluded fields summary
+        if self.excluded_experiment_fields:
+            logger.info("-" * 40)
+            logger.info("Schema Exclusions Applied:")
+            for field in sorted(self.excluded_experiment_fields):
+                logger.info(f"  ✗ {field} (marked with ExcludeFromUpload)")
+            logger.info("-" * 40)
         
         datasets = {
             'experiments': self.experiments,
@@ -436,6 +486,10 @@ class MongoToParquetTransformer:
             
             df = pd.DataFrame(data)
             output_path = self.output_dir / f"{name}.parquet"
+            
+            # Validate against schema BEFORE saving
+            if name == 'experiments':
+                self._validate_experiments_against_schema(df)
             
             # Optimize data types for better compression
             df = self._optimize_dtypes(df)

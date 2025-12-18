@@ -1,4 +1,4 @@
-name: test
+name: example
 version: '1.0'
 schema_version: '1.0'
 experiment_filter:
@@ -10,13 +10,13 @@ experiment_filter:
   date_range: null
   experiment_names: null
 metadata:
-  title: ''
-  authors: ''
-  description: ''
+  title: null
+  authors: null
+  description: null
   references: null
   doi: null
 analyses: []
 data_schema: {}
-created_at: '2025-12-16T19:26:19.430865'
-updated_at: '2025-12-16T19:26:19.430870'
+created_at: '2025-12-18T17:43:00.706553'
+updated_at: '2025-12-18T17:43:00.706556'
 submitted_to_mpcontribs: false

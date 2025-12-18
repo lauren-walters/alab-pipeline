@@ -55,24 +55,56 @@ The team's `results_schema.py` describes MongoDB structure. Our schemas describe
 
 ## Field Exclusion (Embargoed Data)
 
-Some fields should NOT be uploaded to MPContribs until the paper is published:
+Some fields should NOT be uploaded to MPContribs until the paper is published. The system enforces this at **two levels**:
+
+### 1. Schema Definition (Pydantic)
+
+Mark fields with `ExcludeFromUpload` in schema files:
 
 ```python
+# In data/products/schema/experiments.py
 from .base import ExcludeFromUpload
 
-class RecoverPowderResult(BaseModel, extra="forbid"):
-    # EXCLUDED FROM UPLOAD - embargoed until paper publication
-    weight_collected: float | None = ExcludeFromUpload(
-        description="Weight of powder collected (EMBARGOED)"
+class Experiment(BaseModel, extra="forbid"):
+    # Regular field
+    recovery_total_dosed_mass_mg: float | None = Field(
+        default=None,
+        description="Total mass of all powders dosed in mg"
+    )
+
+    # EXCLUDED field - won't be in parquet or uploads
+    recovery_weight_collected_mg: float | None = ExcludeFromUpload(
+        description="Weight of powder collected after heating in mg (EMBARGOED)"
     )
 ```
+
+### 2. Extraction Enforcement (mongodb_to_parquet.py)
+
+The extraction script automatically respects schema exclusions:
+
+```python
+# In mongodb_to_parquet.py - __init__()
+self.excluded_experiment_fields = set(get_excluded_fields(Experiment))
+# ['recovery_weight_collected_mg', 'xrd_total_mass_dispensed_mg']
+
+# During extraction - _transform_experiment()
+recovery_data = {
+    'recovery_total_dosed_mass_mg': total_dosed_mg,
+    'recovery_weight_collected_mg': collected_weight,  # Will be filtered out
+    'recovery_yield_percent': yield_pct,
+}
+
+# Filter out excluded fields before adding to record
+recovery_data = {k: v for k, v in recovery_data.items()
+                if k not in self.excluded_experiment_fields}
+```
+
+**Validation**: The pipeline validates that excluded fields are NOT present in generated parquet files. If found, conversion fails with an error, ensuring embargoed data never reaches the parquet files.
 
 **Currently excluded fields:**
 
 - `recovery_weight_collected_mg` - powder recovery weight
 - `xrd_total_mass_dispensed_mg` - XRD mass dispensed
-- `mass_per_dispensing_attempt_mg` - per-attempt XRD mass
-- `first_tapping_mass_collected` - first tapping mass
 
 ## Using Schemas
 

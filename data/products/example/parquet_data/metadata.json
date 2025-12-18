@@ -1,5 +1,5 @@
 {
-  "migration_date": "2025-12-16T19:26:19.920492",
+  "migration_date": "2025-12-18T17:43:00.954536",
   "version": "2.0",
   "source": {
     "type": "mongodb",
@@ -7,10 +7,10 @@
     "database": "temporary",
     "collection": "release"
   },
-  "output_directory": "data/products/test/parquet_data",
+  "output_directory": "data/products/example/parquet_data",
   "schema": {
     "description": "Consolidated schema - all 1:1 tables merged into experiments.parquet",
-    "experiments_columns": 37,
+    "experiments_columns": 35,
     "merged_tables": [
       "experiments",
       "heating_sessions",
