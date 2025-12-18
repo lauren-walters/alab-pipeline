@@ -979,125 +979,125 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
         # XRD Phase Analysis (DARA) - only shown if analysis results available
         create_xrd_analysis_section(raw_data) if raw_data.get('metadata', {}).get('xrd_analysis') else None,
         
-        # SEM-EDS Analysis Section (all subsections always visible)
-        # SEM Analysis Header
-        dbc.Card([
-            dbc.CardBody([
-                html.H2("🔬 SEM-EDS Cluster Analysis", className="h4 mb-3"),
-                html.Div([
-                    html.P("Scanning Electron Microscopy with Energy Dispersive X-ray Spectroscopy",
-                          className="text-muted mb-3"),
-                    dbc.Row([
-                        dbc.Col([
-                            html.Div([
-                                html.P("Spectra Analyzed", className="small mb-1 text-muted"),
-                                html.H3(f"{sem_data['clustering']['n_spectra_used']}/{sem_data['clustering']['n_spectra_collected']}",
-                                       className="h5 mb-0")
-                            ], className="bg-light rounded p-3")
-                        ], md=3),
-                        dbc.Col([
-                            html.Div([
-                                html.P("Clusters Found", className="small mb-1 text-muted"),
-                                html.H3(str(sem_data['clustering']['n_clusters']),
-                                       className="h5 mb-0")
-                            ], className="bg-light rounded p-3")
-                        ], md=3),
-                        dbc.Col([
-                            html.Div([
-                                html.P("Silhouette Score", className="small mb-1 text-muted"),
-                                html.H3(f"{sem_data['clustering']['silhouette_score']:.3f}",
-                                       className="h5 mb-0")
-                            ], className="bg-light rounded p-3")
-                        ], md=3),
-                        dbc.Col([
-                            html.Div([
-                                html.P("Method", className="small mb-1 text-muted"),
-                                html.H3(sem_data['clustering']['method'].upper(),
-                                       className="h5 mb-0")
-                            ], className="bg-light rounded p-3")
-                        ], md=3)
-                    ])
-                ]) if sem_data else create_sem_not_available_alert()
-            ])
-        ], className="shadow-sm mb-4"),
+        # # SEM-EDS Analysis Section (all subsections always visible)
+        # # SEM Analysis Header
+        # dbc.Card([
+        #     dbc.CardBody([
+        #         html.H2("🔬 SEM-EDS Cluster Analysis", className="h4 mb-3"),
+        #         html.Div([
+        #             html.P("Scanning Electron Microscopy with Energy Dispersive X-ray Spectroscopy",
+        #                   className="text-muted mb-3"),
+        #             dbc.Row([
+        #                 dbc.Col([
+        #                     html.Div([
+        #                         html.P("Spectra Analyzed", className="small mb-1 text-muted"),
+        #                         html.H3(f"{sem_data['clustering']['n_spectra_used']}/{sem_data['clustering']['n_spectra_collected']}",
+        #                                className="h5 mb-0")
+        #                     ], className="bg-light rounded p-3")
+        #                 ], md=3),
+        #                 dbc.Col([
+        #                     html.Div([
+        #                         html.P("Clusters Found", className="small mb-1 text-muted"),
+        #                         html.H3(str(sem_data['clustering']['n_clusters']),
+        #                                className="h5 mb-0")
+        #                     ], className="bg-light rounded p-3")
+        #                 ], md=3),
+        #                 dbc.Col([
+        #                     html.Div([
+        #                         html.P("Silhouette Score", className="small mb-1 text-muted"),
+        #                         html.H3(f"{sem_data['clustering']['silhouette_score']:.3f}",
+        #                                className="h5 mb-0")
+        #                     ], className="bg-light rounded p-3")
+        #                 ], md=3),
+        #                 dbc.Col([
+        #                     html.Div([
+        #                         html.P("Method", className="small mb-1 text-muted"),
+        #                         html.H3(sem_data['clustering']['method'].upper(),
+        #                                className="h5 mb-0")
+        #                     ], className="bg-light rounded p-3")
+        #                 ], md=3)
+        #             ])
+        #         ]) if sem_data else create_sem_not_available_alert()
+        #     ])
+        # ], className="shadow-sm mb-4"),
         
-        # Cluster Comparison Chart
-        dbc.Card([
-            dbc.CardBody([
-                html.H2("Element Distribution by Cluster", className="h4 mb-4"),
-                html.Div([
-                    dcc.Graph(figure=create_cluster_comparison_chart(sem_data, sample_data),
-                             config={'displayModeBar': False})
-                ]) if sem_data else create_sem_not_available_alert()
-            ])
-        ], className="shadow-sm mb-4"),
+        # # Cluster Comparison Chart
+        # dbc.Card([
+        #     dbc.CardBody([
+        #         html.H2("Element Distribution by Cluster", className="h4 mb-4"),
+        #         html.Div([
+        #             dcc.Graph(figure=create_cluster_comparison_chart(sem_data, sample_data),
+        #                      config={'displayModeBar': False})
+        #         ]) if sem_data else create_sem_not_available_alert()
+        #     ])
+        # ], className="shadow-sm mb-4"),
         
-        # Target vs Actual Comparison
-        dbc.Card([
-            dbc.CardBody([
-                html.H2("Target vs Measured Composition (Cluster 0)", className="h4 mb-4"),
-                html.Div([
-                    dbc.Table([
-                        html.Thead([
-                            html.Tr([
-                                html.Th("Element"),
-                                html.Th("Target (at%)", className="text-end"),
-                                html.Th("Measured (at%)", className="text-end"),
-                                html.Th("Difference", className="text-end"),
-                                html.Th("Rel. Diff", className="text-end")
-                            ])
-                        ]),
-                        html.Tbody([
-                            html.Tr([
-                                html.Td(comp['Element'], className="fw-semibold"),
-                                html.Td(f"{comp['Target_at%']:.2f}", className="font-monospace text-end"),
-                                html.Td(f"{comp['Cluster_0_at%']:.2f}", className="font-monospace text-end"),
-                                html.Td(
-                                    f"{'+' if comp['Difference'] > 0 else ''}{comp['Difference']:.2f}",
-                                    className="font-monospace text-end"
-                                ),
-                                html.Td(
-                                    f"{'+' if comp['Rel_Diff_%'] > 0 else ''}{comp['Rel_Diff_%']:.1f}%",
-                                    className=f"fw-semibold text-end {'text-success' if abs(comp['Rel_Diff_%']) < 10 else 'text-warning' if abs(comp['Rel_Diff_%']) < 25 else 'text-danger'}"
-                                )
-                            ])
-                            for comp in sem_data.get('target_comparison', [])
-                        ])
-                    ], bordered=True, hover=True, responsive=True),
-                    dbc.Alert([
-                        html.Strong("Note: "),
-                        f"Cluster 0 represents the primary NASICON phase with {sem_data['clusters'][0]['n_points']} measurements. ",
-                        "Green values indicate good agreement (±10%), orange indicates acceptable (±25%)."
-                    ], color="info", className="mt-3")
-                ]) if sem_data and sem_data.get('target_comparison') else create_sem_not_available_alert()
-            ])
-        ], className="shadow-sm mb-4"),
+        # # Target vs Actual Comparison
+        # dbc.Card([
+        #     dbc.CardBody([
+        #         html.H2("Target vs Measured Composition (Cluster 0)", className="h4 mb-4"),
+        #         html.Div([
+        #             dbc.Table([
+        #                 html.Thead([
+        #                     html.Tr([
+        #                         html.Th("Element"),
+        #                         html.Th("Target (at%)", className="text-end"),
+        #                         html.Th("Measured (at%)", className="text-end"),
+        #                         html.Th("Difference", className="text-end"),
+        #                         html.Th("Rel. Diff", className="text-end")
+        #                     ])
+        #                 ]),
+        #                 html.Tbody([
+        #                     html.Tr([
+        #                         html.Td(comp['Element'], className="fw-semibold"),
+        #                         html.Td(f"{comp['Target_at%']:.2f}", className="font-monospace text-end"),
+        #                         html.Td(f"{comp['Cluster_0_at%']:.2f}", className="font-monospace text-end"),
+        #                         html.Td(
+        #                             f"{'+' if comp['Difference'] > 0 else ''}{comp['Difference']:.2f}",
+        #                             className="font-monospace text-end"
+        #                         ),
+        #                         html.Td(
+        #                             f"{'+' if comp['Rel_Diff_%'] > 0 else ''}{comp['Rel_Diff_%']:.1f}%",
+        #                             className=f"fw-semibold text-end {'text-success' if abs(comp['Rel_Diff_%']) < 10 else 'text-warning' if abs(comp['Rel_Diff_%']) < 25 else 'text-danger'}"
+        #                         )
+        #                     ])
+        #                     for comp in sem_data.get('target_comparison', [])
+        #                 ])
+        #             ], bordered=True, hover=True, responsive=True),
+        #             dbc.Alert([
+        #                 html.Strong("Note: "),
+        #                 f"Cluster 0 represents the primary NASICON phase with {sem_data['clusters'][0]['n_points']} measurements. ",
+        #                 "Green values indicate good agreement (±10%), orange indicates acceptable (±25%)."
+        #             ], color="info", className="mt-3")
+        #         ]) if sem_data and sem_data.get('target_comparison') else create_sem_not_available_alert()
+        #     ])
+        # ], className="shadow-sm mb-4"),
         
-        # SEM Composition Heatmap
-        dbc.Card([
-            dbc.CardBody([
-                html.H2("Composition Heatmap", className="h4 mb-4"),
-                html.Div([
-                    dcc.Graph(figure=create_composition_heatmap(sem_data),
-                             config={'displayModeBar': False}),
-                    html.P("Heatmap visualization of elemental composition for each cluster. Warmer colors indicate higher concentrations.",
-                          className="small text-muted mt-2 text-center")
-                ]) if sem_data else create_sem_not_available_alert()
-            ])
-        ], className="shadow-sm mb-4"),
+        # # SEM Composition Heatmap
+        # dbc.Card([
+        #     dbc.CardBody([
+        #         html.H2("Composition Heatmap", className="h4 mb-4"),
+        #         html.Div([
+        #             dcc.Graph(figure=create_composition_heatmap(sem_data),
+        #                      config={'displayModeBar': False}),
+        #             html.P("Heatmap visualization of elemental composition for each cluster. Warmer colors indicate higher concentrations.",
+        #                   className="small text-muted mt-2 text-center")
+        #         ]) if sem_data else create_sem_not_available_alert()
+        #     ])
+        # ], className="shadow-sm mb-4"),
         
-        # SEM Spectra Distribution
-        dbc.Card([
-            dbc.CardBody([
-                html.H2("Spectra Distribution", className="h4 mb-4"),
-                html.Div([
-                    dcc.Graph(figure=create_variability_chart(sem_data),
-                             config={'displayModeBar': False}),
-                    html.P("Distribution of spectra across clusters, showing measurement coverage.",
-                          className="small text-muted mt-2 text-center")
-                ]) if sem_data else create_sem_not_available_alert()
-            ])
-        ], className="shadow-sm mb-4"),
+        # # SEM Spectra Distribution
+        # dbc.Card([
+        #     dbc.CardBody([
+        #         html.H2("Spectra Distribution", className="h4 mb-4"),
+        #         html.Div([
+        #             dcc.Graph(figure=create_variability_chart(sem_data),
+        #                      config={'displayModeBar': False}),
+        #             html.P("Distribution of spectra across clusters, showing measurement coverage.",
+        #                   className="small text-muted mt-2 text-center")
+        #         ]) if sem_data else create_sem_not_available_alert()
+        #     ])
+        # ], className="shadow-sm mb-4"),
         
         # Footer message
         html.Div([
