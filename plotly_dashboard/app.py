@@ -34,7 +34,7 @@ except Exception as e:
 
 # Initialize the Dash app with Bootstrap theme
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-app.title = "Berkeley DOE A-Lab"
+app.title = "A-Lab (Ceder Group)\nBerkeley"
 
 # Color palettes (matching Next.js version)
 ELEMENT_COLORS = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#FFA07A', '#98D8C8', 
