@@ -714,15 +714,15 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                 html.H2("Sample Information", className="h4 mb-4"),
                 dbc.Row([
                     dbc.Col([
-                        html.P("Sample Name", className="small text-muted mb-1"),
-                        html.P(sample_data['sample_info']['name'], className="h5 fw-semibold")
+                        html.P("Sample ID", className="small text-muted mb-1"),
+                        html.P(sample_data['sample_info']['id'], className="h5 fw-semibold")
                     ], md=6),
                     dbc.Col([
                         html.P("Sample ID", className="small text-muted mb-1"),
                         html.P(sample_data['sample_info']['id'], className="h6 font-monospace")
                     ], md=6),
                     dbc.Col([
-                        html.P("Target Formula", className="small text-muted mb-1"),
+                        html.P("Global Formula", className="small text-muted mb-1"),
                         html.P(sample_data['sample_info']['target_formula'], 
                                className="h5 font-monospace text-break")
                     ], md=12, className="mt-3")
@@ -778,17 +778,16 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
             ])
         ], className="shadow-sm mb-4"),
         
-        # Available Precursors
+        # Precursors (Precursors used in Experiment)
         dbc.Card([
             dbc.CardBody([
-                html.H2("Available Precursors", className="h4 mb-4"),
+                html.H2("Precursors", className="h4 mb-4"),
                 dbc.Table([
                     html.Thead([
                         html.Tr([
                             html.Th("Powder"),
                             html.Th("Target (g)", className="text-end"),
                             html.Th("Actual (g)", className="text-end"),
-                            html.Th("Doses", className="text-end"),
                             html.Th("Accuracy", className="text-end")
                         ])
                     ]),
@@ -797,7 +796,6 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                             html.Td(p['name'], className="fw-semibold"),
                             html.Td(f"{p['target_mass']:.5f}", className="font-monospace text-end"),
                             html.Td(f"{p['actual_mass']:.5f}", className="font-monospace text-end"),
-                            html.Td(str(p['num_doses']), className="text-end"),
                             html.Td(
                                 f"{p['accuracy']:.2f}%",
                                 className=f"fw-semibold text-end {'text-success' if 99 <= p['accuracy'] <= 105 else 'text-warning'}"
@@ -810,8 +808,6 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                                    className="font-monospace text-end fw-bold"),
                             html.Td(f"{sample_data['powder_totals']['actual_mass_g']:.5f}", 
                                    className="font-monospace text-end fw-bold"),
-                            html.Td(str(sum(p['num_doses'] for p in sample_data['precursors'])), 
-                                   className="text-end fw-bold"),
                             html.Td(
                                 f"{(sample_data['powder_totals']['actual_mass_g'] / sample_data['powder_totals']['target_mass_g'] * 100):.2f}%",
                                 className="text-success text-end fw-bold"
@@ -838,6 +834,39 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
              ])
          ], className="shadow-sm mb-4") if False else None,  # Disabled for now
         
+        # Powder Composition Chart
+        dbc.Card([
+            dbc.CardBody([
+                html.H2("Measured Powder Composition by Mass", className="h4 mb-4"),
+                dbc.Row([
+                    dbc.Col([
+                        dcc.Graph(figure=create_powder_pie_chart(sample_data), 
+                                 config={'displayModeBar': False})
+                    ], lg=6),
+                    dbc.Col([
+                        html.Div([
+                            html.Div([
+                                html.Div([
+                                    html.Div(style={
+                                        'width': '12px',
+                                        'height': '12px',
+                                        'backgroundColor': POWDER_COLORS[idx % len(POWDER_COLORS)],
+                                        'borderRadius': '4px',
+                                        'display': 'inline-block',
+                                        'marginRight': '8px'
+                                    }),
+                                    html.Span(p['name'], className="small")
+                                ], style={'display': 'flex', 'alignItems': 'center'}, 
+                                   className="mb-2")
+                                for idx, p in enumerate(sample_data['precursors'])
+                            ], className="row row-cols-2")
+                        ], style={'display': 'flex', 'alignItems': 'center', 'height': '100%'})
+                    ], lg=6)
+                ])
+            ])
+        ], className="shadow-sm mb-4"),
+
+
         # Heating Profile
         dbc.Card([
             dbc.CardBody([
@@ -884,38 +913,6 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                     dcc.Graph(figure=create_temperature_chart(raw_data), 
                              config={'displayModeBar': False}) if create_temperature_chart(raw_data) else 
                     html.P("Temperature data not available", className="text-muted")
-                ])
-            ])
-        ], className="shadow-sm mb-4"),
-        
-        # Powder Composition Chart
-        dbc.Card([
-            dbc.CardBody([
-                html.H2("Powder Composition by Mass", className="h4 mb-4"),
-                dbc.Row([
-                    dbc.Col([
-                        dcc.Graph(figure=create_powder_pie_chart(sample_data), 
-                                 config={'displayModeBar': False})
-                    ], lg=6),
-                    dbc.Col([
-                        html.Div([
-                            html.Div([
-                                html.Div([
-                                    html.Div(style={
-                                        'width': '12px',
-                                        'height': '12px',
-                                        'backgroundColor': POWDER_COLORS[idx % len(POWDER_COLORS)],
-                                        'borderRadius': '4px',
-                                        'display': 'inline-block',
-                                        'marginRight': '8px'
-                                    }),
-                                    html.Span(p['name'], className="small")
-                                ], style={'display': 'flex', 'alignItems': 'center'}, 
-                                   className="mb-2")
-                                for idx, p in enumerate(sample_data['precursors'])
-                            ], className="row row-cols-2")
-                        ], style={'display': 'flex', 'alignItems': 'center', 'height': '100%'})
-                    ], lg=6)
                 ])
             ])
         ], className="shadow-sm mb-4"),
