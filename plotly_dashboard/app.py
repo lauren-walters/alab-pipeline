@@ -34,7 +34,7 @@ except Exception as e:
 
 # Initialize the Dash app with Bootstrap theme
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-app.title = "A-Lab (Ceder Group)\nBerkeley"
+app.title = "A-Lab Sample Portal"
 
 # Color palettes (matching Next.js version)
 ELEMENT_COLORS = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#FFA07A', '#98D8C8', 
@@ -192,29 +192,61 @@ default_experiment = experiment_list[0]['name'] if experiment_list else 'NSC_249
 sample_data, raw_data, sem_data = load_experiment_data(default_experiment)
 
 
+# A simple mapping dictionary for common elements
+ELEMENT_MAP = {
+    'H': 'Hydrogen', 'Li': 'Lithium', 'Be': 'Beryllium', 'B': 'Boron', 'C': 'Carbon',
+    'N': 'Nitrogen', 'O': 'Oxygen', 'F': 'Fluorine', 'Na': 'Sodium', 'Mg': 'Magnesium',
+    'Al': 'Aluminum', 'Si': 'Silicon', 'P': 'Phosphorus', 'S': 'Sulfur', 'Cl': 'Chlorine',
+    'K': 'Potassium', 'Ca': 'Calcium', 'Ti': 'Titanium', 'V': 'Vanadium', 'Cr': 'Chromium',
+    'Mn': 'Manganese', 'Fe': 'Iron', 'Co': 'Cobalt', 'Ni': 'Nickel', 'Cu': 'Copper',
+    'Zn': 'Zinc', 'Ga': 'Gallium', 'Ge': 'Germanium', 'As': 'Arsenic', 'Se': 'Selenium',
+    'Zr': 'Zirconium', 'Nb': 'Niobium', 'Mo': 'Molybdenum', 'Sn': 'Tin', 'Sb': 'Antimony',
+    'Te': 'Tellurium', 'Hf': 'Hafnium', 'Ta': 'Tantalum', 'W': 'Tungsten', 'Bi': 'Bismuth',
+    'La': 'Lanthanum', 'Y': 'Yttrium'
+}
+
 def create_element_pie_chart(sample_data):
-    """Create pie chart for element composition"""
+    """Pie chart with full element names on hover and massive legend"""
     elements = sample_data['target_composition']['elements']
-    percentages = sample_data['target_composition']['percentages']
     
     sorted_elements = sorted(elements.items(), key=lambda x: x[1], reverse=True)
-    labels = [el for el, _ in sorted_elements]
+    symbols = [el for el, _ in sorted_elements]
     values = [amt for _, amt in sorted_elements]
-    colors = ELEMENT_COLORS[:len(labels)]
+    
+    # Generate the list of full names based on the symbols
+    full_names = [ELEMENT_MAP.get(s, s) for s in symbols]
+    
+    colors = ELEMENT_COLORS[:len(symbols)]
     
     fig = go.Figure(data=[go.Pie(
-        labels=labels,
+        labels=symbols,
         values=values,
+        # 'customdata' stores extra info we want to use in the hover box
+        customdata=full_names,
         marker=dict(colors=colors),
-        hovertemplate='<b>%{label}</b><br>%{value:.3f} atoms<br>%{percent}<extra></extra>',
-        texttemplate='%{label}: %{percent}'
+        # Use %{customdata} to pull the full name into the hover label
+        hovertemplate='<b>%{customdata}</b><br>%{percent}<extra></extra>',
+        textfont=dict(size=20), 
+        texttemplate='%{label}<br>%{percent}',
+        domain={'x': [0, 0.7]} 
     )])
     
     fig.update_layout(
-        height=400,
-        margin=dict(t=30, b=0, l=0, r=0),
+        height=550,
+        margin=dict(t=10, b=10, l=10, r=10),
         paper_bgcolor='rgba(0,0,0,0)',
-        plot_bgcolor='rgba(0,0,0,0)'
+        plot_bgcolor='rgba(0,0,0,0)',
+        showlegend=True,
+        legend=dict(
+            font=dict(size=20),
+            title=None,
+            orientation="v",
+            yanchor="middle",
+            y=0.5,
+            xanchor="left",
+            x=0.75,
+            traceorder="normal"
+        )
     )
     
     return fig
@@ -245,7 +277,7 @@ def create_powder_pie_chart(sample_data):
 
 
 def create_temperature_chart(raw_data):
-    """Create temperature profile chart"""
+    """Create temperature profile chart with enlarged fonts"""
     metadata = raw_data.get('metadata', {})
     heating_results = metadata.get('heating_results', {})
     
@@ -272,14 +304,23 @@ def create_temperature_chart(raw_data):
         hovermode='x unified',
         paper_bgcolor='rgba(0,0,0,0)',
         plot_bgcolor='rgba(250,250,250,1)',
-        margin=dict(t=30, b=50, l=50, r=30)
+        # Matching margins to the XRD chart (l=70, b=60)
+        margin=dict(t=30, b=60, l=70, r=30),
+        xaxis=dict(
+            titlefont=dict(size=20, color='black'),
+            tickfont=dict(size=16, color='black')
+        ),
+        yaxis=dict(
+            titlefont=dict(size=20, color='black'),
+            tickfont=dict(size=16, color='black')
+        )
     )
     
     return fig
 
 
 def create_xrd_chart(raw_data):
-    """Create XRD pattern chart"""
+    """Create XRD pattern chart with enlarged fonts"""
     metadata = raw_data.get('metadata', {})
     diffraction_results = metadata.get('diffraction_results', {})
     
@@ -307,7 +348,16 @@ def create_xrd_chart(raw_data):
         hovermode='x unified',
         paper_bgcolor='rgba(0,0,0,0)',
         plot_bgcolor='rgba(250,250,250,1)',
-        margin=dict(t=30, b=50, l=50, r=30)
+        # Increased bottom (b) and left (l) margins to accommodate larger fonts
+        margin=dict(t=30, b=60, l=70, r=30),
+        xaxis=dict(
+            titlefont=dict(size=20, color='black'),
+            tickfont=dict(size=16, color='black')
+        ),
+        yaxis=dict(
+            titlefont=dict(size=20, color='black'),
+            tickfont=dict(size=16, color='black')
+        )
     )
     
     return fig
@@ -355,19 +405,19 @@ def create_xrd_analysis_section(raw_data):
     rp = xrd_analysis.get('rp', 0)
     
     # Determine quality badge color based on Rwp
-    if rwp < 15:
+    if rwp < 5:
         quality_color = "success"
         quality_text = "Excellent"
-    elif rwp < 25:
+    elif rwp < 35:
         quality_color = "warning"
-        quality_text = "Good"
+        quality_text = "Marginal - Consult Expert"
     else:
         quality_color = "danger"
-        quality_text = "Poor"
+        quality_text = "Poor - Consult Expert"
     
     return dbc.Card([
         dbc.CardBody([
-            html.H2("🔬 XRD Phase Analysis (DARA)", className="h4 mb-4"),
+            html.H2("🔬 XRD Phase Auto-Analysis by DARA", className="h4 mb-4"),
             
             # Quality metrics row
             dbc.Row([
@@ -441,7 +491,7 @@ def create_xrd_analysis_section(raw_data):
                 html.Strong("About Phase Analysis: "),
                 "Rietveld refinement identifies crystalline phases and their proportions. ",
                 f"Rwp (weighted profile R-factor) measures fit quality - lower is better. ",
-                f"Analysis performed with DARA/BGMN."
+                f"Analysis performed automatically with DARA/BGMN. WARNING! No results here are suggestions only."
             ], color="info", className="mt-3 small")
         ])
     ], className="shadow-sm mb-4")
@@ -653,7 +703,7 @@ def create_variability_chart(sem_data):
 app.layout = dbc.Container([
     # Password Modal (only shown if auth is enabled)
     dbc.Modal([
-        dbc.ModalHeader(dbc.ModalTitle("Berkeley DOE A-Lab")),
+        dbc.ModalHeader(dbc.ModalTitle("A-Lab Reaction Genome Sample Portal")),
         dbc.ModalBody([
             html.P("Enter password to access data", className="text-muted mb-3"),
             dbc.Input(id="password-input", type="password", placeholder="Enter password"),
@@ -672,8 +722,18 @@ app.layout = dbc.Container([
         # Header with experiment selector
         dbc.Row([
             dbc.Col([
-                html.H1("Berkeley DOE A-Lab", className="display-4 fw-bold text-dark"),
-                html.P("Material Discovery & Analysis Platform", className="lead text-muted")
+                html.H1("A-Lab Reaction Genome Sample Portal", className="display-4 fw-bold text-dark"),
+                html.P([
+                    "Material Discovery & Analysis Platform by the ",
+                    html.A(
+                        "Ceder Group at Berkeley",
+                        href="https://ceder.berkeley.edu/",
+                        target="_blank",
+                        className="text-primary text-decoration-none fw-semibold",
+                        style={"borderBottom": "1px dotted #0d6efd"}
+                    ),
+                    "."
+                ], className="lead text-muted")
             ], md=6, className="py-4"),
             dbc.Col([
                 html.Div([
@@ -708,27 +768,29 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
         ])
     
     return html.Div([
-        # Sample Information Card
+        # Sample Identification Information Card
         dbc.Card([
             dbc.CardBody([
-                html.H2("Sample Information", className="h4 mb-4"),
+                html.H2("Sample Identification Information", className="h4 mb-4"),
                 dbc.Row([
                     dbc.Col([
-                        html.P("Sample ID", className="small text-muted mb-1"),
-                        html.P(sample_data['sample_info']['id'], className="h5 fw-semibold")
+                        html.P("Sample Name", className="small text-muted mb-1"),
+                        # We use a dash or "TBD" to show the spot is reserved
+                        html.P("RG—", className="h5 fw-semibold text-muted") 
                     ], md=6),
                     dbc.Col([
-                        html.P("Sample ID", className="small text-muted mb-1"),
+                        html.P("Sample ID (For API Access)", className="small text-muted mb-1"),
                         html.P(sample_data['sample_info']['id'], className="h6 font-monospace")
                     ], md=6),
                     dbc.Col([
-                        html.P("Global Formula", className="small text-muted mb-1"),
+                        html.P("Global, Target Sample Formula", className="small text-muted mb-1"),
                         html.P(sample_data['sample_info']['target_formula'], 
                                className="h5 font-monospace text-break")
                     ], md=12, className="mt-3")
                 ])
             ])
         ], className="shadow-sm mb-4"),
+
         
         # Target Element Composition
         dbc.Card([
@@ -736,12 +798,12 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                 html.H2("Target Element Composition", className="h4 mb-4"),
                 dbc.Row([
                     dbc.Col([
-                        html.H3("Elemental Distribution", className="h6 text-center mb-3"),
+                        # "Elemental Distribution" title removed from here
                         dcc.Graph(figure=create_element_pie_chart(sample_data), 
                                  config={'displayModeBar': False})
                     ], lg=6),
                     dbc.Col([
-                        html.H3("Atomic Composition", className="h6 mb-3"),
+                        html.H3("Atomic Composition (%)", className="h6 mb-3"),
                         html.Div([
                             dbc.Card([
                                 dbc.CardBody([
@@ -756,16 +818,15 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                                                     'display': 'inline-block',
                                                     'marginRight': '12px'
                                                 }),
-                                                html.Span(el, className="fw-semibold")
+                                                html.Span(el, className="fw-semibold h5 mb-0")
                                             ], style={'display': 'flex', 'alignItems': 'center'})
                                         ], width='auto'),
+                                        # Consolidated percentage view - set to text-dark (black)
                                         dbc.Col([
-                                            html.P(f"{amt:.3f} atoms", 
-                                                  className="small font-monospace mb-0 text-end"),
-                                            html.P(f"{sample_data['target_composition']['percentages'][el]:.2f}%", 
-                                                  className="small text-muted mb-0 text-end")
+                                            html.H5(f"{sample_data['target_composition']['percentages'][el]:.2f}%", 
+                                                   className="mb-0 text-end font-monospace text-dark")
                                         ])
-                                    ])
+                                    ], className="align-items-center") 
                                 ], className="py-2")
                             ], className="mb-2")
                             for idx, (el, amt) in enumerate(
@@ -777,6 +838,7 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                 ])
             ])
         ], className="shadow-sm mb-4"),
+
         
         # Precursors (Precursors used in Experiment)
         dbc.Card([
@@ -834,37 +896,37 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
              ])
          ], className="shadow-sm mb-4") if False else None,  # Disabled for now
         
-        # Powder Composition Chart
-        dbc.Card([
-            dbc.CardBody([
-                html.H2("Measured Powder Composition by Mass", className="h4 mb-4"),
-                dbc.Row([
-                    dbc.Col([
-                        dcc.Graph(figure=create_powder_pie_chart(sample_data), 
-                                 config={'displayModeBar': False})
-                    ], lg=6),
-                    dbc.Col([
-                        html.Div([
-                            html.Div([
-                                html.Div([
-                                    html.Div(style={
-                                        'width': '12px',
-                                        'height': '12px',
-                                        'backgroundColor': POWDER_COLORS[idx % len(POWDER_COLORS)],
-                                        'borderRadius': '4px',
-                                        'display': 'inline-block',
-                                        'marginRight': '8px'
-                                    }),
-                                    html.Span(p['name'], className="small")
-                                ], style={'display': 'flex', 'alignItems': 'center'}, 
-                                   className="mb-2")
-                                for idx, p in enumerate(sample_data['precursors'])
-                            ], className="row row-cols-2")
-                        ], style={'display': 'flex', 'alignItems': 'center', 'height': '100%'})
-                    ], lg=6)
-                ])
-            ])
-        ], className="shadow-sm mb-4"),
+        # Powder Composition Chart - COMMENTED OUT TO HIDE
+        # dbc.Card([
+        #     dbc.CardBody([
+        #         html.H2("Measured Powder Composition by Mass", className="h4 mb-4"),
+        #         dbc.Row([
+        #             dbc.Col([
+        #                 dcc.Graph(figure=create_powder_pie_chart(sample_data), 
+        #                          config={'displayModeBar': False})
+        #             ], lg=6),
+        #             dbc.Col([
+        #                 html.Div([
+        #                     html.Div([
+        #                         html.Div([
+        #                             html.Div(style={
+        #                                 'width': '12px',
+        #                                 'height': '12px',
+        #                                 'backgroundColor': POWDER_COLORS[idx % len(POWDER_COLORS)],
+        #                                 'borderRadius': '4px',
+        #                                 'display': 'inline-block',
+        #                                 'marginRight': '8px'
+        #                             }),
+        #                             html.Span(p['name'], className="small")
+        #                         ], style={'display': 'flex', 'alignItems': 'center'}, 
+        #                            className="mb-2")
+        #                         for idx, p in enumerate(sample_data['precursors'])
+        #                     ], className="row row-cols-2")
+        #                 ], style={'display': 'flex', 'alignItems': 'center', 'height': '100%'})
+        #             ], lg=6)
+        #         ])
+        #     ])
+        # ], className="shadow-sm mb-4"),  <-- Make sure the comma at the end is also commented out!
 
 
         # Heating Profile
@@ -872,6 +934,7 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
             dbc.CardBody([
                 html.H2("🔥 Heating Profile", className="h4 mb-4"),
                 html.Div([
+                    # ROW 1: Target Temp, Duration, Max Temp
                     dbc.Row([
                         dbc.Col([
                             dbc.Card([
@@ -881,7 +944,7 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                                            className="h4 mb-0 text-danger")
                                 ])
                             ], className="bg-light border-0")
-                        ], md=3),
+                        ], md=4),
                         dbc.Col([
                             dbc.Card([
                                 dbc.CardBody([
@@ -890,16 +953,7 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                                            className="h4 mb-0 text-primary")
                                 ])
                             ], className="bg-light border-0")
-                        ], md=3),
-                        dbc.Col([
-                            dbc.Card([
-                                dbc.CardBody([
-                                    html.P("Data Points", className="small text-muted mb-1"),
-                                    html.H3(str(len(raw_data['metadata']['heating_results'].get('temperature_log', {}).get('time_minutes', []))),
-                                           className="h4 mb-0 text-success")
-                                ])
-                            ], className="bg-light border-0")
-                        ], md=3),
+                        ], md=4),
                         dbc.Col([
                             dbc.Card([
                                 dbc.CardBody([
@@ -908,8 +962,42 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                                            className="h4 mb-0 text-warning")
                                 ])
                             ], className="bg-light border-0")
-                        ], md=3)
+                        ], md=4)
+                    ], className="mb-3"),
+
+                    # ROW 2: Atmosphere, Furnace ID, Data Points
+                    dbc.Row([
+                        dbc.Col([
+                            dbc.Card([
+                                dbc.CardBody([
+                                    html.P("Atmosphere", className="small text-muted mb-1"),
+                                    # Placeholder set to dash
+                                    html.H3("—", className="h4 mb-0 text-info")
+                                ])
+                            ], className="bg-light border-0")
+                        ], md=4),
+                        dbc.Col([
+                            dbc.Card([
+                                dbc.CardBody([
+                                    html.P("Furnace ID", className="small text-muted mb-1"),
+                                    # Placeholder set to dash
+                                    html.H3("—", className="h4 mb-0 text-dark")
+                                ])
+                            ], className="bg-light border-0")
+                        ], md=4),
+                        dbc.Col([
+                            dbc.Card([
+                                dbc.CardBody([
+                                    html.P("Data Points", className="small text-muted mb-1"),
+                                    # This still pulls dynamically from your data
+                                    html.H3(str(len(raw_data['metadata']['heating_results'].get('temperature_log', {}).get('time_minutes', []))),
+                                           className="h4 mb-0 text-success")
+                                ])
+                            ], className="bg-light border-0")
+                        ], md=4)
                     ], className="mb-4"),
+
+                    # The Graph section remains at the bottom
                     dcc.Graph(figure=create_temperature_chart(raw_data), 
                              config={'displayModeBar': False}) if create_temperature_chart(raw_data) else 
                     html.P("Temperature data not available", className="text-muted")
@@ -926,9 +1014,8 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                             dbc.Col([
                                 dbc.Card([
                                     dbc.CardBody([
-                                        html.P("Sample ID", className="small text-muted mb-1"),
-                                        html.P(raw_data['metadata']['diffraction_results']['sampleid_in_aeris'].split('_')[0],
-                                              className="h6 font-monospace mb-0")
+                                        html.P("Sample Name", className="small text-muted mb-1"),
+                                        html.P("—", className="h6 font-monospace mb-0") # Replaced raw_data lookup with a dash placeholder
                                     ])
                                 ], className="bg-light border-0")
                             ], md=3),
@@ -972,6 +1059,8 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
                     html.P("XRD data not available for this sample", className="text-muted text-center py-4")
             ])
         ], className="shadow-sm mb-4"),
+
+
         
         # XRD Phase Analysis (DARA) - only shown if analysis results available
         create_xrd_analysis_section(raw_data) if raw_data.get('metadata', {}).get('xrd_analysis') else None,
@@ -1096,6 +1185,91 @@ def generate_experiment_content(sample_data, raw_data, sem_data):
         #     ])
         # ], className="shadow-sm mb-4"),
         
+
+                # Methods
+        dbc.Card([
+            dbc.CardBody([
+                html.H2("🛠 Methods", className="h4 mb-4"),
+                html.P([
+                    "Samples were synthesized in A-Lab. All methods below were executed automatically (without human intervention).",
+                    html.Br(), html.Br(),
+                    html.Strong("Abbreviated Process:"),
+                ], className="mb-2"),
+                
+                # Standardized text size for the methods list
+                html.Ol([
+                    html.Li("Powders were weighed into a plastic vial."),
+                    html.Li("Ethanol added; wet spin mixing at 2000rpm."),
+                    html.Li("Slurry pipetted to crucible and dried at 80°C."),
+                    html.Li("Furnace heating at specified profile."),
+                    html.Li("Powdered sample collection."),
+                    html.Li("PXRD preparation. Optional additional SEM/EDS characterization."),
+                ], className="mb-4"), # Removed 'small' and 'text-muted'
+
+                html.Hr(),
+
+                html.Div([
+                    html.H3("📚 Reference Papers & Citations", className="h6 fw-bold mb-3"),
+                    
+                    # Paper 1: A-Lab Nature 2023
+                    dbc.Row([
+                        dbc.Col(dbc.Badge("A-Lab", color="primary", className="w-100"), width=3),
+                        dbc.Col([
+                            html.Span("Nathan J. Szymanski, Bernardus Rendy, Yuxing Fei, Rishi E. Kumar, Tanjin He, David Milsted, Matthew J. McDermott, Max Gallant, Ekin Dogus Cubuk, Amil Merchant, Haegyeom Kim, Anubhav Jain, Christopher J. Bartel, Kristin Persson, Yan Zeng, Gerbrand Ceder, ", className="small"),
+                            html.Span("'An autonomous laboratory for the accelerated synthesis of inorganic materials', ", className="fst-italic small"),
+                            html.Span("Nature (2023). ", className="small"),
+                            html.A("View ↗", href="https://doi.org/10.1038/s41586-023-06734-w", target="_blank", className="ms-2 small text-decoration-none")
+                        ], width=9)
+                    ], className="mb-3 align-items-center"),
+
+                    # Paper 2: AlabOS 2024
+                    dbc.Row([
+                        dbc.Col(dbc.Badge("AlabOS / Orchestration", color="info", className="w-100"), width=3),
+                        dbc.Col([
+                            html.Span("Yuxing Fei, Bernardus Rendy, Rishi Kumar, Olympia Dartsi, Hrushikesh P. Sahasrabuddhe, Matthew J. McDermott, Zheren Wang, Nathan J. Szymanski, Lauren N. Walters, David Milsted, Yan Zeng, Anubhav Jain, Gerbrand Ceder, ", className="small"),
+                            html.Span("'AlabOS: a Python-based reconfigurable workflow management framework for autonomous laboratories', ", className="fst-italic small"),
+                            html.Span("Digital Discovery (2024). ", className="small"),
+                            html.A("View ↗", href="https://doi.org/10.1039/D4DD00129J", target="_blank", className="ms-2 small text-decoration-none")
+                        ], width=9)
+                    ], className="mb-3 align-items-center"),
+
+                    # Paper 3: EMSBot 2025
+                    dbc.Row([
+                        dbc.Col(dbc.Badge("EMSBot / SEM-TEM Sample Prep", color="dark", className="w-100"), width=3),
+                        dbc.Col([
+                            html.Span("Yuxing Fei, Rishi Kumar, Matthew J. McDermott, Bernardus Rendy, Zheren Wang, Nathan J. Szymanski, Olympia Dartsi, Yan Zeng, Anubhav Jain, Gerbrand Ceder, ", className="small"),
+                            html.Span("'EMSBot: an autonomous robotic system for SEM and TEM sample preparation of inorganic powders', ", className="fst-italic small"),
+                            html.Span("Digital Discovery (2025). ", className="small"),
+                            html.A("View ↗", href="https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd00116a", target="_blank", className="ms-2 small text-decoration-none")
+                        ], width=9)
+                    ], className="mb-3 align-items-center"),
+
+                    # Paper 4: Dara 2026
+                    dbc.Row([
+                        dbc.Col(dbc.Badge("Dara / Automated XRD Analysis", color="success", className="w-100"), width=3),
+                        dbc.Col([
+                            html.Span("Yuxing Fei, Matthew J. McDermott, Christopher L. Rom, Shilong Wang, Gerbrand Ceder, ", className="small"),
+                            html.Span("'Dara: Automated Multiple-Hypothesis Phase Identification and Refinement from Powder X-ray Diffraction', ", className="fst-italic small"),
+                            html.Span("Chemistry of Materials (2026). ", className="small"),
+                            html.A("View ↗", href="https://doi.org/10.1021/acs.chemmater.5c02820", target="_blank", className="ms-2 small text-decoration-none")
+                        ], width=9)
+                    ], className="mb-3 align-items-center"),
+
+                    # Paper 5: SEM-EDS Analysis 2026
+                    dbc.Row([
+                        dbc.Col(dbc.Badge("Auto SEM-EDS Analysis", color="secondary", className="w-100"), width=3),
+                        dbc.Col([
+                            html.Span("Andrea Giunto, Yuxing Fei, Pragnay Nevatia, Bernardus Rendy, Nathan Szymanski, Gerbrand Ceder, ", className="small"),
+                            html.Span("'Accurate SEM‑EDS Quantification, Automation, and Machine Learning Enable High‑Throughput Compositional Characterization of Powders', ", className="fst-italic small"),
+                            html.Span("Research Square (2026). ", className="small"),
+                            html.A("View ↗", href="https://www.researchsquare.com/article/rs-7837297/v2", target="_blank", className="ms-2 small text-decoration-none")
+                        ], width=9)
+                    ], className="mb-2 align-items-center"),
+
+                ], className="mt-4 p-3 bg-light rounded shadow-sm")
+            ])
+        ], className="shadow-sm mb-4"),
+
         # Footer message
         html.Div([
             dbc.Card([
